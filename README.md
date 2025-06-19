@@ -6,7 +6,7 @@
 
 <https://vault-cme.pages.dev>
 
-<https://i574n.github.io/vault>
+<https://fc1943s.github.io/vault>
 
 <https://ipfs.io/ipns/k51qzi5uqu5dmg05gnqt02fmke0xnobp0psyve0dsgcq0bjso97u1btto2hbfc>
 
@@ -30,7 +30,7 @@
 Clone the repository:
 
 ```powershell
-git clone https://github.com/i574n/vault.git
+git clone https://github.com/fc1943s/vault.git
 ```
 
 Navigate to the directory, initialize dependencies and build the project:
@@ -57,7 +57,7 @@ Documentation
 <td>
 
 - Repository file tree (HTML)  
-<https://i574n.github.io/vault>
+<https://fc1943s.github.io/vault>
 
 </td>
 </tr>
@@ -70,23 +70,23 @@ Recent translations to pt-BR
 </td>
 <td>
 
-<https://i574n.github.io/vault/data/community/netiquette_pt-br.md.html>  
-<https://i574n.github.io/vault/data/community/netiquette_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/community/netiquette_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/community/netiquette_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/economy/만리마속도_pt-br.md.html>  
-<https://i574n.github.io/vault/data/economy/만리마속도_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/economy/만리마속도_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/economy/만리마속도_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/magic/the-book-of-remembering_pt-br.md.html>  
-<https://i574n.github.io/vault/data/magic/the-book-of-remembering_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/magic/the-book-of-remembering_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/magic/the-book-of-remembering_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/spirituality/gvk_pt-br.md.html>  
-<https://i574n.github.io/vault/data/spirituality/gvk_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/spirituality/gvk_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/spirituality/gvk_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/spirituality/ressurection_pt-br.md.html>  
-<https://i574n.github.io/vault/data/spirituality/ressurection_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/spirituality/ressurection_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/spirituality/ressurection_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.md.html>  
-<https://i574n.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.hangul.md.html>
 
 </td>
 </tr>
@@ -99,4 +99,4 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](https://github.com/i
 
 ## License
 
-This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/i574n/vault/blob/main/LICENSE) file for details.
+This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/fc1943s/vault/blob/main/LICENSE) file for details.
