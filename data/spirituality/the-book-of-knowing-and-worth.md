@@ -1,4 +1,3 @@
-<a role="toc_link" id="id11"></a>
 # ALSO BY PAUL SELIG
 
 _I Am the Word_
@@ -6,14 +5,6 @@ _I Am the Word_
 _The Book of Love and Creation_
 
 ---
-
-<a role="toc_link" id="id12"></a>
-![Title Page](./images/00001.jpeg) 
-
----
-
-<a role="toc_link" id="id13"></a>
-![Tarcher Logo](./images/00002.jpeg)
 
 JEREMY P. TARCHER/PENGUIN
 
@@ -25,11 +16,7 @@ Penguin Group (USA) LLC
 
 New York, New York 10014
 
-![Penguin Logo](./images/00003.jpeg)
-
 USA • Canada • UK • Ireland • Australia • New Zealand • India • South Africa • China
-
-[penguin.com](#undefined)
 
 A Penguin Random House Company
 
@@ -61,50 +48,48 @@ Version\_1
 
 ---
 
-<a role="toc_link" id="id14"></a>
 # CONTENTS
 
-[Preface _by Mitch Horowitz_](#undefined#x9781101633731_EPUB)
+Preface _by Mitch Horowitz_
 
-[Introduction](#undefined#x9781101633731_EPUB)
+Introduction
 
-[I](#undefined#x9781101633731_EPUB)
+I
 
-[ONE I KNOW WHO I AM](#undefined#x9781101633731_EPUB)
+ONE I KNOW WHO I AM
 
-[TWO WELCOME](#undefined#x9781101633731_EPUB)
+TWO WELCOME
 
-[THREE RESPONSIBILITY](#undefined#x9781101633731_EPUB)
+THREE RESPONSIBILITY
 
-[FOUR THIS INCARNATION](#undefined#x9781101633731_EPUB)
+FOUR THIS INCARNATION
 
-[II](#undefined#x9781101633731_EPUB)
+II
 
-[FIVE THE PRECIPICE](#undefined#x9781101633731_EPUB)
+FIVE THE PRECIPICE
 
-[SIX WISDOM](#undefined#x9781101633731_EPUB)
+SIX WISDOM
 
-[SEVEN THE DEMONSTRATION OF LOVE](#undefined#x9781101633731_EPUB)
+SEVEN THE DEMONSTRATION OF LOVE
 
-[EIGHT HOW YOU WITNESS](#undefined#x9781101633731_EPUB)
+EIGHT HOW YOU WITNESS
 
-[NINE THE DOORWAY](#undefined#x9781101633731_EPUB)
+NINE THE DOORWAY
 
-[III](#undefined#x9781101633731_EPUB)
+III
 
-[TEN THE KINGDOM](#undefined#x9781101633731_EPUB)
+TEN THE KINGDOM
 
-[ELEVEN TRUTH AND KNOWING](#undefined#x9781101633731_EPUB)
+ELEVEN TRUTH AND KNOWING
 
-[TWELVE THE ROAD BEFORE YOU](#undefined#x9781101633731_EPUB)
+TWELVE THE ROAD BEFORE YOU
 
-[EPILOGUE](#undefined#x9781101633731_EPUB)
+EPILOGUE
 
-[ACKNOWLEDGMENTS](#undefined#x9781101633731_EPUB)
+ACKNOWLEDGMENTS
 
 ---
 
-<a role="toc_link" id="id15"></a>
 # PREFACE
 
 This book is the third and, in some respects, the most significant of the channeled teachings brought through Paul Selig. It is dramatically practical and clarifying—probably the most complete and well-rounded channeled spiritual psychology since the work of Edgar Cayce in the first half of the twentieth century.
@@ -127,14 +112,10 @@ May 31, 2013
 
 ---
 
-<a role="toc_link" id="id16"></a>
-# 
-
 The following are transcripts of channeling sessions that were recorded in New York City between November 22, 2012, and April 11, 2013\. Paul Selig served as the channel. Victoria Nelson was present via telephone from Berkeley, California. Two sessions were conducted in Port Townsend, Washington, when Paul and Victoria were present in the same room during the channeling, and two more were recorded during Paul’s Thursday night group, with Victoria attending by phone.
 
 ---
 
-<a role="toc_link" id="id17"></a>
 # INTRODUCTION
 
 ### Day One
@@ -227,19 +208,17 @@ We thank you for your presence. We will speak to you soon. Good night.
 
 ---
 
-<a role="toc_link" id="id18"></a>
 # I
 
 ---
 
-<a role="toc_link" id="id19"></a>
 # ONE
 
 ## I KNOW WHO I AM
 
 ### Day Two
 
-Why do you worry that there will be no transmission when there has never _not_ been a transmission in all the time we have worked with you?[1](#undefined#footnote-25936-1) You must learn to trust the authors of this text to get their own needs met through this interaction. While we are not impatient with you, we come prepared, and we come prepared to teach the students of our work what they may need to know to learn who they are and what they must do to stand in their worth.
+Why do you worry that there will be no transmission when there has never _not_ been a transmission in all the time we have worked with you? You must learn to trust the authors of this text to get their own needs met through this interaction. While we are not impatient with you, we come prepared, and we come prepared to teach the students of our work what they may need to know to learn who they are and what they must do to stand in their worth.
 
 The lives you live, the lives all of you live, have been predicated by history that is coming to an end. And we say “to an end” in a good way. The lives you have known that you have decided upon and aligned to were created for you to fulfill an experience, and the experience that was fulfilled has brought you to where you stand today; where you stand today in all of your creations, in all you have agreed to, shaken hands with and claimed.
 
@@ -353,7 +332,6 @@ We will thank you both now for this opportunity to teach and we will say good ni
 
 ---
 
-<a role="toc_link" id="id20"></a>
 # TWO
 
 ## WELCOME
@@ -514,7 +492,7 @@ If you say you cannot have something, you cannot have it. If you believe it can 
 
 The belief that you are alone and insignificant is a key thing here. If you know you are not alone and if you know you have significance, what you attend to changes. The disempowerment you have experienced so far on this plane to mechanize yourself in accordance with existing structures has attended to your fear, to your misplacement of your true identity. But the coming days of this text, we will say, will be to walk you forward with our hand in yours attending to yourself as one who may be worthy of the kingdom. “The Kingdom,” we say, will be the title of a future chapter, but you must understand already that that is where this road is taking you.
 
-Paul has a memory from his childhood, where his hand was held by his father’s, and he was taken on a journey through a system where the world of the future was portrayed before him.[2](#undefined#footnote-25936-2) He looked at the world before him in wonder and saw what could be in another time, and those things became real to him because somebody else took the time to create them, to show him what may be so. In some ways we are doing this with the readers of this book. We are taking you each by hand to welcome you to what can be as yourselves as you coexist as a species, as a civilization, who honors the truth of who each of you are.
+Paul has a memory from his childhood, where his hand was held by his father’s, and he was taken on a journey through a system where the world of the future was portrayed before him. He looked at the world before him in wonder and saw what could be in another time, and those things became real to him because somebody else took the time to create them, to show him what may be so. In some ways we are doing this with the readers of this book. We are taking you each by hand to welcome you to what can be as yourselves as you coexist as a species, as a civilization, who honors the truth of who each of you are.
 
 Will this happen in this lifetime? Yes. This is the lifetime where it _can_ happen, as enough of you attend to your worth, to your divinity, and the divinity in all things. The kingdom, we say, is the anchoring of the frequency of the Christ consciousness on this plane of existence. The trials that mankind has faced, without exception, have been the trials that have been born in separation. When you realize you are no longer separate from your true selves, or from the true selves of your fellows, you begin to listen differently and the music that is playing will be heard, will be heard, will be heard.
 
@@ -572,7 +550,6 @@ Thank you each and good night. Stop now, please.
 
 ---
 
-<a role="toc_link" id="id21"></a>
 # THREE
 
 ## RESPONSIBILITY
@@ -745,7 +722,6 @@ We thank you both and good night. Stop now, please.
 
 ---
 
-<a role="toc_link" id="id22"></a>
 # FOUR
 
 ## THIS INCARNATION
@@ -850,7 +826,7 @@ Thank you and good night. Stop now, please.
 
 We respond to the needs of the time first, and Paul, you have an issue that needs to be rectified before channeling can continue. Your anger at others is coming forward to be addressed and you dislike the feeling and you decide you cannot have anger and you suppress what you feel. You deny yourself and the anger turns inward and that is a cycle of predisposition to depression.
 
-Now we will offer you this: If you wish to do the work here in this vicinity while you are together,[3](#undefined#footnote-25936-3) you may, but not before you attend to the reason you are angry. You don’t know the reason you are angry and you don’t believe it when we tell you your anger is at yourself for not being the one in charge of what you think you are in charge of, of not being able to control others as you wish them to be controlled. Now, you are not alone in this. Everybody has this issue. But others are quicker to forgive. Others are quicker to forgive themselves and to forgive their fellows.
+Now we will offer you this: If you wish to do the work here in this vicinity while you are together, you may, but not before you attend to the reason you are angry. You don’t know the reason you are angry and you don’t believe it when we tell you your anger is at yourself for not being the one in charge of what you think you are in charge of, of not being able to control others as you wish them to be controlled. Now, you are not alone in this. Everybody has this issue. But others are quicker to forgive. Others are quicker to forgive themselves and to forgive their fellows.
 
 Now, why is it you are not forgiving? Why does one not forgive? Because one is frightened of what will happen if one forgives. “I will be harmed again.” “I will be slandered.” “I will be judged.” “I will be persecuted.” “I will be used.” You have a long list, as everybody does, of reasons you must not forgive. But the ideal of forgiveness as we have expressed in previous teachings is to release the one that you hold hostage and bind yourself to. As you are willing to forgive, you may indeed be forgiven and the chapter that we would teach, on forgiveness perhaps, would come forward easily. We can only work with you as you allow yourself to be worked through. We cannot control you, nor do we intend to. This book will be completed, we promise you this. But not before you forgive yourself and your fellows for what you believe they have done.
 
@@ -910,12 +886,10 @@ We thank you each. Stop now, please.
 
 ---
 
-<a role="toc_link" id="id23"></a>
 # II
 
 ---
 
-<a role="toc_link" id="id24"></a>
 # FIVE
 
 ## THE PRECIPICE
@@ -928,7 +902,7 @@ Now we will explain this: When you have been told not to tell a lie, you don’t
 
 (Interruption)
 
-We will ask you now to stop fighting this,[4](#undefined#footnote-25936-4) and allow the transmission to come as it wishes. We are the authors of this text, we have things to say, and we know what we want to say without interference. This is not a mandate; it’s a decision we make that the transmissions we bring through you will be clear and responsible. By “responsible,” we mean in order, and as needed for the reader to learn the lessons we bring them. We know what we do when we teach and we do not need anybody in the background saying, “Will this happen today?” You have enough experience with us to trust the transmission as it wants to come through.
+We will ask you now to stop fighting this, and allow the transmission to come as it wishes. We are the authors of this text, we have things to say, and we know what we want to say without interference. This is not a mandate; it’s a decision we make that the transmissions we bring through you will be clear and responsible. By “responsible,” we mean in order, and as needed for the reader to learn the lessons we bring them. We know what we do when we teach and we do not need anybody in the background saying, “Will this happen today?” You have enough experience with us to trust the transmission as it wants to come through.
 
 Now today we are teaching you about principles and those things that you adhere to because you were taught as such. “I will not tell a lie,” when that is in your principle, is all well and good, but if you do not know why you adhere to this principle, you are acting pro forma, in obligation to your history.
 
@@ -1010,7 +984,6 @@ Stop now, please.
 
 ---
 
-<a role="toc_link" id="id25"></a>
 # SIX
 
 ## WISDOM
@@ -1175,7 +1148,6 @@ We thank you for your presence today. We will resume tomorrow. Good night. Stop 
 
 ---
 
-<a role="toc_link" id="id26"></a>
 # SEVEN
 
 ## THE DEMONSTRATION OF LOVE
@@ -1370,7 +1342,6 @@ Thank you and good night. Stop now, please.
 
 ---
 
-<a role="toc_link" id="id27"></a>
 # EIGHT
 
 ## HOW YOU WITNESS
@@ -1571,10 +1542,9 @@ We leave you now. We will speak with you soon. Thank you and good night. Stop no
 
 ---
 
-<a role="toc_link" id="id28"></a>
 # NINE
 
-## THE DOORWAY[5](#undefined#footnote-25936-5)
+## THE DOORWAY
 
 ### Day Eighteen
 
@@ -1586,7 +1556,7 @@ We are opening a doorway for you now. It is a big doorway. You may all fit throu
 
 Now we ask you this: What do you think you are? What does your mind tell you when you inquire? What is the answer you receive from yourself, and what do you need to know about your lives to be able to make up your own minds and call yourself forward to be in your freedom in the way that we express? There is no one in this room, there is no one on this plane, who is unworthy of this.
 
-As some of you know this and go into accord with it, you expand the doorframe so that more may enter. Do you understand this? You are a way-shower, yes, but you cannot show the way if you don’t go, if you don’t go where you are called. And we are speaking to him as much as you, who holds the telephone and worries, “Can it be so?”[6](#undefined#footnote-25936-6) It has always been so, it will always be so, the only difference from these times is that the invitation is asking you, is beckoning you forward.
+As some of you know this and go into accord with it, you expand the doorframe so that more may enter. Do you understand this? You are a way-shower, yes, but you cannot show the way if you don’t go, if you don’t go where you are called. And we are speaking to him as much as you, who holds the telephone and worries, “Can it be so?” It has always been so, it will always be so, the only difference from these times is that the invitation is asking you, is beckoning you forward.
 
 Now, what does it mean to say “No”? It means to play small. It means to pretend that you are not worthy. And we say “pretend” intentionally, because if you knew your worth, your inherent worth, you would know that anything else is a lie. It has to be a lie if, in fact, you are who you say you are, an aspect of the Creator in her manifestation, in her realization of her immanence.
 
@@ -1760,12 +1730,10 @@ Thank you each and good night.
 
 ---
 
-<a role="toc_link" id="id29"></a>
 # III
 
 ---
 
-<a role="toc_link" id="id30"></a>
 # TEN
 
 ## THE KINGDOM
@@ -1922,7 +1890,6 @@ We will thank you each for the time this morning. We have been productive. This 
 
 ---
 
-<a role="toc_link" id="id31"></a>
 # ELEVEN
 
 ## TRUTH AND KNOWING
@@ -2169,10 +2136,9 @@ We thank you each for your attendance today and we will stop now. Good night.
 
 ---
 
-<a role="toc_link" id="id32"></a>
 # TWELVE
 
-## THE ROAD BEFORE YOU[7](#undefined#footnote-25936-7)
+## THE ROAD BEFORE YOU
 
 ### Day Twenty-Three (continued)
 
@@ -2298,7 +2264,6 @@ We are grateful for each of you, you know. We are grateful for your attendance t
 
 ---
 
-<a role="toc_link" id="id33"></a>
 # EPILOGUE
 
 ### Day Twenty-Five
@@ -2375,59 +2340,14 @@ Thank you and good night. Stop now, please. Period.
 
 ---
 
-<a role="toc_link" id="id34"></a>
 # ACKNOWLEDGMENTS
 
 Tim Chambers, Beth Grossman, Mitch Horowitz, Amy Hughes, Jeannette Meek, Victoria Nelson, Dustin Parent, Alan Steinfeld, and the members of the Thursday Night Energy Group
 
 ---
 
-<a role="toc_link" id="id35"></a>
 # ABOUT THE AUTHOR
 
 Paul Selig was born in New York City. He attended New York University and received his master’s degree from Yale. He had a spiritual experience in 1987 that left him clairvoyant. As a way to gain a context for what he was beginning to experience, he studied a form of energy healing. He began to “hear” for his clients, and much of his work now is a clairaudient, empath, and conscious channel. He lives in New York City where he maintains a practice as an intuitive and offers channeled workshops throughout the country. Also a noted playwright and educator, Paul directs the Master of Fine Arts in Creative Writing Program at Goddard College and teaches at New York University. His website is www.paulselig.com.
 
-![Back ad](./images/00004.jpeg) 
-
 ---
-
-<a role="toc_link" id="id36"></a>
-[![](#undefined)](http://penguin.com/welcome?CMP=OTC-PEBL) 
-
----
-
-<a role="toc_link" id="id37"></a>
-[2](#undefined#footnote-25936-2-backlink) What is being referenced is an exhibit at the 1965 New York World’s Fair.
-
----
-
-<a role="toc_link" id="id38"></a>
-[3](#undefined#footnote-25936-3-backlink) Paul and Victoria were together in the same room for this session.
-
----
-
-<a role="toc_link" id="id39"></a>
-[4](#undefined#footnote-25936-4-backlink) This is directed to Paul, who has been thrown by the interruption to the channeling.
-
----
-
-<a role="toc_link" id="id40"></a>
-[5](#undefined#footnote-25936-5-backlink) This chapter was delivered while Paul was conducting his regular Thursday night group.
-
----
-
-<a role="toc_link" id="id41"></a>
-[6](#undefined#footnote-25936-6-backlink) The Guides are addressing Paul here.
-
----
-
-<a role="toc_link" id="id42"></a>
-[7](#undefined#footnote-25936-7-backlink) This chapter was delivered while Paul was conducting his regular Thursday night group.
-
----
-
-<a role="toc_link" id="id43"></a>
-[1](#undefined#footnote-25936-1-backlink) This is being directed to Paul, who had expressed concern prior to the session.
-
----
-
