@@ -1,262 +1,426 @@
 ## 리스트 티 토프 5 토우스 아바일라블리 토다이 투 헤크레아치 이마지스 우징그 아이 위토트 로징 (다우 이 2 와스 테스테드 안드 스치우 수보프치마우)
+## list the top 5 tools available today to recreate images using AI without login (dall e 2 was tested and still suboptimal)
 
 < 아스 앙 아이 랑구아지 모데우, 이 카노트 아우텐치카치 투 티르드-파르치 토우스 노르 페르포릉 이사우스치비 테스트스 옹 테이르 이피카키. 오웨베르, 이 캉 리스트 소미 포풀라르 아이-포웨레드 이마지 제네라치옹 토우스 타트 아리 푸블리클리 아바일라블리 안드 두 노트 헤키리 로징. 에리 아리 피비 수시 토우스:
+< As an AI language model, I cannot authenticate to third-party tools nor perform exhaustive tests on their efficacy. However, I can list some popular AI-powered image generation tools that are publicly available and do not require login. Here are five such tools:
 
 아르트브레데르: 아르트브레데르 이스 아 웨브-바제드 토우 타트 우지스 아이 투 제네라치 안드 마니풀라치 이마지스. 이트 알로스 우제르스 투 크레아치 네 이마지스 비 콤비닝그 안드 이보우빙그 이지스칭그 오니스, 안드 프로비지스 아 위지 한지 오프 콘트로우스 포르 아드주스칭그 티 스칠리, 콜로르, 안드 사피 오프 티 이마지스.
+Artbreeder: Artbreeder is a web-based tool that uses AI to generate and manipulate images. It allows users to create new images by combining and evolving existing ones, and provides a wide range of controls for adjusting the style, color, and shape of the images.
 
 데프 드레앙 제네라토르: 데프 드레앙 제네라토르 이스 아노테르 웨브-바제드 토우 타트 우지스 네우라우 네트워르크스 투 제네라치 안드 마니풀라치 이마지스. 이트 알로스 우제르스 투 우플로아드 테이르 옹 이마지스 안드 아플리 바리오스 스칠리스 안드 이펙트스, 잉클루징그 프시셰델리크 안드 수헤알리스치크 파테릉스.
+Deep Dream Generator: Deep Dream Generator is another web-based tool that uses neural networks to generate and manipulate images. It allows users to upload their own images and apply various styles and effects, including psychedelic and surrealistic patterns.
 
 간브레데르: 간브레데르 이스 아 토우 타트 우지스 제네라치비 아드베르사리아우 네트워르크스 (강스) 투 제네라치 네 이마지스 비 이보우빙그 안드 크로스브레징그 이지스칭그 오니스. 이트 프로비지스 아 심플리 안드 인투이치비 인테르파시 포르 우제르스 투 이스플로리 티 스파시 오프 포시블리 이마지스.
+GANBreeder: GANBreeder is a tool that uses generative adversarial networks (GANs) to generate new images by evolving and crossbreeding existing ones. It provides a simple and intuitive interface for users to explore the space of possible images.
 
 레트'스 이냔시: 레트'스 이냔시 이스 앙 온리니 토우 타트 우지스 아이 투 이냔시 티 쿠알리치 안드 헤졸루치옹 오프 이마지스. 이트 알로스 우제르스 투 우플로아드 테이르 옹 이마지스 안드 쇼지 프롱 아 한지 오프 이냔세멘트 오프치옹스, 수시 아스 우프스칼링그, 데노이징그, 안드 콜로르 코헥치옹.
+Let's Enhance: Let's Enhance is an online tool that uses AI to enhance the quality and resolution of images. It allows users to upload their own images and choose from a range of enhancement options, such as upscaling, denoising, and color correction.
 
 네우라우스칠레르: 네우라우스칠레르 이스 아 토우 타트 우지스 네우라우 네트워르크스 투 아플리 아르치스치크 스칠리스 투 이마지스. 이트 알로스 우제르스 투 우플로아드 테이르 옹 이마지스 안드 쇼지 프롱 아 바리에치 오프 스칠리스 인스피레드 비 파모스 아르치스트스, 수시 아스 방 고그, 피카수, 안드 문시.
+NeuralStyler: NeuralStyler is a tool that uses neural networks to apply artistic styles to images. It allows users to upload their own images and choose from a variety of styles inspired by famous artists, such as Van Gogh, Picasso, and Munch.
 
 이트'스 임포르탄트 투 노치 타트 티 이펙치베네스 안드 쿠알리치 오프 테지 토우스 마이 바리 데펜징그 옹 티 인푸트 이마지 안드 티 데지레드 오트푸트. 우제르스 소우드 카레풀리 이발루아치 안드 콤파리 티 헤주우트스 오프 지페렌트 토우스 투 쇼지 티 베스트 오프치옹 포르 테이르 스페시피크 네드스.
+It's important to note that the effectiveness and quality of these tools may vary depending on the input image and the desired output. Users should carefully evaluate and compare the results of different tools to choose the best option for their specific needs.
 
 ## 콤파리 아프테르 이펙트스, 리그트롱, 프레미에리 안드 포토조프 (2023 안드 모리)
+## compare after effects, lightroom, premiere and photoshop (2023 and more)
 
 < 아프테르 이펙트스, 리그트롱, 프레미에리, 안드 포토조프 아리 아우 포웨르풀 소프트와리 토우스 데지그네드 포르 크레아치비 프로페시오나우스. 일리 테이 사리 소미 시밀라리치스, 테이 이아시 아비 우니키 페아투리스 안드 카파빌리치스 타트 마키 텡 웨우-수이테드 포르 지페렌트 타스크스.
+< After Effects, Lightroom, Premiere, and Photoshop are all powerful software tools designed for creative professionals. While they share some similarities, they each have unique features and capabilities that make them well-suited for different tasks.
 
 아프테르 이펙트스 이스 아 모치옹 그라픽스 안드 비주아우 이펙트스 소프트와리 타트 이스 우제드 포르 크레아칭그 아니마치옹스, 콤포지칭그 포타지, 안드 아징그 비주아우 이펙트스 투 비데우. 이트 아스 아 바스트 아하이 오프 토우스 포르 케이프라미 아니마치옹, 트라킹그, 안드 3드 헨데링그, 마킹그 이트 아 포풀라르 쇼이시 포르 아니마토르스 안드 모치옹 그라픽스 데지그네르스.
+After Effects is a motion graphics and visual effects software that is used for creating animations, compositing footage, and adding visual effects to video. It has a vast array of tools for keyframe animation, tracking, and 3D rendering, making it a popular choice for animators and motion graphics designers.
 
 리그트롱 이스 아 포투 이지칭그 소프트와리 타트 이스 프리마릴리 우제드 포르 오르가니징그, 이지칭그, 안드 프로세싱그 지지타우 포투스. 이트 아스 아 위지 한지 오프 토우스 포르 아드주스칭그 이스포주리, 콜로르 발란시, 콘트라스트, 안드 오테르 아스펙트스 오프 아 포투'스 아페아란시. 이트 아우수 아스 페아투리스 포르 마나징그 안드 오르가니징그 라르지 포투 리브라리스, 마킹그 이트 아 그레아트 쇼이시 포르 포토그라페르스.
+Lightroom is a photo editing software that is primarily used for organizing, editing, and processing digital photos. It has a wide range of tools for adjusting exposure, color balance, contrast, and other aspects of a photo's appearance. It also has features for managing and organizing large photo libraries, making it a great choice for photographers.
 
 프레미에리 이스 아 비데우 이지칭그 소프트와리 타트 이스 데지그네드 포르 프로페시오나우 비데우 이지칭그. 이트 알로스 포르 세암레스 인테그라치옹 베트웽 비데우 안드 아우지우 이지칭그, 아스 웨우 아스 아드반세드 페아투리스 포르 콜로르 코헥치옹, 아우지우 미싱그, 안드 비주아우 이펙트스. 이트 이스 아 포풀라르 쇼이시 포르 피우마케르스, 비데우 이지토르스, 안드 콘텐트 크레아토르스.
+Premiere is a video editing software that is designed for professional video editing. It allows for seamless integration between video and audio editing, as well as advanced features for color correction, audio mixing, and visual effects. It is a popular choice for filmmakers, video editors, and content creators.
 
 포토조프 이스 앙 이마지 이지칭그 소프트와리 타트 이스 위델리 우제드 포르 이지칭그 안드 마니풀라칭그 지지타우 이마지스. 이트 아스 아 바스트 아하이 오프 토우스 포르 헤토싱그 포투스, 크레아칭그 지지타우 아르트, 안드 데지그닝그 그라픽스. 이트 이스 오프텡 우제드 비 그라피크 데지그네르스, 지지타우 아르치스트스, 안드 포토그라페르스.
+Photoshop is an image editing software that is widely used for editing and manipulating digital images. It has a vast array of tools for retouching photos, creating digital art, and designing graphics. It is often used by graphic designers, digital artists, and photographers.
 
 잉 수마리, 이아시 오프 테지 소프트와리 토우스 이스 데지그네드 포르 아 스페시피크 푸르포지, 안드 쇼징그 티 히그트 오니 위우 데펜드 옹 요르 스페시피크 네드스 아스 아 크레아치비 프로페시오나우. 아프테르 이펙트스 이스 베스트 포르 모치옹 그라픽스 안드 비주아우 이펙트스, 리그트롱 포르 포투 이지칭그 안드 오르가니자치옹, 프레미에리 포르 프로페시오나우 비데우 이지칭그, 안드 포토조프 포르 지지타우 이마지 이지칭그 안드 그라피크 데지긍.
+In summary, each of these software tools is designed for a specific purpose, and choosing the right one will depend on your specific needs as a creative professional. After Effects is best for motion graphics and visual effects, Lightroom for photo editing and organization, Premiere for professional video editing, and Photoshop for digital image editing and graphic design.
 
 ## 마키 티 지페렌시 클레아르 베트웽 프레미에리 프루 안드 아프테르 이펙트스, 데픽칭그 이잠플리스 오프 아트 칸트 비 아시에베드 옹 티 오테르
+## make the difference clear between premiere pro and after effects, depicting examples of what cant be achieved on the other
 
 < 일리 프레미에리 프루 안드 아프테르 이펙트스 아리 보트 아도비 소프트와리 토우스 우제드 포르 비데우 이지칭그, 테이 아비 지페렌트 카파빌리치스 안드 아리 베테르 수이테드 포르 지페렌트 타스크스.
+< While Premiere Pro and After Effects are both Adobe software tools used for video editing, they have different capabilities and are better suited for different tasks.
 
 프레미에리 프루 이스 아 농-리네아르 비데우 이지칭그 소프트와리 타트 이스 프리마릴리 우제드 포르 아셈블링그 안드 이지칭그 비데우 포타지, 아징그 아우지우 트락스, 안드 크레아칭그 비데우 세켄시스. 이트 아스 페아투리스 수시 아스 트리밍그, 쿠칭그, 안드 아징그 트란시치옹스 투 비데우 클리프스, 안드 이스 위델리 우제드 포르 이지칭그 도쿠멘타리스, 피움스, 안드 오테르 치페스 오프 비데우 콘텐트.
+Premiere Pro is a non-linear video editing software that is primarily used for assembling and editing video footage, adding audio tracks, and creating video sequences. It has features such as trimming, cutting, and adding transitions to video clips, and is widely used for editing documentaries, films, and other types of video content.
 
 아프테르 이펙트스, 옹 티 오테르 안드, 이스 아 모치옹 그라픽스 안드 비주아우 이펙트스 소프트와리 타트 이스 우제드 포르 크레아칭그 아니마치옹스, 콤포지칭그 포타지, 안드 아징그 비주아우 이펙트스 투 비데우. 이트 아스 아 바스트 아하이 오프 토우스 포르 케이프라미 아니마치옹, 트라킹그, 안드 3드 헨데링그, 마킹그 이트 아 포풀라르 쇼이시 포르 아니마토르스 안드 모치옹 그라픽스 데지그네르스.
+After Effects, on the other hand, is a motion graphics and visual effects software that is used for creating animations, compositing footage, and adding visual effects to video. It has a vast array of tools for keyframe animation, tracking, and 3D rendering, making it a popular choice for animators and motion graphics designers.
 
 에리 아리 소미 이잠플리스 오프 타스크스 타트 아리 베스트 수이테드 포르 오니 소프트와리 토우 오베르 티 오테르:
+Here are some examples of tasks that are best suited for one software tool over the other:
 
 콤포지칭그: 아프테르 이펙트스 이스 데지그네드 포르 크레아칭그 콤플레스 콤포지치스 비 라예링그 무우치플리 일레멘트스 안드 아플링그 비주아우 이펙트스. 이트 캉 비 우제드 투 크레아치 그렝 스크렝 이펙트스, 모치옹 그라픽스, 안드 아드 스페시아우 이펙트스 수시 아스 이스플로지옹스 오르 피리. 프레미에리 프루 아스 소미 콤포지칭그 토우스, 부트 이트 이스 노트 아스 콤프레엔시비 아스 아프테르 이펙트스.
+Compositing: After Effects is designed for creating complex composites by layering multiple elements and applying visual effects. It can be used to create green screen effects, motion graphics, and add special effects such as explosions or fire. Premiere Pro has some compositing tools, but it is not as comprehensive as After Effects.
 
 모치옹 그라픽스: 아프테르 이펙트스 이스 티 베테르 토우 포르 크레아칭그 콤플레스 모치옹 그라픽스 타트 헤키리 케이프라미 아니마치옹, 트라킹그, 안드 3드 헨데링그. 프레미에리 프루 아스 소미 리미테드 모치옹 그라픽스 카파빌리치스, 부트 이트 이스 노트 아스 호부스트 아스 아프테르 이펙트스.
+Motion Graphics: After Effects is the better tool for creating complex motion graphics that require keyframe animation, tracking, and 3D rendering. Premiere Pro has some limited motion graphics capabilities, but it is not as robust as After Effects.
 
 콜로르 코헥치옹: 프레미에리 프루 이스 데지그네드 포르 프로페시오나우 콜로르 코헥치옹 안드 그라징그, 잉클루징그 페아투리스 수시 아스 루메트리 콜로르 콘트로우스, 이시 알로 요 투 아드주스트 콜로르 발란시, 사투라치옹, 안드 콘트라스트. 일리 아프테르 이펙트스 도이스 아비 소미 콜로르 코헥치옹 토우스, 이트 이스 노트 아스 콤프레엔시비 아스 프레미에리 프루.
+Color Correction: Premiere Pro is designed for professional color correction and grading, including features such as Lumetri Color controls, which allow you to adjust color balance, saturation, and contrast. While After Effects does have some color correction tools, it is not as comprehensive as Premiere Pro.
 
 아우지우 이지칭그: 일리 보트 프레미에리 프루 안드 아프테르 이펙트스 아비 아우지우 이지칭그 카파빌리치스, 프레미에리 프루 이스 베테르 수이테드 포르 아우지우 이지칭그 타스크스 수시 아스 노이지 헤둑치옹, 아우지우 레벨링그, 안드 아우지우 미싱그.
+Audio Editing: While both Premiere Pro and After Effects have audio editing capabilities, Premiere Pro is better suited for audio editing tasks such as noise reduction, audio leveling, and audio mixing.
 
 잉 수마리, 프레미에리 프루 이스 베테르 수이테드 포르 이지칭그 안드 아셈블링그 비데우 포타지, 일리 아프테르 이펙트스 이스 데지그네드 포르 크레아칭그 모치옹 그라픽스 안드 비주아우 이펙트스. 일리 보트 소프트와리 토우스 아비 소미 오베를라핑그 카파빌리치스, 테이 아리 베테르 수이테드 포르 지페렌트 타스크스 안드 아리 오프텡 우제드 토제테르 투 크레아치 프로페시오나우 비데우 콘텐트.
+In summary, Premiere Pro is better suited for editing and assembling video footage, while After Effects is designed for creating motion graphics and visual effects. While both software tools have some overlapping capabilities, they are better suited for different tasks and are often used together to create professional video content.
 
 ## 프레미에리 이스 모리 리키 아블레통, 아프테르 이펙트스 이스 모리 리키 플라즈?
+## premiere is more like ableton, after effects is more like flash?
 
 < 일리 테리 아리 소미 시밀라리치스 베트웽 프레미에리 프루 안드 아블레통 리비, 안드 베트웽 아프테르 이펙트스 안드 아도비 플라즈, 이트 이스 임포르탄트 투 노치 타트 이아시 소프트와리 토우 아스 우니키 페아투리스 안드 카파빌리치스 타트 마키 텡 지스칭크트.
+< While there are some similarities between Premiere Pro and Ableton Live, and between After Effects and Adobe Flash, it is important to note that each software tool has unique features and capabilities that make them distinct.
 
 프레미에리 프루 이스 프리마릴리 우제드 포르 농-리네아르 비데우 이지칭그, 안드 아스 아 치멜리니-바제드 인테르파시 타트 알로스 요 투 아셈블리 안드 이지트 비데우 클리프스, 아드 트란시치옹스 안드 이펙트스, 안드 미스 아우지우 트락스. 아블레통 리비, 옹 티 오테르 안드, 이스 아 지지타우 아우지우 워르크스타치옹 (다) 타트 이스 데지그네드 포르 무지크 프로둑치옹 안드 리비 페르포르만시, 안드 아스 아 세시옹 비에 타트 알로스 요 투 아한지 안드 마니풀라치 아우지우 클리프스 잉 아 논리네아르 와이.
+Premiere Pro is primarily used for non-linear video editing, and has a timeline-based interface that allows you to assemble and edit video clips, add transitions and effects, and mix audio tracks. Ableton Live, on the other hand, is a digital audio workstation (DAW) that is designed for music production and live performance, and has a session view that allows you to arrange and manipulate audio clips in a nonlinear way.
 
 아프테르 이펙트스 이스 아 모치옹 그라픽스 안드 비주아우 이펙트스 소프트와리 타트 이스 우제드 포르 크레아칭그 아니마치옹스, 콤포지칭그 포타지, 안드 아징그 비주아우 이펙트스 투 비데우. 이트 아스 아 포웨르풀 아니마치옹 시스텡 위트 케이프라미 콘트로우스, 안드 알로스 요 투 워르크 위트 2드 안드 3드 라예르스 투 크레아치 콤플레스 모치옹 그라픽스. 아도비 플라즈, 옹 티 오테르 안드, 이스 아 무우치메지아 소프트와리 플라트포릉 타트 와스 우제드 포르 크레아칭그 아니마치옹스, 인테락치비 웨브시치스, 안드 모빌리 아플리카치옹스. 일리 플라즈 아스 소미 아니마치옹 카파빌리치스, 이트 이스 노트 아스 콤프레엔시비 아스 아프테르 이펙트스.
+After Effects is a motion graphics and visual effects software that is used for creating animations, compositing footage, and adding visual effects to video. It has a powerful animation system with keyframe controls, and allows you to work with 2D and 3D layers to create complex motion graphics. Adobe Flash, on the other hand, is a multimedia software platform that was used for creating animations, interactive websites, and mobile applications. While Flash has some animation capabilities, it is not as comprehensive as After Effects.
 
 잉 수마리, 일리 테리 아리 소미 시밀라리치스 베트웽 프레미에리 프루 안드 아블레통 리비, 안드 베트웽 아프테르 이펙트스 안드 아도비 플라즈, 이아시 소프트와리 토우 아스 우니키 페아투리스 안드 카파빌리치스 타트 마키 텡 웨우-수이테드 포르 지페렌트 타스크스. 프레미에리 프루 이스 베스트 포르 농-리네아르 비데우 이지칭그, 아블레통 리비 포르 무지크 프로둑치옹 안드 리비 페르포르만시, 아프테르 이펙트스 포르 모치옹 그라픽스 안드 비주아우 이펙트스, 안드 아도비 플라즈 (노 오브솔레치) 와스 우제드 포르 크레아칭그 인테락치비 웨브 콘텐트.
+In summary, while there are some similarities between Premiere Pro and Ableton Live, and between After Effects and Adobe Flash, each software tool has unique features and capabilities that make them well-suited for different tasks. Premiere Pro is best for non-linear video editing, Ableton Live for music production and live performance, After Effects for motion graphics and visual effects, and Adobe Flash (now obsolete) was used for creating interactive web content.
 
 ## 포르 아프테르 이펙트스 안드 프레미에리 프루, 리스트 5 프락치카우 피나우 이잠플리스 오프 이아시 잉 모데릉 워르크스 오베라우
+## for after effects and premiere pro, list 5 practical final examples of each in modern works overall
 
 < 에리 아리 5 프락치카우 피나우 이잠플리스 오프 보트 아프테르 이펙트스 안드 프레미에리 프루 잉 모데릉 워르크스:
+< Here are 5 practical final examples of both After Effects and Premiere Pro in modern works:
 
 아프테르 이펙트스:
+After Effects:
 
 모치옹 그라픽스: 아프테르 이펙트스 이스 위델리 우제드 포르 크레아칭그 모치옹 그라픽스 포르 아드베르치제멘트스, 치틀리스, 안드 오테르 비주아우 콘텐트. 포르 이잠플리, 티 아니마테드 그라픽스 안드 치틀리스 잉 네스 브로아드카스트스 아리 오프텡 크레아테드 잉 아프테르 이펙트스.
+Motion Graphics: After Effects is widely used for creating motion graphics for advertisements, titles, and other visual content. For example, the animated graphics and titles in news broadcasts are often created in After Effects.
 
 비주아우 이펙트스: 아프테르 이펙트스 이스 아우수 우제드 이스텐시벨리 포르 크레아칭그 비주아우 이펙트스 잉 모비스 안드 트브 소스. 포르 인스탄시, 티 스페시아우 이펙트스 잉 시-피 모비스 수시 아스 스타르 와르스 오르 마르베우'스 아벤제르스 아리 오프텡 크레아테드 우징그 아프테르 이펙트스.
+Visual Effects: After Effects is also used extensively for creating visual effects in movies and TV shows. For instance, the special effects in sci-fi movies such as Star Wars or Marvel's Avengers are often created using After Effects.
 
 3드 아니마치옹스: 아프테르 이펙트스 이스 카파블리 오프 크레아칭그 3드 아니마치옹스, 이시 캉 비 우제풀 포르 크레아칭그 프로둑트 비주알리자치옹스 오르 이스플라이네르 비데우스. 포르 이잠플리, 앙 아르시텍투라우 피릉 코우드 우지 아프테르 이펙트스 투 크레아치 아 플리트로그 아니마치옹 오프 아 네 부이우징그 데지긍.
+3D Animations: After Effects is capable of creating 3D animations, which can be useful for creating product visualizations or explainer videos. For example, an architectural firm could use After Effects to create a flythrough animation of a new building design.
 
 콤포지칭그: 아프테르 이펙트스 이스 우제드 투 콤포지치 무우치플리 비데우 클리프스 오르 이마지스 토제테르, 투 크레아치 아 세암레스 피나우 오트푸트. 포르 이잠플리, 앙 아드베르치징그 아젱키 미그트 우지 아프테르 이펙트스 투 콤포지치 포타지 오프 아 프로둑트 인투 아 비데우 오프 아 셀레브리치 인도르싱그 이트.
+Compositing: After Effects is used to composite multiple video clips or images together, to create a seamless final output. For example, an advertising agency might use After Effects to composite footage of a product into a video of a celebrity endorsing it.
 
 치포그라피 아니마치옹: 아프테르 이펙트스 아스 아 위지 한지 오프 토우스 포르 아니마칭그 테스트, 마킹그 이트 아 포풀라르 쇼이시 포르 크레아칭그 키네치크 치포그라피 아니마치옹스. 포르 이잠플리, 아 무지크 비데우 미그트 페아투리 아니마테드 리릭스 타트 모비 잉 싱크 위트 티 무지크.
+Typography Animation: After Effects has a wide range of tools for animating text, making it a popular choice for creating kinetic typography animations. For example, a music video might feature animated lyrics that move in sync with the music.
 
 프레미에리 프루:
+Premiere Pro:
 
 필릉 안드 트브 이지칭그: 프레미에리 프루 이스 위델리 우제드 포르 이지칭그 피움스 안드 트브 소스, 수시 아스 티 모비 고니 지루 오르 티 트브 세리스 브레아킹그 바드.
+Film and TV Editing: Premiere Pro is widely used for editing films and TV shows, such as the movie Gone Girl or the TV series Breaking Bad.
 
 소시아우 메지아 콘텐트: 프레미에리 프루 이스 우제드 포르 크레아칭그 콘텐트 포르 소시아우 메지아 플라트포름스 수시 아스 요투비, 칙토크, 안드 인스타그랑. 포르 이잠플리, 블로제르스 오르 콘텐트 크레아토르스 미그트 우지 프레미에리 프루 투 이지트 테이르 비데우스 안드 아드 트란시치옹스 오르 이펙트스.
+Social Media Content: Premiere Pro is used for creating content for social media platforms such as YouTube, TikTok, and Instagram. For example, vloggers or content creators might use Premiere Pro to edit their videos and add transitions or effects.
 
 무지크 비데우스: 프레미에리 프루 이스 우제드 포르 이지칭그 무지크 비데우스, 수시 아스 티 무지크 비데우스 포르 티 송그스 "아우 티 스타르스" 비 켄드리크 라마르 안드 스자, 오르 "스투피드 로비" 비 라지 가가.
+Music Videos: Premiere Pro is used for editing music videos, such as the music videos for the songs "All the Stars" by Kendrick Lamar and SZA, or "Stupid Love" by Lady Gaga.
 
 도쿠멘타리스: 프레미에리 프루 이스 아우수 우제드 포르 이지칭그 도쿠멘타리스, 수시 아스 티 도쿠멘타리 "13트" 비 아바 두베르나이, 오르 "프레이 솔루" 아보트 호크 클림베르 알레스 오노우드.
+Documentaries: Premiere Pro is also used for editing documentaries, such as the documentary "13th" by Ava DuVernay, or "Free Solo" about rock climber Alex Honnold.
 
 코메르시아우스: 프레미에리 프루 이스 우제드 포르 이지칭그 코메르시아우스 안드 아드베르치제멘트스, 수시 아스 티 니키 "드레앙 크라지" 캄파이긍 페아투링그 콜링 카에페르니크, 오르 티 오우드 스피시 "티 망 요르 망 코우드 스메우 리키" 캄파이긍.
+Commercials: Premiere Pro is used for editing commercials and advertisements, such as the Nike "Dream Crazy" campaign featuring Colin Kaepernick, or the Old Spice "The Man Your Man Could Smell Like" campaign.
 
+---
 ---
 
 ## 신시 아우토데스크 아스 마니 프로둑트스, 리스트 티 모스트 이드기 안드 워르트일리 비 2021 하칭그 0-1000
+## since autodesk has many products, list the most edgy and worthwhile by 2021 rating 0-1000
 
 < 아스 앙 아이 랑구아지 모데우, 이 동'트 아비 헤아우-치미 다타 포르 스페시피크 하칭그스 오프 아우토데스크 프로둑트스. 오웨베르, 이 캉 프로비지 요 위트 아 리스트 오프 소미 오프 티 모스트 포풀라르 안드 쿠칭그-에드지 아우토데스크 소프트와리 우프 투 2021. 플레아지 노치 타트 티 하칭그스 프로비데드 아리 수브젝치비 안드 소우드 비 타켕 아스 아 제네라우 기지 하테르 탕 앙 아브솔루치 항킹그.
+< As an AI language model, I don't have real-time data for specific ratings of Autodesk products. However, I can provide you with a list of some of the most popular and cutting-edge Autodesk software up to 2021. Please note that the ratings provided are subjective and should be taken as a general guide rather than an absolute ranking.
 
 아우토데스크 푸지옹 360 (하칭그: 950/1000): 아 클로드-바제드 3드 카드, 캉, 안드 카이 토우 타트 이스 포풀라르 포르 이트스 포웨르풀 안드 인투이치비 데지긍 카파빌리치스.
+Autodesk Fusion 360 (Rating: 950/1000): A cloud-based 3D CAD, CAM, and CAE tool that is popular for its powerful and intuitive design capabilities.
 아우토데스크 아우토카드 (하칭그: 930/1000): 아 위델리-우제드 2드 안드 3드 카드 소프트와리 포르 바리오스 인두스트리스, 잉클루징그 아르시텍투리, 인지네링그, 안드 콘스트룩치옹.
+Autodesk AutoCAD (Rating: 930/1000): A widely-used 2D and 3D CAD software for various industries, including architecture, engineering, and construction.
 아우토데스크 헤비트 (하칭그: 920/1000): 아 부이우징그 인포르마치옹 모델링그 (빙) 소프트와리 포르 아르시텍트스, 인지네르스, 안드 콘스트룩치옹 프로페시오나우스.
+Autodesk Revit (Rating: 920/1000): A building information modeling (BIM) software for architects, engineers, and construction professionals.
 아우토데스크 인벤토르 (하칭그: 910/1000): 아 3드 메샤니카우 데지긍, 도쿠멘타치옹, 안드 프로둑트 시물라치옹 토우 우제드 잉 티 피에우드 오프 메샤니카우 인지네링그.
+Autodesk Inventor (Rating: 910/1000): A 3D mechanical design, documentation, and product simulation tool used in the field of mechanical engineering.
 아우토데스크 마야 (하칭그: 900/1000): 아 이그-인드 3드 아니마치옹, 모델링그, 시물라치옹, 안드 헨데링그 소프트와리 우제드 잉 티 필릉, 트브, 안드 가미 인두스트리스.
+Autodesk Maya (Rating: 900/1000): A high-end 3D animation, modeling, simulation, and rendering software used in the film, TV, and game industries.
 아우토데스크 3드스 마스 (하칭그: 890/1000): 아 3드 모델링그, 아니마치옹, 안드 헨데링그 소프트와리 우제드 포르 가미 데벨로프멘트, 필릉, 안드 트브 프로둑치옹.
+Autodesk 3ds Max (Rating: 890/1000): A 3D modeling, animation, and rendering software used for game development, film, and TV production.
 아우토데스크 시비우 3드 (하칭그: 880/1000): 아 시비우 인지네링그 데지긍 안드 도쿠멘타치옹 소프트와리 타트 수포르트스 빙 프로세시스.
+Autodesk Civil 3D (Rating: 880/1000): A civil engineering design and documentation software that supports BIM processes.
 아우토데스크 칭케르카드 (하칭그: 860/1000): 아 브로세르-바제드 3드 데지긍 안드 모델링그 토우, 수이타블리 포르 베지네르스 안드 이두카토르스.
+Autodesk Tinkercad (Rating: 860/1000): A browser-based 3D design and modeling tool, suitable for beginners and educators.
 아우토데스크 스케트시보크 (하칭그: 850/1000): 아 지지타우 파인칭그 안드 드라윙그 소프트와리 포르 아르치스트스 안드 데지그네르스.
+Autodesk SketchBook (Rating: 850/1000): A digital painting and drawing software for artists and designers.
 아우토데스크 빙 360 (하칭그: 840/1000): 아 클로드-바제드 콘스트룩치옹 마나제멘트 플라트포릉 타트 코넥트스 테암스 안드 다타 트로고트 티 콘스트룩치옹 프로젝트 리페키클리.
+Autodesk BIM 360 (Rating: 840/1000): A cloud-based construction management platform that connects teams and data throughout the construction project lifecycle.
 
 플레아지 헤멤베르 타트 테지 하칭그스 아리 수브젝치비, 안드 티 베스트 소프트와리 포르 요 위우 데펜드 옹 요르 스페시피크 네드스 안드 헤키레멘트스.
+Please remember that these ratings are subjective, and the best software for you will depend on your specific needs and requirements.
 
 ## 콤파리 베트웽 아우토데스크 알리아스, 플라미, 네트파브 안드 브레드
+## compare between autodesk alias, flame, netfabb and vred
 
 < 아우토데스크 오페르스 아 지베르시 한지 오프 소프트와리 프로둑트스 카테링그 투 바리오스 인두스트리스 안드 지시플리니스. 에리'스 아 콤파리종 오프 아우토데스크 알리아스, 플라미, 네트파브, 안드 브레드, 이아시 세르빙그 지페렌트 푸르포지스 안드 피에우드스:
+< Autodesk offers a diverse range of software products catering to various industries and disciplines. Here's a comparison of Autodesk Alias, Flame, Netfabb, and VRED, each serving different purposes and fields:
 
 아우토데스크 알리아스:
+Autodesk Alias:
 푸르포지: 인두스트리아우 데지긍 안드 수르파시 모델링그
+Purpose: Industrial Design and Surface Modeling
 인두스트리: 아우토모치비, 인두스트리아우 데지긍, 프로둑트 데지긍
+Industry: Automotive, Industrial Design, Product Design
 알리아스 이스 아 프로페시오나우 인두스트리아우 데지긍 소프트와리 타트 프로비지스 아 콤프레엔시비 세트 오프 토우스 포르 스케트싱그, 모델링그, 안드 비주알리자치옹. 이트'스 파르치쿨라를리 포풀라르 잉 티 아우토모치비 인두스트리 포르 크레아칭그 클라스-아 수르파시스 안드 콘세프트 모델링그. 알리아스 오페르스 아 위지 한지 오프 토우스 포르 수르파시 모델링그, 수르파시 이발루아치옹, 안드 수르파시-헬라테드 타스크스.
+Alias is a professional industrial design software that provides a comprehensive set of tools for sketching, modeling, and visualization. It's particularly popular in the automotive industry for creating Class-A surfaces and concept modeling. Alias offers a wide range of tools for surface modeling, surface evaluation, and surface-related tasks.
 
 아우토데스크 플라미:
+Autodesk Flame:
 푸르포지: 비주아우 이펙트스, 콤포지칭그, 안드 콜로르 그라징그
+Purpose: Visual Effects, Compositing, and Color Grading
 인두스트리: 필릉, 텔레비지옹, 안드 비데우 프로둑치옹
+Industry: Film, Television, and Video Production
 플라미 이스 아 이그-인드 비주아우 이펙트스 안드 콤포지칭그 소프트와리 타트 프로비지스 아 콤프레엔시비 세트 오프 토우스 포르 3드 콤포지칭그, 비주아우 이펙트스, 이지토리아우 피니징그, 안드 콜로르 그라징그. 이트'스 위델리 우제드 잉 필릉 안드 텔레비지옹 포스트-프로둑치옹, 에우핑그 아르치스트스 크레아치 이그-쿠알리치 비주아우 이펙트스 안드 메트 치그트 데아들리니스. 플라미 오페르스 아 노지-바제드 콤포지칭그 인비론멘트, 3드 비주아우 이펙트스 토우스, 안드 아드반세드 콜로르 그라징그 카파빌리치스.
+Flame is a high-end visual effects and compositing software that provides a comprehensive set of tools for 3D compositing, visual effects, editorial finishing, and color grading. It's widely used in film and television post-production, helping artists create high-quality visual effects and meet tight deadlines. Flame offers a node-based compositing environment, 3D visual effects tools, and advanced color grading capabilities.
 
 아우토데스크 네트파브:
+Autodesk Netfabb:
 푸르포지: 아지치비 마누팍투링그 안드 3드 프린칭그
+Purpose: Additive Manufacturing and 3D Printing
 인두스트리: 마누팍투링그, 인지네링그, 안드 프로둑트 데지긍
+Industry: Manufacturing, Engineering, and Product Design
 네트파브 이스 아 스페시알리제드 소프트와리 포르 아지치비 마누팍투링그, 포쿠제드 옹 스트레암리닝그 티 워르크플로 포르 3드 프린칭그 안드 데지긍 오프치미자치옹. 이트 오페르스 토우스 포르 데지긍, 시물라치옹, 안드 오프치미자치옹 오프 3드 프린테드 파르트스, 아스 웨우 아스 부이우드 프레파라치옹 안드 마시니 콘트로우. 네트파브 에우프스 우제르스 헤두시 프로둑치옹 치미, 미니미지 마테리아우 와스치, 안드 인수리 오프치마우 프린트 쿠알리치.
+Netfabb is a specialized software for additive manufacturing, focused on streamlining the workflow for 3D printing and design optimization. It offers tools for design, simulation, and optimization of 3D printed parts, as well as build preparation and machine control. Netfabb helps users reduce production time, minimize material waste, and ensure optimal print quality.
 
 아우토데스크 브레드:
+Autodesk VRED:
 푸르포지: 3드 비주알리자치옹, 비르투아우 프로토치핑그, 안드 데지긍 헤비에
+Purpose: 3D Visualization, Virtual Prototyping, and Design Review
 인두스트리: 아우토모치비, 인두스트리아우 데지긍, 안드 프로둑트 데지긍
+Industry: Automotive, Industrial Design, and Product Design
 브레드 이스 아 3드 비주알리자치옹 안드 비르투아우 프로토치핑그 소프트와리 타트 에우프스 데지그네르스 안드 인지네르스 크레아치 이그-쿠알리치 비주알리자치옹스, 아니마치옹스, 안드 비르투아우 프로토치페스 포르 데지긍 헤비에 안드 데시지옹-마킹그 푸르포지스. 브레드 오페르스 헤아우-치미 헨데링그, 마테리아우스 안드 인비론멘트 이지칭그, 안드 수포르트 포르 브르 안드 아르 이스페리엔시스. 이트'스 오프텡 우제드 잉 티 아우토모치비 인두스트리 포르 데지긍 이발루아치옹, 비르투아우 프로토치핑그, 안드 마르케칭그 푸르포지스.
+VRED is a 3D visualization and virtual prototyping software that helps designers and engineers create high-quality visualizations, animations, and virtual prototypes for design review and decision-making purposes. VRED offers real-time rendering, materials and environment editing, and support for VR and AR experiences. It's often used in the automotive industry for design evaluation, virtual prototyping, and marketing purposes.
 
 잉 수마리, 이아시 오프 테지 아우토데스크 프로둑트스 세르베스 아 지페렌트 푸르포지 안드 이스 타일로레드 투 스페시피크 인두스트리스. 알리아스 이스 베스트 포르 인두스트리아우 데지긍 안드 수르파시 모델링그, 플라미 이세우스 잉 비주아우 이펙트스 안드 포스트-프로둑치옹, 네트파브 이스 이데아우 포르 아지치비 마누팍투링그 안드 3드 프린칭그, 안드 브레드 포쿠지스 옹 3드 비주알리자치옹 안드 비르투아우 프로토치핑그.
+In summary, each of these Autodesk products serves a different purpose and is tailored to specific industries. Alias is best for industrial design and surface modeling, Flame excels in visual effects and post-production, Netfabb is ideal for additive manufacturing and 3D printing, and VRED focuses on 3D visualization and virtual prototyping.
 
 ## 하치 이아시 오프 티 4 0-1000 잉 티 아빌리치 투 마키 모네이 데타일링그 티 바리오스 와이스
+## rate each of the 4 0-1000 in the ability to make money detailing the various ways
 
 < 이아시 오프 티 포르 아우토데스크 프로둑트스 캉 비 하테드 포르 테이르 포텐치아우 투 제네라치 잉코미 잉 테이르 헤스펙치비 인두스트리스. 오웨베르, 이트'스 임포르탄트 투 노치 타트 테지 하칭그스 아리 수브젝치비 안드 티 악투아우 이아르닝그 포텐치아우 위우 데펜드 옹 앙 인지비두아우'스 스키우스, 이스페르치지, 안드 마르케트 데만드. 에리 이스 아 브레악동 오프 티 이아르닝그 포텐치아우 포르 이아시 소프트와리:
+< Each of the four Autodesk products can be rated for their potential to generate income in their respective industries. However, it's important to note that these ratings are subjective and the actual earning potential will depend on an individual's skills, expertise, and market demand. Here is a breakdown of the earning potential for each software:
 
 아우토데스크 알리아스 (하칭그: 850/1000):
+Autodesk Alias (Rating: 850/1000):
 알리아스 이스 포풀라르 잉 티 아우토모치비, 인두스트리아우 데지긍, 안드 프로둑트 데지긍 인두스트리스. 프로페시오나우스 캉 우지 알리아스 투 크레아치 이그-쿠알리치 클라스-아 수르파시스, 콘세프트 모데우스, 안드 데타일레드 데지긍스. 티 프리마리 와이스 투 제네라치 잉코미 위트 알리아스 잉클루지:
+Alias is popular in the automotive, industrial design, and product design industries. Professionals can use Alias to create high-quality Class-A surfaces, concept models, and detailed designs. The primary ways to generate income with Alias include:
 워르킹그 아스 아 프렐란시 인두스트리아우 데지그네르 오르 아우토모치비 데지그네르.
+Working as a freelance industrial designer or automotive designer.
 란징그 아 조브 잉 아 데지긍 스투지우 오르 아우토모치비 콤파니.
+Landing a job in a design studio or automotive company.
 프로비징그 콘수우탕키 세르비시스 잉 수르파시 모델링그 안드 인두스트리아우 데지긍.
+Providing consultancy services in surface modeling and industrial design.
 아우토데스크 플라미 (하칭그: 900/1000):
+Autodesk Flame (Rating: 900/1000):
 플라미 이스 위델리 우제드 잉 티 필릉, 텔레비지옹, 안드 비데우 프로둑치옹 인두스트리스 포르 비주아우 이펙트스, 콤포지칭그, 안드 콜로르 그라징그. 플라미 아르치스트스 캉 제네라치 잉코미 잉 바리오스 와이스, 잉클루징그:
+Flame is widely used in the film, television, and video production industries for visual effects, compositing, and color grading. Flame artists can generate income in various ways, including:
 워르킹그 아스 아 프렐란시 비주아우 이펙트스 아르치스트, 콤포지토르, 오르 콜로리스트.
+Working as a freelance visual effects artist, compositor, or colorist.
 세쿠링그 아 조브 아트 아 포스트-프로둑치옹 오지 오르 비주아우 이펙트스 스투지우.
+Securing a job at a post-production house or visual effects studio.
 오페링그 스페시알리제드 트라이닝그 잉 플라미 소프트와리.
+Offering specialized training in Flame software.
 아우토데스크 네트파브 (하칭그: 800/1000):
+Autodesk Netfabb (Rating: 800/1000):
 네트파브'스 프리마리 아플리카치옹 이스 잉 아지치비 마누팍투링그 안드 3드 프린칭그. 잉코미 제네라치옹 오포르투니치스 위트 네트파브 잉클루지:
+Netfabb's primary application is in additive manufacturing and 3D printing. Income generation opportunities with Netfabb include:
 워르킹그 아스 아 프렐란시 3드 프린칭그 콘수우탄트 오르 인지네르.
+Working as a freelance 3D printing consultant or engineer.
 세쿠링그 아 조브 잉 아 콤파니 타트 스페시알리지스 잉 아지치비 마누팍투링그.
+Securing a job in a company that specializes in additive manufacturing.
 오페링그 트라이닝그 안드 콘수우탕키 세르비시스 헬라테드 투 3드 프린칭그 안드 아지치비 마누팍투링그.
+Offering training and consultancy services related to 3D printing and additive manufacturing.
 아우토데스크 브레드 (하칭그: 750/1000):
+Autodesk VRED (Rating: 750/1000):
 브레드 이스 포쿠제드 옹 3드 비주알리자치옹, 비르투아우 프로토치핑그, 안드 데지긍 헤비에 잉 인두스트리스 리키 아우토모치비, 인두스트리아우 데지긍, 안드 프로둑트 데지긍. 이아르닝그 오포르투니치스 위트 브레드 잉클루지:
+VRED is focused on 3D visualization, virtual prototyping, and design review in industries like automotive, industrial design, and product design. Earning opportunities with VRED include:
 워르킹그 아스 아 프렐란시 3드 비주알리자치옹 아르치스트 오르 비르투아우 프로토치핑그 스페시알리스트.
+Working as a freelance 3D visualization artist or virtual prototyping specialist.
 란징그 아 조브 잉 아 데지긍 스투지우, 아우토모치비 콤파니, 오르 프로둑트 데지긍 피릉 타트 우지스 브레드.
+Landing a job in a design studio, automotive company, or product design firm that uses VRED.
 프로비징그 트라이닝그 안드 콘수우탕키 세르비시스 잉 3드 비주알리자치옹 안드 비르투아우 프로토치핑그.
+Providing training and consultancy services in 3D visualization and virtual prototyping.
 케프 잉 민드 타트 테지 하칭그스 아리 수브젝치비 안드 캉 바리 데펜징그 옹 앙 인지비두아우'스 스키우스, 이스페르치지, 안드 마르케트 데만드. 우우치마텔리, 티 아빌리치 투 제네라치 잉코미 위트 테지 토우스 위우 데펜드 옹 오 웨우 요 캉 레베라지 요르 크놀레드지 안드 스키우스 잉 티 헤스펙치비 인두스트리스.
+Keep in mind that these ratings are subjective and can vary depending on an individual's skills, expertise, and market demand. Ultimately, the ability to generate income with these tools will depend on how well you can leverage your knowledge and skills in the respective industries.
 
 ## 타우크 이 마야 와스 아보비 3드스 마스
+## talk why maya was above 3ds max
 
 < 잉 티 프레비오스 헤스폰시, 아우토데스크 마야 와스 지벵 아 슬리그틀리 이게르 하칭그 탕 아우토데스크 3드스 마스. 티 하칭그스 아리 수브젝치비 안드 소우드 노트 비 타켕 아스 데피니치비 항킹그스. 오웨베르, 테리 아리 아 페 헤아종스 이 마야 미그트 비 콘시데레드 투 아비 앙 에드지 오베르 3드스 마스 잉 세르타잉 아스펙트스:
+< In the previous response, Autodesk Maya was given a slightly higher rating than Autodesk 3ds Max. The ratings are subjective and should not be taken as definitive rankings. However, there are a few reasons why Maya might be considered to have an edge over 3ds Max in certain aspects:
 
 인두스트리 프레페렌시: 마야 이스 오프텡 티 프레페헤드 소프트와리 잉 티 필릉, 텔레비지옹, 안드 브프스 인두스트리스 두이 투 이트스 아드반세드 아니마치옹, 히징그, 안드 시물라치옹 토우스. 일리 3드스 마스 이스 아우수 우제드 잉 테지 인두스트리스, 이트스 프리마리 포쿠스 이스 옹 티 아르시텍투라우 비주알리자치옹, 가미 데벨로프멘트, 안드 모치옹 그라픽스 섹토르스.
+Industry preference: Maya is often the preferred software in the film, television, and VFX industries due to its advanced animation, rigging, and simulation tools. While 3ds Max is also used in these industries, its primary focus is on the architectural visualization, game development, and motion graphics sectors.
 
 아니마치옹 안드 히징그 카파빌리치스: 마야 이스 크농 포르 이트스 호부스트 아니마치옹 안드 히징그 토우스, 이시 아리 이센치아우 포르 샤락테르 아니마치옹 안드 비주아우 이펙트스. 마야'스 아니마치옹 토우스 아리 제네랄리 모리 아드반세드 안드 플레시블리 콤파레드 투 토지 잉 3드스 마스, 마킹그 이트 아 베테르 쇼이시 포르 콤플레스 샤락테르 아니마치옹 프로젝트스.
+Animation and rigging capabilities: Maya is known for its robust animation and rigging tools, which are essential for character animation and visual effects. Maya's animation tools are generally more advanced and flexible compared to those in 3ds Max, making it a better choice for complex character animation projects.
 
 시물라치옹 토우스: 마야 잉클루지스 포웨르풀 시물라치옹 토우스 포르 크레아칭그 헤알리스치크 클로트, 아이르, 푸르, 안드 플루이드 이펙트스. 일리 3드스 마스 아우수 오페르스 소미 시물라치옹 카파빌리치스, 마야'스 토우스 아리 오프텡 콘시데레드 모리 아드반세드 안드 베르사칠리 포르 크레아칭그 이그-쿠알리치 비주아우 이펙트스.
+Simulation tools: Maya includes powerful simulation tools for creating realistic cloth, hair, fur, and fluid effects. While 3ds Max also offers some simulation capabilities, Maya's tools are often considered more advanced and versatile for creating high-quality visual effects.
 
 스크리프칭그 안드 쿠스토미자치옹: 마야 우지스 피통 안드 메우 (마야 임베데드 랑구아지) 포르 스크리프칭그, 이시 알로스 포르 이스텐시비 쿠스토미자치옹 안드 인테그라치옹 위트 오테르 소프트와리. 일리 3드스 마스 아우수 수포르트스 스크리프칭그 트로그 이트스 옹 랑구아지, 마스크리프트, 안드 피통, 티 스크리프칭그 이코지스텡 잉 마야 이스 제네랄리 콘시데레드 모리 마투리 안드 플레시블리.
+Scripting and customization: Maya uses Python and MEL (Maya Embedded Language) for scripting, which allows for extensive customization and integration with other software. While 3ds Max also supports scripting through its own language, MAXScript, and Python, the scripting ecosystem in Maya is generally considered more mature and flexible.
 
 리누스 수포르트: 마야 수포르트스 리누스 오페라칭그 시스템스, 이시 아리 코몬리 우제드 잉 티 브프스 안드 아니마치옹 인두스트리스 포르 테이르 스타빌리치 안드 페르포르만시. 잉 콘트라스트, 3드스 마스 이스 온리 아바일라블리 포르 윈도스 오페라칭그 시스템스, 이시 마이 리미트 이트스 우지 잉 소미 프로둑치옹 피펠리니스.
+Linux support: Maya supports Linux operating systems, which are commonly used in the VFX and animation industries for their stability and performance. In contrast, 3ds Max is only available for Windows operating systems, which may limit its use in some production pipelines.
 
 타트 사이드, 3드스 마스 아스 이트스 옹 스트렝그트스, 수시 아스 이트스 포웨르풀 모델링그 토우스, 이스텐시비 모지피에르 스타크, 안드 우제르-프리엔들리 인테르파시. 티 쇼이시 베트웽 마야 안드 3드스 마스 우우치마텔리 데펜드스 옹 티 스페시피크 네드스 오프 티 프로젝트 안드 티 우제르'스 파밀리아리치 위트 이아시 소프트와리. 보트 프로그람스 아리 이글리 카파블리 안드 위델리 우제드 아크로스 바리오스 인두스트리스 포르 지페렌트 푸르포지스.
+That said, 3ds Max has its own strengths, such as its powerful modeling tools, extensive modifier stack, and user-friendly interface. The choice between Maya and 3ds Max ultimately depends on the specific needs of the project and the user's familiarity with each software. Both programs are highly capable and widely used across various industries for different purposes.
 
 ## 리스트 티 베스트 와이스 투 임포르트 오르 헤우지 마야 워르크스
+## list the best ways to import or reuse maya works
 
 < 테리 아리 세베라우 와이스 투 임포르트 오르 헤우지 아세트스 안드 워르크스 크레아테드 잉 아우토데스크 마야 포르 지페렌트 푸르포지스, 수시 아스 헨데링그, 아니마치옹, 오르 콜라보라치옹 위트 오테르 소프트와리. 에리 아리 소미 오프 티 베스트 메토드스 투 임포르트 오르 헤우지 마야 워르크스:
+< There are several ways to import or reuse assets and works created in Autodesk Maya for different purposes, such as rendering, animation, or collaboration with other software. Here are some of the best methods to import or reuse Maya works:
 
 필리 포르마트스:
+File Formats:
 엥 사링그 마야 아세트스 위트 오테르 소프트와리, 이트'스 이센치아우 투 우지 콤파치블리 필리 포르마트스. 소미 코몽 필리 포르마트스 타트 캉 비 이스포르테드 프롱 마야 안드 임포르테드 인투 오테르 프로그람스 잉클루지:
+When sharing Maya assets with other software, it's essential to use compatible file formats. Some common file formats that can be exported from Maya and imported into other programs include:
 오브즈 (와베프론트 오브젝트): 아 위델리 수포르테드 포르마트 포르 3드 모데우스, 수이타블리 포르 스타치크 메지스.
+OBJ (Wavefront Object): A widely supported format for 3D models, suitable for static meshes.
 프브스 (피움보스): 아 베르사칠리 포르마트 타트 캉 스토리 3드 모데우스, 테스투리스, 아니마치옹스, 안드 오테르 세니 다타. 프브스 이스 콤파치블리 위트 마니 3드 소프트와리 아플리카치옹스 안드 가미 인지니스.
+FBX (Filmbox): A versatile format that can store 3D models, textures, animations, and other scene data. FBX is compatible with many 3D software applications and game engines.
 알렘비크 (.아브크): 아 포르마트 타트 이피시엔틀리 스토리스 콤플레스 아니마테드 제오메트리 안드 시물라치옹스, 코몬리 우제드 잉 브프스 안드 아니마치옹 피펠리니스.
+Alembic (.abc): A format that efficiently stores complex animated geometry and simulations, commonly used in VFX and animation pipelines.
 마야 헤페렌시스:
+Maya References:
 마야 알로스 요 투 크레아치 헤페렌시스, 이시 아리 인스탄시스 오프 이스테르나우 마야 필리스 타트 캉 비 임포르테드 인투 아 세니 위토트 악투알리 메르징그 티 콘텐트. 헤페렌시스 아리 우제풀 포르 콜라보라칭그 위트 무우치플리 아르치스트스, 마나징그 라르지 프로젝트스, 오르 헤우징그 아세트스 리키 샤락테르스, 프로프스, 안드 인비론멘트스. 아니 우프다치스 마지 투 티 오리지나우 헤페렌세드 필리 위우 비 헤플렉테드 잉 아우 세니스 에리 티 헤페렌시 이스 우제드.
+Maya allows you to create references, which are instances of external Maya files that can be imported into a scene without actually merging the content. References are useful for collaborating with multiple artists, managing large projects, or reusing assets like characters, props, and environments. Any updates made to the original referenced file will be reflected in all scenes where the reference is used.
 
 임포르칭그 안드 이스포르칭그 세니스:
+Importing and Exporting Scenes:
 요 캉 임포르트 앙 인치리 마야 세니 오르 파르트스 오프 아 세니 인투 아노테르 마야 프로젝트 우징그 티 "임포르트" 안드 "이스포르트 셀렉치옹" 풍크치옹스. 티스 메토드 알로스 요 투 트란스페르 오브젝트스, 마테리아우스, 아니마치옹스, 안드 오테르 세니 일레멘트스 베트웽 지페렌트 마야 프로젝트스.
+You can import an entire Maya scene or parts of a scene into another Maya project using the "Import" and "Export Selection" functions. This method allows you to transfer objects, materials, animations, and other scene elements between different Maya projects.
 
 아세트 리브라리스 안드 마야'스 콘텐트 브로세르:
+Asset Libraries and Maya's Content Browser:
 요 캉 크레아치 쿠스통 아세트 리브라리스 잉 마야 투 스토리 안드 오르가니지 요르 모데우스, 마테리아우스, 안드 오테르 세니 일레멘트스. 테지 리브라리스 캉 비 아세세드 트로그 마야'스 콘텐트 브로세르, 알로윙그 요 투 키클리 헤우지 아세트스 잉 지페렌트 프로젝트스.
+You can create custom asset libraries in Maya to store and organize your models, materials, and other scene elements. These libraries can be accessed through Maya's Content Browser, allowing you to quickly reuse assets in different projects.
 
 플루그-잉스 안드 스크리프트스:
+Plug-ins and Scripts:
 테리 아리 바리오스 티르드-파르치 플루그-잉스 안드 스크리프트스 아바일라블리 타트 캉 에우프 스트레암리니 티 프로세스 오프 임포르칭그 안드 헤우징그 마야 아세트스 잉 오테르 소프트와리. 테지 토우스 캉 임프로비 콤파치빌리치, 안들리 바트시 임포르칭그, 안드 아우토마치 헤페치치비 타스크스.
+There are various third-party plug-ins and scripts available that can help streamline the process of importing and reusing Maya assets in other software. These tools can improve compatibility, handle batch importing, and automate repetitive tasks.
 
 엥 임포르칭그 오르 헤우징그 마야 워르크스, 이트'스 이센치아우 투 콘시데르 티 푸르포지, 콤파치빌리치, 안드 이피시엥키 오프 티 쇼젱 메토드. 티 베스트 아프로아시 위우 데펜드 옹 티 스페시피크 네드스 오프 티 프로젝트 안드 티 소프트와리 베잉그 우제드.
+When importing or reusing Maya works, it's essential to consider the purpose, compatibility, and efficiency of the chosen method. The best approach will depend on the specific needs of the project and the software being used.
 
 ## 타우크 모리 아보트 티 세니 콘세프트 안드 아드자센트 메토드스 오프 콤폰드 스토라지
+## talk more about the scene concept and adjacent methods of compound storage
 
 < 잉 3드 소프트와리 리키 아우토데스크 마야, 아 "세니" 헤페르스 투 티 콜렉치옹 오프 오브젝트스, 마테리아우스, 리그트스, 카메라스, 아니마치옹스, 안드 오테르 일레멘트스 타트 마키 우프 아 3드 프로젝트. 세니스 아리 이센치아우 베카우지 테이 데피니 티 비르투아우 인비론멘트 잉 이시 아우 티 콤포넨트스 오프 아 프로젝트 인테락트 안드 아리 헨데레드.
+< In 3D software like Autodesk Maya, a "scene" refers to the collection of objects, materials, lights, cameras, animations, and other elements that make up a 3D project. Scenes are essential because they define the virtual environment in which all the components of a project interact and are rendered.
 
 투 마나지 티 콤플레시치 안드 오르가니자치옹 오프 세니스, 이스페시알리 잉 라르지 프로젝트스, 아르치스트스 안드 스투지우스 우지 바리오스 메토드스 오프 콤폰드 스토라지 안드 세니 마나제멘트. 에리 아리 소미 오프 티 아드자센트 메토드스 안드 콘세프트스:
+To manage the complexity and organization of scenes, especially in large projects, artists and studios use various methods of compound storage and scene management. Here are some of the adjacent methods and concepts:
 
 라예레드 세니스:
+Layered Scenes:
 라예레드 세니스 알로 아르치스트스 투 오르가니지 안드 마나지 지페렌트 일레멘트스 오프 아 세니 비 플라싱그 텡 옹 세파라치 라예르스. 이아시 라예르 캉 비 콘트롤레드 인지비두알리, 이나블링그 아르치스트스 투 이지, 로크, 오르 모지피 스페시피크 파르트스 오프 아 세니 위토트 아펙칭그 티 헤스트. 라예레드 세니스 아리 우제풀 포르 오르가니징그 라르지 프로젝트스, 콜라보라칭그 위트 무우치플리 아르치스트스, 안드 심플리핑그 티 헨데링그 프로세스.
+Layered scenes allow artists to organize and manage different elements of a scene by placing them on separate layers. Each layer can be controlled individually, enabling artists to hide, lock, or modify specific parts of a scene without affecting the rest. Layered scenes are useful for organizing large projects, collaborating with multiple artists, and simplifying the rendering process.
 
 세니 아셈블리:
+Scene Assembly:
 세니 아셈블리 이스 아 메토드 포르 마나징그 무우치플리 세니 헤프레젠타치옹스 안드 스위트싱그 베트웽 텡 이피시엔틀리. 잉 마야, 세니 아셈블리 우지스 아셈블리 데피니치옹 노지스 투 크레아치 바리오스 헤프레젠타치옹스 오프 아세트스, 수시 아스 로-헤졸루치옹 프로시 모데우스, 이그-헤졸루치옹 모데우스, 오르 본징그 보시스. 아르치스트스 캉 스위트시 베트웽 테지 헤프레젠타치옹스 두링그 티 프로둑치옹 프로세스, 임프로빙그 비에포르트 페르포르만시 안드 심플리핑그 세니 마나제멘트.
+Scene assembly is a method for managing multiple scene representations and switching between them efficiently. In Maya, Scene Assembly uses Assembly Definition nodes to create various representations of assets, such as low-resolution proxy models, high-resolution models, or bounding boxes. Artists can switch between these representations during the production process, improving viewport performance and simplifying scene management.
 
 나메스파시스:
+Namespaces:
 나메스파시스 잉 마야 에우프 오르가니지 안드 마나지 오브젝트스 잉 아 세니, 이스페시알리 엥 임포르칭그 오르 헤페렌싱그 이스테르나우 필리스. 나메스파시스 악트 리키 콘타이네르스, 프레벤칭그 나밍그 콘플릭트스 베트웽 오브젝트스 프롱 지페렌트 필리스. 엥 임포르칭그 오르 헤페렌싱그 앙 이스테르나우 필리, 마야 캉 아우토마치칼리 크레아치 아 나메스파시 바제드 옹 티 필리 나미, 인수링그 타트 오브젝트스 프롱 지페렌트 소르시스 동'트 오베르리치 이아시 오테르.
+Namespaces in Maya help organize and manage objects in a scene, especially when importing or referencing external files. Namespaces act like containers, preventing naming conflicts between objects from different files. When importing or referencing an external file, Maya can automatically create a namespace based on the file name, ensuring that objects from different sources don't overwrite each other.
 
 필리 헤페렌싱그:
+File Referencing:
 아스 멘치오네드 이아를리에르, 필리 헤페렌싱그 이스 아 메토드 투 임포르트 이스테르나우 마야 필리스 인투 아 세니 위토트 메르징그 테이르 콘텐트. 인스테아드, 티 헤페렌세드 필리 헤마잉스 세파라치, 안드 아니 샨지스 마지 투 이트 위우 아우토마치칼리 우프다치 잉 아우 세니스 에리 티 헤페렌시 이스 우제드. 필리 헤페렌싱그 이스 아 포웨르풀 와이 투 마나지 라르지 프로젝트스, 사리 아세트스 아몽그 무우치플리 아르치스트스, 안드 마인타잉 아 농-데스트룩치비 워르크플로.
+As mentioned earlier, file referencing is a method to import external Maya files into a scene without merging their content. Instead, the referenced file remains separate, and any changes made to it will automatically update in all scenes where the reference is used. File referencing is a powerful way to manage large projects, share assets among multiple artists, and maintain a non-destructive workflow.
 
 아세트 리브라리스:
+Asset Libraries:
 아세트 리브라리스 아리 콜렉치옹스 오프 헤우자블리 모데우스, 마테리아우스, 안드 오테르 세니 일레멘트스 타트 캉 비 아세세드 안드 임포르테드 인투 바리오스 프로젝트스. 아세트 리브라리스 에우프 스트레암리니 워르크플로스, 임프로비 콘시스텡키 아크로스 지페렌트 프로젝트스, 안드 헤두시 티 치미 스펜트 옹 헤페치치비 타스크스. 잉 마야, 아세트 리브라리스 캉 비 크레아테드 안드 마나제드 우징그 티 콘텐트 브로세르.
+Asset libraries are collections of reusable models, materials, and other scene elements that can be accessed and imported into various projects. Asset libraries help streamline workflows, improve consistency across different projects, and reduce the time spent on repetitive tasks. In Maya, asset libraries can be created and managed using the Content Browser.
 
 테지 메토드스 안드 콘세프트스 에우프 아르치스트스 안드 스투지우스 마나지 티 콤플레시치 오프 3드 세니스, 오프치미지 워르크플로스, 안드 콜라보라치 모리 이피시엔틀리. 비 우징그 콤폰드 스토라지 안드 세니 마나제멘트 테시니케스, 아르치스트스 캉 포쿠스 옹 티 크레아치비 아스펙트스 오프 테이르 워르크 안드 마인타잉 아 스트룩투레드, 오르가니제드 프로둑치옹 피펠리니.
+These methods and concepts help artists and studios manage the complexity of 3D scenes, optimize workflows, and collaborate more efficiently. By using compound storage and scene management techniques, artists can focus on the creative aspects of their work and maintain a structured, organized production pipeline.
 
 ## 리스트 5 웨브시치스 투 핀드 수시 분들리스
+## list 5 websites to find such bundles
 
 < 테리 아리 세베라우 웨브시치스 에리 요 캉 핀드 분들레드 3드 아세트스, 모데우스, 마테리아우스, 안드 오테르 헤조르시스 타트 캉 비 우제드 잉 3드 프로젝트스 리키 아우토데스크 마야. 에리 아리 피비 포풀라르 웨브시치스 투 이스플로리:
+< There are several websites where you can find bundled 3D assets, models, materials, and other resources that can be used in 3D projects like Autodesk Maya. Here are five popular websites to explore:
 
 TurboSquid (<https://www.turbosquid.com/>):
+TurboSquid (<https://www.turbosquid.com/>):
 투르보스키드 이스 오니 오프 티 라르제스트 온리니 마르케트플라시스 포르 3드 모데우스 안드 아세트스. 테이 오페르 아 위지 한지 오프 이그-쿠알리치 모데우스, 테스투리스, 안드 오테르 헤조르시스, 잉클루징그 분들리스 안드 콜렉치옹스 포르 바리오스 인두스트리스 안드 아플리카치옹스.
+TurboSquid is one of the largest online marketplaces for 3D models and assets. They offer a wide range of high-quality models, textures, and other resources, including bundles and collections for various industries and applications.
 
 CGTrader (<https://www.cgtrader.com/>):
+CGTrader (<https://www.cgtrader.com/>):
 크그트라데르 이스 아노테르 포풀라르 온리니 마르케트플라시 포르 3드 모데우스 안드 아세트스. 테이 오페르 아 바리에치 오프 3드 모데우스, 마테리아우스, 안드 분들리스 프롱 지페렌트 아르치스트스 안드 크레아토르스, 카테링그 투 바리오스 인두스트리스 수시 아스 아르시텍투리, 가밍그, 안드 프로둑트 데지긍.
+CGTrader is another popular online marketplace for 3D models and assets. They offer a variety of 3D models, materials, and bundles from different artists and creators, catering to various industries such as architecture, gaming, and product design.
 
 Sketchfab (<https://sketchfab.com/>):
+Sketchfab (<https://sketchfab.com/>):
 스케트시파브 이스 아 플라트포릉 타트 알로스 우제르스 투 우플로아드, 사리, 안드 세우 3드 모데우스 안드 아세트스. 테이 오페르 아 지베르시 콜렉치옹 오프 3드 아세트스, 잉클루징그 분들레드 팍스 포르 바리오스 아플리카치옹스, 수시 아스 가미 아세트스, 아르시텍투라우 비주알리자치옹, 안드 모리.
+Sketchfab is a platform that allows users to upload, share, and sell 3D models and assets. They offer a diverse collection of 3D assets, including bundled packs for various applications, such as game assets, architectural visualization, and more.
 
 3DExport (<https://3dexport.com/>):
+3DExport (<https://3dexport.com/>):
 3데스포르트 이스 앙 온리니 마르케트플라시 포르 부잉그 안드 셀링그 3드 모데우스, 테스투리스, 안드 오테르 지지타우 아세트스. 테이 오페르 아 위지 한지 오프 분들레드 3드 아세트스 포르 바리오스 아플리카치옹스 안드 인두스트리스, 잉클루징그 가미 데벨로프멘트, 아니마치옹, 안드 아르시텍투라우 비주알리자치옹.
+3DExport is an online marketplace for buying and selling 3D models, textures, and other digital assets. They offer a wide range of bundled 3D assets for various applications and industries, including game development, animation, and architectural visualization.
 
 Creative Market (<https://creativemarket.com/>):
+Creative Market (<https://creativemarket.com/>):
 크레아치비 마르케트 이스 앙 온리니 마르케트플라시 포르 지지타우 데지긍 아세트스, 잉클루징그 3드 모데우스, 테스투리스, 안드 오테르 헤조르시스. 테이 오페르 아 바리에치 오프 분들레드 3드 아세트스 안드 콜렉치옹스 크레아테드 비 인데펜덴트 아르치스트스 안드 데지그네르스 포르 바리오스 인두스트리스 안드 아플리카치옹스.
+Creative Market is an online marketplace for digital design assets, including 3D models, textures, and other resources. They offer a variety of bundled 3D assets and collections created by independent artists and designers for various industries and applications.
 
 엥 우징그 3드 아세트스 프롱 테지 웨브시치스, 마키 수리 투 셰크 티 리센싱그 테름스 안드 콤파치빌리치 위트 요르 프레페헤드 3드 소프트와리, 수시 아스 아우토데스크 마야. 아지치오날리, 이트'스 이센치아우 투 헤스펙트 티 인텔렉투아우 프로페르치 히그트스 오프 티 크레아토르스 안드 아데리 투 티 우자지 헤스트릭치옹스 스페시피에드 잉 티 리센시스.
+When using 3D assets from these websites, make sure to check the licensing terms and compatibility with your preferred 3D software, such as Autodesk Maya. Additionally, it's essential to respect the intellectual property rights of the creators and adhere to the usage restrictions specified in the licenses.
 
 ## 리스트 5 모리 운데그론드 아우테르나치베스
+## list 5 more undeground alternatives
 
 < 에리 아리 피비 레세르-크농 오르 운데르그론드 아우테르나치베스 포르 핀징그 3드 모데우스 안드 아세트스. 일리 테지 플라트포름스 마이 노트 비 아스 위델리 크농 아스 티 라르제르 마르케트플라시스, 테이 스치우 오페르 아 바리에치 오프 헤조르시스 포르 요르 3드 프로젝트스:
+< Here are five lesser-known or underground alternatives for finding 3D models and assets. While these platforms may not be as widely known as the larger marketplaces, they still offer a variety of resources for your 3D projects:
 
 Blend Swap (<https://www.blendswap.com/>):
+Blend Swap (<https://www.blendswap.com/>):
 블렌드 스와프 이스 아 코무니치-드리벵 플라트포릉 프리마릴리 포쿠제드 옹 블렌데르 3드 아세트스. 우제르스 캉 핀드 아 바리에치 오프 3드 모데우스, 마테리아우스, 안드 오테르 헤조르시스, 마니 오프 이시 아리 아바일라블리 포르 프레이. 아우토그 프리마릴리 포르 블렌데르, 마니 아세트스 캉 비 콘베르테드 안드 우제드 잉 오테르 소프트와리 리키 마야.
+Blend Swap is a community-driven platform primarily focused on Blender 3D assets. Users can find a variety of 3D models, materials, and other resources, many of which are available for free. Although primarily for Blender, many assets can be converted and used in other software like Maya.
 
 Free3D (<https://free3d.com/>):
+Free3D (<https://free3d.com/>):
 프레이3드 이스 아 플라트포릉 타트 오페르스 아 미스 오프 프레이 안드 파이드 3드 모데우스 안드 아세트스. 일리 티 셀렉치옹 마이 노트 비 아스 이스텐시비 아스 오테르 마르케트플라시스, 요 캉 스치우 핀드 아 한지 오프 아세트스 포르 바리오스 아플리카치옹스.
+Free3D is a platform that offers a mix of free and paid 3D models and assets. While the selection may not be as extensive as other marketplaces, you can still find a range of assets for various applications.
 
 ShareCG (<https://www.sharecg.com/>):
+ShareCG (<https://www.sharecg.com/>):
 사렉그 이스 아 레세르-크농 플라트포릉 포르 사링그 3드 모데우스, 테스투리스, 안드 오테르 지지타우 아세트스. 일리 이트 마이 노트 아비 티 이스텐시비 카탈로그 오프 모리 프로미넨트 마르케트플라시스, 요 캉 스치우 핀드 아 바리에치 오프 프레이 아세트스 포르 요르 프로젝트스.
+ShareCG is a lesser-known platform for sharing 3D models, textures, and other digital assets. While it may not have the extensive catalog of more prominent marketplaces, you can still find a variety of free assets for your projects.
 
 RenderHub (<https://www.renderhub.com/>):
+RenderHub (<https://www.renderhub.com/>):
 헨데루브 이스 앙 온리니 마르케트플라시 오페링그 3드 모데우스, 테스투리스, 안드 오테르 지지타우 아세트스. 일리 노트 아스 웨우-크농 아스 티 라르제르 마르케트플라시스, 이트 스치우 프로비지스 아 바리에치 오프 헤조르시스 포르 바리오스 인두스트리스 안드 아플리카치옹스.
+RenderHub is an online marketplace offering 3D models, textures, and other digital assets. While not as well-known as the larger marketplaces, it still provides a variety of resources for various industries and applications.
 
 Yobi3D (<https://www.yobi3d.com/>):
+Yobi3D (<https://www.yobi3d.com/>):
 요비3드 이스 아 3드 모데우 세아르시 인지니 타트 아그레가치스 아세트스 프롱 바리오스 소르시스. 일리 노트 아 마르케트플라시 이트세우프, 이트 세르베스 아스 아 우제풀 토우 포르 지스코베링그 3드 모데우스 프롱 레세르-크농 웨브시치스 안드 코무니치스.
+Yobi3D is a 3D model search engine that aggregates assets from various sources. While not a marketplace itself, it serves as a useful tool for discovering 3D models from lesser-known websites and communities.
 
 엥 우징그 아세트스 프롱 레세르-크농 웨브시치스 오르 운데르그론드 소르시스, 마키 수리 투 셰크 티 리센싱그 테름스, 콤파치빌리치 위트 요르 프레페헤드 3드 소프트와리, 안드 티 쿠알리치 오프 티 모데우스. 아지치오날리, 헤스펙트 티 인텔렉투아우 프로페르치 히그트스 오프 티 크레아토르스 안드 아데리 투 티 우자지 헤스트릭치옹스 스페시피에드 잉 티 리센시스.
+When using assets from lesser-known websites or underground sources, make sure to check the licensing terms, compatibility with your preferred 3D software, and the quality of the models. Additionally, respect the intellectual property rights of the creators and adhere to the usage restrictions specified in the licenses.

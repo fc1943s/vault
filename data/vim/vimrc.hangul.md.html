@@ -622,162 +622,277 @@ document.addEventListener('DOMContentLoaded', function() {
         </header>
 
         <div id = "chapter-0" class = "chapter">
-  <pre><span style="color:#323232;">풍크치옹! 비주아우세아르시(지렉치옹)</span>
+  <pre><span style="color:#323232;">```vim</span>
+<span style="color:#323232;">풍크치옹! 비주아우세아르시(지렉치옹)</span>
+<span style="color:#323232;">function! VisualSearch(direction)</span>
 <span style="color:#323232;">레트 르:헤지스테르=@@</span>
+<span style="color:#323232;">let l:register=@@</span>
 <span style="color:#323232;">노르마우! 그비</span>
+<span style="color:#323232;">normal! gvy</span>
 <span style="color:#323232;">레트 르:세아르시=이스카피(@@, &#39;$.*/\[]&#39;)</span>
+<span style="color:#323232;">let l:search=escape(@@, &#39;$.*/\[]&#39;)</span>
 <span style="color:#323232;">이프 아:지렉치옹==&#39;/&#39;</span>
+<span style="color:#323232;">if a:direction==&#39;/&#39;</span>
 <span style="color:#323232;">이제쿠치 &#39;노르마우! /&#39;.르:세아르시</span>
+<span style="color:#323232;">execute &#39;normal! /&#39;.l:search</span>
 <span style="color:#323232;">에우시</span>
+<span style="color:#323232;">else</span>
 <span style="color:#323232;">이제쿠치 &#39;노르마우! ?&#39;.르:세아르시</span>
+<span style="color:#323232;">execute &#39;normal! ?&#39;.l:search</span>
 <span style="color:#323232;">인지프</span>
+<span style="color:#323232;">endif</span>
 <span style="color:#323232;">레트 @/=르:세아르시</span>
+<span style="color:#323232;">let @/=l:search</span>
 <span style="color:#323232;">노르마우! 그브</span>
+<span style="color:#323232;">normal! gV</span>
 <span style="color:#323232;">레트 @@=르:헤지스테르</span>
+<span style="color:#323232;">let @@=l:register</span>
 <span style="color:#323232;">인드풍크치옹</span>
+<span style="color:#323232;">endfunction</span>
 
 <span style="color:#323232;">세트 라지레드라</span>
+<span style="color:#323232;">set lazyredraw</span>
 <span style="color:#323232;">세트 비주아우베우</span>
+<span style="color:#323232;">set visualbell</span>
 <span style="color:#323232;">세트 노에호르베우스</span>
+<span style="color:#323232;">set noerrorbells</span>
 
 <span style="color:#323232;">레트 마플레아데르=&quot; &quot;</span>
+<span style="color:#323232;">let mapleader=&quot; &quot;</span>
 <span style="color:#323232;">레트 @아 = &quot;테스트&quot;</span>
+<span style="color:#323232;">let @a = &quot;text&quot;</span>
 
 <span style="color:#323232;">노레마프 &lt;크-이&gt; 7&lt;크-이&gt;</span>
+<span style="color:#323232;">noremap &lt;C-e&gt; 7&lt;C-e&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;이 7&lt;크-이&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;e 7&lt;C-e&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;크-이&gt; 7&lt;크-이&gt;</span>
+<span style="color:#323232;">noremap &lt;C-y&gt; 7&lt;C-y&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;이 7&lt;크-이&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;y 7&lt;C-y&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;프 &lt;크-프&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;f &lt;C-f&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;브 &lt;크-브&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;b &lt;C-b&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;사 &lt;큼드&gt;카우 브스코데노치피(&#39;이지토르.악치옹.셀렉타우&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;sa &lt;Cmd&gt;call VSCodeNotify(&#39;editor.action.selectAll&#39;)&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;구 &lt;큼드&gt;카우 브스코데노치피(&#39;워르크벤시.악치옹.고톨리니&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;go &lt;Cmd&gt;call VSCodeNotify(&#39;workbench.action.gotoLine&#39;)&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;응 응</span>
+<span style="color:#323232;">noremap &lt;leader&gt;m M</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;&lt;레아데르&gt;4 $</span>
+<span style="color:#323232;">noremap &lt;leader&gt;&lt;leader&gt;4 $</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;트 :악치옹 파라메테린푸&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;tt :action ParameterInfo&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;치 :악치옹 소웨호르데스크리프치옹&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;te :action ShowErrorDescription&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;즈스 우```즈스&lt;인테르&gt;```&lt;이스크&gt;우</span>
+<span style="color:#323232;">noremap &lt;leader&gt;js o```js&lt;enter&gt;```&lt;esc&gt;O</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;프스 우```프스&lt;인테르&gt;```&lt;이스크&gt;우</span>
+<span style="color:#323232;">noremap &lt;leader&gt;fs o```fs&lt;enter&gt;```&lt;esc&gt;O</span>
 
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;브 브</span>
+<span style="color:#323232;">noremap &lt;leader&gt;vv V</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;이 이</span>
+<span style="color:#323232;">noremap &lt;leader&gt;y y</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;이 이</span>
+<span style="color:#323232;">noremap &lt;leader&gt;Y Y</span>
 <span style="color:#323232;">브노레마프 드 즈</span>
+<span style="color:#323232;">vnoremap d j</span>
 <span style="color:#323232;">브노레마프 &lt;레아데르&gt;드 드</span>
+<span style="color:#323232;">vnoremap &lt;leader&gt;d d</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;1 &quot;지</span>
+<span style="color:#323232;">noremap &lt;leader&gt;1 &quot;zy</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;2 &quot;지</span>
+<span style="color:#323232;">noremap &lt;leader&gt;2 &quot;zY</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;3 &quot;스프</span>
+<span style="color:#323232;">noremap &lt;leader&gt;3 &quot;zp</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;&lt;레아데르&gt;3 &quot;스프</span>
+<span style="color:#323232;">noremap &lt;leader&gt;&lt;leader&gt;3 &quot;zP</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;4 &quot;즈드</span>
+<span style="color:#323232;">noremap &lt;leader&gt;4 &quot;zd</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;&lt;레아데르&gt;&#39; 이````&lt;이스크&gt;이</span>
+<span style="color:#323232;">noremap &lt;leader&gt;&lt;leader&gt;&#39; i````&lt;Esc&gt;hi</span>
 <span style="color:#323232;">이노레마프 &lt;레아데르&gt;&lt;레아데르&gt;&#39; ````&lt;이스크&gt;이</span>
+<span style="color:#323232;">inoremap &lt;leader&gt;&lt;leader&gt;&#39; ````&lt;Esc&gt;hi</span>
 
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;[ ?레트 &lt;크르&gt;:노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;[ ?let &lt;CR&gt;:noh&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;] /레트 &lt;크르&gt;:노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;] /let &lt;CR&gt;:noh&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;흐흐 :악치옹 헤룽&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;rr :action Rerun&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;후 :악치옹 훙&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;ru :action Run&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;흐스 :악치옹 스토프&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;rs :action Stop&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;흐크 :악치옹 훙콘피구라치옹&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;rc :action RunConfiguration&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;킁 :악치옹 클로제아우노치피카치옹스&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;cn :action CloseAllNotifications&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;쿠 :악치옹 클로제알레지토르즈부탁치비&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;co :action CloseAllEditorsButActive&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;하 &lt;큼드&gt;카우 브스코데노치피(&#39;노테보크.이제쿠치&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;ra &lt;Cmd&gt;call VSCodeNotify(&#39;notebook.execute&#39;)&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;히 :헤두&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;re :redo&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;니 &lt;큼드&gt;카우 브스코데노치피(&#39;이지토르.악치옹.마르케르.네스트&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;ne &lt;Cmd&gt;call VSCodeNotify(&#39;editor.action.marker.next&#39;)&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;피 &lt;큼드&gt;카우 브스코데노치피(&#39;이지토르.악치옹.마르케르.프레브&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;pe &lt;Cmd&gt;call VSCodeNotify(&#39;editor.action.marker.prev&#39;)&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;응크 &lt;큼드&gt;카우 브스코데노치피(&#39;노테보크.포쿠즈네스테지토르&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;nc &lt;Cmd&gt;call VSCodeNotify(&#39;notebook.focusNextEditor&#39;)&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;프크 &lt;큼드&gt;카우 브스코데노치피(&#39;노테보크.포쿠스프레비오제지토르&#39;)&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;pc &lt;Cmd&gt;call VSCodeNotify(&#39;notebook.focusPreviousEditor&#39;)&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;누 :악치옹 네스토쿠렌시&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;no :action NextOccurence&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;푸 :악치옹 프레비오조쿠렌시&lt;크르&gt;</span>
+<span style="color:#323232;">noremap &lt;leader&gt;po :action PreviousOccurence&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 크 /</span>
+<span style="color:#323232;">noremap Q /</span>
 <span style="color:#323232;">노레마프 &lt;스파시&gt;크 ?</span>
+<span style="color:#323232;">noremap &lt;space&gt;Q ?</span>
 <span style="color:#323232;">노레마프 / 즈</span>
+<span style="color:#323232;">noremap / j</span>
 <span style="color:#323232;">노레마프 ? 즈</span>
+<span style="color:#323232;">noremap ? j</span>
 
 
 <span style="color:#323232;">이프 인브 ==? &quot;스&quot;</span>
+<span style="color:#323232;">if env ==? &quot;sh&quot;</span>
 
 <span style="color:#323232;">노레마프 &lt;크-히그트&gt; 그트</span>
+<span style="color:#323232;">nnoremap &lt;c-right&gt; gt</span>
 <span style="color:#323232;">노레마프 &lt;크-레프트&gt; 그트</span>
+<span style="color:#323232;">nnoremap &lt;c-left&gt; gT</span>
 
 <span style="color:#323232;">노레마프 &lt;실렌트&gt;&lt;이스크&gt;&lt;이스크&gt; :노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;silent&gt;&lt;esc&gt;&lt;esc&gt; :noh&lt;CR&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt; /[아-스]&lt;크르&gt;:노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;w /[A-Z]&lt;CR&gt;h:noh&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt; /[아-스]&lt;크르&gt;:노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;W /[A-Z]&lt;CR&gt;:noh&lt;CR&gt;</span>
 
 <span style="color:#323232;">브노레마프 &lt;레아데르&gt; /[아-스]&lt;크르&gt;</span>
+<span style="color:#323232;">vnoremap &lt;leader&gt;w /[A-Z]&lt;CR&gt;h</span>
 <span style="color:#323232;">브노레마프 &lt;레아데르&gt; /[아-스]&lt;크르&gt;</span>
+<span style="color:#323232;">vnoremap &lt;leader&gt;W /[A-Z]&lt;CR&gt;</span>
 
 <span style="color:#323232;">브노레마프 &lt;실렌트&gt;* &lt;이스크&gt;:카우 비주아우세아르시(&#39;/&#39;)&lt;크르&gt;/&lt;크르&gt;</span>
+<span style="color:#323232;">vnoremap &lt;silent&gt;* &lt;ESC&gt;:call VisualSearch(&#39;/&#39;)&lt;CR&gt;/&lt;CR&gt;</span>
 <span style="color:#323232;">브노레마프 &lt;실렌트&gt;# &lt;이스크&gt;:카우 비주아우세아르시(&#39;?&#39;)&lt;크르&gt;?&lt;크르&gt;</span>
+<span style="color:#323232;">vnoremap &lt;silent&gt;# &lt;ESC&gt;:call VisualSearch(&#39;?&#39;)&lt;CR&gt;?&lt;CR&gt;</span>
 
 <span style="color:#323232;">이우세이프 인브 ==? &quot;이데아&quot;</span>
+<span style="color:#323232;">elseif env ==? &quot;idea&quot;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt; ]</span>
+<span style="color:#323232;">noremap &lt;leader&gt;w ]w</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt; [</span>
+<span style="color:#323232;">noremap &lt;leader&gt;W [w</span>
 
 <span style="color:#323232;">세트 이그노레카지</span>
+<span style="color:#323232;">set ignorecase</span>
 
 <span style="color:#323232;">인지프</span>
+<span style="color:#323232;">endif</span>
 
 <span style="color:#323232;">세트 이그노레카지</span>
+<span style="color:#323232;">set ignorecase</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt; /\크[아-스_]&lt;크르&gt;:노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;w /\C[A-Z_]&lt;CR&gt;h:noh&lt;CR&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt; /\크[아-스_]&lt;크르&gt;:노&lt;크르&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;W /\C[A-Z_]&lt;CR&gt;:noh&lt;CR&gt;</span>
 <span style="color:#323232;">브노레마프 &lt;레아데르&gt; /\크[아-스_]&lt;크르&gt;</span>
+<span style="color:#323232;">vnoremap &lt;leader&gt;w /\C[A-Z_]&lt;CR&gt;h</span>
 <span style="color:#323232;">브노레마프 &lt;레아데르&gt; /\크[아-스_]&lt;크르&gt;</span>
+<span style="color:#323232;">vnoremap &lt;leader&gt;W /\C[A-Z_]&lt;CR&gt;</span>
 
 
 <span style="color:#323232;">노레마프 &lt;크-[&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-[&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-]&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-]&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-\&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-\&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-스-[&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-s-[&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-스-]&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-s-]&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-스-\&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-s-\&gt; &lt;nop&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap ; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-;&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-스-&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-s-;&gt; &lt;nop&gt;</span>
 
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;&lt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;&lt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;- &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;- &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;= &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;= &lt;nop&gt;</span>
 
 
 <span style="color:#323232;">노레마프 ! &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap ! &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;스-타브&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;s-tab&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;스-프1&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;s-f1&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;스-프5&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;s-f5&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;크-크&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;c-k&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 ,드 &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap ,d &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;&lt;레아데르&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;&lt;leader&gt; &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;즈 &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;j &lt;nop&gt;</span>
 <span style="color:#323232;">노레마프 &lt;레아데르&gt;즈 &lt;노프&gt;</span>
+<span style="color:#323232;">nnoremap &lt;leader&gt;J &lt;nop&gt;</span>
 <span style="color:#323232;">&quot;&quot; 노레마프 &lt;타브&gt; &lt;노프&gt;</span>
+<span style="color:#323232;">&quot;&quot; nnoremap &lt;tab&gt; &lt;nop&gt;</span>
 
 <span style="color:#323232;">&quot;&quot; 노레마프 &lt;레아데르&gt;&lt;레아데르&gt;/ 이／</span>
+<span style="color:#323232;">&quot;&quot; noremap &lt;leader&gt;&lt;leader&gt;/ i／</span>
 <span style="color:#323232;">&quot;&quot; 이노레마프 &lt;레아데르&gt;&lt;레아데르&gt;/ ／</span>
+<span style="color:#323232;">&quot;&quot; inoremap &lt;leader&gt;&lt;leader&gt;/ ／</span>
 <span style="color:#323232;">&quot;&quot; 노레마프 이 즈</span>
+<span style="color:#323232;">&quot;&quot; noremap y j</span>
 <span style="color:#323232;">&quot;&quot; 노레마프 이 즈</span>
+<span style="color:#323232;">&quot;&quot; noremap Y j</span>
 
 <span style="color:#323232;">&quot;&quot; 노레마프 &lt;레아데르&gt;구 올레트 제틀로카우스 () = $&quot;0={0} {제틀로카우스 ()}&quot;&lt;이스크&gt;0즈</span>
+<span style="color:#323232;">&quot;&quot; noremap &lt;leader&gt;gl Olet getLocals () = $&quot;0={0} {getLocals ()}&quot;&lt;Esc&gt;0jw</span>
 <span style="color:#323232;">&quot;&quot; 노레마프 &lt;레아데르&gt;능 그세나메스파시&lt;이스크&gt;이비&quot;므슈&lt;이스크&gt;오모둘리 &lt;이스크&gt;&quot;므파 =&lt;이스크&gt;우()&lt;이스크&gt;&gt;&gt;</span>
+<span style="color:#323232;">&quot;&quot; noremap &lt;leader&gt;nm ggcenamespace&lt;esc&gt;Eviw&quot;mxxo&lt;esc&gt;omodule &lt;esc&gt;&quot;mpa =&lt;esc&gt;o()&lt;esc&gt;&gt;&gt;</span>
 
 
+</pre><pre>
 </pre>
 </div>
 

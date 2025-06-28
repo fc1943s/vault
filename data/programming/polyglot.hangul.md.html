@@ -622,99 +622,186 @@ document.addEventListener('DOMContentLoaded', function() {
         </header>
 
         <div id = "chapter-0" class = "chapter">
-  <pre><span style="color:#323232;">inl api_url = &quot;https://api.telegram.org/bot&quot; +\ token</span>
+  <pre><span style="color:#323232;">```spi</span>
+<span style="color:#323232;">inl api_url = &quot;https://api.telegram.org/bot&quot; +\ token</span>
+<span style="color:#323232;">inl api_url = &quot;https://api.telegram.org/bot&quot; +\ token</span>
 <span style="color:#323232;">이누 우루_제트_우프다치스 = 아피_우루 +\ &quot;/제투프다치스&quot;</span>
+<span style="color:#323232;">inl url_get_updates = api_url +\ &quot;/getUpdates&quot;</span>
 
-</pre><pre><span style="color:#323232;">카르구 훙 스피프스스부이우드 -- --스피-파트=&quot;./클리.스피&quot;</span>
+</pre><pre>
+<span style="color:#323232;">```프스1</span>
+<span style="color:#323232;">```ps1</span>
+<span style="color:#323232;">카르구 훙 스피프스스부이우드 -- --스피-파트=&quot;./클리.스피&quot;</span>
+<span style="color:#323232;">cargo run SpiFsxBuild -- --spi-path=&quot;./cli.spi&quot;</span>
 <span style="color:#323232;">&quot;../../타르제트/헬레아지/클리&quot; 스피프스스부이우드 -- --스피-파트=&quot;./클리.스피&quot; --프스스-파트=&quot;./클리.프스스&quot;</span>
+<span style="color:#323232;">&quot;../../target/release/cli&quot; SpiFsxBuild -- --spi-path=&quot;./cli.spi&quot; --fsx-path=&quot;./cli.fsx&quot;</span>
 
-</pre><pre><span style="color:#323232;">우지 스트드::파트::파트부프</span>
+</pre><pre>
+<span style="color:#323232;">```흐스</span>
+<span style="color:#323232;">```rs</span>
+<span style="color:#323232;">우지 스트드::파트::파트부프</span>
+<span style="color:#323232;">use std::path::PathBuf;</span>
 <span style="color:#323232;">우지 스트드::싱크::므프스크::{샤네우, 센데르}</span>
+<span style="color:#323232;">use std::sync::mpsc::{channel, Sender};</span>
 <span style="color:#323232;">우지 스트드::트레아드::{스팡, 조이냔들리}</span>
+<span style="color:#323232;">use std::thread::{spawn, JoinHandle};</span>
 <span style="color:#323232;">우지 스트드::치미::두라치옹</span>
+<span style="color:#323232;">use std::time::Duration;</span>
 
 <span style="color:#323232;">우지 노치피::{헤코멘데드와트셰르, 헤쿠르시베모지, 와트셰르}</span>
+<span style="color:#323232;">use notify::{RecommendedWatcher, RecursiveMode, Watcher};</span>
 
 <span style="color:#323232;">#[데리비(데부그)]</span>
+<span style="color:#323232;">#[derive(Debug)]</span>
 <span style="color:#323232;">이눙 필레지스템샨제치피 {</span>
+<span style="color:#323232;">enum FileSystemChangeType {</span>
 <span style="color:#323232;">이호르,</span>
+<span style="color:#323232;">Error,</span>
 <span style="color:#323232;">샨제드,</span>
+<span style="color:#323232;">Changed,</span>
 <span style="color:#323232;">크레아테드,</span>
+<span style="color:#323232;">Created,</span>
 <span style="color:#323232;">델레테드,</span>
+<span style="color:#323232;">Deleted,</span>
 <span style="color:#323232;">헤나메드,</span>
+<span style="color:#323232;">Renamed,</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 <span style="color:#323232;">#[데리비(데부그)]</span>
+<span style="color:#323232;">#[derive(Debug)]</span>
 <span style="color:#323232;">이눙 필레지스템샨지 {</span>
+<span style="color:#323232;">enum FileSystemChange {</span>
 <span style="color:#323232;">이호르(스트드::이우::이호르),</span>
+<span style="color:#323232;">Error(std::io::Error),</span>
 <span style="color:#323232;">샨제드(파트부프),</span>
+<span style="color:#323232;">Changed(PathBuf),</span>
 <span style="color:#323232;">크레아테드(파트부프),</span>
+<span style="color:#323232;">Created(PathBuf),</span>
 <span style="color:#323232;">델레테드(파트부프),</span>
+<span style="color:#323232;">Deleted(PathBuf),</span>
 <span style="color:#323232;">헤나메드(파트부프, 파트부프),</span>
+<span style="color:#323232;">Renamed(PathBuf, PathBuf),</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 <span style="color:#323232;">임푸 필레지스템샨지 {</span>
+<span style="color:#323232;">impl FileSystemChange {</span>
 <span style="color:#323232;">픙 파트(&amp;세우프) -&gt; 오프치옹&lt;(파트부프, 파트부프)&gt; {</span>
+<span style="color:#323232;">fn path(&amp;self) -&gt; Option&lt;(PathBuf, PathBuf)&gt; {</span>
 <span style="color:#323232;">마트시 세우프 {</span>
+<span style="color:#323232;">match self {</span>
 <span style="color:#323232;">필레지스템샨지::이호르(_) =&gt; 노니,</span>
+<span style="color:#323232;">FileSystemChange::Error(_) =&gt; None,</span>
 <span style="color:#323232;">필레지스템샨지::샨제드(파트)</span>
+<span style="color:#323232;">FileSystemChange::Changed(path)</span>
 <span style="color:#323232;">| 필레지스템샨지::크레아테드(파트)</span>
+<span style="color:#323232;">| FileSystemChange::Created(path)</span>
 <span style="color:#323232;">| 필레지스템샨지::델레테드(파트) =&gt; (노니, 소미(파트.클로니())),</span>
+<span style="color:#323232;">| FileSystemChange::Deleted(path) =&gt; (None, Some(path.clone())),</span>
 <span style="color:#323232;">필레지스템샨지::헤나메드(오우드_파트, 파트) =&gt; 소미((오우드_파트.클로니(), 파트.클로니())),</span>
+<span style="color:#323232;">FileSystemChange::Renamed(old_path, path) =&gt; Some((old_path.clone(), path.clone())),</span>
+<span style="color:#323232;">}</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 <span style="color:#323232;">픙 샨지_치피(&amp;세우프) -&gt; 필레지스템샨제치피 {</span>
+<span style="color:#323232;">fn change_type(&amp;self) -&gt; FileSystemChangeType {</span>
 <span style="color:#323232;">마트시 세우프 {</span>
+<span style="color:#323232;">match self {</span>
 <span style="color:#323232;">필레지스템샨지::이호르(_) =&gt; 필레지스템샨제치피::이호르,</span>
+<span style="color:#323232;">FileSystemChange::Error(_) =&gt; FileSystemChangeType::Error,</span>
 <span style="color:#323232;">필레지스템샨지::샨제드(_) =&gt; 필레지스템샨제치피::샨제드,</span>
+<span style="color:#323232;">FileSystemChange::Changed(_) =&gt; FileSystemChangeType::Changed,</span>
 <span style="color:#323232;">필레지스템샨지::크레아테드(_) =&gt; 필레지스템샨제치피::크레아테드,</span>
+<span style="color:#323232;">FileSystemChange::Created(_) =&gt; FileSystemChangeType::Created,</span>
 <span style="color:#323232;">필레지스템샨지::델레테드(_) =&gt; 필레지스템샨제치피::델레테드,</span>
+<span style="color:#323232;">FileSystemChange::Deleted(_) =&gt; FileSystemChangeType::Deleted,</span>
 <span style="color:#323232;">필레지스템샨지::헤나메드(_, _) =&gt; 필레지스템샨제치피::헤나메드,</span>
+<span style="color:#323232;">FileSystemChange::Renamed(_, _) =&gt; FileSystemChangeType::Renamed,</span>
+<span style="color:#323232;">}</span>
+<span style="color:#323232;">}</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 <span style="color:#323232;">픙 와트시_위트_피우테르(파트: &amp;스트르, 피우테르: 노치피::헤코멘데드와트셰르) -&gt; 센데르&lt;필레지스템샨지&gt; {</span>
+<span style="color:#323232;">fn watch_with_filter(path: &amp;str, filter: notify::RecommendedWatcher) -&gt; Sender&lt;FileSystemChange&gt; {</span>
 <span style="color:#323232;">레트 (트스, 흐스) = 샤네우()</span>
+<span style="color:#323232;">let (tx, rx) = channel();</span>
 
 <span style="color:#323232;">레트 무트 와트셰르: 헤코멘데드와트셰르 = 피우테르.클로니()</span>
+<span style="color:#323232;">let mut watcher: RecommendedWatcher = filter.clone();</span>
 <span style="color:#323232;">와트셰르</span>
+<span style="color:#323232;">watcher</span>
 <span style="color:#323232;">.와트시(파트, 헤쿠르시베모지::헤쿠르시비)</span>
+<span style="color:#323232;">.watch(path, RecursiveMode::Recursive)</span>
 <span style="color:#323232;">.운으라프_오르_에우시(|이| 파니크!(&quot;파일레드 투 와트시 지렉토리 &#39;{}&#39;: {:?}&quot;, 파트, 이))</span>
+<span style="color:#323232;">.unwrap_or_else(|e| panic!(&quot;Failed to watch directory &#39;{}&#39;: {:?}&quot;, path, e));</span>
 
 <span style="color:#323232;">레트 트스2 = 트스.클로니()</span>
+<span style="color:#323232;">let tx2 = tx.clone();</span>
 <span style="color:#323232;">레트 무트 이벤트스 = 와트셰르</span>
+<span style="color:#323232;">let mut events = watcher</span>
 <span style="color:#323232;">.이벤트_헤세이베르()</span>
+<span style="color:#323232;">.event_receiver()</span>
 <span style="color:#323232;">.운으라프_오르_에우시(|이| 파니크!(&quot;파일레드 투 헤세이비 이벤트스 포르 지렉토리 &#39;{}&#39;: {:?}&quot;, 파트, 이))</span>
+<span style="color:#323232;">.unwrap_or_else(|e| panic!(&quot;Failed to receive events for directory &#39;{}&#39;: {:?}&quot;, path, e));</span>
 
 <span style="color:#323232;">스팡(모비 || 로프 {</span>
+<span style="color:#323232;">spawn(move || loop {</span>
 <span style="color:#323232;">마트시 이벤트스.헥브_치메오트(두라치옹::프롱_섹스(1)) {</span>
+<span style="color:#323232;">match events.recv_timeout(Duration::from_secs(1)) {</span>
 <span style="color:#323232;">오크(이벤트) =&gt; 마트시 이벤트 {</span>
+<span style="color:#323232;">Ok(event) =&gt; match event {</span>
 <span style="color:#323232;">노치피::데본세데벤트::리치(파트) =&gt; 트스.센드(필레지스템샨지::샨제드(파트)).운으라프(),</span>
+<span style="color:#323232;">notify::DebouncedEvent::Write(path) =&gt; tx.send(FileSystemChange::Changed(path)).unwrap(),</span>
 <span style="color:#323232;">노치피::데본세데벤트::크레아치(파트) =&gt; 트스.센드(필레지스템샨지::크레아테드(파트)).운으라프(),</span>
+<span style="color:#323232;">notify::DebouncedEvent::Create(path) =&gt; tx.send(FileSystemChange::Created(path)).unwrap(),</span>
 <span style="color:#323232;">노치피::데본세데벤트::헤모비(파트) =&gt; 트스.센드(필레지스템샨지::델레테드(파트)).운으라프(),</span>
+<span style="color:#323232;">notify::DebouncedEvent::Remove(path) =&gt; tx.send(FileSystemChange::Deleted(path)).unwrap(),</span>
 <span style="color:#323232;">노치피::데본세데벤트::헤나미(오우드_파트, 파트) =&gt; {</span>
+<span style="color:#323232;">notify::DebouncedEvent::Rename(old_path, path) =&gt; {</span>
 <span style="color:#323232;">트스.센드(필레지스템샨지::헤나메드(오우드_파트, 파트)).운으라프()</span>
+<span style="color:#323232;">tx.send(FileSystemChange::Renamed(old_path, path)).unwrap()</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">_ =&gt; {}</span>
+<span style="color:#323232;">_ =&gt; {}</span>
+<span style="color:#323232;">},</span>
 <span style="color:#323232;">},</span>
 <span style="color:#323232;">이흐(_) =&gt; {}</span>
+<span style="color:#323232;">Err(_) =&gt; {}</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">})</span>
+<span style="color:#323232;">});</span>
 
 <span style="color:#323232;">트스2</span>
+<span style="color:#323232;">tx2</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 <span style="color:#323232;">픙 와트시(파트: &amp;스트르) -&gt; 센데르&lt;필레지스템샨지&gt; {</span>
+<span style="color:#323232;">fn watch(path: &amp;str) -&gt; Sender&lt;FileSystemChange&gt; {</span>
 <span style="color:#323232;">와트시_위트_피우테르(</span>
+<span style="color:#323232;">watch_with_filter(</span>
 <span style="color:#323232;">파트,</span>
+<span style="color:#323232;">path,</span>
 <span style="color:#323232;">노치피::와트셰르::네(</span>
+<span style="color:#323232;">notify::Watcher::new(</span>
 <span style="color:#323232;">스트드::치미::두라치옹::프롱_섹스(2),</span>
+<span style="color:#323232;">std::time::Duration::from_secs(2),</span>
 <span style="color:#323232;">).운으라프_오르_에우시(|이| 파니크!(&quot;파일레드 투 크레아치 와트셰르 포르 지렉토리 &#39;{}&#39;: {:?}&quot;, 파트, 이)),</span>
+<span style="color:#323232;">).unwrap_or_else(|e| panic!(&quot;Failed to create watcher for directory &#39;{}&#39;: {:?}&quot;, path, e)),</span>
+<span style="color:#323232;">)</span>
 <span style="color:#323232;">)</span>
 <span style="color:#323232;">}</span>
+<span style="color:#323232;">}</span>
 
+</pre><pre>
 </pre>
 </div>
 

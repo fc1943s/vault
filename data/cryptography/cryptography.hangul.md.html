@@ -622,82 +622,124 @@ document.addEventListener('DOMContentLoaded', function() {
         </header>
 
         <div id = "chapter-0" class = "chapter">
-  <pre><span style="color:#323232;">(마프 #(카지 (모드 (+ (* %1 6) 11) 91) 0 1 12 6 (샤르 %)) [10 22 21 10])</span>
+  <pre><span style="color:#323232;">```clj</span>
+<span style="color:#323232;">(마프 #(카지 (모드 (+ (* %1 6) 11) 91) 0 1 12 6 (샤르 %)) [10 22 21 10])</span>
+<span style="color:#323232;">(map #(case (mod (+ (* %1 6) 11) 91) 0 1 12 6 (char %)) [10 22 21 10])</span>
 
 
 <span style="color:#323232;">(마프 #(샤르 (모드 (+ (* %1 6) 11) 91)) [10 22 21 10])</span>
+<span style="color:#323232;">(map #(char (mod (+ (* %1 6) 11) 91)) [10 22 21 10])</span>
 <span style="color:#323232;">(&quot;그&quot; &quot;4&quot; &quot;.&quot; &quot;그&quot;)</span>
+<span style="color:#323232;">(&quot;G&quot; &quot;4&quot; &quot;.&quot; &quot;G&quot;)</span>
 
 
 <span style="color:#323232;">(마프 #(레트 [크 (모드 (+ (* % 6) 35) 91)] (이프 (= 크 35) \# (샤르 크))) [10 22 21 10])</span>
+<span style="color:#323232;">(map #(let [c (mod (+ (* % 6) 35) 91)] (if (= c 35) \# (char c))) [10 22 21 10])</span>
 
 
 <span style="color:#323232;">(마프 #(샤르 (모드 (+ (* % 10 10) 10) 10)) [10 10 10 10])</span>
+<span style="color:#323232;">(map #(char (mod (+ (* % 10 10) 10) 10)) [10 10 10 10])</span>
 
 
 <span style="color:#323232;">(-&gt;&gt; [3 14 0 14] (마프 #(샤르 (모드 (+ (* % 7) 97) 256))))</span>
+<span style="color:#323232;">(-&gt;&gt; [3 14 0 14] (map #(char (mod (+ (* % 7) 97) 256))))</span>
 
 <span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (마프 #(샤르 (모드 (+ (* % 19 29) 124) 127))))</span>
+<span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (map #(char (mod (+ (* % 19 29) 124) 127))))</span>
 
 <span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (마프 #(샤르 (모드 (+ (* % 19 29) 97) 127))))</span>
+<span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (map #(char (mod (+ (* % 19 29) 97) 127))))</span>
 
 <span style="color:#323232;">(-&gt;&gt; [1 12 0 1] (마프 #(샤르 (모드 (+ (* (헤두시 * [1 % 2 3]) % 31) 96) 127))))</span>
+<span style="color:#323232;">(-&gt;&gt; [1 12 0 1] (map #(char (mod (+ (* (reduce * [1 % 2 3]) % 31) 96) 127))))</span>
 
 
 <span style="color:#323232;">(-&gt;&gt; [2 1 13 1] (헤두시 * [1 2 3]) (* 31) (+ 96) (모드 127) (샤르))</span>
+<span style="color:#323232;">(-&gt;&gt; [2 1 13 1] (reduce * [1 2 3]) (* 31) (+ 96) (mod 127) (char))</span>
 
 
 
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* % 7) 96))))</span>
+<span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (map #(char (+ (* % 7) 96))))</span>
 <span style="color:#323232;">(&quot;그&quot; &quot;그&quot; &quot;»&quot; &quot;그&quot;)</span>
+<span style="color:#323232;">(&quot;g&quot; &quot;g&quot; &quot;»&quot; &quot;g&quot;)</span>
 
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* % (헤두시 * (타키 % (이테라치 잉크 2)))) 96))))</span>
+<span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (map #(char (+ (* % (reduce * (take % (iterate inc 2)))) 96))))</span>
 <span style="color:#323232;">(&quot;브&quot; &quot;브&quot; &quot;ࡠ&quot; &quot;브&quot;)</span>
+<span style="color:#323232;">(&quot;b&quot; &quot;b&quot; &quot;ࡠ&quot; &quot;b&quot;)</span>
 
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* (비트-안드 % 23) (비트-오르 % 23)) 96))))</span>
+<span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (map #(char (+ (* (bit-and % 23) (bit-or % 23)) 96))))</span>
 <span style="color:#323232;">(&quot;&quot; &quot;&quot; &quot;우&quot; &quot;&quot;)</span>
+<span style="color:#323232;">(&quot;w&quot; &quot;w&quot; &quot;û&quot; &quot;w&quot;)</span>
 
 <span style="color:#323232;">=&gt;(데픙 프 [응] (이프 (&lt;= 응 0) 1 (* 응 (프 (- 응 1))))) (-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (프 %) 96))))</span>
+<span style="color:#323232;">=&gt;(defn f [n] (if (&lt;= n 0) 1 (* n (f (- n 1))))) (-&gt;&gt; [1 1 13 1] (map #(char (+ (f %) 96))))</span>
 <span style="color:#323232;">(&quot;아&quot; &quot;아&quot; &quot;챠&quot; &quot;아&quot;)</span>
+<span style="color:#323232;">(&quot;a&quot; &quot;a&quot; &quot;챠&quot; &quot;a&quot;)</span>
 
 <span style="color:#323232;">=&gt;(레트 [응1 [[1 2] [3 4]] 응2 [[5 6] [7 8]]] (-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* % (제트-잉 응1 [0 0])) (제트-잉 응2 [0 1]) 96)))))</span>
+<span style="color:#323232;">=&gt;(let [m1 [[1 2] [3 4]] m2 [[5 6] [7 8]]] (-&gt;&gt; [1 1 13 1] (map #(char (+ (* % (get-in m1 [0 0])) (get-in m2 [0 1]) 96)))))</span>
 <span style="color:#323232;">(&quot;그&quot; &quot;그&quot; &quot;스&quot; &quot;그&quot;)</span>
+<span style="color:#323232;">(&quot;g&quot; &quot;g&quot; &quot;s&quot; &quot;g&quot;)</span>
 
-</pre><pre><span style="color:#323232;">[2, 4, 6, 8] |&gt; 이눙.마프(&amp;(&quot;#{&amp;1 * 2 - 2}#{&amp;1 * 3 - 9}#{&amp;1 * 5 - 25}#{&amp;1 * 7 - 49}&quot; |&gt; 비치_시지() |&gt; 투_스트링그() &lt;&gt; 투_스트링그(&amp;1 * &amp;1 * 7 + &amp;1 + 95)) |&gt; 스트링그.투_샤를리스트()) |&gt; 이우.인스펙트()</span>
+</pre><pre>
+<span style="color:#323232;">```이스</span>
+<span style="color:#323232;">```exs</span>
+<span style="color:#323232;">[2, 4, 6, 8] |&gt; 이눙.마프(&amp;(&quot;#{&amp;1 * 2 - 2}#{&amp;1 * 3 - 9}#{&amp;1 * 5 - 25}#{&amp;1 * 7 - 49}&quot; |&gt; 비치_시지() |&gt; 투_스트링그() &lt;&gt; 투_스트링그(&amp;1 * &amp;1 * 7 + &amp;1 + 95)) |&gt; 스트링그.투_샤를리스트()) |&gt; 이우.인스펙트()</span>
+<span style="color:#323232;">[2, 4, 6, 8] |&gt; Enum.map(&amp;(&quot;#{&amp;1 * 2 - 2}#{&amp;1 * 3 - 9}#{&amp;1 * 5 - 25}#{&amp;1 * 7 - 49}&quot; |&gt; byte_size() |&gt; to_string() &lt;&gt; to_string(&amp;1 * &amp;1 * 7 + &amp;1 + 95)) |&gt; String.to_charlist()) |&gt; IO.inspect()</span>
 
 
 <span style="color:#323232;">일리시르 -이 &quot;[2, 4, 6, 8] |&gt; 이눙.마프(&amp;(\&quot;#{&amp;1 * 2 - 2}#{&amp;1 * 3 - 9}#{&amp;1 * 5 - 25}#{&amp;1 * 7 - 49}\&quot; |&gt; 비치_시지() |&gt; 투_스트링그() |&gt; (픙 스 -&gt; 인테제르.파르시(투_스트링그(스)) |&gt; 엘렝(0) 인드).() |&gt; (픙 이 -&gt; 투_스트링그(이 * 이 * 7 + 이 + 95) 인드).())) |&gt; 이우.인스펙트()&quot;</span>
+<span style="color:#323232;">elixir -e &quot;[2, 4, 6, 8] |&gt; Enum.map(&amp;(\&quot;#{&amp;1 * 2 - 2}#{&amp;1 * 3 - 9}#{&amp;1 * 5 - 25}#{&amp;1 * 7 - 49}\&quot; |&gt; byte_size() |&gt; to_string() |&gt; (fn x -&gt; Integer.parse(to_string(x)) |&gt; elem(0) end).() |&gt; (fn y -&gt; to_string(y * y * 7 + y + 95) end).())) |&gt; IO.inspect()&quot;</span>
 
 
 <span style="color:#323232;">일리시르 -이 &#39;인푸트 = [97, 109, 97]</span>
+<span style="color:#323232;">elixir -e &#39;input = [97, 109, 97]</span>
 <span style="color:#323232;">코에프스 = 이눙.헤베르시(인푸트)</span>
+<span style="color:#323232;">coeffs = Enum.reverse(input)</span>
 
 <span style="color:#323232;">위트 아크 &lt;- 1..4</span>
+<span style="color:#323232;">with acc &lt;- 1..4</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt; 스 * 스 * 스 * (코에프스 |&gt; 이눙.아트(0)) + 스 * 스 * (코에프스 |&gt; 이눙.아트(1)) + 스 * (코에프스 |&gt; 이눙.아트(2)) + (코에프스 |&gt; 이눙.아트(3)) 인드)</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt; x * x * x * (coeffs |&gt; Enum.at(0)) + x * x * (coeffs |&gt; Enum.at(1)) + x * (coeffs |&gt; Enum.at(2)) + (coeffs |&gt; Enum.at(3)) end)</span>
 <span style="color:#323232;">|&gt; 이눙.숭(),</span>
+<span style="color:#323232;">|&gt; Enum.sum(),</span>
 <span style="color:#323232;">코데포인트 &lt;- 헹(아크, 1111) + 770,</span>
+<span style="color:#323232;">codepoint &lt;- rem(acc, 1111) + 770,</span>
 <span style="color:#323232;">두: 이우.푸트스(:&quot;\##{코데포인트}&quot;)&#39;</span>
+<span style="color:#323232;">do: IO.puts(:&quot;\##{codepoint}&quot;)&#39;</span>
 
 
 
 
 
 <span style="color:#323232;">일리시르 -이 &quot;이우.푸트스 \&quot;#{이눙.마프([97, 109, 97, 35], 픙 스 -&gt; (스 + 6) * (스 + 4) * (스 + 2) * 스 |&gt; 헹(26) |&gt; 케르네우.+(97) 인드) |&gt; 이눙.마프(&amp;(:이를랑그.인테제르_투_리스트(&amp;1) |&gt; 리스트.피르스트())) |&gt; :우니코지.샤락테르스_투_비나리()}\&quot;&quot;</span>
+<span style="color:#323232;">elixir -e &quot;IO.puts \&quot;#{Enum.map([97, 109, 97, 35], fn x -&gt; (x + 6) * (x + 4) * (x + 2) * x |&gt; rem(26) |&gt; Kernel.+(97) end) |&gt; Enum.map(&amp;(:erlang.integer_to_list(&amp;1) |&gt; List.first())) |&gt; :unicode.characters_to_binary()}\&quot;&quot;</span>
 
 <span style="color:#323232;">일리시르 -이 &quot;이우.푸트스 \&quot;#{이눙.마프([97, 109, 97, 35], 픙 스 -&gt; ((스 + 6) * (스 + 4) * (스 + 2) * 스) |&gt; 헹(26) |&gt; 케르네우.+(97) |&gt; :이를랑그.인트_투_샤르 인드) |&gt; 리스트.투_스트링그()}\&quot;&quot;</span>
+<span style="color:#323232;">elixir -e &quot;IO.puts \&quot;#{Enum.map([97, 109, 97, 35], fn x -&gt; ((x + 6) * (x + 4) * (x + 2) * x) |&gt; rem(26) |&gt; Kernel.+(97) |&gt; :erlang.int_to_char end) |&gt; List.to_string()}\&quot;&quot;</span>
 
 
 
 <span style="color:#323232;">일리시르 -이 &quot;이우.푸트스 \&quot;#{이눙.마프([1, 2, 3], 픙 스 -&gt; (스 + 4) * (스 + 1) * (스 - 1) |&gt; 헹(26) |&gt; 케르네우.-(98)||100 인드 ) |&gt; :이를랑그.인테제르_투_리스트()</span>
+<span style="color:#323232;">elixir -e &quot;IO.puts \&quot;#{Enum.map([1, 2, 3], fn x -&gt; (x + 4) * (x + 1) * (x - 1) |&gt; rem(26) |&gt; Kernel.-(98)||100 end ) |&gt; :erlang.integer_to_list()</span>
 <span style="color:#323232;"># || [109] ++ 이눙.마프([2,3],픙 스-&gt; 97+((2*스-7)*헹(13))||99인드 )</span>
+<span style="color:#323232;">#         || [109] ++ Enum.map([2,3],fn x-&gt; 97+((2*x-7)*rem(13))||99end )</span>
 <span style="color:#323232;"># ||[97]|&gt; 리스트.포우두(&amp;리스트::플라텡/1,[])</span>
+<span style="color:#323232;">#            ||[97]|&gt; List.foldl(&amp;List::flatten/1,[])</span>
 <span style="color:#323232;"># ||:우니코지.샤락테르스_투_비나리()}\&quot;&quot;</span>
+<span style="color:#323232;">#            ||:unicode.characters_to_binary()}\&quot;&quot;</span>
 <span style="color:#323232;"># 아마</span>
+<span style="color:#323232;"># ama</span>
 
 <span style="color:#323232;">일리시르 -이 &quot;이우.푸트스 \&quot;#{이눙.마프([1, 2, 3], 픙 스 -&gt; (스 + 4) * (스 + 1) * (스 - 1) |&gt; 헹(26) |&gt; 케르네우.-(98)||100 인드 ) |&gt; 이눙.마프(&amp;(:이를랑그.인테제르_투_리스트(&amp;1) |&gt; 리스트.피르스트())) |&gt; :우니코지.샤락테르스_투_비나리()}\&quot;&quot;</span>
+<span style="color:#323232;">elixir -e &quot;IO.puts \&quot;#{Enum.map([1, 2, 3], fn x -&gt; (x + 4) * (x + 1) * (x - 1) |&gt; rem(26) |&gt; Kernel.-(98)||100 end ) |&gt; Enum.map(&amp;(:erlang.integer_to_list(&amp;1) |&gt; List.first())) |&gt; :unicode.characters_to_binary()}\&quot;&quot;</span>
 
 
 <span style="color:#323232;">일리시르 -이 &quot;이우.푸트스 \&quot;#{이눙.마프([1, 2, 3], 픙 스 -&gt; (스 + 4) * (스 + 1) * (스 - 1) |&gt; 헹(26) |&gt; 케르네우.-(98)||100 인드 ) |&gt; 이눙.마프(&amp;(:이를랑그.인테제르_투_리스트(&amp;1) |&gt; 리스트.피르스트())) |&gt; :우니코지.샤락테르스_투_비나리()}\&quot;&quot;</span>
+<span style="color:#323232;">elixir -e &quot;IO.puts \&quot;#{Enum.map([1, 2, 3], fn x -&gt; (x + 4) * (x + 1) * (x - 1) |&gt; rem(26) |&gt; Kernel.-(98)||100 end ) |&gt; Enum.map(&amp;(:erlang.integer_to_list(&amp;1) |&gt; List.first())) |&gt; :unicode.characters_to_binary()}\&quot;&quot;</span>
 
 
 
@@ -706,32 +748,58 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;"># 잉코지 풍크치옹</span>
+<span style="color:#323232;"># Encode function</span>
 <span style="color:#323232;">플라인테스트 = &quot;엘루&quot;</span>
+<span style="color:#323232;">plaintext = &quot;HELLO&quot;</span>
 <span style="color:#323232;">잉코데드 = 플라인테스트</span>
+<span style="color:#323232;">encoded = plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.동카지()</span>
+<span style="color:#323232;">|&gt; String.downcase()</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">(스 |&gt; 스트링그.투_샤를리스트() |&gt; 드() |&gt; :이를랑그.비나리_투_인테제르() |&gt; 케르네우.-(97)) * 8 |&gt; 케르네우.+(11)</span>
+<span style="color:#323232;">(x |&gt; String.to_charlist() |&gt; hd() |&gt; :erlang.binary_to_integer() |&gt; Kernel.-(97)) * 8 |&gt; Kernel.+(11)</span>
 <span style="color:#323232;">|&gt; 헹(26)</span>
+<span style="color:#323232;">|&gt; rem(26)</span>
 <span style="color:#323232;">|&gt; 케르네우.+(97)</span>
+<span style="color:#323232;">|&gt; Kernel.+(97)</span>
 <span style="color:#323232;">|&gt; 인테제르.투_샤를리스트()</span>
+<span style="color:#323232;">|&gt; Integer.to_charlist()</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(잉코데드)</span>
+<span style="color:#323232;">IO.puts(encoded)</span>
 
 <span style="color:#323232;"># 데코지 풍크치옹</span>
+<span style="color:#323232;"># Decode function</span>
 <span style="color:#323232;">시페르테스트 = &quot;프트브크&quot;</span>
+<span style="color:#323232;">ciphertext = &quot;fthvq&quot;</span>
 <span style="color:#323232;">데코데드 = 시페르테스트</span>
+<span style="color:#323232;">decoded = ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">(스 |&gt; 스트링그.투_샤를리스트() |&gt; 드() |&gt; :이를랑그.비나리_투_인테제르() |&gt; 케르네우.-(97) |&gt; 케르네우.-(11))</span>
+<span style="color:#323232;">(x |&gt; String.to_charlist() |&gt; hd() |&gt; :erlang.binary_to_integer() |&gt; Kernel.-(97) |&gt; Kernel.-(11))</span>
 <span style="color:#323232;">|&gt; 헹(26 * 8)</span>
+<span style="color:#323232;">|&gt; rem(26 * 8)</span>
 <span style="color:#323232;">|&gt; 헹(26)</span>
+<span style="color:#323232;">|&gt; rem(26)</span>
 <span style="color:#323232;">|&gt; 케르네우.+(97)</span>
+<span style="color:#323232;">|&gt; Kernel.+(97)</span>
 <span style="color:#323232;">|&gt; 인테제르.투_샤를리스트()</span>
+<span style="color:#323232;">|&gt; Integer.to_charlist()</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(데코데드)</span>
+<span style="color:#323232;">IO.puts(decoded)</span>
 
 
 
@@ -740,65 +808,120 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;"># 잉코지 풍크치옹</span>
+<span style="color:#323232;"># Encode function</span>
 <span style="color:#323232;">플라인테스트 = &quot;엘루&quot;</span>
+<span style="color:#323232;">plaintext = &quot;HELLO&quot;</span>
 <span style="color:#323232;">잉코데드 = 플라인테스트</span>
+<span style="color:#323232;">encoded = plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.동카지()</span>
+<span style="color:#323232;">|&gt; String.downcase()</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">(스 |&gt; 스트링그.투_샤를리스트() |&gt; 드() |&gt; :이를랑그.비나리_투_인테제르() |&gt; 케르네우.-(97)) |&gt; 케르네우.*(8) |&gt; 케르네우.+(11)</span>
+<span style="color:#323232;">(x |&gt; String.to_charlist() |&gt; hd() |&gt; :erlang.binary_to_integer() |&gt; Kernel.-(97)) |&gt; Kernel.*(8) |&gt; Kernel.+(11)</span>
 <span style="color:#323232;">|&gt; 헹(26)</span>
+<span style="color:#323232;">|&gt; rem(26)</span>
 <span style="color:#323232;">|&gt; 케르네우.+(97)</span>
+<span style="color:#323232;">|&gt; Kernel.+(97)</span>
 <span style="color:#323232;">|&gt; 인테제르.투_샤를리스트()</span>
+<span style="color:#323232;">|&gt; Integer.to_charlist()</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(잉코데드)</span>
+<span style="color:#323232;">IO.puts(encoded)</span>
 
 <span style="color:#323232;"># 데코지 풍크치옹</span>
+<span style="color:#323232;"># Decode function</span>
 <span style="color:#323232;">시페르테스트 = &quot;프트브크&quot;</span>
+<span style="color:#323232;">ciphertext = &quot;fthvq&quot;</span>
 <span style="color:#323232;">데코데드 = 시페르테스트</span>
+<span style="color:#323232;">decoded = ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">(스 |&gt; 스트링그.투_샤를리스트() |&gt; 드()</span>
+<span style="color:#323232;">(x |&gt; String.to_charlist() |&gt; hd()</span>
 <span style="color:#323232;">|&gt; 케르네우.-(97)</span>
+<span style="color:#323232;">|&gt; Kernel.-(97)</span>
 <span style="color:#323232;">|&gt; 케르네우.-(11)</span>
+<span style="color:#323232;">|&gt; Kernel.-(11)</span>
 <span style="color:#323232;">|&gt; 헹(26 * 8)</span>
+<span style="color:#323232;">|&gt; rem(26 * 8)</span>
 <span style="color:#323232;">|&gt; 헹(26)</span>
+<span style="color:#323232;">|&gt; rem(26)</span>
 <span style="color:#323232;">|&gt; 케르네우.+(97)</span>
+<span style="color:#323232;">|&gt; Kernel.+(97)</span>
 <span style="color:#323232;">|&gt; 인테제르.투_스트링그()</span>
+<span style="color:#323232;">|&gt; Integer.to_string()</span>
 <span style="color:#323232;">|&gt; :이를랑그.비나리_투_인테제르())</span>
+<span style="color:#323232;">|&gt; :erlang.binary_to_integer())</span>
 <span style="color:#323232;">|&gt; 인테제르.투_샤를리스트()</span>
+<span style="color:#323232;">|&gt; Integer.to_charlist()</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(데코데드)</span>
+<span style="color:#323232;">IO.puts(decoded)</span>
 
 
 
 <span style="color:#323232;">일리시</span>
+<span style="color:#323232;">elixi</span>
 <span style="color:#323232;">흐 -이 &#39;# 잉코지 풍크치옹</span>
+<span style="color:#323232;">r -e &#39;# Encode function</span>
 <span style="color:#323232;">플라인테스트 = &quot;엘루&quot;</span>
+<span style="color:#323232;">plaintext = &quot;HELLO&quot;</span>
 <span style="color:#323232;">잉코데드 = 플라인테스트</span>
+<span style="color:#323232;">encoded = plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.동카지()</span>
+<span style="color:#323232;">|&gt; String.downcase()</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(&amp;(&amp;1 |&gt; 스트링그.투_샤를리스트() |&gt; 드() |&gt; (&amp;1 - 97 - 11) |&gt; 헹(26) |&gt; (&amp;((&amp;1 + 97))) |&gt; 인테제르.투_스트링그() |&gt; &lt;&lt;(&amp;1::우트프8)&gt;&gt;))</span>
+<span style="color:#323232;">|&gt; Enum.map(&amp;(&amp;1 |&gt; String.to_charlist() |&gt; hd() |&gt; (&amp;1 - 97 - 11) |&gt; rem(26) |&gt; (&amp;((&amp;1 + 97))) |&gt; Integer.to_string() |&gt; &lt;&lt;(&amp;1::utf8)&gt;&gt;))</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(잉코데드)</span>
+<span style="color:#323232;">IO.puts(encoded)</span>
 
 <span style="color:#323232;"># 데코지 풍크치옹</span>
+<span style="color:#323232;"># Decode function</span>
 <span style="color:#323232;">시페르테스트 = &quot;프트브크&quot;</span>
+<span style="color:#323232;">ciphertext = &quot;fthvq&quot;</span>
 <span style="color:#323232;">데코데드 = 시페르테스트</span>
+<span style="color:#323232;">decoded = ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(&amp;(&amp;1 |&gt; &lt;&lt;(&amp;1::우트프8)&gt;&gt; |&gt; 스트링그.투_인테제르() |&gt; (&amp;1 - 97 + 11) |&gt; 헹(26) |&gt; (&amp;((&amp;1 + 97))) |&gt; 인테제르.투_스트링그() |&gt; &lt;&lt;(&amp;1::우트프8)&gt;&gt;))</span>
+<span style="color:#323232;">|&gt; Enum.map(&amp;(&amp;1 |&gt; &lt;&lt;(&amp;1::utf8)&gt;&gt; |&gt; String.to_integer() |&gt; (&amp;1 - 97 + 11) |&gt; rem(26) |&gt; (&amp;((&amp;1 + 97))) |&gt; Integer.to_string() |&gt; &lt;&lt;(&amp;1::utf8)&gt;&gt;))</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(데코데드)&#39;</span>
+<span style="color:#323232;">IO.puts(decoded)&#39;</span>
 <span style="color:#323232;">** (콤필레호르) 노필리:6: 네스테드 카프투리스 아리 노트 알로웨드. 요 카노트 데피니 아 풍크치옹 우징그 티 카프투리 오페라토르 &amp; 인시지 아노테르 풍크치옹 데피네드 비아 &amp;. 고트 인발리드 네스테드 카프투리: &amp;(&amp;1 + 97)</span>
+<span style="color:#323232;">** (CompileError) nofile:6: nested captures are not allowed. You cannot define a function using  the capture operator &amp; inside another function defined via &amp;. Got invalid nested capture: &amp;(&amp;1 + 97)</span>
 <span style="color:#323232;">(스트들리브 4.2) 리스트스.이루:1462: :리스트스.마프포우두_1/3</span>
+<span style="color:#323232;">(stdlib 4.2) lists.erl:1462: :lists.mapfoldl_1/3</span>
 <span style="color:#323232;">(스트들리브 4.2) 리스트스.이루:1463: :리스트스.마프포우두_1/3</span>
+<span style="color:#323232;">(stdlib 4.2) lists.erl:1463: :lists.mapfoldl_1/3</span>
 <span style="color:#323232;">(일리시르 1.14.3) 스흐크/일리시르_픙.이루:140: :일리시르_픙.이스카피/3</span>
+<span style="color:#323232;">(elixir 1.14.3) src/elixir_fn.erl:140: :elixir_fn.escape/3</span>
 <span style="color:#323232;">(스트들리브 4.2) 리스트스.이루:1462: :리스트스.마프포우두_1/3</span>
+<span style="color:#323232;">(stdlib 4.2) lists.erl:1462: :lists.mapfoldl_1/3</span>
 <span style="color:#323232;">(일리시르 1.14.3) 스흐크/일리시르_픙.이루:140: :일리시르_픙.이스카피/3</span>
+<span style="color:#323232;">(elixir 1.14.3) src/elixir_fn.erl:140: :elixir_fn.escape/3</span>
 <span style="color:#323232;">(스트들리브 4.2) 리스트스.이루:1462: :리스트스.마프포우두_1/3</span>
+<span style="color:#323232;">(stdlib 4.2) lists.erl:1462: :lists.mapfoldl_1/3</span>
 <span style="color:#323232;">(일리시르 1.14.3) 스흐크/일리시르_픙.이루:140: :일리시르_픙.이스카피/3</span>
+<span style="color:#323232;">(elixir 1.14.3) src/elixir_fn.erl:140: :elixir_fn.escape/3</span>
 <span style="color:#323232;">(일리시르 1.14.3) 이스판징그 마크루: 케르네우.|&gt;/2</span>
+<span style="color:#323232;">(elixir 1.14.3) expanding macro: Kernel.|&gt;/2</span>
 
 
 
@@ -806,35 +929,64 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;"># 잉코지 풍크치옹</span>
+<span style="color:#323232;"># Encode function</span>
 <span style="color:#323232;">플라인테스트 = &quot;엘루&quot;</span>
+<span style="color:#323232;">plaintext = &quot;HELLO&quot;</span>
 <span style="color:#323232;">잉코데드 = 플라인테스트</span>
+<span style="color:#323232;">encoded = plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.동카지()</span>
+<span style="color:#323232;">|&gt; String.downcase()</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">크 = 드(스트링그.투_샤를리스트(스))</span>
+<span style="color:#323232;">c = hd(String.to_charlist(x))</span>
 <span style="color:#323232;">크 = 크 - 97 - 11</span>
+<span style="color:#323232;">c = c - 97 - 11</span>
 <span style="color:#323232;">크 = 헹(크, 26)</span>
+<span style="color:#323232;">c = rem(c, 26)</span>
 <span style="color:#323232;">크 = 크 + 97</span>
+<span style="color:#323232;">c = c + 97</span>
 <span style="color:#323232;">크 = 인테제르.투_스트링그(크)</span>
+<span style="color:#323232;">c = Integer.to_string(c)</span>
 <span style="color:#323232;">&lt;&lt;크::우트프8&gt;&gt;</span>
+<span style="color:#323232;">&lt;&lt;c::utf8&gt;&gt;</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(잉코데드)</span>
+<span style="color:#323232;">IO.puts(encoded)</span>
 
 <span style="color:#323232;"># 데코지 풍크치옹</span>
+<span style="color:#323232;"># Decode function</span>
 <span style="color:#323232;">시페르테스트 = &quot;프트브크&quot;</span>
+<span style="color:#323232;">ciphertext = &quot;fthvq&quot;</span>
 <span style="color:#323232;">데코데드 = 시페르테스트</span>
+<span style="color:#323232;">decoded = ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">크 = 스트링그.투_인테제르(스 |&gt; 텡(픙 스 -&gt; &lt;&lt;스::우트프8&gt;&gt; 인드))</span>
+<span style="color:#323232;">c = String.to_integer(x |&gt; then(fn x -&gt; &lt;&lt;x::utf8&gt;&gt; end))</span>
 <span style="color:#323232;">크 = 크 - 97 + 11</span>
+<span style="color:#323232;">c = c - 97 + 11</span>
 <span style="color:#323232;">크 = 헹(크, 26)</span>
+<span style="color:#323232;">c = rem(c, 26)</span>
 <span style="color:#323232;">크 = 크 + 97</span>
+<span style="color:#323232;">c = c + 97</span>
 <span style="color:#323232;">크 = 인테제르.투_스트링그(크)</span>
+<span style="color:#323232;">c = Integer.to_string(c)</span>
 <span style="color:#323232;">&lt;&lt;크::우트프8&gt;&gt;</span>
+<span style="color:#323232;">&lt;&lt;c::utf8&gt;&gt;</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(데코데드)</span>
+<span style="color:#323232;">IO.puts(decoded)</span>
 
 
 
@@ -853,43 +1005,80 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;"># 잉코지 풍크치옹</span>
+<span style="color:#323232;"># Encode function</span>
 <span style="color:#323232;">플라인테스트 = &quot;엘루&quot;</span>
+<span style="color:#323232;">plaintext = &quot;HELLO&quot;</span>
 <span style="color:#323232;">잉코데드 = 플라인테스트</span>
+<span style="color:#323232;">encoded = plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.동카지()</span>
+<span style="color:#323232;">|&gt; String.downcase()</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">드(스트링그.투_샤를리스트(스)) - 97 - 11</span>
+<span style="color:#323232;">hd(String.to_charlist(x)) - 97 - 11</span>
 <span style="color:#323232;">|&gt; 헹(26)</span>
+<span style="color:#323232;">|&gt; rem(26)</span>
+<span style="color:#323232;">|&gt; &amp; &amp;1 + 97</span>
 <span style="color:#323232;">|&gt; &amp; &amp;1 + 97</span>
 <span style="color:#323232;">|&gt; 인테제르.투_스트링그()</span>
+<span style="color:#323232;">|&gt; Integer.to_string()</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 이눙.피우테르(&amp;스트링그.프린타블리?/1)</span>
+<span style="color:#323232;">|&gt; Enum.filter(&amp;String.printable?/1)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(잉코데드)</span>
+<span style="color:#323232;">IO.puts(encoded)</span>
 
 <span style="color:#323232;"># 데코지 풍크치옹</span>
+<span style="color:#323232;"># Decode function</span>
 <span style="color:#323232;">시페르테스트 = &quot;프트브크&quot;</span>
+<span style="color:#323232;">ciphertext = &quot;fthvq&quot;</span>
 <span style="color:#323232;">데코데드 = 시페르테스트</span>
+<span style="color:#323232;">decoded = ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">스</span>
+<span style="color:#323232;">x</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">|&gt; 스트링그.투_인테제르()</span>
+<span style="color:#323232;">|&gt; String.to_integer()</span>
+<span style="color:#323232;">|&gt; &amp; &amp;1 - 97 + 11</span>
 <span style="color:#323232;">|&gt; &amp; &amp;1 - 97 + 11</span>
 <span style="color:#323232;">|&gt; 헹(26)</span>
+<span style="color:#323232;">|&gt; rem(26)</span>
+<span style="color:#323232;">|&gt; &amp; &amp;1 + 97</span>
 <span style="color:#323232;">|&gt; &amp; &amp;1 + 97</span>
 <span style="color:#323232;">|&gt; 인테제르.투_스트링그()</span>
+<span style="color:#323232;">|&gt; Integer.to_string()</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 이눙.피우테르(&amp;스트링그.프린타블리?/1)</span>
+<span style="color:#323232;">|&gt; Enum.filter(&amp;String.printable?/1)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">이우.푸트스(데코데드)</span>
+<span style="color:#323232;">IO.puts(decoded)</span>
 
 
 
@@ -898,29 +1087,52 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;">플라인테스트 = &quot;엘루&quot;</span>
+<span style="color:#323232;">plaintext = &quot;HELLO&quot;</span>
 <span style="color:#323232;">잉코데드 = 플라인테스트</span>
+<span style="color:#323232;">encoded = plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.동카지()</span>
+<span style="color:#323232;">|&gt; String.downcase()</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">%{발루이: 샤르} = 리스트.피르스트(스트링그.코데포인트스(스))</span>
+<span style="color:#323232;">%{value: char} = List.first(String.codepoints(x))</span>
 <span style="color:#323232;">샤르 = 샤르 - ?아 + 11 |&gt; 헹(26) |&gt; 케르네우.+(?아)</span>
+<span style="color:#323232;">char = char - ?a + 11 |&gt; rem(26) |&gt; Kernel.+(?a)</span>
 <span style="color:#323232;">인테제르.투_스트링그(샤르)</span>
+<span style="color:#323232;">Integer.to_string(char)</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">|&gt; 스트링그.헤플라시(&quot;[]&quot;, &quot;&quot;)</span>
+<span style="color:#323232;">|&gt; String.replace(&quot;[]&quot;, &quot;&quot;)</span>
 <span style="color:#323232;">|&gt; 이우.푸트스()</span>
+<span style="color:#323232;">|&gt; IO.puts()</span>
 
 <span style="color:#323232;">시페르테스트 = &quot;프트브크&quot;</span>
+<span style="color:#323232;">ciphertext = &quot;fthvq&quot;</span>
 <span style="color:#323232;">데코데드 = 시페르테스트</span>
+<span style="color:#323232;">decoded = ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.그라페메스()</span>
+<span style="color:#323232;">|&gt; String.graphemes()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(픙 스 -&gt;</span>
+<span style="color:#323232;">|&gt; Enum.map(fn x -&gt;</span>
 <span style="color:#323232;">%{발루이: 샤르} = 리스트.피르스트(스트링그.코데포인트스(스))</span>
+<span style="color:#323232;">%{value: char} = List.first(String.codepoints(x))</span>
 <span style="color:#323232;">샤르 = 샤르 - ?아 |&gt; 헹(26) |&gt; 케르네우.+(?아)</span>
+<span style="color:#323232;">char = char - ?a |&gt; rem(26) |&gt; Kernel.+(?a)</span>
 <span style="color:#323232;">인테제르.투_스트링그(샤르)</span>
+<span style="color:#323232;">Integer.to_string(char)</span>
 <span style="color:#323232;">인드)</span>
+<span style="color:#323232;">end)</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">|&gt; 스트링그.헤플라시(&quot;[]&quot;, &quot;&quot;)</span>
+<span style="color:#323232;">|&gt; String.replace(&quot;[]&quot;, &quot;&quot;)</span>
 <span style="color:#323232;">|&gt; 이우.푸트스()</span>
+<span style="color:#323232;">|&gt; IO.puts()</span>
 
 
 
@@ -930,53 +1142,92 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;">시프트_폴리 = [1, 0, 1]</span>
+<span style="color:#323232;">shift_poly = [1, 0, 1]</span>
 
 <span style="color:#323232;">모둘라르_인베르시 = 픙 프 -&gt;</span>
+<span style="color:#323232;">modular_inverse = fn f -&gt;</span>
 <span style="color:#323232;">픙 아, 응 -&gt;</span>
+<span style="color:#323232;">fn a, n -&gt;</span>
 <span style="color:#323232;">카지 헹(응, 아) 두</span>
+<span style="color:#323232;">case rem(n, a) do</span>
 <span style="color:#323232;">0 -&gt; {1, 0, 아}</span>
+<span style="color:#323232;">0 -&gt; {1, 0, a}</span>
 <span style="color:#323232;">브 -&gt;</span>
+<span style="color:#323232;">b -&gt;</span>
 <span style="color:#323232;">{이, 스, 드} = 프.(브, 아)</span>
+<span style="color:#323232;">{y, x, d} = f.(b, a)</span>
 <span style="color:#323232;">{스 - 지브(응, 아) * 이, 이, 드}</span>
+<span style="color:#323232;">{x - div(n, a) * y, y, d}</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인드.(픙 프 -&gt; &amp;(&amp;1.(&amp;1.(&amp;1))) 인드)</span>
+<span style="color:#323232;">end.(fn f -&gt; &amp;(&amp;1.(&amp;1.(&amp;1))) end)</span>
 
 <span style="color:#323232;">폴리_시프트_샤락테르 = 픙 {샤르, _헤스트}, {아, 브, 크} -&gt;</span>
+<span style="color:#323232;">poly_shift_character = fn {char, _rest}, {a, b, c} -&gt;</span>
 <span style="color:#323232;">시프테드_바우 = 아 * 샤르 * 샤르 + 브 * 샤르 + 크</span>
+<span style="color:#323232;">shifted_val = a * char * char + b * char + c</span>
 <span style="color:#323232;">&lt;&lt;시프테드_바우::우트프8&gt;&gt;</span>
+<span style="color:#323232;">&lt;&lt;shifted_val::utf8&gt;&gt;</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">잉코지 = 픙 프 -&gt;</span>
+<span style="color:#323232;">encode = fn f -&gt;</span>
 <span style="color:#323232;">픙 [샤르 | 타이우], 케이_폴리 -&gt;</span>
+<span style="color:#323232;">fn [char | tail], key_poly -&gt;</span>
 <span style="color:#323232;">[폴리_시프트_샤락테르.({샤르, 0}, 케이_폴리) | 프.(타이우, 케이_폴리)]</span>
+<span style="color:#323232;">[poly_shift_character.({char, 0}, key_poly) | f.(tail, key_poly)]</span>
 <span style="color:#323232;">인드.([], &amp;1)</span>
+<span style="color:#323232;">end.([], &amp;1)</span>
 <span style="color:#323232;">인드.(픙 프 -&gt; &amp;(&amp;1.(&amp;1.(&amp;1))) 인드)</span>
+<span style="color:#323232;">end.(fn f -&gt; &amp;(&amp;1.(&amp;1.(&amp;1))) end)</span>
 
 <span style="color:#323232;">데코지 = 픙 프 -&gt;</span>
+<span style="color:#323232;">decode = fn f -&gt;</span>
 <span style="color:#323232;">픙 [아, 브 | 타이우], {아_코에프, 브_코에프, 크_코에프} -&gt;</span>
+<span style="color:#323232;">fn [a, b | tail], {a_coeff, b_coeff, c_coeff} -&gt;</span>
 <span style="color:#323232;">인브_아 = 모둘라르_인베르시.(아_코에프, 256) |&gt; 엘렝(0)</span>
+<span style="color:#323232;">inv_a = modular_inverse.(a_coeff, 256) |&gt; elem(0)</span>
 <span style="color:#323232;">_인브_브 = 256 - 브_코에프</span>
+<span style="color:#323232;">_inv_b = 256 - b_coeff</span>
 <span style="color:#323232;">스크르트_테릉 = 혼드(:마트.스크르트(브_코에프 * 브_코에프 - 4 * 아_코에프 * 크_코에프))</span>
+<span style="color:#323232;">sqrt_term = round(:math.sqrt(b_coeff * b_coeff - 4 * a_coeff * c_coeff))</span>
 <span style="color:#323232;">인브_크 = 헹(인브_아 * (브_코에프 * 브_코에프 - 4 * 아_코에프 * 크_코에프), 256)</span>
+<span style="color:#323232;">inv_c = rem(inv_a * (b_coeff * b_coeff - 4 * a_coeff * c_coeff), 256)</span>
 
 <span style="color:#323232;">샤르_바우 = 헹(인브_아 * (256 + 브_코에프 - 스크르트_테릉), 256)</span>
+<span style="color:#323232;">char_val = rem(inv_a * (256 + b_coeff - sqrt_term), 256)</span>
 <span style="color:#323232;">|&gt; 헹(&amp;(&amp;1 잉 32..126))</span>
+<span style="color:#323232;">|&gt; rem(&amp;(&amp;1 in 32..126))</span>
 
 <span style="color:#323232;">[&lt;&lt;샤르_바우::우트프8&gt;&gt; | 프.(타이우, {아_코에프, 브_코에프, 크_코에프})]</span>
+<span style="color:#323232;">[&lt;&lt;char_val::utf8&gt;&gt; | f.(tail, {a_coeff, b_coeff, c_coeff})]</span>
 <span style="color:#323232;">인드.([], &amp;1)</span>
+<span style="color:#323232;">end.([], &amp;1)</span>
 <span style="color:#323232;">인드.(픙 프 -&gt; &amp;(&amp;1.(&amp;1.(&amp;1))) 인드)</span>
+<span style="color:#323232;">end.(fn f -&gt; &amp;(&amp;1.(&amp;1.(&amp;1))) end)</span>
 
 <span style="color:#323232;">플라인테스트 = &quot;엘루 워루드!&quot;</span>
+<span style="color:#323232;">plaintext = &quot;Hello World!&quot;</span>
 <span style="color:#323232;">케이_폴리 = 시프트_폴리</span>
+<span style="color:#323232;">key_poly = shift_poly</span>
 
 <span style="color:#323232;">시페르테스트 = 잉코지.(스트링그.그라페메스(플라인테스트), 케이_폴리) |&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">ciphertext = encode.(String.graphemes(plaintext), key_poly) |&gt; List.to_string()</span>
 <span style="color:#323232;">데코데드 = 데코지.(스트링그.코데포인트스(시페르테스트), 케이_폴리) |&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">decoded = decode.(String.codepoints(ciphertext), key_poly) |&gt; List.to_string()</span>
 
 <span style="color:#323232;"># 오트푸트 티 헤주우트스</span>
+<span style="color:#323232;"># Output the results</span>
 <span style="color:#323232;">이우.푸트스(&quot;플라인테스트: #{플라인테스트}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Plaintext: #{plaintext}&quot;)</span>
 <span style="color:#323232;">이우.푸트스(&quot;시페르테스트: #{시페르테스트}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Ciphertext: #{ciphertext}&quot;)</span>
 <span style="color:#323232;">이우.푸트스(&quot;데코데드: #{데코데드}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Decoded: #{decoded}&quot;)</span>
 
 
 
@@ -999,35 +1250,60 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;">데프모둘리 시페르 두</span>
+<span style="color:#323232;">defmodule Cipher do</span>
 <span style="color:#323232;">데프 시프트_샤락테르(&lt;&lt;샤르::우트프8&gt;&gt; = _인푸트, 시프트) 두</span>
+<span style="color:#323232;">def shift_character(&lt;&lt;char::utf8&gt;&gt; = _input, shift) do</span>
 <span style="color:#323232;">시프테드_바우 = 샤르 + 시프트</span>
+<span style="color:#323232;">shifted_val = char + shift</span>
 <span style="color:#323232;">&lt;&lt;시프테드_바우 :: 우트프8&gt;&gt;</span>
+<span style="color:#323232;">&lt;&lt;shifted_val :: utf8&gt;&gt;</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">데프 잉코지(플라인테스트, 케이) 두</span>
+<span style="color:#323232;">def encode(plaintext, key) do</span>
 <span style="color:#323232;">플라인테스트</span>
+<span style="color:#323232;">plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(&amp;시프트_샤락테르(&amp;1, 케이))</span>
+<span style="color:#323232;">|&gt; Enum.map(&amp;shift_character(&amp;1, key))</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">데프 데코지(시페르테스트, 케이) 두</span>
+<span style="color:#323232;">def decode(ciphertext, key) do</span>
 <span style="color:#323232;">시페르테스트</span>
+<span style="color:#323232;">ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(&amp;시프트_샤락테르(&amp;1, -케이))</span>
+<span style="color:#323232;">|&gt; Enum.map(&amp;shift_character(&amp;1, -key))</span>
 <span style="color:#323232;">|&gt; 리스트.투_스트링그()</span>
+<span style="color:#323232;">|&gt; List.to_string()</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 
 <span style="color:#323232;">플라인테스트 = &quot;엘루 워루드!&quot;</span>
+<span style="color:#323232;">plaintext = &quot;Hello World!&quot;</span>
 <span style="color:#323232;">크 = 3</span>
+<span style="color:#323232;">k = 3</span>
 <span style="color:#323232;">시페르테스트 = 시페르.잉코지(플라인테스트, 크)</span>
+<span style="color:#323232;">ciphertext = Cipher.encode(plaintext, k)</span>
 <span style="color:#323232;">데코데드 = 시페르.데코지(시페르테스트, 크)</span>
+<span style="color:#323232;">decoded = Cipher.decode(ciphertext, k)</span>
 
 <span style="color:#323232;">이우.푸트스(&quot;플라인테스트: #{플라인테스트}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Plaintext: #{plaintext}&quot;)</span>
 <span style="color:#323232;">이우.푸트스(&quot;시페르테스트: #{시페르테스트}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Ciphertext: #{ciphertext}&quot;)</span>
 <span style="color:#323232;">이우.푸트스(&quot;데코데드: #{데코데드}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Decoded: #{decoded}&quot;)</span>
 
 
 
@@ -1039,70 +1315,126 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <span style="color:#323232;">데프모둘리 시프트시페르 두</span>
+<span style="color:#323232;">defmodule ShiftCipher do</span>
 <span style="color:#323232;">데프프 모둘라르_인베르시(_아, 0), 두: {1, 0, 0}</span>
+<span style="color:#323232;">defp modular_inverse(_a, 0), do: {1, 0, 0}</span>
 <span style="color:#323232;">데프프 모둘라르_인베르시(아, 응) 엥 헹(응, 아) != 0 두</span>
+<span style="color:#323232;">defp modular_inverse(a, n) when rem(n, a) != 0 do</span>
 <span style="color:#323232;">{이, 스, 드} = 모둘라르_인베르시(헹(응, 아), 아)</span>
+<span style="color:#323232;">{y, x, d} = modular_inverse(rem(n, a), a)</span>
 <span style="color:#323232;">{스 - 지브(응, 아) * 이, 이, 드}</span>
+<span style="color:#323232;">{x - div(n, a) * y, y, d}</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">데프프 폴리_시프트_샤락테르(샤르, {아, 브, 크}) 두</span>
+<span style="color:#323232;">defp poly_shift_character(char, {a, b, c}) do</span>
 <span style="color:#323232;">아 * 스트링그.투_인테제르(샤르) * 스트링그.투_인테제르(샤르) + 브 * 스트링그.투_인테제르(샤르) + 크 |&gt; 헹(256)</span>
+<span style="color:#323232;">a * String.to_integer(char) * String.to_integer(char) + b * String.to_integer(char) + c |&gt; rem(256)</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">데프 잉코지(플라인테스트, 케이_폴리) 두</span>
+<span style="color:#323232;">def encode(plaintext, key_poly) do</span>
 <span style="color:#323232;">플라인테스트</span>
+<span style="color:#323232;">plaintext</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 이눙.마프(&amp;폴리_시프트_샤락테르(&amp;1, 케이_폴리))</span>
+<span style="color:#323232;">|&gt; Enum.map(&amp;poly_shift_character(&amp;1, key_poly))</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">데프 데코지(시페르테스트, 케이_폴리) 두</span>
+<span style="color:#323232;">def decode(ciphertext, key_poly) do</span>
 <span style="color:#323232;">시페르테스트</span>
+<span style="color:#323232;">ciphertext</span>
 <span style="color:#323232;">|&gt; 스트링그.코데포인트스()</span>
+<span style="color:#323232;">|&gt; String.codepoints()</span>
 <span style="color:#323232;">|&gt; 이눙.슝크_이베리(2, 1, :지스카르드)</span>
+<span style="color:#323232;">|&gt; Enum.chunk_every(2, 1, :discard)</span>
 <span style="color:#323232;">|&gt; 이눙.마프(&amp;데코지_샤락테르(&amp;1, 케이_폴리))</span>
+<span style="color:#323232;">|&gt; Enum.map(&amp;decode_character(&amp;1, key_poly))</span>
 <span style="color:#323232;">|&gt; (픙 스 -&gt; 리스트.투_스트링그(스) 인드).()</span>
+<span style="color:#323232;">|&gt; (fn x -&gt; List.to_string(x) end).()</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">데프프 데코지_샤락테르([아, 브], {아_코에프, 브_코에프, 크_코에프}) 두</span>
+<span style="color:#323232;">defp decode_character([a, b], {a_coeff, b_coeff, c_coeff}) do</span>
 <span style="color:#323232;">인브_아 = 모둘라르_인베르시(아_코에프, 256) |&gt; 엘렝(0)</span>
+<span style="color:#323232;">inv_a = modular_inverse(a_coeff, 256) |&gt; elem(0)</span>
 <span style="color:#323232;">지스크리미난트 = 브_코에프 * 브_코에프 - 4 * 아_코에프 * 크_코에프</span>
+<span style="color:#323232;">discriminant = b_coeff * b_coeff - 4 * a_coeff * c_coeff</span>
 <span style="color:#323232;">카지 지스크리미난트 두</span>
+<span style="color:#323232;">case discriminant do</span>
 <span style="color:#323232;">드 엥 드 &lt; 0 -&gt; 0</span>
+<span style="color:#323232;">d when d &lt; 0 -&gt; 0</span>
+<span style="color:#323232;">_ -&gt;</span>
 <span style="color:#323232;">_ -&gt;</span>
 <span style="color:#323232;">호트1 = (-브_코에프 + :마트.스크르트(지스크리미난트)) * 인브_아 |&gt; 헹(256)</span>
+<span style="color:#323232;">root1 = (-b_coeff + :math.sqrt(discriminant)) * inv_a |&gt; rem(256)</span>
 <span style="color:#323232;">호트2 = (-브_코에프 - :마트.스크르트(지스크리미난트)) * 인브_아 |&gt; 헹(256)</span>
+<span style="color:#323232;">root2 = (-b_coeff - :math.sqrt(discriminant)) * inv_a |&gt; rem(256)</span>
 <span style="color:#323232;">데코데드 =</span>
+<span style="color:#323232;">decoded =</span>
 <span style="color:#323232;">카지 헹(아, 2) 두</span>
+<span style="color:#323232;">case rem(a, 2) do</span>
+<span style="color:#323232;">0 -&gt;</span>
 <span style="color:#323232;">0 -&gt;</span>
 <span style="color:#323232;">이프 헹(아 * 호트1 * 호트1 + 브 * 호트1 + 크_코에프, 256) == 아 두</span>
+<span style="color:#323232;">if rem(a * root1 * root1 + b * root1 + c_coeff, 256) == a do</span>
 <span style="color:#323232;">호트1</span>
+<span style="color:#323232;">root1</span>
 <span style="color:#323232;">에우시</span>
+<span style="color:#323232;">else</span>
 <span style="color:#323232;">호트2</span>
+<span style="color:#323232;">root2</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
+<span style="color:#323232;">_ -&gt;</span>
 <span style="color:#323232;">_ -&gt;</span>
 <span style="color:#323232;">이프 브 &gt;= 0 두</span>
+<span style="color:#323232;">if b &gt;= 0 do</span>
 <span style="color:#323232;">호트1</span>
+<span style="color:#323232;">root1</span>
 <span style="color:#323232;">에우시</span>
+<span style="color:#323232;">else</span>
 <span style="color:#323232;">호트2</span>
+<span style="color:#323232;">root2</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인테제르.투_샤를리스트(데코데드)</span>
+<span style="color:#323232;">Integer.to_charlist(decoded)</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 <span style="color:#323232;">인드</span>
+<span style="color:#323232;">end</span>
 
 <span style="color:#323232;">플라인테스트 = &quot;엘루 워루드!&quot;</span>
+<span style="color:#323232;">plaintext = &quot;Hello World!&quot;</span>
 <span style="color:#323232;">케이_폴리 = {1, 0, 1}</span>
+<span style="color:#323232;">key_poly = {1, 0, 1}</span>
 
 <span style="color:#323232;">시페르테스트 = 시프트시페르.잉코지(플라인테스트, 케이_폴리)</span>
+<span style="color:#323232;">ciphertext = ShiftCipher.encode(plaintext, key_poly)</span>
 <span style="color:#323232;">데코데드 = 시프트시페르.데코지(시페르테스트, 케이_폴리)</span>
+<span style="color:#323232;">decoded = ShiftCipher.decode(ciphertext, key_poly)</span>
 
 <span style="color:#323232;">이우.푸트스(&quot;플라인테스트: #{플라인테스트}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Plaintext: #{plaintext}&quot;)</span>
 <span style="color:#323232;">이우.푸트스(&quot;시페르테스트: #{시페르테스트}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Ciphertext: #{ciphertext}&quot;)</span>
 <span style="color:#323232;">이우.푸트스(&quot;데코데드: #{데코데드}&quot;)</span>
+<span style="color:#323232;">IO.puts(&quot;Decoded: #{decoded}&quot;)</span>
 
 
 
+</pre><pre>
 </pre>
 </div>
 

@@ -1,2882 +1,4358 @@
 # 우 리브루 두 렘브라르: 샤베스 파라 만테르 우마 노바 포지상 코그니치바
+# O LIVRO DO LEMBRAR: CHAVES PARA MANTER UMA NOVA POSIÇÃO COGNITIVA
 
 **종 크레이테르**
+**John Kreiter**
 
 **인지시**
+**ÍNDICE**
 
 - [프레파시우: 우 두플루](#프레파시우-우-두플루)
+- [PREFÁCIO: O DUPLO](#prefácio-o-duplo)
 - [인트로두상](#인트로두상)
+- [INTRODUÇÃO](#introdução)
 - [카피툴루 1: 팔라브라스 상 우 포르타우 이스텔라르, 엘라스 아주당 보세 아 렘브라르](#카피툴루-1-팔라브라스-상-우-포르타우-이스텔라르-엘라스-아주당-보세-아-렘브라르)
+- [CAPÍTULO 1: PALAVRAS SÃO O PORTAL ESTELAR, ELAS AJUDAM VOCÊ A LEMBRAR](#capítulo-1-palavras-são-o-portal-estelar-elas-ajudam-você-a-lembrar)
 - [시타송이스](#시타송이스)
+- [CITAÇÕES](#citações)
 - [카피툴루 2: 우스 세르비도리스](#카피툴루-2-우스-세르비도리스)
+- [CAPÍTULO 2: OS SERVIDORES](#capítulo-2-os-servidores)
 - [우 키 상 세르비도리스?](#우-키-상-세르비도리스)
+- [O que são servidores?](#o-que-são-servidores)
 - [콘스트루상](#콘스트루상)
+- [Construção](#construção)
 - [카헤가멘투](#카헤가멘투)
+- [Carregamento](#carregamento)
 - [콘주라상](#콘주라상)
+- [Conjuração](#conjuração)
 - [페르군타스 \& 헤스포스타스](#페르군타스--헤스포스타스)
+- [Perguntas \& Respostas](#perguntas--respostas)
 - [카피툴루 3: 아 그란지 오브라](#카피툴루-3-아-그란지-오브라)
+- [CAPÍTULO 3: A GRANDE OBRA](#capítulo-3-a-grande-obra)
 - [페르군타스 \& 헤스포스타스](#페르군타스--헤스포스타스-1)
+- [Perguntas \& Respostas](#perguntas--respostas-1)
 - [카피툴루 4: 프로제탄두 알렝 다스 세이스 파레지스 두 쿠부](#카피툴루-4-프로제탄두-알렝-다스-세이스-파레지스-두-쿠부)
+- [CAPÍTULO 4: PROJETANDO ALÉM DAS SEIS PAREDES DO CUBO](#capítulo-4-projetando-além-das-seis-paredes-do-cubo)
 - [페르군타스 \& 헤스포스타스](#페르군타스--헤스포스타스-2)
+- [Perguntas \& Respostas](#perguntas--respostas-2)
 - [카피툴루 5: 알렝 두 시클루 다 비다 이 다 모르치, 이 이스카판두 두 소우 네그루](#카피툴루-5-알렝-두-시클루-다-비다-이-다-모르치-이-이스카판두-두-소우-네그루)
+- [CAPÍTULO 5: ALÉM DO CICLO DA VIDA E DA MORTE, E ESCAPANDO DO SOL NEGRO](#capítulo-5-além-do-ciclo-da-vida-e-da-morte-e-escapando-do-sol-negro)
 - [페르군타스 \& 헤스포스타스](#페르군타스--헤스포스타스-3)
+- [Perguntas \& Respostas](#perguntas--respostas-3)
 - [카피툴루 6: 우 이스트라뉴](#카피툴루-6-우-이스트라뉴)
+- [CAPÍTULO 6: O ESTRANHO](#capítulo-6-o-estranho)
 - [페르군타스 이 헤스포스타스](#페르군타스-이-헤스포스타스)
+- [Perguntas e Respostas](#perguntas-e-respostas)
 - [콩클루장](#콩클루장)
+- [CONCLUSÃO](#conclusão)
 
 **아비주 레가우**
+**AVISO LEGAL**
 
 아스 인포르마송이스 콘치다스 네스치 리브루 상 이스클루지바멘치 파라 핑스 이두카치부스 이 지 인트레테니멘투 누스 아순투스 아보르다두스. 엘라스 낭 데벵 세르 콘시데라다스 코무 아콘셀랴멘투 메지쿠 오 프시콜로지쿠 이 낭 데벵 세르 우자다스 코무 수브스치투투 파라 우 아콘셀랴멘투 메지쿠 오 프시콜로지쿠 포르 프로피시오나이스 트레이나두스. 우 아우토르 낭 오페레시 가란치아스 이 낭 아수미 네뉴마 헤스폰사빌리다지 펠라 프레시장 오 인테그리다지 다스 인포르마송이스 포르네시다스. 알렝 지수, 우 아우토르 낭 아세이타 헤스폰사빌리다지 펠라스 데시종이스 토마다스 펠루 레이토르. 우 아우토르 이 우 이지토르 낭 테랑 헤스폰사빌리다지 오 오브리가상 페란치 쿠아우케르 페소아 오 인치다지 잉 헬라상 아 쿠아우케르 페르다 오 다누 데코헨치 다스 인포르마송이스 콘치다스 네스치 리브루.
+As informações contidas neste livro são exclusivamente para fins educativos e de entretenimento nos assuntos abordados. Elas não devem ser consideradas como aconselhamento médico ou psicológico e NÃO devem ser usadas como substituto para o aconselhamento médico ou psicológico por profissionais treinados. O autor não oferece garantias e não assume nenhuma responsabilidade pela precisão ou integridade das informações fornecidas. Além disso, o autor não aceita responsabilidade pelas decisões tomadas pelo leitor. O autor e o editor não terão responsabilidade ou obrigação perante qualquer pessoa ou entidade em relação a qualquer perda ou dano decorrente das informações contidas neste livro.
 
 ## 프레파시우: 우 두플루
+## PREFÁCIO: O DUPLO
 
 우 키 에 우 두플루?
+O que é o duplo?
 
 우 두플루 에 보세, 낭 리미타두 펠루 이스파수 이 펠루 템푸. 우 두플루 에 보세 키 이지스치 알렝 두스 리미치스 다 헤알리다지 피지카 키 보세 포지 센치르 코무 아 우니카 헤알리다지 키 이지스치 아고라, 아키 네스치 루가르.
+O duplo é você, não limitado pelo espaço e pelo tempo. O duplo é você que existe além dos limites da realidade física que você pode sentir como a única realidade que existe agora, aqui neste lugar.
 
 마스 네스타 비다, 보세 에 우 두플루 이 우 두플루 에 보세 보세스 상 도이스, 보세 에 자누스[^1].
+Mas nesta vida, você é o duplo e o duplo é você; vocês são dois, você é Janus[^1].
 
 보세 포지 잉콘트라르 에시 두플루 잉 세우스 소뉴스, 이 쿠안두 잉콘트라르 에시 두플루, 낭 세라 웅 이스트라뉴 키 보세 잉콘트라라 우 키 보세 헤아우멘치 잉콘트라라 에 보세.
+Você pode encontrar esse duplo em seus sonhos, e quando encontrar esse duplo, não será um estranho que você encontrará; o que você realmente encontrará é VOCÊ.
 
 우 두플루 낭 에 웅 포르타우 이스텔라르 (낭 에 웅 포르타우 지멘시오나우) 포르키 우 두플루 에, 포르 수아 프로프리아 나투레자, 잉 토두스 우스 루가리스 이 잉 루가르 네늉. 우 두플루 낭 에 웅 헤시피엔치 파라 우 이우 이모르타우, 포르키 보세 자 에 이모르타우, 보세 에 파르치 데시 이우 이모르타우. 우 키 엘리 에, 에 우 헤시피엔치 파라 아 수아 인지비두알리다지 에 아 수아 인지비두알리다지! 이수 에 무이투 임포르탄치!
+O duplo não é um portal estelar (não é um portal dimensional) porque o duplo é, por sua própria natureza, em todos os lugares e em lugar nenhum. O duplo não é um recipiente para o eu imortal, porque você já é imortal, você é parte desse eu imortal. O que ele é, é o recipiente para a sua individualidade; é a sua individualidade! Isso é muito importante!
 
 낭 이지스치 템푸 코무 노르마우멘치 인텐데무스 우 템푸, 이지스치 아페나스 웅 인피니투 아고라.
+Não existe tempo como normalmente entendemos o tempo, existe apenas um infinito agora.
 
 낭 이지스치 이스파수 코무 노르마우멘치 인텐데무스 우 이스파수, 이지스치 아페나스 웅 인피니투 아키.
+Não existe espaço como normalmente entendemos o espaço, existe apenas um infinito aqui.
 
 비스투 키 에 우 카주, 비스투 키 에 아싱, 우 키 케르 키 보세 세자 아고라 세라 파라 셈프리 에사 에 탄투 아 벤상 쿠안투 아 마우지상 다 이모르탈리다지 키 에 수아 아고라.
+Visto que é o caso, visto que é assim, o que quer que você seja agora será para sempre; essa é tanto a bênção quanto a maldição da imortalidade que é sua agora.
 
 마스 코무 보세 포지 지제르 이수, 낭 바무스 토두스 모헤르?
+Mas como você pode dizer isso, não vamos todos morrer?
 
 보세 팔라 다 지시파상 두 이우, 두 핑 다 인지비두알리다지 쿠안두 아 볼랴 이스토라.
+Você fala da dissipação do eu, do fim da individualidade quando a bolha estoura.
 
 싱, 미냐 케리다, 에 이수 키 이우 지시, 아 콘푸장 이스타 누 파투 지 키 아스 팔라브라스 상 멘치로자스 이, 쿠안두 펜사무스 데마이스 콩 엘라스, 엘라스 누스 잉가낭.
+Sim, minha querida, é isso que eu disse, a confusão está no fato de que as palavras são mentirosas e, quando pensamos demais com elas, elas nos enganam.
 
 누 문두 지 웅 인피니투 아키, 잉 웅 인피니투 아고라, 낭 아 지시파상 지 보세 아고라, 아키, 코무 보세 인텐데리아 에사 아상, 에시 테르무.
+No mundo de um infinito aqui, em um infinito agora, não há dissipação de você agora, aqui, como você entenderia essa ação, esse termo.
 
 이수 낭 에 펠루 키 이스타무스 루탄두, 에사 네세시다지 지 비베르 파라 셈프리 코무 아우궁 밤피루 인테지아두 잉 아우궁 호만시, 이수 낭 에 두 키 시 트라타 아 바탈랴 지 무이타스 마네이라스, 아크레지치 오 낭, 자 소무스 이수, 인탕 낭 아 네세시다지 지 루타르 포르 이수.
+Isso não é pelo que estamos lutando, essa necessidade de viver para sempre como algum vampiro entediado em algum romance, isso não é do que se trata a batalha; de muitas maneiras, acredite ou não, já somos isso, então não há necessidade de lutar por isso.
 
 아 바탈랴 에 소브리 이스판상, 에 소브리 크레시멘투, 소브리 우 데젠보우비멘투 두 '보세' 인지비두아우 아트라베스 지 웅 메이우 지 아상 키 낭 포지 세르 메지두 우잔두 우마 헤구아 오 웅 헬로지우 키 치키.
+A batalha é sobre expansão, é sobre crescimento, sobre o desenvolvimento do 'você' individual através de um meio de ação que não pode ser medido usando uma régua ou um relógio que tique.
 
 아우궁스 미 페르군타랑: "보세 아크레지타 잉 헹카르나상?"
+Alguns me perguntaram: "Você acredita em reencarnação?"
 
 싱, 클라루 키 아크레지투, 에 아 미냐 헤스포스타, 마스 파라 이스플리카르 우 키 헹카르나상 시그니피카 파라 밍, 이우 테리아 키 아폰타르 토다스 아스 마네이라스 나스 쿠아이스 우 키 미 헤피루 코무 헹카르나상, 포지 낭 세르 우 키 아 헹카르나상 에 파라 보세.
+Sim, claro que acredito, é a minha resposta, mas para explicar o que reencarnação significa para mim, eu teria que apontar todas as maneiras nas quais o que me refiro como reencarnação, pode não ser o que a reencarnação é para você.
 
 펜시 니수:
+Pense nisso:
 
 시 헤아우멘치 비베무스, 코무 아 시엔시아 파레시 이스타르 데스코브린두, 잉 웅 인피니투 이스파수-템푸 아고라, 인탕 노사 콤프렌상 아투아우 다 헤알리다지 에 아페나스 우마 일루장 두스 센치두스. 시 에시 포르 우 카주, 인탕 코무 아 헹카르나상 세리아 포시베우?
+Se realmente vivemos, como a ciência parece estar descobrindo, em um infinito espaço-tempo agora, então nossa compreensão atual da realidade é apenas uma ilusão dos sentidos. Se esse for o caso, então como a reencarnação seria possível?
 
 보세 이스타 리가두 아 아우구마 레이 카르미카 잉 키 우마 베스 보세 포지 세르 웅 헤이 오 우마 하이냐 이 잉 오트라스 베지스 우마 미뇨카 시 콘토르센두 누 샹, 포르키 보세 페스 아우구 키 샤마무스 지 '후잉'?
+Você está ligado a alguma lei cármica em que uma vez você pode ser um rei ou uma rainha e em outras vezes uma minhoca se contorcendo no chão, porque você fez algo que chamamos de 'ruim'?
 
 아 헤스포스타 에 세르타멘치 싱, 보세 에 웅 프리지오네이루 다 레이 카르미카 잉 세르투 센치두, 이 탐벵 낭, 보세 에 우 인피니투 아고라, 낭 리미타두 포르 나다.
+A resposta é certamente sim, você é um prisioneiro da lei cármica em certo sentido, e também não, você é o infinito agora, não limitado por nada.
 
 에스타 텡 키 세르 아 헤스포스타 포르키 잉 웅 루가르 인피니투 낭-루가르, 아고라, 아 프로그레상 카르미카 낭 포지 세르 우 키 보세 펜사 키 에. 이 우 이우 이모르타우 아세나, 마스 아세나 지 우마 마네이라 키 세르타멘치 이스타 알렝 다 페르세프상 피지카 센수아우.
+Esta tem que ser a resposta porque em um lugar infinito não-lugar, agora, a progressão cármica não pode ser o que você pensa que é. E o eu imortal acena, mas acena de uma maneira que certamente está além da percepção física sensual.
 
 시 우 두플루 에 보세 셍 아스 파르치스 센수아이스 피지카스 키 우 리강 아 에스타 헤알리다지 아고라, 인탕 코무 포뎅 아스 이스플리카송이스 다 이지스텐시아 두 두플루 세르 심플레즈멘치 이스플리카다스 우잔두 테르무스 피지쿠스 센수아이스 치피쿠스, 코무 팔라브라스?
+Se o duplo é você sem as partes sensuais físicas que o ligam a esta realidade agora, então como podem as explicações da existência do duplo ser simplesmente explicadas usando termos físicos sensuais típicos, como palavras?
 
 쿠안두 팔루 다 부스카 두 이우 모르타우, 쿠안두 팔루 소브리 아 포르물라 아우키미카 인테리오르 파라 잉콘트라르 우 이모르타우 덴트루 지 보세, 파라 잉콘트라르 우 두플루 덴트루 지 보세, 소 포르사두 아 우자르 아켈라스 데스프레지베이스 팔라브라스 리미타다스 키 멘시오네이.
+Quando falo da busca do eu mortal, quando falo sobre a fórmula alquímica interior para encontrar o imortal dentro de você, para encontrar o duplo dentro de você, sou forçado a usar aquelas desprezíveis palavras limitadas que mencionei.
 
 포르 키 오데이우 에사스 팔라브라스 키 탄투 아무 이스크레베르?
+Por que odeio essas palavras que tanto amo escrever?
 
 팔라브라스 데벵 잉가나르 보세, 엘라스 낭 케렝 헤아우멘치, 마스 포르 수아 프로프리아 나투레자, 코무 이스코르피옹이스 나스 코스타스 지 웅 사푸, 에 이수 키 파젱... 아피나우 포랑 크리아다스 펠루 이우 피지카멘치 리미타두, 웅 아스펙투 두 이우 토타우 키 도르미 펠라 비다 코무 웅 이스크라부 이 소냐 토다스 아스 노이치스 콩 웅 두플루, 눙카 수스페이탄두 키 에 에시 두플루!
+Palavras devem enganar você, elas não querem realmente, mas por sua própria natureza, como escorpiões nas costas de um sapo, é isso que fazem... afinal foram criadas pelo eu fisicamente limitado, um aspecto do Eu Total que dorme pela vida como um escravo e sonha todas as noites com um duplo, nunca suspeitando que é esse duplo!
 
 포라 데스치스 리미치스 지 이스파수 이 템푸 키 상 아 일루장 다 피지칼리다지 트리지멘시오나우, 우 두플루 히 이 쇼라 잉쿠안투 올랴 파라 루가르 네늉 파라 잉콘트라르 웅 아스펙투 지 시 메즈무 키 데자피아, 키 이스타 센두 데자피아두, 아 리미타상 두 문두 피지쿠.
+Fora destes limites de espaço e tempo que são a ilusão da fisicalidade tridimensional, o duplo ri e chora enquanto olha para lugar nenhum para encontrar um aspecto de si mesmo que desafia, que está sendo desafiado, a limitação do mundo físico.
 
 이스쿠텡-미 인탕, 콤파녜이루스 지 비아젱, 바무스 토두스 콩코르다르 잉 오비르 노사스 팔라브라스, 토다스 에사스 팔라브라스, 포르키 상 아스 우니카스 코이자스 키 테무스 파라 코무니카르 네스치 루가르 누블라두 이 셰이우. 마스 바무스 콜로카르 에사스 팔라브라스 소브 우 마이오르 이스크루치니우 포시베우 포르키, 시 낭 우 피제르무스, 에사스 팔라브라스 누스 레바랑 포르 카미뉴스 이하두스 이 누스 프렌데랑 나스 프리종이스 지 노사 프로프리아 일루장.
+Escutem-me então, companheiros de viagem, vamos todos concordar em ouvir nossas palavras, todas essas palavras, porque são as únicas coisas que temos para comunicar neste lugar nublado e cheio. Mas vamos colocar essas palavras sob o maior escrutínio possível porque, se não o fizermos, essas palavras nos levarão por caminhos errados e nos prenderão nas prisões de nossa própria ilusão.
 
 인탕, 콩 에사스 팔라브라스, 사벤두 코무 엘라스 포뎅 누스 잉가나르, 우잔두 테르무스 심플리스, 다 미냐 페르스펙치바 아우키미카 페소아우 아 헹카르나상 에 헤아우 이 낭 헤아우, 카주 보세 포사 이스타르 인테레사두 나 오피니앙 데스타 인지비두알리다지... 이 우 두플루 낭 에 아우궁 치푸 지 포르타우 무우치지멘시오나우, 웅 포르타우 이스텔라르. 이수 에 아싱 포르키 우 두플루 이스타 잉 토다 파르치 이 에 토두스, 나다 마이스 에 포시베우.
+Então, com essas palavras, sabendo como elas podem nos enganar, usando termos simples, da minha perspectiva alquímica pessoal; a reencarnação é real e não real, caso você possa estar interessado na opinião desta individualidade... e o duplo não é algum tipo de portal multidimensional, um portal estelar. Isso é assim porque o duplo está em toda parte e é todos, nada mais é possível.
 
 아 부스카 낭 에 펠라 이모르탈리다지 코무 보세 포지 이마지나르 키 아 이모르탈리다지 세자, 포르키 시 우 키 보세 프로쿠라 에 웅 보세 인테르미나베우, 파젠두 아우구마 코이자 우마나 인테르미나베우, 인탕 보세 낭 프레시자 시 프레오쿠파르, 포이스 네스치 아키 이 아고라 보세 자 텡 이수, 이 테라 파라 셈프리. 에사 에 파르치 다 마우지상 다 리미타상 피지카 덴트루 다 바스치당 두 루가르 네늉 이 지 토두스 우스 템푸스 에 아 마우지상 두 이테르누 헤토르누, 코무 웅 루나치쿠 자 아 샤모.
+A busca não é pela imortalidade como você pode imaginar que a imortalidade seja, porque se o que você procura é um você interminável, fazendo alguma coisa humana interminável, então você não precisa se preocupar, pois neste aqui e agora você já tem isso, e terá para sempre. Essa é parte da maldição da limitação física dentro da vastidão do lugar nenhum e de todos os tempos; é a maldição do Eterno Retorno, como um lunático já a chamou.
 
 아 부스카 에 펠라 이볼루상, 마스 낭 아 이볼루상 잉 테르무스 지 우마 오르뎅 프로그레시바 리네아르 아트라베스 두 템푸 잉쿠안투 보세 오브세르바 우 이스파수 플루투안두 아우 헤도르 에, 아우 인베스 지수, 아 이볼루상 아트라베스 다 이스판상 지 우마 마네이라 키 낭 포지 세르 메지다 콩 세우스 올류스, 세우스 오비두스, 수아스 망스 오 쿠아우케르 오트루 아스펙투 피지쿠 두 세우 리미타두 이우 트리지멘시오나우 네스치 루가르 아고라, 아키. 에 아 이볼루상 알렝 다 우마니다지.
+A busca é pela evolução, mas não a evolução em termos de uma ordem progressiva linear através do tempo enquanto você observa o espaço flutuando ao redor; é, ao invés disso, a evolução através da expansão de uma maneira que não pode ser medida com seus olhos, seus ouvidos, suas mãos ou qualquer outro aspecto físico do seu limitado eu tridimensional neste lugar agora, aqui. É a evolução além da humanidade.
 
 에사 이볼루상, 에사 프로제상 알렝 두 이모르타우 키 보세 에 아고라, 레바 보세 아우 인피니투 라 포라... 아우 프로프리우 코라상 두 키 보세 포지 샤마르 지 카우스.
+Essa evolução, essa projeção além do imortal que você é agora, leva você ao infinito Lá Fora... ao próprio coração do que você pode chamar de Caos.
 
 올랴르 파라 아 파시 두 소우 네그루, 올랴르 파라 아 파시 다 싱굴라리다지 누 센트루 데스치 우니베르수, 트레메르 이 비브라르 이 페르데르 우 키 보세 데피니 코무 멘치 아고라, 이스칠랴사르-시 잉 페다수스 잉콘타베이스 이 아코르다르 파라 웅 문두 알렝 다 수아 콤프렌상, 파라 헤그라스 알렝 다 크렌사... 에사 에 아 부스카 두 아우키미스타 인테리오르, 에사 에 아 베르다데이라 부스카 두 베르다데이루 이우 이모르타우 두 두플루.
+Olhar para a face do Sol Negro, olhar para a face da singularidade no centro deste universo, tremer e vibrar e perder o que você define como mente agora, estilhaçar-se em pedaços incontáveis e acordar para um mundo além da sua compreensão, para regras além da crença... essa é a busca do alquimista interior, essa é a verdadeira busca do verdadeiro eu imortal; do duplo.
 
 코무 보세 셰가 라, 코무 보세 홈피 아스 아우제마스 두 템푸 이 두 이스파수?
+Como você chega lá, como você rompe as algemas do tempo e do espaço?
 
 아, 이우 테뉴 탄투스 콘투스 인테르미나베이스 파라 콘타르!
+Ah, eu tenho tantos contos intermináveis para contar!
 
+---
 ---
 
 [^1]: 누 안치구 판테앙 호마누, 자누스 에 우 데우스 다 트란시상, 두 템푸, 두스 포르통이스. 엘리 에 웅 데우스 지 두아스 카베사스 오 두아스 파시스. 카다 파시 이스타 보우타다 나 지레상 오포스타 이, 데사 포르마, 엘리 포지 세르 콘시데라두 웅 데우스 키 올랴 파라 포라 이 탐벵 파라 덴트루 시무우타네아멘치. 엘리 에, 포르탄투, 우 데우스 지 토두스 우스 코메수스, 엘리 에 우 데우스 키 시 코녜시 콤플레타멘치, 탄투 우 이스테리오르 쿠안투 우 인테리오르, 이 이스타 콘시엔치 지 암부스. 엘리 에 웅 데우스 키 사비 이 인시나 코무 코녜세르 아 토탈리다지 지 시 메즈무.
+[^1]: No antigo panteão romano, Janus é o Deus da transição, do tempo, dos portões. Ele é um Deus de duas cabeças ou duas faces. Cada face está voltada na direção oposta e, dessa forma, ele pode ser considerado um Deus que olha para FORA e também para DENTRO simultaneamente. Ele é, portanto, o Deus de todos os começos, ele é o Deus que se conhece completamente, tanto o exterior quanto o interior, e está consciente de ambos. Ele é um deus que sabe e ensina como conhecer a totalidade de si mesmo.
 
 우 소냐도르 아스피라 코녜세르 이 렘브라르 코무 엘리. 토두스 노스 테무스 두아스 파시스: 웅 아스펙투 지 노스 메즈무스 올랴 파라 우 문두 피지쿠, 이 오트라 파시 (오트루 아스펙투 지 노수스 이우스 토타이스) 키 올랴 파라 아스 바스타스 지멘송이스 인테리오리스 아스 지멘송이스 두스 소뉴스. 카다 파시 포지 이스케세르 아 오트라, 인탕 아 페소아 메지아 텡 도이스 이우스 인지비두아이스 지스친투스 우 코녜시두 키 올랴 파라 포라 이 아 파시 데스코녜시다 키 올랴 파라 덴트루. 아 바탈랴 두 소냐도르, 두 프로제치스타, 에 잉콘트라르 아우궁 루가르 누 메이우, 아우궁 '포르탕' 엔트리 암바스 아스 파시스 온지 카다 우마 포사 코녜세르 아 오트라. 자누스 에 헤아우멘치 우 데우스 두 프로제치스타 이 탐벵 우 데우스 다켈리스 키 데제장 렘브라르. 세르 코무 자누스, 아도라르 자누스, 에 세르 아우겡 키 인텐지 아 토탈리다지 지 시 메즈무, 아우겡 키 포지 베르 파라 포라 이 파라 덴트루 시무우타네아멘치, 아우겡 키 콘세기우 렘브라르 이 만테르 우마 포지상 코그니치바 토타우멘치 노바 이 이스판지다.
+O sonhador aspira conhecer e lembrar como ele. Todos nós temos duas faces: um aspecto de nós mesmos olha para o mundo físico, e outra face (outro aspecto de nossos eus totais) que olha para as vastas dimensões interiores; as dimensões dos sonhos. Cada face pode esquecer a outra, então a pessoa média tem dois eus individuais distintos; o conhecido que olha para fora e a face desconhecida que olha para dentro. A batalha do sonhador, do projetista, é encontrar algum lugar no meio, algum 'portão' entre ambas as faces onde cada uma possa conhecer a outra. Janus é realmente o Deus do projetista e também o Deus daqueles que desejam lembrar. Ser como Janus, adorar Janus, é ser alguém que entende a totalidade de si mesmo, alguém que pode ver para fora e para dentro simultaneamente, alguém que conseguiu lembrar e manter uma posição cognitiva totalmente nova e expandida.
 
 ## 인트로두상
+## INTRODUÇÃO
 
 **나 수블리미 게하 두 오멩 콘트라 아 헤알리다지, 우 오멩 텡 아페나스 우마 아르마, 아 이마지나상.**
+**Na sublime guerra do homem contra a Realidade, o homem tem apenas uma arma, a imaginação.**
 _― 벤자밍 지 카세리스_
+_― BENJAMIN DE CASSERES_
 
 아우 롱구 지 토두 우 메우 트라발류, 텐테이 아프레젠타르 아우스 메우스 레이토리스 아 아상 인테리오르.
+Ao longo de todo o meu trabalho, tentei apresentar aos meus leitores a ação interior.
 
 우잔두 노수스 센치두스 피지쿠스, 포데무스 카이르 소브 우 페이치수 지 아크레지타르 키 토두 우 모비멘투 잉 키 이스타무스 인보우비두스, 키 포데무스 헤알리자르, 토두 우 아지르 포시베우 파라 노스, 에 아상 피지카 아페나스... 마스 아 무이투 마이스 잉 노스!
+Usando nossos sentidos físicos, podemos cair sob o feitiço de acreditar que todo o movimento em que estamos envolvidos, que podemos realizar, todo o agir possível para nós, é ação física apenas... mas há muito mais em nós!
 
 코무 아우키미스타 인테리오르, 테뉴 아 타레파 지 인텐데르 아 무우치플리시다지 다 미냐 나투레자 토타우 이 우 포텐시아우 쿠아지 일리미타두 다 우마니다지. 코메세이 에사 조르나다 다 메즈마 마네이라 키 보세 타우베스 테냐 코메사두 아 수아, 이 이수 포이 렌두 이 이스투단두 바리아스 폰치스, 마테리아우 피지쿠, 키 텐탕 이스플리카르 아 나투레자 두스 아스펙투스 무우치지멘시오나이스 키 상 노사 에란사 코무 세리스 우마누스. 오 세자, 코메세이 미냐 조르나다 렌두 마테리아우 피지쿠 키 누스 팔라 소브리 우 포텐시아우 우마누, 웅 포텐시아우 잉콘트라두 알렝 다스 파레지스 키 아프리지오낭 탄투스 나 지멘상 피지카, 키 누스 지스 키 테무스 아 포시빌리다지 지 파제르 무이투 마이스 두 키 수포스타멘치 에 포시베우 파라 세리스 아페나스 피지쿠스.
+Como alquimista interior, tenho a tarefa de entender a multiplicidade da minha natureza total e o potencial quase ilimitado da humanidade. Comecei essa jornada da mesma maneira que você talvez tenha começado a sua, e isso foi lendo e estudando várias fontes, material físico, que tentam explicar a natureza dos aspectos multidimensionais que são nossa herança como seres humanos. Ou seja, comecei minha jornada lendo material físico que nos fala sobre o potencial humano, um potencial encontrado além das paredes que aprisionam tantos na dimensão física, que nos diz que temos a possibilidade de fazer muito mais do que supostamente é possível para seres apenas físicos.
 
 에사스 폰치스, 세장 리브루스, 마누스크리투스 오 쿠아우케르 오트라 코이자, 수제렝, 잉 우마 무우치플리시다지 지 지페렌치스 콤비나송이스 지 팔라브라스, 테르무스, 이데이아스, 필로조피아스 이 이스트루투라스 지 크렌사 잉 제라우, 키 이지스치 웅 라두 오쿠우투 잉 투두. 에시 라두 오쿠우투 (오쿠우투) 다 헤알리다지 낭 에 파시우멘치 아세시베우 포르 노스, 포르키 나 마이오르 파르치 다스 베지스 이스타 포라 두스 센치두스 피지쿠스 하라멘치 에 페르세프치베우 아페나스 아트라베스 두스 센치두스 피지쿠스.
+Essas fontes, sejam livros, manuscritos ou qualquer outra coisa, sugerem, em uma multiplicidade de diferentes combinações de palavras, termos, ideias, filosofias e estruturas de crença em geral, que existe um lado oculto em tudo. Esse lado oculto (oculto) da realidade não é facilmente acessível por nós, porque na maior parte das vezes está fora dos sentidos físicos; raramente é perceptível apenas através dos sentidos físicos.
 
 아켈리스 키 아피르망 테르 아세수 아 에시 아스펙투 오쿠우투 다 헤알리다지 프레켄테멘치 누스 지젱 키 아 우마 그란지 이스판상 라 포라 키 이스타 오쿠우타 지 노스, 이 키, 우마 베스 키 누스 코넥테무스 아 에사 헤알리다지 오쿠우타, 우 키 에 포시베우 파라 노스 무다.
+Aqueles que afirmam ter acesso a esse aspecto oculto da realidade frequentemente nos dizem que há uma grande expansão Lá Fora que está oculta de nós, e que, uma vez que nos conectemos a essa realidade oculta, o que é possível para nós muda.
 
 네시 센치두, 인탕, 코메세이 미냐 조르나다 코무 토두스 우스 아우키미스타스 인테리오리스 코메상 수아스 조르나다스, 이 이수 포이 렌두 이 아세산두 마테리아우 피지쿠 키 팔라 지 헤이누스 오쿠우투스 이 마이오리스 아 세렝 잉콘트라두스 알렝 두스 센치두스 피지쿠스. 아 지페렌사 엔트리 우 세르 우마누 코뭉 이 웅 아우키미스타 인테리오르 에 키 우 아우키미스타 인테리오르 바이 알렝 다스 심플리스 팔라브라스 이스크리타스 이 코메사 아 트란스포르마르 에시 마테리아우 잉 포데르 지레투, 낭 아페나스 렌두-우, 마스 코메산두 아 잉코르포라르 에사스 이데이아스 잉 수아스 프로프리아스 비다스. 엘리스, 이센시아우멘치, 코메상 아 "팔라르 이 아지르" 코무 시 지스, 콘센트란두 세우 포데르 지 아텐상 셈프리 크레센치 니수.
+Nesse sentido, então, comecei minha jornada como todos os alquimistas interiores começam suas jornadas, e isso foi lendo e acessando material físico que fala de reinos ocultos e maiores a serem encontrados além dos sentidos físicos. A diferença entre o ser humano comum e um alquimista interior é que o alquimista interior vai além das simples palavras escritas e começa a transformar esse material em poder direto, não apenas lendo-o, mas começando a incorporar essas ideias em suas próprias vidas. Eles, essencialmente, começam a "falar e agir" como se diz, concentrando seu poder de atenção sempre crescente nisso.
 
 콩 우 템푸, 시 에시 포쿠 지 아텐상 포르 포르치 우 수피시엔치, 우잔두 쿠아우케르 바리에다지 지 테크니카스 키 아스 베지스 상 아프레젠타다스 네시스 리브루스 키 팔랑 지 우마 헤알리다지 오쿠우타, 웅 프라치칸치 지 타우 포쿠 수스텐타두, 타우 포쿠 오쿠우투, 포지 이벤투아우멘치, 시 페르시스텐치, 코메사르 아 페르세베르 웅 포키뉴 데사 헤알리다지 오쿠우타.
+Com o tempo, se esse foco de atenção for forte o suficiente, usando qualquer variedade de técnicas que às vezes são apresentadas nesses livros que falam de uma realidade oculta, um praticante de tal foco sustentado, tal foco oculto, pode eventualmente, se persistente, começar a perceber um pouquinho dessa realidade oculta.
 
 에시스 페케누스 비즐룸브리스 포뎅 아수미르 바리아스 포르마스 이 포뎅 세르 지 그란지 아주다, 포이스 페르미텡 키 우마 페소아 코메시 아 무다르 아 나투레자 지 수아스 크렌사스, 마스 탐벵 포뎅 세르 웅 그란지 오브스타쿨루, 포이스 데비두 아우 심볼리즈무 이네렌치 아우 인시누 데사스 테크니카스, 우 포쿠 데시 프라치칸치 이니시안치 포지 시 데즈비아르, 이 타이스 인지비두스 포뎅, 콩 우 템푸, 코메사르 아 이키파라르 세르투스 헤주우타두스 콩 세르투스 치푸스 지 크렌사스 도그마치카스. 포르탄투, 웅 아우키미스타 인테리오르 데비 페르마네세르 비질란치 파라 낭 피카르 프레주 잉 웅 시스테마 지 크렌사스 이스페시피쿠 키 헤스트린자 우 이스코푸 지 수아스 포시빌리다지스 이 마이오르 콤프렌상.
+Esses pequenos vislumbres podem assumir várias formas e podem ser de grande ajuda, pois permitem que uma pessoa comece a mudar a natureza de suas crenças, mas também podem ser um grande obstáculo, pois devido ao simbolismo inerente ao ensino dessas técnicas, o foco desse praticante iniciante pode se desviar, e tais indivíduos podem, com o tempo, começar a equiparar certos resultados com certos tipos de crenças dogmáticas. Portanto, um alquimista interior deve permanecer vigilante para não ficar preso em um sistema de crenças específico que restrinja o escopo de suas possibilidades e maior compreensão.
 
 우 베르다데이루 포데르 데시스 페케누스 비즐룸브리스 잉 헤이누스 마이오리스 이 오쿠우투스 에 키 타이스 람페주스 지 페르세프상, 시 우 프라치칸치 이스치베르 아텐투, 포뎅 포르네세르 우스 메노리스 시나이스 두 키 포데리앙 세르 샤마두스 지 포르타스, 오 우 키 이우 미 헤페리 코무 마파스 인베르치두스, 키 노바멘치, 시 우 프라치칸치 포르 임플라카베우 잉 세우 포쿠, 포뎅 콘두지르 에사 페소아 아인다 마이스 프로푼다멘치.
+O verdadeiro poder desses pequenos vislumbres em reinos maiores e ocultos é que tais lampejos de percepção, se o praticante estiver atento, podem fornecer os menores sinais do que poderiam ser chamados de portas, ou o que eu me referi como mapas invertidos, que novamente, se o praticante for implacável em seu foco, podem conduzir essa pessoa ainda mais profundamente.
 
 데사 포르마, 우 프라치칸치 우잔두 마테리아우 피지쿠, 마테리아우 푸라멘치 트리지멘시오나우 피지쿠, 에 이스포스투, 콩 우 템푸, 아우 코엘류 브랑쿠, 이 에시 코엘류 브랑쿠, 잉 쿠아우케르 포르마 키 포사 아수미르 파라 에시 인지비두 잉 파르치쿨라르, 레바 에사 페소아 아 웅 부라쿠 마이스 프로푼두. 아 조르나다 콘치누아 아싱, 카다 베스 마이스 프로푼다, 아파렌테멘치. 마스 샤마르 에사 조르나다 지 데센덴치 에 팔라시오주, 포르키 에시스 노부스 헤이누스, 메즈무 키 아스 베지스 포상 이미타르 트레스 지멘송이스, 이스탕 무이투 알렝 지 타이스 헤스트리송이스 트리지멘시오나이스, 센두 키 토다스 에사스 포르타스 콘두젱 알렝 다스 세이스 파레지스 키 아프리지오낭 토다 아 우마니다지 잉 웅 쿠부 트리지멘시오나우, 이 이스탕, 포르탄투, 알렝 지 시마, 바이슈, 라두 아 라두, 아트라베스 오 아우 헤도르. 에사스 페르세프송이스 이 에사 아상 아콘테셍 잉 우마 제오그라피아 알렝 두 템푸, 이스파수 이 그라비다지 잉콘트라두스 누 쿠부 트리지멘시오나우 키 프렌지 아 마이오르 파르치 다 우마니다지 아테 수아 모르치.
+Dessa forma, o praticante usando material físico, material puramente tridimensional físico, é exposto, com o tempo, ao COELHO BRANCO, e esse coelho branco, em qualquer forma que possa assumir para esse indivíduo em particular, leva essa pessoa a um buraco mais profundo. A jornada continua assim, cada vez mais profunda, aparentemente. Mas chamar essa jornada de descendente é falacioso, porque esses novos reinos, mesmo que às vezes possam imitar três dimensões, estão muito além de tais restrições tridimensionais, sendo que todas essas portas conduzem além das seis paredes que aprisionam toda a humanidade em um cubo tridimensional, e estão, portanto, além de cima, baixo, lado a lado, através ou ao redor. Essas percepções e essa ação acontecem em uma geografia além do tempo, espaço e gravidade encontrados no cubo tridimensional que prende a maior parte da humanidade até sua morte.
 
 카다 우마 데사스 이스트라다스, 키 방 마이스 이 마이스 푼두, 레바 우 프라치칸치 아 헤이누스 노부스 이 이네스플로라두스. 엘리스 우스 콘두젱 아 살라스 키 파레셍 이스타르 피칸두 카다 베스 마이오리스 지 우마 마네이라 지피시우 지 데피니르.
+Cada uma dessas estradas, que vão mais e mais fundo, leva o praticante a reinos novos e inexplorados. Eles os conduzem a salas que parecem estar ficando cada vez maiores de uma maneira difícil de definir.
 
 아 메지다 키 시 비아자 포르 에사스 헤알리다지스 무이타스 베지스 콤플레샤스 이 지피세이스 지 나베가르 이 마니풀라르, 카다 웅 데시스 '헤이누스 아베르투스' 인시나 아우구 노부 이 지페렌치. 에시스 노부스 데스치누스 아우스 쿠아이스 우 프라치칸치 포지 이르 인시낭-리 노바스 코이자스 아트라베스 다 이스포지상 지레타 아 포르마스 카다 베스 마이스 콤플레샤스 지 코녜세르 이 모베르, 누 키 포데리아 세르 데노미나두, 두 폰투 지 비스타 피지쿠... 이스파수스 인테리오리스.
+À medida que se viaja por essas realidades muitas vezes complexas e difíceis de navegar e manipular, cada um desses 'reinos abertos' ensina algo novo e diferente. Esses novos destinos aos quais o praticante pode ir ensinam-lhe novas coisas através da exposição direta a formas cada vez mais complexas de conhecer e mover, no que poderia ser denominado, do ponto de vista físico... espaços interiores.
 
 포르탄투, 웅 아우키미스타 인테리오르 에 아우겡 키 세기우 우 코엘류 브랑쿠 포르 무이타스 데사스 포르타스, 이 그라사스 아 수아 네세시다지 임플라카베우 지 세기르 아켈리 코엘류 이 콘치누아르 데센두 카다 베스 마이스 푼두 잉 헤이누스 오쿠우투스, 엘리스 상 임펠리두스 아 아프렌데르 코무 크루자르 이 마니풀라르 에사스 노바스 제오그라피아스. 에스치스 상 이스파수스 인테리오리스 (키 상 헤아우멘치 루가리스 이스테리오리스) 키 오페랑 지 아코르두 콩 레이스 무이투 지페렌치스 다스 잉콘트라다스 나 헤알리다지 피지카.
+Portanto, um alquimista interior é alguém que seguiu o coelho branco por muitas dessas portas, e graças à sua necessidade implacável de seguir aquele coelho e continuar descendo cada vez mais fundo em reinos ocultos, eles são impelidos a aprender como cruzar e manipular essas novas geografias. Estes são espaços interiores (que são realmente lugares exteriores) que operam de acordo com leis muito diferentes das encontradas na realidade física.
 
 아고라, 이지스텡 아켈리스 키 낭 이스탕 인테레사두스 잉 세기르 우 코엘류 브랑쿠 지 포르마 아우구마. 세자 포르 프레페렌시아 페소아우, 잉카파시다지 지 수스텐타르 우 포쿠 오 심플레즈멘치 웅 인테레시 무이투 마이오르 아페나스 나 헤알리다지 피지카, 엘리스 당 아스 코스타스 아우 코엘류 브랑쿠, 메즈무 키 테냥 소르치 우 수피시엔치 파라 베르 비즐룸브리스 델리. 에시스 인지비두스 아인다 낭 이스탕 프론투스 파라 인프렌타르 우마 헤알리다지 마이오르, 이 이수 에 봉 파라 엘리스. 토두스 노스 이스콜례무스 잉 아우궁 모멘투 이 아크레지치 오 낭, 에사 에 우마 이스콜랴 콘시엔치. 마스 파라 웅 아우키미스타 인테리오르, 낭 아 이스콜랴 에 프레시주 세기르 아켈리 코엘류 이 메르굴랴르 프로푼다멘치.
+Agora, existem aqueles que não estão interessados em seguir o coelho branco de forma alguma. Seja por preferência pessoal, incapacidade de sustentar o foco ou simplesmente um interesse muito maior apenas na realidade física, eles dão as costas ao coelho branco, mesmo que tenham sorte o suficiente para ver vislumbres dele. Esses indivíduos ainda não estão prontos para enfrentar uma realidade maior, e isso é bom para eles. Todos nós escolhemos em algum momento e acredite ou não, essa é uma escolha consciente. Mas para um alquimista interior, não há escolha; é preciso seguir aquele coelho e mergulhar profundamente.
 
 인탕, 파라 아켈리스 키 케렝, 이 키 포뎅 만테르 우 포쿠 네사 피구라 푸가스 비즐룸브라다, 아 우마 그란지 헤콤펜사 알렝 지 쿠아우케르 코이자 콤프렌시베우 포르 아켈리스 키 이스탕 프레주스 오 이스콜롕 페르마네세르 덴트루 두 쿠부 트리지멘시오나우. 아 베르다지, 아 베르다지 이네르제치카, 파라 아켈리스 키 사벵 이 콘세기랑 이르 웅 포쿠 알렝 데시스 헤이누스 인테리오리스, 에 아 마그니피카 헤벨라상 지 키, 코무 세리스 우마누스, 소무스 카파지스 지 아세사르 무우치플라스 지멘송이스, 오 세자, 소무스 세리스 무우치지멘시오나이스.
+Então, para aqueles que querem, e que podem manter o foco nessa figura fugaz vislumbrada, há uma grande recompensa além de qualquer coisa compreensível por aqueles que estão presos ou escolhem permanecer dentro do cubo tridimensional. A verdade, a verdade energética, para aqueles que sabem e conseguiram ir um pouco além desses reinos interiores, é a magnífica revelação de que, como seres humanos, somos capazes de acessar múltiplas dimensões, ou seja, somos seres multidimensionais.
 
 우 키 이수 시그니피카 에 키 아 콤플레시다지 지 노스 메즈무스 누스 토르나 무이투 마이오리스 포르 덴트루 두 키 포르 포라. 오트라 마네이라 지 지제르 이수 세리아 아피르마르 키 아 토탈리다지 지 노스 낭 시 잉콘트라 아페나스 나 헤알리다지 피지카. 아 토탈리다지 지 노스 오쿠파 무이타스 헤알리다지스 지멘시오나이스 아트라베스 두 이스파수 이 두 템푸, 이 파르치스 지 노스 이지스텡 잉 오트라스 로칼리자송이스 지멘시오나이스 키 상 토타우멘치 이 아우타멘치 지페렌치스 지 쿠아우케르 코이자 잉콘트라다 이 콘치다 포르 타이스 레이스 그라비타시오나이스 페자다스, 키 상 아 헤그라 누 이스파수 피지쿠.
+O que isso significa é que a complexidade de nós mesmos nos torna muito maiores por dentro do que por fora. Outra maneira de dizer isso seria afirmar que a totalidade de nós não se encontra apenas na realidade física. A totalidade de nós ocupa muitas realidades dimensionais através do espaço e do tempo, e partes de nós existem em outras localizações dimensionais que são totalmente e altamente diferentes de qualquer coisa encontrada e contida por tais leis gravitacionais pesadas, que são a regra no espaço físico.
 
 아 헤콤펜사 두 트라발류, 포르탄투, 에 키, 아우 인텐데르 프리메이루 아 나투레자 데사 무우치지멘시오날리다지 이 세긴두 우 코엘류 브랑쿠 잉 테하스 인테리오리스 노바스 이 지스탄치스, 우 프라치칸치, 키 아 에사 아우투라 포지 세르 베르다데이라멘치 헤페리두 코무 웅 아우키미스타 인테리오르, 이스판지 이노르메멘치 우 이스코푸 지 세우 문두, 지 수아 콤플레타 이센시아 무우치지멘시오나우. 웅 아우키미스타 인테리오르 데후바 아스 파레지스 다 헤알리다지 트리지멘시오나우, 홈피 알렝 다스 세이스 파레지스 두 쿠부 키 우스 프렌지. 아우 파제르 이수, 엘리스 시 모벵 파라 우 키 포지 파레세르 제오그라피아스 인테리오리스, 마스 키 콩 우 템푸 상 헤벨라다스 코무 이스테리오리스, 헤알리다지스 셍 리미치스. 아 메지다 키 홈펭 아스 세이스 파레지스 다 피지칼리다지, 우스 아우키미스타스 인테리오리스 잉콘트랑 노바스 파레지스 네사스 제오그라피아스 인테리오리스 이, 아 메지다 키 콘치누앙 세긴두 우 코엘류 브랑쿠, 엘리스 케브랑 파레지 아포스 파레지 아포스 파레지.
+A recompensa do trabalho, portanto, é que, ao entender primeiro a natureza dessa multidimensionalidade e seguindo o coelho branco em terras interiores novas e distantes, o praticante, que a essa altura pode ser verdadeiramente referido como um alquimista interior, expande enormemente o escopo de seu mundo, de sua completa essência multidimensional. Um alquimista interior derruba as paredes da realidade tridimensional, rompe além das seis paredes do cubo que os prende. Ao fazer isso, eles se movem para o que pode parecer geografias interiores, mas que com o tempo são reveladas como exteriores, realidades sem limites. À medida que rompem as seis paredes da fisicalidade, os alquimistas interiores encontram novas paredes nessas geografias interiores e, à medida que continuam seguindo o coelho branco, eles quebram parede após parede após parede.
 
 콩 우 템푸, 낭 아 리미치 파라 우 쿠앙 파라 덴트루 웅 아우키미스타 포지 이르. 헤아우멘치 이지스치 아 포시빌리다지 지 키 타우 비아잔치 포사 이르 탕 프로푼다멘치 파라 덴트루, 키 에 헤아우멘치 파라 포라, 키 이벤투아우멘치 아 이스텐상 지 수아 제오그라피아, 아 이스텐상 지 켕 엘리스 시 토르나랑, 아 토탈리다지 지 세우 세르 토르나-시 타우 키 엘리스 포뎅 아테 데자피아르 아 그라비다지 다 프로프리아 모르치, 이 콘치누아르 수아 조르나다 잉쿠안투 페르세겡 아켈리 코엘류 브랑쿠 아테 우 인피니투.
+Com o tempo, não há limite para o quão PARA DENTRO um alquimista pode ir. Realmente existe a possibilidade de que tal viajante possa ir tão profundamente para dentro, que é realmente para fora, que eventualmente a extensão de sua geografia, a extensão de quem eles se tornaram, a totalidade de seu ser torna-se tal que eles podem até desafiar a gravidade da própria morte, e continuar sua jornada enquanto perseguem aquele coelho branco até o infinito.
 
 마스 토두스 노스 코메사무스 잉 웅 코메수, 포르 아싱 지제르, 이 에시 코메수 데비 제라우멘치 코메사르 파라 노스 네스치 루가르 리미타두, 에스치 루가르 콘스트란지두 키 에 셰이우 지 그란지 그라비다지. 데스치 루가르 올랴무스 잉 토다스 아스 지레송이스 이 베무스 우마 파레지 베무스 웅 핑 파라 우 키 포데무스 페르세베르 콩 노수스 센치두스 피지쿠스, 낭 임포르타 파라 온지 올례무스. 이 메즈무 키 콘피에무스 콤플레타멘치 이 피에우멘치 누스 인스트루멘투스, 나 테크놀로지아, 키 포사무스 우자르 파라 베르 카다 베스 마이스 아트라베스 데스치 이스파수 피지쿠, 이벤투아우멘치 데스코브리레무스 키 바테무스 잉 파레지 아포스 파레지, 아테 키 에사 테크놀로지아 낭 누스 레비 마이스 론지. 낭 아 사이다, 낭 아 포르타스 아 세렝 잉콘트라다스 덴트루 다 피지칼리다지. 아페나스 아트라베스, 파라 덴트루, 알렝 다 피지칼리다지, 잉콘트라레무스 아우구마 푸가 지 노사스 파레지스. 포르탄투, 에 노사 타레파 코무 세리스 우마누스, 코무 이스플로라도리스 쿠리오주스 키 텡 덴트루 지 시 에시 데제주 임포시베우 지 셈프리 사베르 우 키 이스타 두 오트루 라두 두 발리, 알렝 다켈라 콜리나, 나 프로시마 쿠르바... 부스카르 우마 마네이라 지 우우트라파사르 아스 세이스 파레지스, 잉콘트라르 우마 포르타, 웅 부라쿠, 아 메노르 피수라, 낭 임포르타 우 키 세자.
+Mas todos nós começamos em um começo, por assim dizer, e esse começo deve geralmente começar para nós neste lugar limitado, este lugar constrangido que é cheio de grande gravidade. Deste lugar olhamos em todas as direções e vemos uma parede; vemos um fim para o que podemos perceber com nossos sentidos físicos, não importa para onde olhemos. E mesmo que confiemos completamente e fielmente nos instrumentos, na tecnologia, que possamos usar para ver cada vez mais através deste espaço físico, eventualmente descobriremos que batemos em parede após parede, até que essa tecnologia não nos leve mais longe. Não há saída, não há portas a serem encontradas dentro da fisicalidade. Apenas através, para dentro, além da fisicalidade, encontraremos alguma fuga de nossas paredes. Portanto, é nossa tarefa como seres humanos, como exploradores curiosos que têm dentro de si esse desejo impossível de sempre saber o que está do outro lado do vale, além daquela colina, na próxima curva... buscar uma maneira de ultrapassar as seis paredes, encontrar uma porta, um buraco, a menor fissura, não importa o que seja.
 
 무이투스 지 노스 프로쿠라무스 파라 셈프리 이 눙카 잉콘트라무스 우마 사이다. 네스치스 템푸스 모데르누스, 아 그란지스 소마스 지 페소아스 키 상 코무 우스 아우키미스타스 "소프라도리스" 다 안치기다지. 상 아우키미스타스 키 소 포지앙 아크레지타르 잉 세우스 카우데이롱이스 피지쿠스, 세우스 일레멘투스 이 헤그라스 피지카스. 엘리스 소 포지앙 이스페라르 펠루 데젠보우비멘투 지 포르마스 카다 베스 마이스 노바스 지 인스트루멘타상 이 테크놀로지아, 아 핑 지 텐타르 홈페르 알렝 다스 세이스 파레지스. 아우구마스 데사스 페소아스 포뎅 테르 수세수 아테 세르투 폰투 이 포뎅 시 모베르 아우구마 지스탄시아, 마스 아 베르다데이라 푸가 눙카 세라 잉콘트라다 데스타 마네이라, 포르키 셈프리 아베라 웅 리미치 파라 아 피지칼리다지, 아테 키 아 피지칼리다지 세자 인텐지다 코무 우 프로프리우 리미타도르. 마스 파라 아켈리스 포쿠스 키 이스탕 아베르투스 아 오트라스 포시빌리다지스 알렝 다 피지칼리다지, 엘리스 포뎅 테르 아 오포르투니다지 지 비즐룸브라르 우 코엘류 브랑쿠, 아트라베스 데시스 오트루스 메이우스, 수포스타멘치 오쿠우투스.
+Muitos de nós procuramos para sempre e nunca encontramos uma saída. Nestes tempos modernos, há grandes somas de pessoas que são como os alquimistas "Sopradores" da antiguidade. São alquimistas que só podiam acreditar em seus caldeirões físicos, seus elementos e regras físicas. Eles só podiam esperar pelo desenvolvimento de formas cada vez mais novas de instrumentação e tecnologia, a fim de tentar romper além das seis paredes. Algumas dessas pessoas podem ter sucesso até certo ponto e podem se mover alguma distância, mas a verdadeira fuga nunca será encontrada desta maneira, porque sempre haverá um limite para a fisicalidade, até que a fisicalidade seja entendida como o próprio limitador. Mas para aqueles poucos que estão abertos a outras possibilidades além da fisicalidade, eles podem ter a oportunidade de vislumbrar o coelho branco, através desses outros meios, supostamente ocultos.
 
 마스 에시 카미뉴 오쿠우투, 에시 카미뉴 이스콘지두, 코메사 다 마네이라 마이스 이노쿠아 이 이스타 무이투 마이스 페르투 지 보세 아고라 두 키 아 마이오리아 다스 페소아스 포데리아 이마지나르. 지 아코르두 콩 우 카미뉴 다 아우키미아 인테리오르, 타우 조르나다 코메사 잉콘트란두 우스 마파스 오쿠우투스 키 레방 아우스 루가리스 온지 우 코엘류 브랑쿠 포지 세르 잉콘트라두, 오 온지 우 코엘류 브랑쿠 포지 잉콘트라르 보세. 에시스 마파스 상 잉콘트라두스 잉 팔라브라스 심플리스, 팔라브라스 이스크리타스 잉 우마 파지나 타우베스, 파사젱스 심플리스 이 아파렌테멘치 이노센치스 아스 베지스. 라, 잉 리브루스 이스트라뉴스 오 지스크레투스, 보세 포지 잉콘트라르 토두스 우스 치푸스 지 테크니카스 이 이데이아스 이스트라냐스, 아피르마송이스, 이스토리아스, 키 아트라베스 데사스 팔라브라스 페르미텡 키 아 아텐상 두 레이토르 시 모바 파라 덴트루 지 시 메즈마, 파라 프로제타르. 이 심플레즈멘치 아트라베스 데스타스 팔라브라스, 케브라르 인스탄타네아멘치 아스 파레지스 다 피지칼리다지 이 임푸우시오나르 아 멘치, 아우구 키 미 헤피루 코무 우 "판타즈마 나 마키나", 아 시 리베르타르 다 그라비다지 이 다 피지칼리다지, 이 인스탄타네아멘치 코메사르 아 페르세베르, 다 마네이라 키 포르 마이스 아데쿠아다 파라 우 인지비두, 노부스 이스파수스 멘타이스 키 상 우스 프리메이루스 파수스 파라 아스 마이오리스 이 마이오리스 포시빌리다지스 지스포니베이스 파라 토두스 노스.
+Mas esse caminho oculto, esse caminho escondido, começa da maneira mais inócua e está muito mais perto de você agora do que a maioria das pessoas poderia imaginar. De acordo com o caminho da alquimia interior, tal jornada começa encontrando os mapas ocultos que levam aos lugares onde o coelho branco pode ser encontrado, ou onde o coelho branco pode encontrar você. Esses mapas são encontrados em palavras simples, palavras escritas em uma página talvez, passagens simples e aparentemente inocentes às vezes. Lá, em livros estranhos ou discretos, você pode encontrar todos os tipos de técnicas e ideias estranhas, afirmações, histórias, que através dessas palavras permitem que a atenção do leitor se mova para dentro de si mesma, para projetar. E simplesmente através destas palavras, quebrar instantaneamente as paredes da fisicalidade e impulsionar a mente, algo que me refiro como o "fantasma na máquina", a se libertar da gravidade e da fisicalidade, e instantaneamente começar a perceber, da maneira que for mais adequada para o indivíduo, novos espaços mentais que são os primeiros passos para as maiores e maiores possibilidades disponíveis para todos nós.
 
 파라 에시 핑, 노스, 아우키미스타스 인테리오리스, 우자무스 팔라브라스, 리브루스, 리냐스 심플리스 지 테스투 이 아스 베지스 아테 이스토리아스 콤플레샤스. 아우궁스 "오라도리스" 포뎅 이스콜례르 테세르 이스토리아스 잉크리베이스 키 소 포뎅 세르 콘타다스 코무 픽상 누 문두 우마누 코뭉, 파라 헤벨라르 베르다지스 잉크리베이스 이 아브리르 포르타스. 오트루스 오라도리스 포뎅 이스콜례르 이니그마스 이 토두스 우스 치푸스 지 시프라스 키 데벵 세르 데스코베르타스 이 이스플로라다스, 키 데사 포르마 아브렝 파이자젱스 멘타이스, 코무 케브라-카베사스 키 시 트란스포르망 잉 샤베스 키 레방 아 오트루스 헤이누스. 이 아우궁스 지 노스, 타우베스 우스 치푸스 메누스 크리아치부스 코무 이우, 팔랑 지 마네이라 지레타, 셍 시프라, 이니그마 오 우 아모르테세도르 다 픽상, 이 데스크레벵 지레타멘치 테크니카스 이 아 콘피구라상 제라우 데시스 헤이누스 인테리오리스 이 데사 아상 인테리오르.
+Para esse fim, nós, alquimistas interiores, usamos palavras, livros, linhas simples de texto e às vezes até histórias complexas. Alguns "oradores" podem escolher tecer histórias incríveis que só podem ser contadas como ficção no mundo humano comum, para revelar verdades incríveis e abrir portas. Outros oradores podem escolher enigmas e todos os tipos de cifras que devem ser descobertas e exploradas, que dessa forma abrem paisagens mentais, como quebra-cabeças que se transformam em chaves que levam a outros reinos. E alguns de nós, talvez os tipos menos criativos como eu, falam de maneira direta, sem cifra, enigma ou o amortecedor da ficção, e descrevem diretamente técnicas e a configuração geral desses reinos interiores e dessa ação interior.
 
 마스 세자 쿠아우 포르 우 카주, 쿠아우케르 키 세자 우 메이우 우칠리자두 파라 팔라르, 지 모두 아 "프로제타르" 아 아텐상 두 프라치칸치, 우 키 에 네세사리우 낭 에 아페나스 아 카파시다지 지 무다르 우 포쿠 인테르누 두 레이토르, 마스 탐벵 에 무이투 임포르탄치 만테르, 수스텐타르, 에시 포쿠 파르치쿨라르 이 아 인텐시다지 데시 포쿠 아우 롱구 두 템푸. 우 키 이수 시그니피카 에 키 우 오라도르 데비 낭 아페나스 인보우베르 우 레이토르, 헤오리엔타르 수아 아텐상 이 아우멘타르 아 인텐시다지 포르 메이우 두 아펠루 이모시오나우 파라 홈페르 아스 바헤이라스 이니시아이스 (크리아르 우마 아셀레라상 덴트루 델리스 키 포사 임푸우시오나-루스 알렝 두스 센치두스 피지쿠스 키 우스 아프리지오낭), 마스 탐벵 데비 데젠보우베르 우마 마네이라 지 텐타르 만테르 에시 포쿠 알렝 두 피지쿠 펠루 마이오르 템푸 포시베우. 에 아페나스 에시 포쿠 수스텐타두 알렝 두 코뭉 키 토르나라 포시베우 파라 우 "판타즈마 나 마키나" 잉콘트라르 노부스 루가리스 이스타베이스 이 알렝 지 세우스 리미치스 아투아이스. 에 아페나스 에시 치푸 임플라카베우 지 포쿠 키 이스포라 우 판타즈마 나 마키나 아 포시빌리다지 지 비즐룸브라르 우 코엘류 브랑쿠.
+Mas seja qual for o caso, qualquer que seja o meio utilizado para falar, de modo a "projetar" a atenção do praticante, o que é necessário não é apenas a capacidade de mudar o foco interno do leitor, mas também é muito importante manter, sustentar, esse foco particular e a intensidade desse foco ao longo do tempo. O que isso significa é que o orador deve não apenas envolver o leitor, reorientar sua atenção e aumentar a intensidade por meio do apelo emocional para romper as barreiras iniciais (criar uma aceleração dentro deles que possa impulsioná-los além dos sentidos físicos que os aprisionam), mas também deve desenvolver uma maneira de tentar manter esse foco além do físico pelo maior tempo possível. É apenas esse foco sustentado além do comum que tornará possível para o "fantasma na máquina" encontrar novos lugares estáveis e além de seus limites atuais. É apenas esse tipo implacável de foco que exporá o fantasma na máquina à possibilidade de vislumbrar o coelho branco.
 
 파라 에시 핑, 에사스 파사젱스 이스탕 지스포니베이스 파라 아켈리스 키 오비랑 미냐 나하치바 이 시 토르나랑 오 이스탕 코메산두 아 시 토르나르 아우키미스타스 인테리오리스 포르 메리투 프로프리우. 네스치 리브루, 보세 잉콘트라라 우마 콜레상 지 펜사멘투스 이 이데이아스 데스칠라두스, 키 수르지랑, 키 포랑 크리아두스, 아우 롱구 두스 무이투스 아누스 두 메우 트라발류 코무 오라도르. 아 우마 바리에다지 지 인포르마송이스 아키, 잉 지페렌치스 포르마스. 아우구마스 델라스 상 헤스포스타스 지레타스 아 페르군타스, 잉쿠안투 오트라스 상 데스칠라송이스 지 이데이아스, 코무 포에마스, 키 당 마이오르 포쿠 이 프레시장, 이스타빌리다지 아우 메우 플루슈 아투아우, 우 키 에 프리모르지아우 파라 아 인텐시다지 네세사리아 파라 홈페르 아스 파레지스 빙쿨라치바스. 프레켄테멘치, 덴트루 데스치 리브루, 보세 데스코브리라 키 에스타스 상, 오 포랑, 미냐스 헤스포스타스 아 코멘타리우스, 아스 무이타스 페르군타스, 이스투 에, 아스 무이타스 페르군타스 키 오트루스, 키 이스탕 잉 우마 조르나다 코무 보세, 미 피제랑 아우 롱구 두스 아누스, 잉쿠안투 리앙 메우 마테리아우 이 피카방 쿠리오주스 소브리 세르투스 아스펙투스 두 키 이우 팔루, 오 세르투스 아스펙투스 두 키 이스탕 비벤시안두 잉 수아스 프로프리아스 조르나다스 인지비두아이스.
+Para esse fim, essas passagens estão disponíveis para aqueles que ouviram minha narrativa e se tornaram ou estão começando a se tornar alquimistas interiores por mérito próprio. Neste livro, você encontrará uma coleção de pensamentos e ideias destilados, que surgiram, que foram criados, ao longo dos muitos anos do meu trabalho como orador. Há uma variedade de informações aqui, em diferentes formas. Algumas delas são respostas diretas a perguntas, enquanto outras são destilações de ideias, como poemas, que dão maior foco e precisão, estabilidade ao meu fluxo atual, o que é primordial para a intensidade necessária para romper as paredes vinculativas. Frequentemente, dentro deste livro, você descobrirá que estas são, ou foram, minhas respostas a comentários, às muitas perguntas, isto é, às muitas perguntas que outros, que estão em uma jornada como você, me fizeram ao longo dos anos, enquanto liam meu material e ficavam curiosos sobre certos aspectos do que eu falo, ou certos aspectos do que estão vivenciando em suas próprias jornadas individuais.
 
 아우 헤스폰데르 아 에사스 페르군타스, 푸이 포르사두 아 다르 마이오르 프레시장, 아 데피니르 잉 테르무스 멜료리스 이 지페렌치스, 아킬루 키 에 우 플루슈 지 모비멘투 잉 지레상 아우스 헤이누스 인테리오리스, 아 제오그라피아 인테리오르, 우 루가르 온지 우 코엘류 브랑쿠 이스타 아 이스페라. 포르 메이우 지 타우 바리아상, 상 크리아다스 클라레자 이 인텐시다지 수스텐타다.
+Ao responder a essas perguntas, fui forçado a dar maior precisão, a definir em termos melhores e diferentes, aquilo que é o fluxo de movimento em direção aos reinos interiores, a geografia interior, o lugar onde o coelho branco está à espera. Por meio de tal variação, são criadas clareza e intensidade sustentada.
 
 아우 포르네세르 에시스 프라그멘투스 지 인텐시다지, 에 미냐 이스페란사 키 엘리스 포상 세르 우자두스 포르 보세 낭 아페나스 파라 다르 마이오르 클라레자 아 투두 우 키 베뉴 텐탄두 팔라르 아우 롱구 두스 아누스, 마스 탐벵 코무 우마 마네이라 지 만테르 우 포쿠 지 수아 아텐상 나켈리스 루가리스 지스탄치스, 아켈리스 헤이누스 인테리오리스, 키 상 나 베르다지 루가리스 이스테르누스, 코무 헤피투 우마 이 오트라 베스.
+Ao fornecer esses fragmentos de intensidade, é minha esperança que eles possam ser usados por você não apenas para dar maior clareza a tudo o que venho tentando falar ao longo dos anos, mas também como uma maneira de manter o foco de sua atenção naqueles lugares distantes, aqueles reinos interiores, que são na verdade lugares externos, como repito uma e outra vez.
 
 에스타 에 우마 콜레상 지 페르군타스 이 헤스포스타스, 우마 콜레상 지 미냐스 시타송이스 페소아이스, 포에마스 이스트라뉴스 이스팔랴두스 아키 이 알리, 키 포뎅 세르 인텐지두스 코무 페르세프송이스 데스칠라다스 소브리 아 나투레자 다 아우키미아 인테리오르 이 아스 테크니카스 우칠리자다스 포르 미냐 코헨치 아투아우. 아우 포르네세르 우마 콜레상 데스타스 토다스 잉 웅 리브루, 엘라스 포뎅 세르 우자다스 파라 임푸우시오나르 수아 멘치 이 만테르 수아 멘치 포카다 지 마네이라 임플라카베우, 지 마네이라 프레시자 이 수스텐타다, 나켈라스 코이자스 키 시 토르낭 포르타스, 키 인탕 시 토르낭 이스트라다스, 키 인탕 시 토르낭 제오그라피아스, 헤이누스 오쿠우투스, 키 인탕 포뎅 프로포르시오나르 파사젱스 카다 베스 마이스 프로푼다스, 키 콩 우 템푸 포뎅 페르미치르 키 보세, 코무 프라치칸치 다 아우키미아 인테리오르, 낭 아페나스 홈파 아스 세이스 파레지스, 마스 탐벵 만테냐 에시 포쿠 포르 템푸 수피시엔치, 파라 키 보세 포사 잉콘트라르 웅 비즐룸브리 지 이스타빌리다지 네사스 노바스 제오그라피아스, 잉콘트라르 콘시스텐시아 라 이 코메사르 우마 비다 토타우멘치 노바 이 일리미타다, 라.
+Esta é uma coleção de perguntas e respostas, uma coleção de minhas citações pessoais, poemas estranhos espalhados aqui e ali, que podem ser entendidos como percepções destiladas sobre a natureza da alquimia interior e as técnicas utilizadas por minha corrente atual. Ao fornecer uma coleção destas todas em um livro, elas podem ser usadas para impulsionar sua mente e manter sua mente focada de maneira implacável, de maneira precisa e sustentada, naquelas coisas que se tornam portas, que então se tornam estradas, que então se tornam geografias, reinos ocultos, que então podem proporcionar passagens cada vez mais profundas, que com o tempo podem permitir que você, como praticante da alquimia interior, não apenas rompa as seis paredes, mas também mantenha esse foco por tempo suficiente, para que você possa encontrar um vislumbre de estabilidade nessas novas geografias, encontrar consistência lá e começar uma vida totalmente nova e ilimitada, lá.
 
 아우 헤스폰데르 아스 페르군타스 소브리 조르나다스 페소아이스 지 토두스 아켈리스 키 이스탕, 키 이스치베랑, 잉가자두스 잉 우마 조르나다 세멜랸치 아 수아, 헤모비 토다스 아스 인포르마송이스 페소아이스 다스 페르군타스 키 미 포랑 페이타스. 아페르테이 아 헤다상 이 우 라요트 우 멜료르 키 푸지 이 토르네이 아 트로카 지 아우구마스 데사스 지스쿠송이스 우 마이스 심플리스 포시베우, 잉쿠안투 텐타바 만테르 아 인텐시다지 다 페르군타 두 인지비두 이 미냐 헤스포스타.
+Ao responder às perguntas sobre jornadas pessoais de todos aqueles que estão, que estiveram, engajados em uma jornada semelhante à sua, removi todas as informações pessoais das perguntas que me foram feitas. Apertei a redação e o layout o melhor que pude e tornei a troca de algumas dessas discussões o mais simples possível, enquanto tentava manter a intensidade da pergunta do indivíduo e minha resposta.
 
 네스타스 페르군타스, 아크레지투 키 보세 잉콘트라라 이코아다스 덴트루 지 시 메즈무, 아스 무이타스 페르군타스 키 보세 메즈무 포사 테르 치두, 이 아우 헤스폰데르 아 에스타스, 아우 헤스폰데르 아스 페르군타스 덴트루 두 노수 콜레치부 우마누, 헤스폰두 탐벵 아스 수아스 페르군타스 인지비두아이스.
+Nestas perguntas, acredito que você encontrará ecoadas dentro de si mesmo, as muitas perguntas que você mesmo possa ter tido, e ao responder a estas, ao responder às perguntas dentro do nosso coletivo humano, respondo também às suas perguntas individuais.
 
 콩 우 템푸, 잉쿠안투 보세 아반사 펠라스 제오그라피아스 키 텐테이 데스크레베르 이 아브리르 파라 보세 잉 토두 우 메우 트라발류, 셈프리 아베라 모멘투스 잉 키 세우 포쿠 인프라케시. 네사스 오카지옹이스, 아 우마 네세시다지 지 헤아비바르 우 이우 토타우, 페르미친두 키 팔라브라스 심플리스 프로제텡 노바멘치 에시스 아스펙투스 인테르누스 두 세르 셍 헤스트리상, 잉 노부스 이 타우베스 이니마지나두스 콘다두스 덴트루 데시스 이스파수스 마이오리스. 코무 타우, 아스 무이타스 시타송이스, 코멘타리우스 이 헤스포스타스 잉콘트라두스 네스타 콜레상 포뎅 세르 우자두스 아 쿠아우케르 모멘투 파라 이스치물라르 우 이우 토타우, 우 키 세라 센치두 코무 우마 아셀레라상 파라 우 판타즈마 나 마키나.
+Com o tempo, enquanto você avança pelas geografias que tentei descrever e abrir para você em todo o meu trabalho, sempre haverá momentos em que seu foco enfraquece. Nessas ocasiões, há uma necessidade de reavivar o Eu Total, permitindo que palavras simples projetem novamente esses aspectos internos do ser sem restrição, em novos e talvez inimaginados condados dentro desses espaços maiores. Como tal, as muitas citações, comentários e respostas encontrados nesta coleção podem ser usados a qualquer momento para estimular o Eu Total, o que será sentido como uma aceleração para o fantasma na máquina.
 
 쿠안두 보세 시 센치르 페자두, 쿠안두 세우 포쿠 파레세르 웅 포쿠 이즈고타두, 에 미냐 이스페란사 키 보세 포사 헤코헤르 아 에스치 리브루 이 우자-루 파라 헤아바스테세르 세우 포쿠, 우 포쿠 잉 데젠보우비멘투 키 보세 프레시자 파라 세우 트라발류 페소아우. 파라 파제르 이수, 보세 포지 아도타르 쿠아우케르 아보르다젱 키 프레페리르 보세 포지 레르 우 리브루 지 이니시우 아우 핑, 시 에사 포르 아 수아 잉클리나상, 아 수아 프레질레상, 오 포지 아브리르 잉 쿠아우케르 파지나 알레아토리아멘치 이, 데사 포르마, 우자르 아 인텐시다지 데사스 팔라브라스 알레아토리아스 파라 잉콘트라르 노바 포르사 쿠안두 프레시자르.
+Quando você se sentir pesado, quando seu foco parecer um pouco esgotado, é minha esperança que você possa recorrer a este livro e usá-lo para reabastecer seu foco, o foco em desenvolvimento que você precisa para seu trabalho pessoal. Para fazer isso, você pode adotar qualquer abordagem que preferir; você pode ler o livro de início ao fim, se essa for a sua inclinação, a sua predileção, ou pode abrir em qualquer página aleatoriamente e, dessa forma, usar a intensidade dessas palavras aleatórias para encontrar nova força quando precisar.
 
 ## 카피툴루 1: 팔라브라스 상 우 포르타우 이스텔라르, 엘라스 아주당 보세 아 렘브라르
+## CAPÍTULO 1: PALAVRAS SÃO O PORTAL ESTELAR, ELAS AJUDAM VOCÊ A LEMBRAR
 
 **포르타: 포르 키, 에 심플레즈멘치 인트란스포니베우!**
+**Porta: Por que, é simplesmente intransponível!**
 **알리시: 케르 지제르, 보세 낭 케르 지제르 임포시베우?**
+**Alice: Quer dizer, você não quer dizer impossível?**
 **포르타: 낭, 이우 케루 지제르 인트란스포니베우. (가르갈랴다스) 나다 에 임포시베우!**
+**Porta: Não, eu quero dizer intransponível. (gargalhadas) Nada é impossível!**
 _― 알리시 누 파이스 다스 마라빌랴스, 피우미 지 1951_
+_― ALICE NO PAÍS DAS MARAVILHAS, FILME DE 1951_
 
 메우 데자피우 코무 오라도르 이 이스크리토르 모데르누 에 코메사르 아 미 아다프타르 아 토다스 아스 무단사스 테크놀로지카스 지스포니베이스 파라 노스 아고라. 이수 낭 에 우마 코이자 파시우, 이 텡 아비두 데자피우스 아 에시 헤스페이투 파라 토두스 노스.
+Meu desafio como orador e escritor moderno é começar a me adaptar a todas as mudanças tecnológicas disponíveis para nós agora. Isso não é uma coisa fácil, e tem havido desafios a esse respeito para todos nós.
 
 네스타 에포카 모데르나, 콩 세우 잉크리베우 아반수 테크놀로지쿠, 코무 웅 오라도르 키 이스크레비, 치비 아 소르치 지 헤세베르 무이타스 반타젱스, 마스 에사스 반타젱스 벵 콩 웅 쿠스투, 이 웅 델리스 에 아 네세시다지 지 미 토르나르 플레시베우 이 크리아치부 잉 코무 우자르 멜료르 에시스 아반수스 테크놀로지쿠스 파라 인보우베르 마이스 페소아스, 아우 메즈무 템푸 잉 키 가란투 키 아 멘사젱 다 미냐 코헨치 아투아우 세자 우 마이스 이마쿨라다 포시베우.
+Nesta época moderna, com seu incrível avanço tecnológico, como um orador que escreve, tive a sorte de receber muitas vantagens, mas essas vantagens vêm com um custo, e um deles é a necessidade de me tornar flexível e criativo em como usar melhor esses avanços tecnológicos para envolver mais pessoas, ao mesmo tempo em que garanto que a mensagem da minha corrente atual seja o mais imaculada possível.
 
 파라 밍 페소아우멘치, 포르 이젬플루, 텐테이 레바르 에사스 이데이아스 이 아 인텐상 제라우 다 미냐 이스크리타 파라 지페렌치스 이스파수스. 피스 이수 파라 텐타르 이스포르 우 마이오르 누메루 지 페소아스 포시베우 아우 카미뉴 다 아우키미아 인테리오르. 아우 파제르 이수, 치비 키 잉콘트라르 지페렌치스 마네이라스 지 데스칠라르 아 인텐상 다 미냐 코헨치 이 텐타르 다르 클라레자 이 노바 인텐시다지 아스 코이자스 키 팔루.
+Para mim pessoalmente, por exemplo, tentei levar essas ideias e a intenção geral da minha escrita para diferentes espaços. Fiz isso para tentar expor o maior número de pessoas possível ao caminho da alquimia interior. Ao fazer isso, tive que encontrar diferentes maneiras de destilar a intenção da minha corrente e tentar dar clareza e nova intensidade às coisas que falo.
 
 우마 데사스 아레아스 키 미 데자피오 에 텐타르 데스칠라르 이 지스포니빌리자르 아 코헨치 다 미냐 카자 덴트루 두 암비투 다스 헤지스 소시아이스. 이수 낭 포이 파시우 파라 밍 잉 아우궁스 아스펙투스, 마스 텡 시두 웅 데자피우 마라빌료주 키 미 데우 아 오포르투니다지 지 텐타르 페가르 무이타스 다스 코이자스 소브리 아스 쿠아이스 이스크레비 이 데스칠라-라스, 콘덴사-라스, 잉 파코치스 지 이데이아스 인포르마치바스 프레시자스, 코무 시타송이스 오 포에마스 인텐수스, 키 포뎅 토르나르 우 포데르 다 미냐 코헨치 지스포니베우 파라 마이스 페소아스.
+Uma dessas áreas que me desafiou é tentar destilar e disponibilizar a corrente da minha casa dentro do âmbito das redes sociais. Isso não foi fácil para mim em alguns aspectos, mas tem sido um desafio maravilhoso que me deu a oportunidade de tentar pegar muitas das coisas sobre as quais escrevi e destilá-las, condensá-las, em pacotes de ideias informativas precisas, como citações ou poemas intensos, que podem tornar o poder da minha corrente disponível para mais pessoas.
 
 셈프리 치비 우마 파이샹 포르 시타송이스. 우 키 케루 지제르 에 키 셈프리 아메이 시타송이스 파르치쿨라리스 지 지페렌치스 이스크리토리스 쿠안투 마이스 이노센치스 이 오쿠우타스, 멜료르. 에사스 데스코베르타스 아스 베지스 오쿠우타스 나스 오브라스 지 이스크리토리스 이 필로조푸스 키 아드미루, 텡 시두 베르다데이라멘치 웅 아치부 파라 밍 나 데스코베르타 데시스 마파스 인테르누스, 키 멘시오네이 잉 바리아스 오카지옹이스. 아셰이 잉크리베우멘치 프로두치부, 잉 미냐스 프로프리아스 이스플로라송이스 두스 헤이누스 인테르누스, 파제르 콜레송이스 지 시타송이스 지 이스크리토리스 키 아슈 무이투 인스피라도리스. 데사 포르마, 보세 포데리아 지제르 키 인보우부 메우 판타즈마 인지비두아우, 이스폰두-미 아 이데이아스 데스칠라다스 프레시자스 이 아우타멘치 임포르탄치스, 키 포뎅 인탕 임푸우시오나르 미냐 아텐상 잉 지페렌치스 지레송이스 파보라베이스 아 미냐 인텐상 제라우.
+Sempre tive uma paixão por citações. O que quero dizer é que sempre amei citações particulares de diferentes escritores; quanto mais inocentes e ocultas, melhor. Essas descobertas às vezes ocultas nas obras de escritores e filósofos que admiro, têm sido verdadeiramente um ativo para mim na descoberta desses mapas internos, que mencionei em várias ocasiões. Achei incrivelmente produtivo, em minhas próprias explorações dos reinos internos, fazer coleções de citações de escritores que acho muito inspiradores. Dessa forma, você poderia dizer que envolvo meu fantasma individual, expondo-me a ideias destiladas precisas e altamente importantes, que podem então impulsionar minha atenção em diferentes direções favoráveis à minha intenção geral.
 
 파라 콜로카르 잉 테르무스 마이스 지레투스, 아무 콜레시오나르 시타송이스 키 미 인스피랑 이 키, 파라 밍, 콘덴상 세르투스 코녜시멘투스 이 이네르지아스 무이투 포데로주스. 이우 인탕 우주 에사스 시타송이스 파라 멜료라르 누 키 파수, 만텐두 메우 포쿠 나스 코이자스 키 데제주, 아스 쿠아이스 아스피루. 보세 데비 테르 노타두, 포르탄투, 키 토두스 우스 메우스 리브루스 텡 시타송이스. 에사스 시타송이스 제라우멘치 콘덴상 오 헤플레텡 아 인텐상 제라우 두 키 이스토 프레스치스 아 팔라르, 이 데사 포르마 프레파랑 우 레이토르 파라 아 아셀레라상 이 우 모비멘투 인테리오르 키 이스탕 포르 비르.
+Para colocar em termos mais diretos, amo colecionar citações que me inspiram e que, para mim, condensam certos conhecimentos e energias muito poderosos. Eu então uso essas citações para melhorar no que faço, mantendo meu foco nas coisas que desejo, às quais aspiro. Você deve ter notado, portanto, que todos os meus livros têm citações. Essas citações geralmente condensam ou refletem a intenção geral do que estou prestes a falar, e dessa forma preparam o leitor para a aceleração e o movimento interior que estão por vir.
 
 알렝 지수, 타이스 시타송이스 포뎅, 포르 시 메즈마스, 이스페시아우멘치 쿠안두 보세 시 토르나 아비우 잉 비아자르 인테리오르멘치, 잉 포카스 리냐스 오 웅 파라그라푸, 에사스 시타송이스, 임푸우시오나-루 쿠아지 인스탄타네아멘치 파라 테하스 페르지다스, 제오그라피아스 지스탄치스 이 테히베우멘치 임포르탄치스 잉콘트라다스 덴트루 지 시, 키 포뎅, 키 텡 아 포시빌리다지 지 아테 메즈무 페르미치르 키 우 아우키미스타 인테리오르 파사 사우투스 잉크리베이스 지 콘시엔시아 키, 시 수스텐타두스, 아우 레르 타이스 시타송이스 헤페치다멘치, 포뎅 솔리지피카르 포지송이스 지 콘시엔시아 콤플레타멘치 노바스.
+Além disso, tais citações podem, por si mesmas, especialmente quando você se torna hábil em viajar interiormente, em poucas linhas ou um parágrafo, essas citações, impulsioná-lo quase instantaneamente para terras perdidas, geografias distantes e terrivelmente importantes encontradas dentro de si, que podem, que têm a possibilidade de até mesmo permitir que o alquimista interior faça saltos incríveis de consciência que, se sustentados, ao ler tais citações repetidamente, podem solidificar posições de consciência completamente novas.
 
 **이수 에 마지아 베르다데이라! 에사 에 아 마지아 지 센치르 아 인텐상!**
+**Isso é magia verdadeira! Essa é a magia de sentir a intenção!**
 
 에 아 우니카 마지아 키 콘타 이, 지 세르타 포르마, 헤아우멘치 시 토르나 우 프리메이루 인텐지멘투/코녜시멘투 다켈라스 샤베스 오쿠우타스 이 다켈리 '코엘류 브랑쿠' 아 키 테뉴 미 헤페리두, 키 에, 알리아스, 우마 알루장 아 웅 페르소나젱 크리아두 포르 웅 다켈리스 그란지스 이스크리토리스 (이 아스 오브라스 그란데멘치 인스피라다스 포르 엘리스) 키 아스 베지스 시투, 레위스 카호우.
+É a única magia que conta e, de certa forma, realmente se torna o primeiro entendimento/conhecimento daquelas chaves ocultas e daquele 'coelho branco' a que tenho me referido, que é, aliás, uma alusão a um personagem criado por um daqueles grandes escritores (e as obras grandemente inspiradas por eles) que às vezes cito, Lewis Carroll.
 
 **아 라가르타 이 알리시 올랴랑 우마 파라 아 오트라 포르 아우궁 템푸 잉 실렌시우: 피나우멘치, 아 라가르타 치로 우 나르길레 다 보카 이 지리지우-시 아 엘라 콩 우마 보스 랑기다 이 소놀렌타.**
+**A Lagarta e Alice olharam uma para a outra por algum tempo em silêncio: finalmente, a Lagarta tirou o narguilé da boca e dirigiu-se a ela com uma voz lânguida e sonolenta.**
 **"켕 에 보세?" 지시 아 라가르타.**
+**"Quem é você?" disse a Lagarta.**
 **낭 포이 웅 코메수 잉코라자도르 파라 우마 콘베르사. 알리시 헤스폰데우, 메이우 인베르고냐다, "이우 – 이우 마우 세이, 세뇨르, 네스치 모멘투 – 펠루 메누스 이우 세이 켕 이우 에라 쿠안두 미 레반테이 에스타 마냥, 마스 아슈 키 데부 테르 무다두 바리아스 베지스 데즈지 인탕."**
+**Não foi um começo encorajador para uma conversa. Alice respondeu, meio envergonhada, "Eu – eu mal sei, senhor, neste momento – pelo menos eu sei quem eu era quando me levantei esta manhã, mas acho que devo ter mudado várias vezes desde então."**
 _― 레위스 카호우. 아스 아벤투라스 지 알리시 누 파이스 다스 마라빌랴스_
+_― LEWIS CARROLL. AS AVENTURAS DE ALICE NO PAÍS DAS MARAVILHAS_
 
 우마 시타상 코무 에스타, 콩 타우 베르다지 이 인텐시다지 오쿠우타스, 포지 세르 웅 베르다데이루 마파 인베르치두, 누 센치두 지 키 덴트루 다 포르사 데시 파코치 지 인포르마상, 포지-시, 시 치베르 우 니베우 지 이네르지아 세르투, 잉콘트라르 헤이누스 인테이루스 오쿠우투스. 에시 에 우 세그레두 지 아우구마스 다스 샤베스 아 세렝 잉콘트라다스 포르 아켈리스 키 포뎅 인텐데르 이 마니풀라르, 잉 웅 그라우 오 오트루, 에시스 이스파수스 인테리오리스 키 상 우 수스텐투 두 아우키미스타 인테리오르 이 키 상 아 프레질레상 지 카다 세르 우마누 네스치 플라네타, 시 아페나스 이스치베렝 지스포스투스 아 아히스카르 이 올랴르 파라 덴트루 콩 포쿠 수피시엔치 이 임플라카베우.
+Uma citação como esta, com tal verdade e intensidade ocultas, pode ser um verdadeiro mapa invertido, no sentido de que dentro da força desse pacote de informação, pode-se, se tiver o nível de energia certo, encontrar reinos inteiros ocultos. Esse é o segredo de algumas das chaves a serem encontradas por aqueles que podem entender e manipular, em um grau ou outro, esses espaços interiores que são o sustento do alquimista interior e que são a predileção de cada ser humano neste planeta, se apenas estiverem dispostos a arriscar e olhar para dentro com foco suficiente e implacável.
 
 포르탄투, 콜레시오누 시타송이스 이 아스 우주 파라 임푸우시오나르 미냐 아텐상 아 이스파수스 지스탄치스, 노바스 지멘송이스, 키 파라 밍 시 토르낭 폰투스 지 란사멘투 파라 루가리스 아인다 마이스 지스탄치스. 우 데자피우 다스 헤지스 소시아이스 파라 밍 텡 시두 잉크리베우멘치 그라치피칸치 네시 센치두, 포르키 미 포르소 아 데젠보우베르 타이스 시타송이스 프리메이루 이, 인탕, 텐타르 아프레젠타-라스 아우스 메우스 레이토리스 지 우마 마네이라 키 포사 페르미치르 키 수아 아텐상 세자 아셀레라다 이 임푸우시오나다 코무 아 미냐.
+Portanto, coleciono citações e as uso para impulsionar minha atenção a espaços distantes, novas dimensões, que para mim se tornam pontos de lançamento para lugares ainda mais distantes. O desafio das redes sociais para mim tem sido incrivelmente gratificante nesse sentido, porque me forçou a desenvolver tais citações primeiro e, então, tentar apresentá-las aos meus leitores de uma maneira que possa permitir que sua atenção seja acelerada e impulsionada como a minha.
 
 웅 두스 루가리스 온지 이수 시 토르노 마이스 그라치피칸치 파라 밍, 이 이스페루 키 파라 메우스 레이토리스, 텡 시두 누 파세보크, 온지 피스 우 메우 멜료르 파라 텐타르 포르네세르 타이스 시타송이스 다 마네이라 마이스 아그라다베우 페르세프치베우멘치 포시베우. 이수 미 페르미치우 아프레젠타르 미냐 아르치 준투 콩 아스 팔라브라스 키 이스크레비, 이 포르네세-라스 지 우마 마네이라 헤피나다 이 포데로자 키 상 우 데자피우 데시 메이우.
+Um dos lugares onde isso se tornou mais gratificante para mim, e espero que para meus leitores, tem sido no Facebook, onde fiz o meu melhor para tentar fornecer tais citações da maneira mais agradável perceptivelmente possível. Isso me permitiu apresentar minha arte junto com as palavras que escrevi, e fornecê-las de uma maneira refinada e poderosa que são o desafio desse meio.
 
 코무 타우, 크리에이 바리아스 시타송이스 코무 에스타, 이 잉 카다 우마 델라스 피스 우 메우 멜료르 파라 제라르 우마 이스페시 지 포르타우 파라 우 레이토르 키 인탕 포지 임푸우시오나-루 아 파제르 노바스 헤벨라송이스 키, 이스페루, 우스 란시 아인다 마이스 잉 노바스 포시빌리다지스 탄투 누 인텐지멘투 두 메우 트라발류 아테 아고라, 쿠안투 나 콤프렌상 두 세우 프로프리우 카미뉴 파르치쿨라르 아 메지다 키 시 아프로푼당 잉 시 메즈무스.
+Como tal, criei várias citações como esta, e em cada uma delas fiz o meu melhor para gerar uma espécie de portal para o leitor que então pode impulsioná-lo a fazer novas revelações que, espero, os lance ainda mais em novas possibilidades tanto no entendimento do meu trabalho até agora, quanto na compreensão do seu próprio caminho particular à medida que se aprofundam em si mesmos.
 
 네스치 프리메이루 카피툴루, 이스토 아프레젠탄두 에사스 시타송이스 나 이스페란사 지 키, 잉 우마 콜레상 코무 에스타, 보세 포사 우자-라스 코무 우마 포르마 지 아셀레라상, 우마 샤비.
+Neste primeiro capítulo, estou apresentando essas citações na esperança de que, em uma coleção como esta, você possa usá-las como uma forma de aceleração, uma chave.
 
 이우 이스크레비 잉 메우스 리브루스 키 우스 아우키미스타스 인테리오리스 부스캉 우 키 포데리아 세르 샤마두 지 마파스 인베르치두스 오 샤베스, 키 인탕 아브렝 포르타스 파라 노바스 포지송이스 지멘시오나이스 카파지스 지 리베르타-루스 카다 베스 마이스 두 쿠부 트리지멘시오나우 다 이지스텐시아 푸라멘치 마테리아우. 이우 지시 키 아 나투레자 데시스 마파스 에 아우타멘치 콤플리카다, 이 키 아스 콤플리카송이스 데스치스 포뎅 크레세르 콩 우 템푸 아 메지다 키 우 포데르 두 아우키미스타 인테리오르 크레시, 아 메지다 키 우 인텔렉투 크레시 지 아코르두 콩 에시 포데르.
+Eu escrevi em meus livros que os alquimistas interiores buscam o que poderia ser chamado de mapas invertidos ou chaves, que então abrem portas para novas posições dimensionais capazes de libertá-los cada vez mais do cubo tridimensional da existência puramente material. Eu disse que a natureza desses mapas é altamente complicada, e que as complicações destes podem crescer com o tempo à medida que o poder do alquimista interior cresce, à medida que o intelecto cresce de acordo com esse poder.
 
 아 프린시피우, 에시스 마파스 포데리앙 토마르 아 포르마 지 웅 리브루 인테이루. 아 메지다 키 아 아빌리다지 두 프라치칸치 크레시 나 레이투라 이 시 토르나 아비우 나스 테크니카스 지스쿠치다스 네시스 리브루스, 타우 프라치칸치 포지 세르 콘두지두 아 마파스 지페렌치스 키 포뎅 세르 마이스 콤플리카두스 오 마이스 아브스트라투스. 에시스 마파스 포뎅 아수미르 아 포르마 지 시타송이스 심플리스 오 포에마스 키 포뎅 인탕 페르미치르 에사 아빌리다지 이메르젠치, 아트라베스 다 인제스탕 (오브세르비 벵 에스타 프라지 아키: 아트라베스 다 인제스탕) 다 인텐시다지 잉콘트라다 잉 아우구 탕 심플리스 쿠안투 우마 시타상 오 웅 포에마, 이 우자르 에사스 코이자스 코무 샤베스 오 이스타송이스 지 헤아바스테시멘투, 키 포뎅 인탕 페르미치르 키 우 아고라 프라치칸치 아우키미스타 인테리오르 아반시 잉 수아 조르나다.
+A princípio, esses mapas poderiam tomar a forma de um livro inteiro. À medida que a habilidade do praticante cresce na leitura e se torna hábil nas técnicas discutidas nesses livros, tal praticante pode ser conduzido a mapas diferentes que podem ser mais complicados ou mais abstratos. Esses mapas podem assumir a forma de citações simples ou poemas que podem então permitir essa habilidade emergente, através da ingestão (observe bem esta frase aqui: através da ingestão) da intensidade encontrada em algo tão simples quanto uma citação ou um poema, e usar essas coisas como chaves ou estações de reabastecimento, que podem então permitir que o agora praticante alquimista interior avance em sua jornada.
 
 에사스 샤베스, 코무 이우 지시, 포뎅 시 토르나르 카다 베스 마이스 콤플레샤스 콩 우 템푸, 아 메지다 키 아 아빌리다지 두 프라치칸치 크레시. 에사스 샤베스 포뎅 시 토르나르 탕 콤플리카다스 키 포뎅 시 아세멜랴르 아스 프로바송이스 렌다리아스 지 웅 페르소나젱 미톨로지쿠 코무 자장 두스 미투스 그레구스, 오 인지아나 조니스 두스 미투스 이 픽상 마이스 헤센치스. 잉 오트라스 팔라브라스, 에시스 마파스 포뎅 코메사르 코무 우마 시타상 심플리스, 지가무스, 마스 포뎅 크레세르 잉 콤플레시다지 아 메지다 키 에시스 마파스 프로제탕 우 아데프투 인테리오르멘치, 지 모두 키 에사스 조르나다스 아수망 비다 프로프리아, 아 메지다 키 우 포쿠 에 만치두 이 이스타빌리자두 덴트루 데사스 노바스 로칼리자송이스. 탐벵 에 베르다지 키 아 콤플레시다지 데사스 샤베스 이니시아이스 포지 크레세르 콩 우 템푸, 지 모두 키 엘라스 포상 시 토르나르 코이자스 바스탄치 콤플레샤스 이 아테 피지카스, 코이자스 인테이라멘치 마테리아이스, 키 데벵 세르 프로쿠라다스, 몬타다스, 데시프라다스 오 지 아우구마 포르마 마니풀라다스 코무 케브라-카베사스 헤아이스, 키 인탕 아브렝 아스 포르타스 다 콘시엔시아 덴트루 다 토탈리다지 두 이우 인테리오르, 키 포뎅 레바르 아 루가리스 베르다데이라멘치 프로푼두스, 판타스치쿠스 오 아테 테히베이스.
+Essas chaves, como eu disse, podem se tornar cada vez mais complexas com o tempo, à medida que a habilidade do praticante cresce. Essas chaves podem se tornar tão complicadas que podem se assemelhar às provações lendárias de um personagem mitológico como Jasão dos mitos gregos, ou Indiana Jones dos mitos e ficção mais recentes. Em outras palavras, esses mapas podem começar como uma citação simples, digamos, mas podem crescer em complexidade à medida que esses mapas projetam o adepto interiormente, de modo que essas jornadas assumam vida própria, à medida que o foco é mantido e estabilizado dentro dessas novas localizações. Também é verdade que a complexidade dessas chaves iniciais pode crescer com o tempo, de modo que elas possam se tornar coisas bastante complexas e até físicas, coisas inteiramente materiais, que devem ser procuradas, montadas, decifradas ou de alguma forma manipuladas como quebra-cabeças reais, que então abrem as portas da consciência dentro da totalidade do eu interior, que podem levar a lugares verdadeiramente profundos, fantásticos ou até terríveis.
 
 마스 에사스 상 이스토리아스 파라 오트루 지아, 수포뉴. 네스치 리브루 잉 파르치쿨라르, 키 에 나 헤알리다지 우마 샤비, 콘텐두 무이타스 샤베스, 케루 이스포르-리 지레타멘치 아 에시스 테조루스 오쿠우투스. 데사 포르마, 에 미냐 이스페란사 키 보세 포사 코메사르 아 인텐데르 아 인텐상 델리스, 아 나투레자 오페란치 델리스, 이스폰두-리 아 샤베스 키 우칠리장 우스 무이투스 세그레두스 다 미냐 카자 다 아우키미아 인테리오르. 이 코메사레이 에사 헤벨라상, 아프레젠탄두-리 아 인텐시다지 다 팔라브라 이스크리타, 이스투 에, 아스 이스플로종이스 이네르제치카스 키 포뎅 세르 크리아다스, 키 포뎅 세르 콘수미다스 이 우자다스 헤페치다스 베지스, 잉 쿠아우케르 모멘투 나 비다 두 아우키미스타 인테리오르.
+Mas essas são histórias para outro dia, suponho. Neste livro em particular, que é na realidade uma chave, contendo muitas chaves, quero expor-lhe diretamente a esses tesouros ocultos. Dessa forma, é minha esperança que você possa começar a entender a intenção deles, a natureza operante deles, expondo-lhe a chaves que utilizam os muitos segredos da minha casa da alquimia interior. E começarei essa revelação, apresentando-lhe a intensidade da palavra escrita, isto é, as explosões energéticas que podem ser criadas, que podem ser consumidas e usadas repetidas vezes, em qualquer momento na vida do alquimista interior.
 
 이스토 포르네센두 아키, 네스치 프리메이루 카피툴루 데스치 리브루 지 샤베스, 우마 콜레상 데사스 데스칠라송이스 지 펜사멘투 키 크리에이 파라 인테그라르 우 헤피나멘투 (아프리모라멘투) 다 미냐 코헨치 덴트루 다 이스페라 모데르나 다스 헤지스 소시아이스. 우지 에사스 시타송이스 코무 우마 폰치 인테르미나베우 지 이네르지아 지 "아셀레라상", 이 코무 우마 포르마 지 만테르 수아 아텐상 포카다 이 헤오리엔타다 잉 제오그라피아스 알렝 다스 파레지스 트리지멘시오나이스.
+Estou fornecendo aqui, neste primeiro capítulo deste livro de chaves, uma coleção dessas destilações de pensamento que criei para integrar o refinamento (aprimoramento) da minha corrente dentro da esfera moderna das redes sociais. Use essas citações como uma fonte interminável de energia de "aceleração", e como uma forma de manter sua atenção focada e reorientada em geografias além das paredes tridimensionais.
 
 포르탄투, 수지루 키 보세 레이아 에스타스 잉 쿠아우케르 오르뎅 이 키 만테냐 에스치 리브루 포르 페르투 셈프리 키 프레시자르 지 웅 임푸우수 에스트라 지 이네르지아. 아싱, 에스치 리브루 포지 포르네세르 낭 아페나스 에사 아셀레라상 지 키 보세 포사 프레시자르, 마스 탐벵 웅 콘트라폰투 지레시오나우 아 그라비다지 데스치 문두 마테리아우, 키 케르 만테르 수아 아텐상 토타우멘치 포카다 넬리. 데포이스 지 테르 리두 토다스 에스타스, 보세 포지 페가르 에스치 리브루 셈프리 키 프레시자르, 아브리르 잉 쿠아우케르 파지나 (지지타우 오 낭) 이, 아우 레르 우마 시타상 알레아토리아 키 포지 낭 세르 탕 알레아토리아 아싱 (코무 텐투 이스플리카르 잉 아우궁스 두스 메우스 이스크리투스 쿠안두 시 트라타 지 싱크로니시다지), 보세 포지 인탕 우자르 에사스 페케나스 이스플로종이스 에스트라스, 데사스 리냐스 지 테스투, 파라 아주다르 이 수스텐타르 보세, 헤노바르 보세.
+Portanto, sugiro que você leia estas em qualquer ordem e que mantenha este livro por perto sempre que precisar de um impulso extra de energia. Assim, este livro pode fornecer não apenas essa aceleração de que você possa precisar, mas também um contraponto direcional à gravidade deste mundo material, que quer manter sua atenção totalmente focada nele. Depois de ter lido todas estas, você pode pegar este livro sempre que precisar, abrir em qualquer página (digital ou não) e, ao ler uma citação aleatória que pode não ser tão aleatória assim (como tento explicar em alguns dos meus escritos quando se trata de sincronicidade), você pode então usar essas pequenas explosões extras, dessas linhas de texto, para ajudar e sustentar você, renovar você.
 
 우 문두 프레시자 두 세우 포쿠. 셍 엘리, 코메사 아 데즈모로나르. 이, 우마 베스 키 데즈모로나, 아스 파레지스 코메상 아 데자파레세르. 포르탄투, 파스 우 세우 멜료르 파라 텐타르 콘테르 보세, 아브란제-루, 파젠두 콩 키 보세 포키 토다 아 수아 비다, 수아 인텐시다지 지 비다, 넬리. 에 아싱 키 우 문두 시 알리멘타 이 시 수스텐타 아 쿠스타 지 수아 프로프리아 리베르다지 마이오르.
+O mundo precisa do seu foco. Sem ele, começa a desmoronar. E, uma vez que desmorona, as paredes começam a desaparecer. Portanto, faz o seu melhor para tentar conter você, abrangê-lo, fazendo com que você foque toda a sua vida, sua intensidade de vida, nele. É assim que o mundo se alimenta e se sustenta à custa de sua própria liberdade maior.
 
 에사스 시타송이스 텡 우 오브제치부 지 아파스타르 수아 아텐상 데사 그라비다지 트리지멘시오나우, 메즈무 키 포르 우마 페케나 인텐시다지 지 템푸. 타이스 페케나스 인텐시다지스 포뎅 시그니피카르 투두, 우마 이테르니다지, 파라 웅 프로제치스타.
+Essas citações têm o objetivo de afastar sua atenção dessa gravidade tridimensional, mesmo que por uma pequena intensidade de tempo. Tais pequenas intensidades podem significar tudo, uma eternidade, para um projetista.
 
 ### 시타송이스
+### CITAÇÕES
 
 콘트라리아멘치 아 비장 코뭉 다 노바 에라, 우 문두 라 포라 낭 에 우마 일루장, 마스 아 헤알리다지 에 키 소 소무스 카파지스 지 페르세베르 우마 페케나 프라상 델리.
+Contrariamente à visão comum da Nova Era, o mundo lá fora não é uma ilusão, mas a realidade é que só somos capazes de perceber uma pequena fração dele.
 
 메즈무 노수스 인스트루멘투스 마이스 센시베이스 낭 콘세겡 코메사르 아 페르세베르 투두 우 키 이스타 아콘테센두 아우 노수 헤도르.
+Mesmo nossos instrumentos mais sensíveis não conseguem começar a perceber tudo o que está acontecendo ao nosso redor.
 
 에시스 인스트루멘투스 포뎅 아테 누스 다르 우마 인테르프레타상 아우타멘치 지스토르시다 두 문두 아우 노수 헤도르, 포르키 텐데무스 아 크리아르 인스트루멘투스 파라 페르세베르 우 키 펜사무스 키 데베리아무스 베르!
+Esses instrumentos podem até nos dar uma interpretação altamente distorcida do mundo ao nosso redor, porque tendemos a criar instrumentos para perceber o que pensamos que deveríamos ver!
 
 페르세바 인탕 키, 온지 케르 키 보세 이스테자 아고라, 아 무이투 마이스 아콘테센두 아우 세우 헤도르 두 키 보세 포시베우멘치 포사 이마지나르.
+Perceba então que, onde quer que você esteja agora, há muito mais acontecendo ao seu redor do que você possivelmente possa imaginar.
 
 임보라 세자 포시베우 키 보세 테냐 우마 이마지나상 무이투 바스타, 에사 이마지나상 아인다 에 리미타다 펠루스 세우스 센치두스, 포이스 에 쿠아지 임포시베우 이마지나르 우 키 낭 포데무스 넹 메즈무 콘세베르 페르세프투아우멘치.
+Embora seja possível que você tenha uma imaginação muito vasta, essa imaginação ainda é limitada pelos seus sentidos, pois é quase impossível imaginar o que não podemos nem mesmo conceber perceptualmente.
 
 비베무스 잉 웅 문두 인피니투 콤포스투 펠루 코녜시두 이 펠루 데스코녜시두.
+Vivemos em um mundo infinito composto pelo conhecido e pelo desconhecido.
 
 노수 에후 벵 지 노사 인시스텐시아 잉 텐타르 잉카이샤르 우 데스코녜시두 나스 헤그라스 키 데젠보우베무스 아트라베스 두 포쿠 키 에 코녜시두.
+Nosso erro vem de nossa insistência em tentar encaixar o desconhecido nas regras que desenvolvemos através do pouco que é conhecido.
 
 잉 베스 지 올랴르 파라 우 데스코녜시두 콩 우마 페르스펙치바 암플라, 텐데무스 아 올랴르 파라 엘리 콩 웅 포쿠 이스트레이투, 텐탄두 베르 우 키 이스페라무스 베르 포르 카우자 두 키 자 사베무스.
+Em vez de olhar para o desconhecido com uma perspectiva ampla, tendemos a olhar para ele com um foco estreito, tentando ver o que esperamos ver por causa do que já sabemos.
 
 마스 우 데스코녜시두 에 데스코녜시두 포르키 이지스치 잉 웅 헤이누 알렝 다스 노사스 카파시다지스 페르세프투아이스 이 인텔렉투아이스 아투아이스.
+Mas o desconhecido é desconhecido porque existe em um reino além das nossas capacidades perceptuais e intelectuais atuais.
 
 아 우니카 마네이라 지 아반사르무스 누 데스코녜시두 에 이스판진두 노수 인텔렉투 우 수피시엔치, 지 모두 키 엘리 세자 카파스 지 인텐데르 키 아 암플라 가마 지 포시빌리다지스 라 포라 소 포지 세르 아발리아다 아파간두 노사스 이스펙타치바스 아투아이스.
+A única maneira de avançarmos no desconhecido é expandindo nosso intelecto o suficiente, de modo que ele seja capaz de entender que a ampla gama de possibilidades lá fora só pode ser avaliada apagando nossas expectativas atuais.
 
+---
 ---
 
 푸이 케스치오나두:
+Fui questionado:
 
 “테뉴 지피쿠우다지 잉 만테르 미냐 베르다지, 에사스 베르다지스 상 프라제이스, 이 아 베르다지 두 오트루 엔트라 나 미냐 카베사 이 신투-미 블로케아두, 아테 테뉴 프로블레마스 파라 하시오시나르. 이지스치 우마 데페자?”
+“Tenho dificuldade em manter minha verdade, essas verdades são frágeis, e a verdade do outro entra na minha cabeça e sinto-me bloqueado, até tenho problemas para raciocinar. Existe uma defesa?”
 
 미냐 헤스포스타 포이 아 세긴치:
+Minha resposta foi a seguinte:
 
 에스치 에 웅 프로블레마 키 토두스 노스 테무스, 이 키 낭 무이타스 페소아스 콘템플랑. 우 키 펜사무스 세르 노사 멘치 에 프레켄테멘치 아 멘치 두 콜레치부, 아 멘치 다 무우치당 키 토두스 콤파르칠랴무스 코무 우마누스 네스치 플라네타, 이 에사 멘치 에 고베르나다, 지 파투 모우다다, 펠루 아르콘치!
+Este é um problema que todos nós temos, e que não muitas pessoas contemplam. O que pensamos ser nossa mente é frequentemente a mente do coletivo, a mente da multidão que todos compartilhamos como humanos neste planeta, e essa mente é governada, de fato moldada, pelo Arconte!
 
 마스 이지스치 아 포시빌리다지 지 잉콘트라르 우 세우 프로프리우 이우, 우 이우 인지비두아우. 에시 이우 인지비두아우 이스타 코넥타두 아 멘치 두 그루푸, 아 토다스 아스 크렌사스/메메스, 펜사멘투스, 이모송이스 이 모지즈무스 다 에포카 이 지 오트라스 에포카스. 마스 시 보세 포지 아프렌데르 아 이덴치피카르 우 베르다데이루 이우 잉 메이우 아 토두 에시 후이두, 에 잉크리베우 아시스치르 이 센치르 토두스 에시스 펜사멘투스, 이데이아스 이 임푸우수스 이스트란제이루스 파산두 포르 보세. 센치-시 코무 마레스 케브란두 콘트라 보세 이 라반두-우 인테르미나베우멘치, 리베르탄두-우 두 콜레치부.
+Mas existe a possibilidade de encontrar o seu próprio eu, o eu individual. Esse eu individual ESTÁ conectado à mente do grupo, a todas as crenças/memes, pensamentos, emoções e modismos da época e de outras épocas. Mas se você pode aprender a identificar o verdadeiro eu em meio a todo esse ruído, é incrível assistir e sentir todos esses pensamentos, ideias e impulsos estrangeiros passando por você. Sente-se como marés quebrando contra você e lavando-o interminavelmente, libertando-o do coletivo.
 
 파라 잉콘트라르 우 세우 이우 인지비두아우, 보세 프레시자 프레스타르 마이스 아텐상 아 수아 프로프리아 멘치 낭 텐타르 데제스페라다멘치 데즐리가-라, 오 프레스타르 아텐상 아페나스 아우 문두 이스테리오르 이 아우 프레젠치, 잉 베스 두 키 이스타 파산두 포르 엘라. 보세 텡 키 프레스타르 마이스 아텐상 아 수아 멘치, 파라 키 포사 '도마-라' 이 콜로카-라 누 세우 루가르. 에 헤아우멘치 지피시우 파제르 이수 누 코메수 포르키, 잉 수아 마이오리아, 노사 카파시다지 지 아텐상 에 쿠르타, 이 텐데무스 아 누스 페르데르 잉 노수스 펜사멘투스 다 메즈마 마네이라 키 아도르메세무스 잉 노수스 소뉴스. 마스 시 보세 아페나스 오브세르바르 토두스 우스 펜사멘투스, 이모송이스, 이데이아스, 메모리아스, 센치멘투스, 이마젱스, 이트크., 키 이스탕 파산두 포르 수아 멘치 우 템푸 토두, 보세 포지 이벤투아우멘치 코메사르 아 베르 포르 바이슈 지 투두 이수. 보세 포지 코메사르 아 베르 키 아 웅 오브세르바도르, 웅 세르 키 이스타 오브세르반두 투두 이수, 아테 오브세르반두 보세 텐탄두 시 오브세르바르.
+Para encontrar o seu eu individual, você precisa prestar mais atenção à sua própria mente; não tentar desesperadamente desligá-la, ou prestar atenção apenas ao mundo exterior e ao presente, em vez do que está passando por ela. Você tem que prestar mais atenção à sua mente, para que possa 'domá-la' e colocá-la no seu lugar. É realmente difícil fazer isso no começo porque, em sua maioria, nossa capacidade de atenção é curta, e tendemos a nos perder em nossos pensamentos da mesma maneira que adormecemos em nossos sonhos. Mas se você apenas observar todos os pensamentos, emoções, ideias, memórias, sentimentos, imagens, etc., que estão passando por sua mente o tempo todo, você pode eventualmente começar a ver por baixo de tudo isso. Você pode começar a ver que há um observador, um ser que está observando tudo isso, até observando você tentando se observar.
 
 우 오브세르바도르 에 우 베르다데이루 보세! 벵, 에 아 파르치 인지비두아우 지 보세, 아 파르치 키 포지 아프렌데르 아 아지르 이 파제르 코이자스 인데펜덴테멘치 다 멘치 다 무우치당, 아 파르치 키 포지 프로쿠라르 베르다지스 이 베-라스 헤페치다멘치 파라 낭 이스케세르 켕 에, 에 아 파르치 지 보세 키 에 리브리 이 웅 세르 인지비두아우.
+O observador é o verdadeiro você! Bem, é a parte individual de você, a parte que pode aprender a agir e fazer coisas independentemente da mente da multidão, a parte que pode procurar verdades e vê-las repetidamente para não esquecer quem é, é a parte de você que é livre e um ser individual.
 
 텐치 프레스타르 아텐상 아 토두스 우스 펜사멘투스 이 임푸우수스 키 파상 포르 수아 멘치 두란치 우 쿠르수 두 세우 지아. 인탕, 아우스 포쿠스, 텐치 프레스타르 마이스 이 마이스 아텐상 아 파르치 지 보세 키 이스타 텐탄두 프레스타르 아텐상 잉 시 메즈마 프레스치 아텐상 아우 오브세르바도르 키 이스타 오브세르반두 아 시 메즈무... 아테 메즈무 오브세르반두 아 시 메즈무 시 오브세르바르.
+Tente prestar atenção a todos os pensamentos e impulsos que passam por sua mente durante o curso do seu dia. Então, aos poucos, tente prestar mais e mais atenção à parte de você que está tentando prestar atenção em si mesma; preste atenção ao observador que está observando a si mesmo... até mesmo observando a si mesmo se observar.
 
 아 무이투스 미스테리우스 아키, 콘템플리 이수 플레나멘치.
+Há muitos mistérios aqui, contemple isso plenamente.
 
+---
 ---
 
 푸이 콘비다두 아 텐타르 이스플리카르 미냐 노상 지 헤코헨시아 이테르나, 키 에 웅 콘세이투 키 포이 우자두 콩 프레켄시아 펠루 필로조푸 니에트스스시, 이 키 우제이 아스 베지스 파라 텐타르 데스크레베르 아 아르마질랴 다 이지스텐시아 우 시클루 지 비다 이 모르치, 키 이센시아우멘치 시그니피카 키 비베레무스 에스타 메즈마 비다 인피니타멘치, 포르 토다 아 이테르니다지.
+Fui convidado a tentar explicar minha noção de Recorrência Eterna, que é um conceito que foi usado com frequência pelo filósofo Nietzsche, e que usei às vezes para tentar descrever a armadilha da existência; o ciclo de vida e morte, que essencialmente significa que viveremos esta mesma vida infinitamente, por toda a eternidade.
 
 이스페시피카멘치, 푸이 케스치오나두 소브리 코무 에시 콘세이투 시 헬라시오나 콩 아 헹카르나상. 푸이 케스치오나두: 카다 베스 키 헤페치무스 아 메즈마 비다, 파제무스 이스콜랴스 지페렌치스 덴트루 데사 메즈마 비다? 오 아스 무단사스 상 아페나스 인테르나스? 오 암부스?
+Especificamente, fui questionado sobre como esse conceito se relaciona com a reencarnação. Fui questionado: Cada vez que repetimos a mesma vida, fazemos escolhas diferentes dentro dessa mesma vida? Ou as mudanças são apenas internas? Ou ambos?
 
 미냐 헤스포스타 포이 아 세긴치:
+Minha resposta foi a seguinte:
 
 타이스 헤스포스타스 상 지피세이스 지 이스플리카르 포르키 아 멘치 텡 무이타 지피쿠우다지 콩 우 인피니투. 무이타스 베지스, 에사스 헤스포스타스 소 포뎅 세르 페르세비다스 지레타멘치, 마스 이스플리카-라스 콩 팔라브라스 에 무이투 지피시우. 파레이 우 메우 멜료르, 포이스 에스타 에 헤아우멘치 우마 오치마 페르군타.
+Tais respostas são difíceis de explicar porque a mente tem muita dificuldade com o infinito. Muitas vezes, essas respostas só podem ser percebidas diretamente, mas explicá-las com palavras é muito difícil. Farei o meu melhor, pois esta é realmente uma ótima pergunta.
 
 카다 모멘투 네스타 비다, 텡 덴트루 델리 웅 누메루 쿠아지 인피니투 지 프로바빌리다지스. 오 세자, 잉 카다 모멘투, 이지스텡 웅 누메루 쿠아지 인피니투 지 코이자스 키 보세 포지 파제르, 마스 네스타 리냐 두 템푸 (키 누스 헤페리무스 코무 헤알리다지, 비다 헤아우) 보세 이스콜리 우마, 이 샤마 에사 이스콜랴 파르치쿨라르 지 헤알리다지.
+Cada momento nesta vida, tem dentro dele um número quase infinito de probabilidades. Ou seja, em cada momento, existem um número quase infinito de coisas que você pode fazer, mas nesta linha do tempo (que nos referimos como realidade, vida real) você escolhe uma, e chama essa escolha particular de realidade.
 
 토다스 아스 오트라스 이스콜랴스 (오 세자, 아송이스 지 아코르두 콩 우마 프로바빌리다지 포시베우) 상 소뉴스 파라 보세 상 포시빌리다지스 키 포뎅 테르 아콘테시두 잉 세우스 소뉴스, 마스 키 눙카 아콘테세랑 콩 보세 나 비다 헤아우, 이 카다 우마 데사스 이스콜랴스 레바 아 카미뉴스 지페렌치스 키 리 당 우마 비다 리제이라멘치 지페렌치, 다 페르스펙치바 다 인지비두알리다지 키 보세 에 아고라.
+Todas as outras escolhas (ou seja, ações de acordo com uma probabilidade possível) são sonhos para você; são possibilidades que podem ter acontecido em seus sonhos, mas que nunca aconteceram com você na vida real, e cada uma dessas escolhas leva a caminhos diferentes que lhe dão uma vida ligeiramente diferente, da perspectiva da individualidade que você é agora.
 
 마스, 토다스 에사스 오트라스 비다스 이지스텡 아고라, 엘라스 낭 상 아페나스 소뉴스, 엘라스 상 헤아이스 아고라 네스치 모멘투 이 파라 셈프리, 마스 파라 우 보세 콘시엔치, 엘라스 상 메루스 소뉴스, 나 멜료르 다스 이포테지스, 아 파르치르 다 수아 페르스펙치바. 파라 우 보세 나켈라스 오트라스 리냐스 두 템푸, 보세 에 우 소뉴, 이 엘리스 상 아 헤알리다지.
+Mas, todas essas outras vidas existem agora, elas NÃO são apenas sonhos, elas são reais agora neste momento e para sempre, mas para o você consciente, elas são meros sonhos, na melhor das hipóteses, a partir da sua perspectiva. Para o você naquelas outras linhas do tempo, você é o sonho, e eles são a realidade.
 
 마스 카다 이스콜랴, 포르 마이스 지베르사 키 포사 파레세르 아 토탈리다지 지 우마 이스페리엔시아 두 폰투 지 비스타 우마누, 에, 누 피나우, 리미타다. 엘라 낭 이라 마이스 론지 두 키 웅 나시멘투 이 우마 모르치, 이 포르 마이스 지베르사 키 포사 파레세르 파라 우마 페소아 키 포사 테르 토마두 웅 카미뉴 프로바베우 지페렌치, 에 아인다 아싱 우마 이지스텐시아 페케나 이 인자울라다 잉 콤파라상 아 투두 우 키 에 포시베우 파라 노스.
+Mas cada escolha, por mais diversa que possa parecer a totalidade de uma experiência do ponto de vista humano, é, no final, Limitada. Ela não irá mais longe do que um nascimento e uma morte, e por mais diversa que possa parecer para uma pessoa que possa ter tomado um caminho provável diferente, é ainda assim uma existência pequena e enjaulada em comparação a tudo o que é possível para nós.
 
 포르탄투, 싱, 카다 이스콜랴 에 페이타 아고라, 투두 에 아고라, 카다 지레상 에 세기다, 카다 아스펙투 포시베우 지 보세 이지스치 아고라 이 콘치누아라 아 이지스치르... 지 세르타스 포르마스 ‘리미타다스’. 파레세라 이볼루이르 파라 셈프리, 포르키 낭 아 파사두 오 푸투루, 아 아페나스 웅 폰투 인피니투 두 아고라 (우 템푸 리네아르 에 우마 일루장). 보세, 코무 아 페소아 키 에 아고라, 파라 토다스 아스 코이자스 키 셈프리 ‘아파렌테멘치’ 키스 파제르, 이 자 키 투두 에 아고라, 보세 이스타 이 이스타라 파젠두 투두 이수, 파라 셈프리. 이수 포지 파레세르 웅 치푸 지 세우, 마스 나 인피니투지 두 모멘투 아투아우, 에 웅 인페르누, 펠루 메누스 에 아싱 파라 우 아우키미스타 인테리오르.
+Portanto, sim, cada escolha é feita agora, tudo é agora, cada direção é seguida, cada aspecto possível de você existe agora e continuará a existir... de certas formas ‘limitadas’. Parecerá evoluir para sempre, porque não há passado ou futuro, há apenas um ponto infinito do agora (o tempo linear é uma ilusão). Você, como a pessoa que é agora, fará todas as coisas que sempre ‘aparentemente’ quis fazer, e já que tudo é agora, você está e estará fazendo tudo isso, para sempre. Isso pode parecer um tipo de céu, mas na infinitude do momento atual, é um inferno, pelo menos é assim para o alquimista interior.
 
 아키 이스타 아 파르치 지피시우, 닝겡 이스카파라 두 아르콘치, 닝겡 이스카파라 다 비다 이 다 모르치, 아 메누스 키 우마 데사스 리냐스 두 템푸 이스카피 두 아르콘치... 마스 시 우마 이스카파, 인탕 토다스 테랑 이스카파두.
+Aqui está a parte difícil, ninguém escapará do Arconte, ninguém escapará da vida e da morte, a menos que uma dessas linhas do tempo escape do Arconte... mas se uma escapa, então todas terão escapado.
 
 마스, 시 토다스 아스 이스콜랴스 상 세기다스, 인탕 우마 데사스 포시베이스 리냐스 두 템푸 다 비다 데비 이스카파르 두 아르콘치 이, 포르탄투, 토다스 이스카팡 두 아르콘치 잉 아우궁 모멘투, 세르투?
+Mas, se todas as escolhas são seguidas, então uma dessas possíveis linhas do tempo da vida deve escapar do Arconte e, portanto, todas escapam do Arconte em algum momento, certo?
 
 이하두! 에사 에 아 아르마질랴, 아 일루장 이 우 페리구 다스 파레지스 인비지베이스. 닝겡 이스카파 키 낭 이스카피 두 아르콘치, 포르키 이스카파르 낭 에 ‘우마 프로바빌리다지’, 마스 싱 ‘인텐시오날리다지 이네르제치카’. 인텐시오날리다지 이 프로바빌리다지 포뎅 파레세르 아 메즈마 코이자 파라 우마 페소아 코뭉, 마스 낭 상: 우마 에 우마 아르마질랴, 아 오트라 에 리베르다지. 프로바빌리다지 에 소누, 소냔두 덴트루 다 누벵 이테르나 두 아르콘치. 인텐시오날리다지 에 이스타르 데스페르투, 에 아 본타지 콘시엔치 지 포데르, 아 본타지 지 이스카파르 두 시클루 인피니투 키 파레시 레바르 아 이볼루상, 마스 나 베르다지 아페나스 레바 지 보우타 아우 폰투 지 파르치다.
+Errado! Essa é a armadilha, a ilusão e o perigo das paredes invisíveis. Ninguém escapa que não escape do Arconte, porque escapar não é ‘uma probabilidade’, mas sim ‘intencionalidade energética’. Intencionalidade e probabilidade podem parecer a mesma coisa para uma pessoa comum, mas não são: uma é uma armadilha, a outra é liberdade. Probabilidade é sono, sonhando dentro da nuvem eterna do Arconte. Intencionalidade é estar desperto, é a vontade consciente de poder, a vontade de escapar do ciclo infinito que parece levar à evolução, mas na verdade apenas leva de volta ao ponto de partida.
 
 우스 아우키미스타스 인테리오리스 텐탕 파제르 콩 키 에스타 리냐 두 템푸, 키 자 아콘테세우 이 이스타 셈프리 아콘테센두 코무 이우 멘시오네이, 세자 아 리냐 두 템푸 잉 키 엘리스 이스카팡 다 _헤코헨시아 이테르나_. 엘리스 파젱 이수, 엔트리 오트라스 코이자스, 우닌두 우 이우 콘시엔치 콩 토다스 아스 리냐스 두 템푸 아트라베스 두 포데르 두 세우 이스펙트루 데스페르타두 나 마키나. 엘리스 파젱 이수 데젠보우벤두 인텐시오날리다지. 낭 아 오트라 마네이라!
+Os alquimistas interiores tentam fazer com que esta linha do tempo, que já aconteceu e está sempre acontecendo como eu mencionei, seja a linha do tempo em que eles escapam da _Recorrência Eterna_. Eles fazem isso, entre outras coisas, unindo o eu consciente com todas as linhas do tempo através do poder do seu espectro despertado na máquina. Eles fazem isso desenvolvendo intencionalidade. Não há outra maneira!
 
+---
 ---
 
 보세 사비 포르 키 나다 파라노르마우 오 마지쿠 아콘테시 페르투 지 웅 세치쿠? 에 지피시우 키 코이자스 마지카스 오코항 아우 헤도르 두 세치쿠 포르키 엘리 오 엘라 아크레지타 탕 콤플레타멘치 잉 수아스 크렌사스 키 에 카파스 지 칸셀라르 오 이그노라르 쿠아이스케르 헤주우타두스 키 콘트라리엥 수아스 노송이스 지 헤알리다지. 에 잉그라사두 코무 우 세치쿠 콤프로바 수아스 테오리아스, 크리안두 우스 헤주우타두스 키 데제자 우잔두 아스 메즈마스 테크니카스 키 엘리 오 엘라 이스타 텐탄두 헤푸타르.
+Você sabe por que nada paranormal ou mágico acontece perto de um cético? É difícil que coisas mágicas ocorram ao redor do cético porque ele ou ela acredita tão completamente em suas crenças que é capaz de cancelar ou ignorar quaisquer resultados que contrariem suas noções de realidade. É engraçado como o cético comprova suas teorias, criando os resultados que deseja usando as mesmas técnicas que ele ou ela está tentando refutar.
 
 파라 크리아르 우 수포스타멘치 임포시베우, 포르탄투, 데자피우 보세 아 아크레지타르 잉 수아 포시빌리다지 콩 탄투 페르보르 쿠안투 우 세치쿠 아크레지타 잉 수아 헤알리다지!
+Para criar o supostamente impossível, portanto, desafio você a acreditar em sua possibilidade com tanto fervor quanto o cético acredita em sua realidade!
 
+---
 ---
 
 데비-시 페르세베르 키 이지스텡 인치다지스 트란즈지멘시오나이스 키 크루장 파라 에스치 플라누 트리지멘시오나우 헤굴라르멘치. 에사스 인치다지스 상 샤마다스 지 트란즈지멘시오나이스, 포르키 상 카파지스 지 헤알리자르 아우구 키 무이투 포쿠스 우마누스 콘세겡 아우칸사르 오 메즈무 페르세베르 지 마네이라 코헤타, 이 이수 에 아 카파시다지 지 모베르-시 데스치 이스파수 트리지멘시오나우, 데스치 플라누 지 이지스텐시아 트리지멘시오나우, 이 인트라르 잉 오트루.
+Deve-se perceber que existem entidades transdimensionais que cruzam para este plano tridimensional regularmente. Essas entidades são chamadas de transdimensionais, porque são capazes de realizar algo que muito poucos humanos conseguem alcançar ou mesmo perceber de maneira correta, e isso é a capacidade de mover-se deste espaço tridimensional, deste plano de existência tridimensional, e entrar em outro.
 
 쿠안두 에사스 인치다지스 트란즈지멘시오나이스 시 모벵 지 세우 플라누 지 이지스텐시아 파라 우 노수, 엘라스 데이샹 웅 플라누 지 이지스텐시아 키 포수이 헤그라스 피지카스 지페렌치스 다스 키 테무스 네스치. 포르 카우자 데사스 헤그라스 피지카스 지페렌치스, 코무 엘라스 파레셍, 심플레즈멘치, 잉 세우 플라누 지멘시오나우, 이 코무 엘라스 파레셍 네스치, 에 프레켄테멘치 콤플레타멘치 지페렌치. 인탕, 쿠안두 에사스 인치다지스 크루장 파라 에스치 문두 트리지멘시오나우, 상 포르사다스 펠라스 프로프리아스 포르사스 키 모우당 이 만텡 에스치 플라누 지멘시오나우 아 무다르 지 포르마.
+Quando essas entidades transdimensionais se movem de seu plano de existência para o nosso, elas deixam um plano de existência que possui regras físicas diferentes das que temos neste. Por causa dessas regras físicas diferentes, como elas parecem, simplesmente, em seu plano dimensional, e como elas parecem neste, é frequentemente completamente diferente. Então, quando essas entidades cruzam para este mundo tridimensional, são forçadas pelas próprias forças que moldam e mantêm este plano dimensional a mudar de forma.
 
+---
 ---
 
 페시 우스 올류스 파라 우 문두 피지쿠 이 카이아 파라 트라스 나 이스쿠리당 키 보세 잉콘트라라 라, 카이아 아테 헤데스코브리르 우 인피니투 인테리오르, 키 에 헤아우멘치 이스테리오르.
+Feche os olhos para o mundo físico e caia para trás na escuridão que você encontrará lá, caia até redescobrir o infinito interior, que é realmente exterior.
 
 우 그란지 마르 이스쿠루 이스페라...
+O Grande Mar Escuro espera...
 
+---
 ---
 
 수포지상 = 페르세프상
+Suposição = Percepção
 
+---
 ---
 
 토두 크레시멘투 에 웅 플로레시멘투. 누 문두 오브제치부, 포데무스 올랴르 이 베르 코무 우마 세멘치 포지 크레세르 아우 롱구 두 템푸 파라 시 토르나르 우마 아르보리 임포넨치. 포데무스 베르 우마 크리안사 크레세르 잉 이다지, 타마뉴, 이스페리엔시아 이, 이스페라무스, 사베도리아.
+Todo crescimento é um florescimento. No mundo objetivo, podemos olhar e ver como uma semente pode crescer ao longo do tempo para se tornar uma árvore imponente. Podemos ver uma criança crescer em idade, tamanho, experiência e, esperamos, sabedoria.
 
 아켈리스 키 아크레지탕 키 상 아스 지멘송이스 인테르나스 키 크리앙 우 문두 이스테리오르, 코무 이우 아크레지투, 벵 키 에시 크레시멘투 이 데젠보우비멘투 잉크리베이스 펠루스 쿠아이스 토두스 우스 세리스 파상 상 아 콘세켄시아 지 우마 폰치 인테르나. 키 우 문두 이스테리오르 에 우 헤주우타두 지 콤플레시다지스 탕 바스타스 이 무우치지멘시오나이스 키 눙카 포데리앙 세르 마니페스타다스 콤플레타멘치 나 포르마 피지카 이스테르나.
+Aqueles que acreditam que são as dimensões internas que criam o mundo exterior, como eu acredito, veem que esse crescimento e desenvolvimento incríveis pelos quais todos os seres passam são a consequência de uma fonte interna. Que o mundo exterior é o resultado de complexidades tão vastas e multidimensionais que nunca poderiam ser manifestadas completamente na forma física externa.
 
 임보라 타우 콤플레시다지 무우치지멘시오나우 낭 포사 시 마니페스타르 콤플레타멘치 아 쿠아우케르 모멘투, 엘라 부스카 이스프레사르-시 탄투 쿠안투 포시베우, 메즈무 아싱.
+Embora tal complexidade multidimensional não possa se manifestar completamente a qualquer momento, ela busca expressar-se tanto quanto possível, mesmo assim.
 
 나 지멘상 피지카, 에사 바스치당 무우치지멘시오나우 낭 포지, 포르 이젬플루, 세르 시무우타네아멘치 우마 크리안사 이 우마 페소아 토타우멘치 크레시다. 낭 포지 세르 트리스치 이 펠리스, 프라쿠 이 포르치, 웅 마지쿠 이 웅 톨루.
+Na dimensão física, essa vastidão multidimensional não pode, por exemplo, ser simultaneamente uma criança e uma pessoa totalmente crescida. Não pode ser triste e feliz, fraco e forte, um mágico e um tolo.
 
 에사 이센시아 인테리오르 수페라 아스 리미타송이스 다 지멘상 피지카, 인탕, 이스팔랸두 아 토탈리다지 지 시 메즈마 아트라베스 두 메이우 두 템푸. 엘라 부스카 리테라우멘치 임푸하르 오 프로제타르-시 지 토다스 아스 마네이라스 포시베이스, 잉 토다스 아스 헤알리다지스 포시베이스, 이 에 에시 데즈도브라멘투 다 지멘상 인테르나 잉 포르마 피지카 이스테르나 키 이덴치피카무스 코무 크레시멘투, 무단사, 파라 이스페리멘타르 우 마시무 지 수아 콤플레시다지 토타우 포시베우 아트라베스 두 메이우 두 템푸.
+Essa essência interior supera as limitações da dimensão física, então, espalhando a totalidade de si mesma através do meio do tempo. Ela busca literalmente empurrar ou projetar-se de todas as maneiras possíveis, em todas as realidades possíveis, e é esse desdobramento da dimensão interna em forma física externa que identificamos como crescimento, mudança, para experimentar o máximo de sua complexidade total possível através do meio do tempo.
 
+---
 ---
 
 보세 포지 펜사르 나 잉콘시엔시아 코무 센두 낭-로카우, 오 세자, 우 잉콘시엔치 에 아 콘시엔시아 키 낭 오쿠파 웅 폰투 파르치쿨라르 누 이스파수-템푸, 이 네시 센치두 데펜지 지 우마 아보르다젱 낭-로카우, 키 낭 이스타 넹 아키 넹 라, 파라 아 콘시엔시아 이 아상. 잉쿠안투 아 센시빌리다지, 오 세자, 우 세르 콘시엔치, 아 콘시엔시아 콘시엔치 이 아 아상, 키 에 이센시아우멘치 아 카파시다지 두 에구 지 이스콜례르 이 파제르, 에 네시 센치두 우마 코이자 로카우. 아 베르다데이라 센시빌리다지 오 인지비두알리다지, 포르탄투, 포지 세르 지타 코무 오쿠판두 웅 루가르 데피니두 누 이스파수 이 누 템푸. 지 파투, 아 메지다 헬라치바 델라, 우 그라우 지 센시빌리다지, 포르 아싱 지제르, 지 쿠아우케르 코이자, 포지 세르 메지두 지레타멘치 주우간두 쿠앙 로카우 에 아 콘시엔시아 데사 코이자 인지비두아우, 잉 쿠아우케르 폰투 누 이스파수-템푸.
+Você pode pensar na inconsciência como sendo não-local, ou seja, o inconsciente é a consciência que não ocupa um ponto particular no espaço-tempo, e nesse sentido depende de uma abordagem não-local, que não está nem aqui nem lá, para a consciência e ação. Enquanto a sensibilidade, ou seja, o ser consciente, a consciência consciente e a ação, que é essencialmente a capacidade do ego de escolher e fazer, é nesse sentido uma coisa local. A verdadeira sensibilidade ou individualidade, portanto, pode ser dita como ocupando um lugar definido no espaço e no tempo. De fato, a medida relativa dela, o grau de sensibilidade, por assim dizer, de qualquer coisa, pode ser medido diretamente julgando quão local é a consciência dessa coisa individual, em qualquer ponto no espaço-tempo.
 
+---
 ---
 
 올랴무스 잉 쿠아우케르 지레상 이 베무스 파레지스.
+Olhamos em qualquer direção e vemos paredes.
 
 올랴무스 파라 우 오리존치 이 노수스 올류스 벵 우마 이스페시 지 테르미누 피니투 파라 우 키 데베리아 세르 웅 이스파수 인피니투 아우구 코무 이스타르 프레주 덴트루 지 웅 글로부 지 네비.
+Olhamos para o horizonte e nossos olhos veem uma espécie de término finito para o que deveria ser um espaço infinito; algo como estar preso dentro de um globo de neve.
 
 누스 에 지투 키 에스치 에 우 노수 핑, 키 노수스 올류스, 노수스 센치두스, 소 포뎅 페르세베르 아테 세르투 폰투 키 테무스 웅 리미치 이 키 에스치 에 우 리미치.
+Nos é dito que este é o nosso fim, que nossos olhos, nossos sentidos, só podem perceber até certo ponto; que temos um limite e que este é o limite.
 
 잉 노사 픽상, 누스 에 지투 키 아우구 포지 이스타르 센두 치라두 지 노스 키 노수 포데르 이스타 센두 수가두 지 노스... 마스 이 시 포르무스 노스 메즈무스 키 이스타무스 누스 프렌덴두 지 아우구마 포르마?
+Em nossa ficção, nos é dito que algo pode estar sendo tirado de nós; que nosso poder está sendo sugado de nós... mas e se formos nós mesmos que estamos nos prendendo de alguma forma?
 
 쿠아우 에 우 포데르 키 누스 프렌지 덴트루 지 파레지스, 덴트루 두 쿠부 다 하시오날리다지? 켕 에 우 메스트리, 코무 지스 우 코앙 젱, 키 "파스 아 그라마 베르지"?
+Qual é o poder que nos prende dentro de paredes, dentro do cubo da racionalidade? Quem é o mestre, como diz o koan Zen, que "faz a grama verde"?
 
 에 노스, 지스 우 루타도르. 에 우 헤이 세크레투 잉 노스... 코홈피두 펠라 누벵 마이스 이스쿠라.
+É nós, diz o lutador. É o Rei secreto em nós... corrompido pela nuvem mais escura.
 
 아 루타 낭 에 콩 아우구 라 포라, 누 핑 다스 콘타스, 이스타 잉 노스!
+A luta não é com algo Lá Fora, no fim das contas, está em nós!
 
 우 아우키미스타 인테리오르 루타 에사 루타, 에 우마 루타 펠라 우니카 코이자 지그나 지 노스... 인지비두알리다지 이 리베르다지 토타우.
+O alquimista interior luta essa luta, é uma luta pela única coisa digna de nós... individualidade e liberdade total.
 
 아 루타 낭 이스타 라 포라 잉 아우궁 루가르, 이스타 덴트루 지 노스. 코무 자 리 지시 헤페치다스 베지스 잉 무이투스 두스 메우스 리브루스, 우 라 포라 낭 이스타 헤아우멘치 라 포라, 이수 에 아페나스 우마 일루장 지 페르세프상, 우마 일루장 바제아다 나 콘세프상 하시오나우 다 헤알리다지. 우 라 포라 이스타 헤아우멘치 덴트루 지 노스, 에 포르 이수 키 아 온다 아 쿠아우 페르텐수 에 헤페리다 코무 아우키미아 인테리오르, 낭 에 우 카미뉴 두 소프라도르, 낭 에 우 카미뉴 다 하시오날리다지 이 다 일루장 키 누스 프렌지 인세산테멘치 덴트루 지 우마 자울라 지 파레지스 이스테르나스 이 오브제투스 솔리두스.
+A luta não está Lá Fora em algum lugar, está dentro de nós. Como já lhe disse repetidas vezes em muitos dos meus livros, o Lá Fora não está realmente lá fora, isso é apenas uma ilusão de percepção, uma ilusão baseada na concepção racional da realidade. O Lá Fora está realmente dentro de nós, é por isso que a onda à qual pertenço é referida como alquimia INTERIOR, não é o caminho do Soprador, não é o caminho da racionalidade e da ilusão que nos prende incessantemente dentro de uma jaula de paredes externas e objetos sólidos.
 
 이르 파라 덴트루 에 이르 파라 포라, 에스치 에 우 그란지 세그레두.
+Ir para dentro é ir para fora, este é o grande segredo.
 
+---
 ---
 
 쿠아우 에 아 헤스포스타 파라 아 페르군타 데피니치바 소브리 아 비다, 우 우니베르수 이 투두 마이스?
+Qual é a resposta para a pergunta definitiva sobre a vida, o universo e tudo mais?
 
 파라 우 펜사도르 프로푼두[^2], 에 42.
+Para o Pensador Profundo[^2], é 42.
 
 마스 파라 웅 아우키미스타 인테리오르, 에: 낭 알리멘치 아 아지타상, 아페나스 수르피 아 온다!
+Mas para um Alquimista Interior, é: não alimente a agitação, apenas surfe a onda!
 
 우 키 포지 세르 이스플리카두 다 세긴치 포르마:
+O que pode ser explicado da seguinte forma:
 
 우 문두 우마누, 이 토다스 아스 크리아송이스 데스타 우마니다지 다 쿠아우 파제무스 파르치, 에 무이투 마이스 콤플레슈 두 키 아 마이오리아 이마지나.
+O mundo humano, e todas as criações desta humanidade da qual fazemos parte, é muito mais complexo do que a maioria imagina.
 
 누스 테르무스 마이스 심플리스, 포데무스 베르 아 우마니다지, 카다 페소아 인지비두아우, 코무 우마 파르치쿨라 플루투안두 잉 웅 플루이두. 포데무스 인탕 이마지나르 키 카다 우마 데사스 파르치쿨라스 텡 아 포시빌리다지 알레아토리아 지 크리아르 우마 아지타상 이스테르나, 웅 치푸 지 이페이투 지 헤무 이스테르누.
+Nos termos mais simples, podemos ver a humanidade, cada pessoa individual, como uma partícula flutuando em um fluido. Podemos então imaginar que cada uma dessas partículas tem a possibilidade aleatória de criar uma agitação externa, um tipo de efeito de remo externo.
 
 아고라, 시 페가르무스 8 빌룡이스 데사스 파르치쿨라스 (이스치마치바 아프로시마다 다 포풀라상 우마나) 이 이마지나르무스 키 엘라스 이스테장 잉 웅 헤시피엔치 플루이두 헬라치바멘치 그란지, 아우 쿠아우 아지시오나무스 아인다 에사 카파시다지 알레아토리아 지 카다 파르치쿨라 인지비두아우 테르 우 포텐시아우 지 크리아르 우마 쿠안치다지 알레아토리아 지 아지타상 (투르불렌시아 오 아지타상), 인탕 포데무스 베르 코무 에사스 파르치쿨라스 덴트루 데시 메이우 플루이두 크리앙 지페렌치스 코헨치스 이 온다스 키 파레셍 크리아르 아우 롱구 두 템푸, 우마 코헨치 쿠아지 콘시엔치 오 이스타베우. 오 세자, 메즈무 네스치 암비엔치 카오치쿠, 네스치 시스테마 아우타멘치 콤플레슈 마테마치카멘치, 아베라 웅 모멘투 잉 키 우마 이스페시 지 오르뎅 에 아우칸사다... 우마 코헨치.
+Agora, se pegarmos 8 bilhões dessas partículas (estimativa aproximada da população humana) e imaginarmos que elas estejam em um recipiente fluido relativamente grande, ao qual adicionamos ainda essa capacidade aleatória de cada partícula individual ter o potencial de criar uma quantidade aleatória de agitação (turbulência ou agitação), então podemos ver como essas partículas dentro desse meio fluido criam diferentes correntes e ondas que parecem criar ao longo do tempo, uma corrente quase consciente ou estável. Ou seja, mesmo neste ambiente caótico, neste sistema altamente complexo matematicamente, haverá um momento em que uma espécie de ordem é alcançada... uma corrente.
 
 아 우마니다지 아크레지타 키 에스타 오르뎅 (에스타 코헨치) 에 아 헤알리다지, 이 파라 카다 파르치쿨라 인지비두아우, 낭 임포르타 온지 엘라 이스테자 포지시오나다 덴트루 데스치 메이우 플루이두, 엘라 바이 (시 아수미르무스 키 에스타 파르치쿨라 텡 아 포시빌리다지 지 세르 웅 포쿠 콘시엔치) 아크레지타르 키 수아 포지상 덴트루 두 메이우 플루이두 에 우 센트루 두 우니베르수 이 키 에스치 폰투 덴트루 두 메이우 탐벵 헤프레젠타 아 아투알리다지 다 헤알리다지 (베르다데이라 헤알리다지). 카다 파르치쿨라, 포르탄투, 이스페리멘타 수아 프로프리아 헤알리다지, 마스 에, 누 인탄투, 아페타다 펠라 코헨치 크리아다 펠라 마사 플루이다 인테이라.
+A humanidade acredita que esta ordem (esta corrente) é a realidade, e para cada partícula individual, não importa onde ela esteja posicionada dentro deste meio fluido, ela vai (se assumirmos que esta partícula tem a possibilidade de ser um pouco consciente) acreditar que sua posição dentro do meio fluido é o centro do universo e que este ponto dentro do meio também representa a atualidade da realidade (verdadeira realidade). Cada partícula, portanto, experimenta sua própria realidade, mas é, no entanto, afetada pela corrente criada pela massa fluida inteira.
 
 이지스텡 오르뎅스 지 인치다지스 수페르콘시엔치스 비바스 키 올량 파라 에사 마사.
+Existem ordens de entidades superconscientes vivas que olham para essa massa.
 
 아 코헨치 낭 텡 콘세켄시아... 아 '오르뎅' 에 일루장 (에 아페나스 웅 이벤투 알레아토리우 누 템푸 크리아두 잉 웅 시스테마 콤플레슈, 만치두 이 프로파가두 포르 아켈리스 오브세르바도리스 이스테르누스 이 에스타 코헨치 무다라, 이스타 콘스탄테멘치 무단두 파라 아텐데르 아우 프로포지투 델리스). 투두 우 키 임포르타 파라 에시스 오브세르바도리스 수페리오리스 에 아 아지타상 이 아 포르사 데사 아지타상. 아 아지타상 에 우 알리멘투 델리스!
+A corrente não tem consequência... a 'ordem' é ilusão (é apenas um evento aleatório no tempo criado em um sistema complexo, mantido e propagado por aqueles observadores externos e esta corrente mudará, ESTÁ constantemente mudando para atender ao propósito deles). Tudo o que importa para esses observadores superiores é a agitação e a força dessa agitação. A agitação é o alimento deles!
 
 쿠안투 아우 루가르 두 아우키미스타 인테리오르 잉 투두 이수, 엘리스 상 코무 페케나스 파르치쿨라스 수르피스타스 인데펜덴치스 키 카바우강 에사스 코헨치스 잉 베스 지 알리멘타르 아 아지타상. 엘리스 파상 비다스 아프렌덴두 아 도미나르 수아스 아빌리다지스 지 수르피 파라 키 웅 지아 포상 테르 아 샨시 지 보아르 파라 포라 데시 메이우 플루이두 키 아고라 우스 프렌지.
+Quanto ao lugar do alquimista interior em tudo isso, eles são como pequenas partículas surfistas independentes que cavalgam essas correntes em vez de alimentar a agitação. Eles passam vidas aprendendo a dominar suas habilidades de surfe para que um dia possam ter a chance de voar para fora desse meio fluido que agora os prende.
 
 잉 타이스 파르치다스 드라마치카스, 아우궁스 아우키미스타스 인테리오리스 포뎅 (오 낭) 시타르 루미나리스 코무 도글라스 아담스, 이스클라만두: “아데우스 이 오브리가두 펠루스 페이시스!”
+Em tais partidas dramáticas, alguns alquimistas interiores podem (ou não) citar luminares como Douglas Adams, exclamando: “Adeus e obrigado pelos peixes!”
 
+---
 ---
 
 우 데스코녜시두, 우 오쿠우투, 이스콘지-시 덴트루 지 바헤이라스 아우토임포스타스. 에사스 바헤이라스 아우토임포스타스 상 노사스 크렌사스 크렌사스 탕 포데로자스 키 아스 베지스 아스 샤마무스 지 파투스.
+O desconhecido, o oculto, esconde-se dentro de barreiras autoimpostas. Essas barreiras autoimpostas são nossas crenças; crenças tão poderosas que às vezes as chamamos de fatos.
 
 웅 파투 파르치쿨라르, 포르 이젬플루, 에 아 노상 지 키 우 템푸 에 웅 아순투 세켄시아우. 오 세자, 토두스 노스 아세이타무스 코무 세르투 키 우 템푸 시 이스텐지 지 포르마 리네아르, 온지 아 웅 파사두 이 웅 푸투루, 콩 노스 누 메이우... 웅 메이우 키 샤마무스 지 모멘투 프레젠치. 이수 에 웅 파투, 아크레지타무스.
+Um fato particular, por exemplo, é a noção de que o tempo é um assunto sequencial. Ou seja, todos nós aceitamos como certo que o tempo se estende de forma linear, onde há um passado e um futuro, com nós no meio... um meio que chamamos de momento presente. Isso é um fato, acreditamos.
 
 이 시 아도타세무스 우마 아보르다젱 하지카우멘치 노바 잉 헬라상 아우 템푸?
+E se adotássemos uma abordagem radicalmente nova em relação ao tempo?
 
 이 시 콘시데라세무스 우 템푸 코무 낭 이지스친두 잉 우마 세켄시아 리네아르, 마스 코무 이지스친두 투두 지 우마 베스?
+E se considerássemos o tempo como não existindo em uma sequência linear, mas como existindo tudo de uma vez?
 
 코무 우 템푸 파라 노스 이스타 탕 지레타멘치 리가두 아우 이스파수, 포데리아무스 인탕 콘세이투아르 아 헤알리다지 코무 이지스친두 토다 지 우마 베스 잉 웅 우니쿠 폰투?
+Como o tempo para nós está tão diretamente ligado ao espaço, poderíamos então conceituar a realidade como existindo toda de uma vez em um único ponto?
 
 포르 웅 모멘투, 텐치 콘세이투아르 아 이데이아 지 키 토다스 아스 코이자스 누 프레젠치, 파사두 이 푸투루 이스탕 이지스친두 아고라, 토다스 지 우마 베스, 잉 웅 루가르 키 에 페이투 지 우마 이스페수라, 인텐시다지, 알렝 다 메지다 하시오나우.
+Por um momento, tente conceituar a ideia de que todas as coisas no presente, passado e futuro estão existindo agora, todas de uma vez, em um lugar que é feito de uma espessura, intensidade, além da medida racional.
 
 쿠아우케르 아상 키 보세 토모 누 파사두 파라 셰가르 아 에스치 모멘투 프레젠치, 이 쿠아우케르 콘세켄시아 푸투라 다스 아송이스 데스치 모멘투 프레젠치, 이지스치 아고라.
+Qualquer ação que você tomou no passado para chegar a este momento presente, e qualquer consequência futura das ações deste momento presente, existe agora.
 
 코무 웅 이제르시시우 지베르치두, 텐치 이마지나르 우 템푸 이 우 이스파수 데사 포르마 아고라. 타우베스 다 프로시마 베스 키 보세 포르 다르 우마 카미냐다 레비 펠루 파르키, 텐치 파사르 에시 템푸 아크레지탄두 키 이지스치 아페나스 웅 모멘투 아고라, 키 토다 아상 이스타 아콘테센두 아고라, 세자 에사 아상 아우구 키 파레시아 세르 누 파사두, 오 키 파레사 세르 아우구 키 보세 파라 누 푸투루. 이마지니 키 토다 아상 이 토다 아 헤알리다지 키 자 포이 오 키 세라 이스탕 아콘테센두 아고라.
+Como um exercício divertido, tente imaginar o tempo e o espaço dessa forma agora. Talvez da próxima vez que você for dar uma caminhada leve pelo parque, tente passar esse tempo acreditando que existe apenas um momento agora, que toda ação está acontecendo agora, seja essa ação algo que parecia ser no passado, ou que pareça ser algo que você fará no futuro. Imagine que toda ação e toda a realidade que já foi ou que será estão acontecendo agora.
 
 시 포르무스 봉스 비주알리자도리스, 포데무스 코메사르 아 베르 우 템푸 지 우마 마네이라 토타우멘치 지페렌치. 벤두 우 템푸 데스타 포르마, 피카 무이투 마이스 지피시우 피샤르 아 '헤알리다지' 잉 노사스 멘치스, 이 아스 코이자스 포뎅 피카르 웅 포쿠 카오치카스.
+Se formos bons visualizadores, podemos começar a ver o tempo de uma maneira totalmente diferente. Vendo o tempo desta forma, fica muito mais difícil fixar a 'realidade' em nossas mentes, e as coisas podem ficar um pouco caóticas.
 
 낭 포데무스 마이스 우자르 우마 세켄시아 리네아르 파라 텐타르 피샤르 우 쿠르수 지 노사스 아송이스, 이 피카 무이투 마이스 지피시우 세파라르 우 키 이스타 덴트루 다 이스페리엔시아 수브제치바 페소아우 이 우 키 에 아상 피지카, 오 피지카멘치 프레젠치 아고라. 우 템푸 이스페리멘타두 데스타 마네이라 토르나-시 무이투 마이스 우마 케스탕 지 인텐시다지스 이 무이투 메누스 우마 케스탕 지 이스트루투라스 지 크렌사 아우토임포스타스.
+Não podemos mais usar uma sequência linear para tentar fixar o curso de nossas ações, e fica muito mais difícil separar o que está dentro da experiência subjetiva pessoal e o que é ação física, ou fisicamente presente agora. O tempo experimentado desta maneira torna-se muito mais uma questão de intensidades e muito menos uma questão de estruturas de crença autoimpostas.
 
 시 에스치 이제르시시우 포르 헤알리자두 포르 템푸 수피시엔치, 아 지페렌시아상 엔트리 우 피지쿠 이 우 이마지나두 토르나-시 무이투 마이스 지피시우 우 헤아우 이 우 이마지나두 시 토르낭 웅.
+Se este exercício for realizado por tempo suficiente, a diferenciação entre o físico e o imaginado torna-se muito mais difícil; o real e o imaginado se tornam um.
 
 임보라 이수 포사 세르 카오치쿠 누 이니시우, 탐벵 포지 포르네세르 우마 마네이라 잉크리베우멘치 포데로자 지 페르미치르 키 우마 페소아 코메시 아 인텐데르 아 오르뎅 마니페스타시오나우/트란즈무타시오나우 지 토다 아 헤알리다지, 이 코무 우 인테리오르 크리아 우 이스테리오르.
+Embora isso possa ser caótico no início, também pode fornecer uma maneira incrivelmente poderosa de permitir que uma pessoa comece a entender a ordem manifestacional/transmutacional de toda a realidade, e como o interior cria o exterior.
 
+---
 ---
 
 이스파수 이 템푸, 코무 우스 인텐데무스, 상 우마 일루장 지 웅 폰투 지 비스타 마이스 암플루. 탐벵 낭 이지스치 파사두 넹 푸투루 다 포르마 코무 우스 페르세베무스 아 파르치르 지 페르스펙치바스 트리지멘시오나이스.
+Espaço e tempo, como os entendemos, são uma ilusão de um ponto de vista mais amplo. Também não existe passado nem futuro da forma como os percebemos a partir de perspectivas tridimensionais.
 
 이지스치 아페나스 웅 인피니투 아고라 이 웅 인피니투 아키 모멘투-루가르, 키 시 이스판지 이 크레시 지 마네이라스 키 낭 상 리네아리스. 잉 베스 지 팔라르 소브리 지페렌치스 루가리스 이 지페렌치스 템푸스, 에 무이투 멜료르 팔라르 소브리 지페렌치스 프레켄시아스 이 지페렌치스 인텐시다지스.
+Existe apenas um infinito Agora e um infinito Aqui momento-lugar, que se expande e cresce de maneiras que não são lineares. Em vez de falar sobre diferentes lugares e diferentes tempos, é muito melhor falar sobre diferentes frequências e diferentes intensidades.
 
+---
 ---
 
 **우 오스페데이루**
+**O Hospedeiro**
 
 우마 솜브라 덴트루 다스 솜브라스, 엘리스 오브세르방 카다 모비멘투 노수.
+Uma sombra dentro das sombras, eles observam cada movimento nosso.
 
 시 토두 우 문두 에 웅 파우쿠, 인탕 엘리스 상 아 플라테이아.
+Se todo o mundo é um palco, então eles são a plateia.
 
 엘리스 수수항 잉 노수스 오비두스 이 오브세르방
+Eles sussurram em nossos ouvidos e observam;
 
 우스 오브세르바도리스.
+os observadores.
 
 도이스 올류스 브릴랸치스 인보우투스 잉 솜브라... 엘리스 이스프레이탕.
+Dois olhos brilhantes envoltos em sombra... eles espreitam.
 
 엘리스 상 아스 보지스 잉 노사스 카베사스, 상 아스 보지스 지 노수스 파리스.
+Eles são as vozes em nossas cabeças, são as vozes de nossos pares.
 
 이스토 세르투? 코무 이수 포지 세르 베르다지?
+Estou certo? Como isso pode ser verdade?
 
 엘리스 미 오브세르방 이 이우 트레무, 잉쿠안투 미 베주 아트라베스 지 세우스 올류스!
+Eles me observam e eu tremo, enquanto me vejo através de seus olhos!
 
 엘리스 상 우스 고베르난치스, 이스타벨레셍 아스 헤그라스, 지 노사 아우토아브소르상.
+Eles são os governantes, estabelecem as regras, de nossa autoabsorção.
 
+---
 ---
 
 **아스 마키나스 다 아우마**
+**As Máquinas da Alma**
 
 프로포뉴 아 보세 키 토두스 노스 소무스 이네르지아.
+Proponho a você que todos nós somos energia.
 
 프로포뉴 키 소무스 토두스 그라두아송이스, 낭 웅 로치 이구아우. 노스, 우마누스, 바리아무스 잉 브릴류 이 포데르, 소무스 코무 프루타스 지베르사스 잉 우마 세우바 세우바젱 이 트라이소에이라.
+Proponho que somos todos graduações, não um lote igual. Nós, humanos, variamos em brilho e poder, somos como frutas diversas em uma selva selvagem e traiçoeira.
 
 이 프로포뉴 키 이지스치무스 잉 웅 문두 프레다토리우, 웅 문두 셰이우 지 벨레자 이 이킬리브리우, 이 아인다 아싱 웅 문두 셰이우 두 페리구 마이스 솜브리우.
+E proponho que existimos em um mundo predatório, um mundo cheio de beleza e equilíbrio, e ainda assim um mundo cheio do perigo mais sombrio.
 
 아 아메아사스 솜브레아다스 이 비바스 이스프레이탄두 잉 카다 포수 푸우산치 데사 이스쿠리당. 포르마스 지 비다 프레다토리아스 쿠자스 마키나송이스 이 아송이스 세겡 파드롱이스 이 인텐송이스 키 이스탕 무이투 알렝 두 벵 이 두 마우.
+Há ameaças sombreadas e VIVAS espreitando em cada poço pulsante dessa escuridão. Formas de vida predatórias cujas maquinações e ações seguem padrões e intenções que estão muito além do bem e do mal.
 
 이 노스 소무스 메라멘치 페다수스 지 포 신칠란치 파라 엘리스. 소무스 아 콜례이타 키 에사 이스쿠리당 안세이아, 네스치 루가르 로쿠 이 보니투 키 샤마무스 지 플라네타 테하.
+E nós somos meramente pedaços de pó cintilante para eles. Somos a colheita que essa escuridão anseia, neste lugar louco e bonito que chamamos de planeta Terra.
 
 세르카두스 포르 덴치스 이 가하스, 게하 이 고베르누, 노스 우마누스 플루투아무스 네스타 조이아 아줄 키 시 모비 렌타멘치 아트라베스 지 웅 마르 이스쿠루 인테르미나베우. 이 잉쿠안투 지라무스 펠루 코즈무스, 알례이우스 아우 인피니투 아우 노수 헤도르, 누스 헤피나무스. 크레세무스 잉 포데르 아트라베스 다스 무이타스 루타스 이 프레송이스, 코무 조이아스 하라스 이 프레시오자스. 이 아우 파제르무스 이수, 무다무스 지 포르마, 낭 소무스 웅 로치 이구아우 이, 코무 타우, 누스 토르나무스 웅 로치 바리아두 지 포르송이스 카다 베스 마이스 델리시오자스 파라 아켈리스 키 시 방케테아리앙 코노스쿠... 아켈리스 키 자 시 방케테이앙 코노스쿠!
+Cercados por dentes e garras, guerra e governo, nós humanos flutuamos nesta joia azul que se move lentamente através de um Mar Escuro interminável. E enquanto giramos pelo cosmos, alheios ao infinito ao nosso redor, nos refinamos. Crescemos em poder através das muitas lutas e pressões, como joias raras e preciosas. E ao fazermos isso, mudamos de forma, não somos um lote igual e, como tal, nos tornamos um lote variado de porções cada vez mais deliciosas para aqueles que se banqueteariam conosco... aqueles que já se banqueteiam conosco!
 
 노스, 우마누스, 이스타무스 토두스 프레주스 잉 우마 카이샤 아고라. 소무스 코미다, 소무스 토두스 파르치 지 우마 지간테스카 마키나 지 아우마스, 에시 에 우 노수 데스치누.
+Nós, humanos, estamos todos presos em uma caixa agora. Somos comida, somos todos parte de uma gigantesca máquina de almas, esse é o nosso destino.
 
 마스 덴트루 데사 카이샤 이지스텡 오트라스 카이샤스 메노리스, 아스 베지스 크루잔두 노수스 세우스 코무 탄투스 인세투스 줌빈두. 상 모토리스 메노리스 이 마이스 헤피나두스, 모토리스 키 푼시오낭 콩 폰치스 마이스 피나스 지 콤부스치베우 이 키 상 카파지스 지 수스텐타르 우마 포르마 마이스 콘센트라다 지 비다 프레다토리아. 에시스 프레다도리스 상 트라파세이루스, 인바조리스, 토마도리스, 라드롱이스, 세두토리스 프로쿠란두 아페나스 우 콤부스치베우 세르투, 아페나스 아 아우마 세르타 파라 토마르.
+Mas dentro dessa caixa existem outras caixas menores, às vezes cruzando nossos céus como tantos insetos zumbindo. São motores menores e mais refinados, motores que funcionam com fontes mais finas de combustível e que são capazes de sustentar uma forma mais concentrada de vida predatória. Esses predadores são trapaceiros, invasores, tomadores, ladrões, sedutores; procurando apenas o combustível certo, apenas a alma certa para tomar.
 
 콤부스치베우 파라 마키나스 지 아우마 아우궁스 시 토르나랑, 아켈리스 키 시 아파스탕 다 세구란사 두 헤바뉴, 이 아켈리스 키 상 인펠리지스 우 수피시엔치 파라 시 잉콘트라르 누 루가르 이하두 이 나 오라 이하다 셍 데페자.
+Combustível para máquinas de alma alguns se tornaram, aqueles que se afastam da segurança do rebanho, e aqueles que são infelizes o suficiente para se encontrar no lugar errado e na hora errada sem defesa.
 
 에시스 프레다도리스, 에시스 트라파세이루스, 낭 사엥 테크니카멘치 다스 카이샤스 키 보앙 펠루스 노수스 세우스. 엘리스 우장 수아스 카이샤스 파라 인트라르 네스타: 우마 카이샤 덴트루 다 카이샤. 에 투두 인베르상, 보세 베 아스 카이샤스 상 나 베르다지 포르타스, 상 포르타스 지 우마 카이샤 파라 오트라!
+Esses predadores, esses trapaceiros, não saem tecnicamente das caixas que voam pelos nossos céus. Eles usam suas caixas para entrar nesta: uma caixa dentro da caixa. É tudo inversão, você vê; as caixas são na verdade portas, são portas de uma caixa para outra!
 
 이 엘리스 우장 에사스 포르타스 파라 누스 트란스포르타르 지 노사 프리장 마이오르 파라 아스 메노리스, 포르키 엘리스 누스 케렝, 엘리스 케렝 누스 콜로카르 잉 카이샤스 메노리스, 에사 에 아 샤비. 아프리지오나르 아스 델리시오자스 베스타스, 아켈리스 폰투스 지 포에이라 브릴랸치, 토르나르 아 가이올라 메노르, 낭 데이샤르 이스파수 파라 이스카파르. 마스 아페나스 우스 이스페시아이스, 아켈리스 콩 우 치푸 세르투 지 이네르지아 키 엘리스 데제장... 키 엘리스 프레시장.
+E eles usam essas portas para nos transportar de nossa prisão maior para as menores, porque eles nos querem, eles querem nos colocar em caixas menores, essa é a chave. Aprisionar as deliciosas bestas, aqueles pontos de poeira brilhante, tornar a gaiola menor, não deixar espaço para escapar. Mas apenas os especiais, aqueles com o tipo certo de energia que eles desejam... que eles precisam.
 
 마스 포르 케?
+Mas por quê?
 
 포르키 포데무스 세르 콤부스치베우 파라 에시스 모토리스, 토다스 에사스 카이샤스 줌빈두 누 노수 이스파수.
+Porque podemos ser combustível para esses motores, todas essas caixas zumbindo no nosso espaço.
 
 이 아싱, 엘리스 누스 잉가낭, 인시낭, 제렌시앙, 엔솅-누스 지 프로메사스 이 델레이치스 인피니투스, 아 핑 지 이스타빌리자르 노수 누클레우 이네르제치쿠, 파라 누스 아트라이르 파라 아스 카이샤스 메노리스. 수아 마이오르 프로메사, 이 우마 프로메사 베르다데이라, 아인다 키 콩 그라베스 콘세켄시아스. 엘리스 프로메텡 세구란사 다 카이샤 마이오르 지 온지 아카바무스 지 사이르, 프로메텡 이스카파르, 마스 상 트라파세이루스 이 수아 푸가 시그니피카 웅 콘피나멘투 마이오르. 엘리스 지랑 포르 메이우 지 지페렌치스 팔라브라스: “아우 인트라르 네스타 카이샤, 아트라베스 데스치스 앙굴루스 이스트라뉴스 이 델리시오주스, 보세 포지 이스카파르 다 아르마질랴, 다 카이샤 마이오르, 키 프렌데우 토다 아 우마니다지! 보세 이스타라 리브리 데사 카이샤 잉 노사 카이샤 메노르 이 아콘셰간치.” 엘리스 프로메텡 이 낭 멘텡, 마스 네사 메이아-베르다지 아 아인다 마이오르 이스크라비당.
+E assim, eles nos enganam, ensinam, gerenciam, enchem-nos de promessas e deleites infinitos, a fim de estabilizar nosso núcleo energético, para nos atrair para as caixas menores. Sua maior promessa, e uma promessa verdadeira, ainda que com graves consequências. Eles prometem segurança da caixa maior de onde acabamos de sair, prometem escapar, mas são trapaceiros e sua fuga significa um confinamento maior. Eles dirão por meio de diferentes palavras: “Ao entrar nesta caixa, através destes ângulos estranhos e deliciosos, você pode escapar da armadilha, da caixa maior, que prendeu toda a humanidade! Você estará livre dessa caixa em nossa caixa menor e aconchegante.” Eles prometem e não mentem, mas nessa meia-verdade há ainda maior escravidão.
 
 오 아스 베지스 엘리스 심플레즈멘치 누스 레방, 코르푸 이 투두, 아트라베스 지 포르사 지아볼리카, 쿠안두 우스 이스페시아이스 이 아자라두스 시 잉콘트랑 소지뉴스 이 이졸라두스 두스 헤바뉴스 우마누스. 이 인탕, 쿠안두 타이스 페소아스 인펠리지스 이스탕 네사스 카이샤스, 엘리스 페샹 아 카이샤 이 아주스탕 우스 앙굴루스, 파라 키 에사스 아우마스 포브리스 피켕 프레자스 파라 셈프리. 우스 데자파레시두스, 우스 페르지두스, 우스 낭 헬라타두스... 아켈리스 키 시 토르나랑 콤부스치베우 파라 마키나스 지 아우마.
+Ou às vezes eles simplesmente nos levam, corpo e tudo, através de força diabólica, quando os especiais e azarados se encontram sozinhos e isolados dos rebanhos humanos. E então, quando tais pessoas infelizes estão nessas caixas, eles fecham a caixa e ajustam os ângulos, para que essas almas pobres fiquem presas para sempre. Os desaparecidos, os perdidos, os não relatados... aqueles que se tornaram combustível para máquinas de alma.
 
+---
 ---
 
 올랴르 셍 콘세프상 에 베르.
+Olhar sem concepção é VER.
 
+---
 ---
 
 아 이데이아 지 키 아우구 에 리네아르, 오 키 아 이스텐상 지 수아 비다 에 우 키 세기우 아우궁 쿠르수 지 트라제토리아 지 웅 코메수 아 웅 핑, 에 아 베르다데이라 일루장 이 토다 아 비다.
+A ideia de que algo é linear, ou que a extensão de sua vida é o que seguiu algum curso de trajetória de um começo a um fim, é a verdadeira ilusão e toda a vida.
 
+---
 ---
 
 포르 키 우스 아데프투스 카엥?
+Por que os adeptos caem?
 
 아 헤스포스타 에 심플리스 두 폰투 지 비스타 이네르제치쿠:
+A resposta é simples do ponto de vista energético:
 
 수아 포르마 지 콘텐상 이네르제치카, 우잔두 쿠아이스케르 테크니카스 키 프라치켕, 낭 에 수피시엔치 파라 헤지스치르 아 인텐상 오브스쿠라 두 아르콘치.
+Sua forma de contenção energética, usando quaisquer técnicas que pratiquem, não é suficiente para resistir à intenção obscura do Arconte.
 
 시 아 우마 하샤두라, 아 이지피카상 이벤투아우멘치 데즈모로나라.
+Se há uma rachadura, a edificação eventualmente desmoronará.
 
 마스 코무 아우궁 브링칼량 자 지시 우마 베스, “우마 헤스포스타 파시우 하라멘치 시그니피카 우마 솔루상 파시우.”
+Mas como algum brincalhão já disse uma vez, “Uma resposta fácil raramente significa uma solução fácil.”
 
 아우키미스타스 인테르누스 파젱 우 멜료르 키 포뎅 파라 텐타르 수페라르 에시 프로블레마, 인시스친두 셈프리 키 아스 트레스 폴라리다지스 키 콤퐁잉 카다 세르 우마누 데벵 세르 도미나다스 잉 이구아우 메지다, 이 셈프리 프라치칸두 아 아르치 다 아브소르상, 잉 오포지상 아페나스 아 아르치 지 크리아르 이스쿠두스.
+Alquimistas internos fazem o melhor que podem para tentar superar esse problema, insistindo sempre que as três polaridades que compõem cada ser humano devem ser dominadas em igual medida, e sempre praticando a arte da absorção, em oposição apenas à arte de criar escudos.
 
+---
 ---
 
 파라 데스페르타르 파라 켕/우 키 보세 헤아우멘치 에, 프리메이루 보세 데비 페르세베르 키 켕 보세 펜사 키 에, 에 아페나스 아 콘지상/포지상 코그니치바.
+Para despertar para quem/o que você realmente é, primeiro você deve perceber que quem você pensa que é, é apenas a condição/posição cognitiva.
 
+---
 ---
 
 미냐 크렌사 이 아 크렌사 지 무이투스 오트루스 잉 웅 투네우 다 헤알리다지 세멜랸치 아우 메우, 셈프리 포이 키 우 마이오르 프로블레마 인프렌타두 펠라 우마니다지 에 아 수아 잉카파시다지 지 페르세베르 키 포데무스 세르, 오 세자, 테무스 아세수 아 포시빌리다지 지 세르 무이투 마이스 페르세프투아우멘치 플레시베이스.
+Minha crença e a crença de muitos outros em um túnel da realidade semelhante ao meu, sempre foi que o maior problema enfrentado pela humanidade é a sua incapacidade de perceber que podemos ser, ou seja, temos acesso à possibilidade de ser muito mais perceptualmente flexíveis.
 
 이, 알렝 지수, 키 타우 인텐지멘투 이 우주 데사 플레시빌리다지 페르세프치바 헤조우베리앙 그란지 파르치 다 크리지 아투아우 키 인프렌타 아 우마니다지, 포르키 노사 페르스펙치바 페르세프치바 에 아우타멘치 리미타다.
+E, além disso, que tal entendimento e uso dessa flexibilidade perceptiva resolveriam grande parte da crise atual que enfrenta a humanidade, porque nossa perspectiva perceptiva é ALTAMENTE limitada.
 
 이수 아콘테시 포르키 우 베르다데이루 프로블레마 파라 노스, 코무 이스페시, 헤지지 누 파투 지 이스타르무스 카미냔두 파라 우마 그란지 무단사 아포칼리프치카, 이 키 에사 무단사, 포르 카우자 다 하피데스 데사 무단사, 키 에 인탕 임플리카다 펠루 테르무 아포칼리프치쿠, 콘치누아라 아 카우자르 무이투 소프리멘투 우마누, 이 이스판지라 타우 소프리멘투 파라 아레아스 키 아테 인탕 이스치베랑 이젠타스 다 하피다 이 마시바 무단사 키 아고라 오코히 나 마이오르 파르치 두 문두. 잉 오트라스 팔라브라스, 아스 크리지스 글로바이스 아투아이스 아우멘타랑 이 시 모베랑 파라 아레아스 카다 베스 마이스 이스타베이스.
+Isso acontece porque o verdadeiro problema para nós, como espécie, reside no fato de estarmos caminhando para uma grande mudança apocalíptica, e que essa mudança, por causa da rapidez dessa mudança, que é então implicada pelo termo apocalíptico, continuará a causar muito sofrimento humano, e expandirá tal sofrimento para áreas que até então estiveram isentas da rápida e massiva mudança que agora ocorre na maior parte do mundo. Em outras palavras, as crises globais atuais aumentarão e se moverão para áreas cada vez mais estáveis.
 
 마스 에사 루타 콘트라 아스 마레스 빈도라스 낭 에 우마 루타 피지카, 낭 에 넹 메즈무 우마 루타 암비엔타우. 우 키 에사 루타 에 지 파투, 케르 아우궁스 페르세방 오 낭, 에 우마 루타 도그마치카 마시바 지 세르타 포르마, 에 우마 루타 엔트리 앙굴루스 페르세프치부스, 오 세자, 폰투스 지 헤알리다지 페르세프치바, 앙굴루스... 에 우마 게하 프시키카!
+Mas essa luta contra as marés vindouras não é uma luta física, não é nem mesmo uma luta ambiental. O que essa luta é de fato, quer alguns percebam ou não, é uma luta dogmática massiva de certa forma, é uma luta entre ângulos perceptivos, ou seja, pontos de realidade perceptiva, ângulos... é uma Guerra Psíquica!
 
 마스 에사 바탈랴 페르세프치바, 에시 데자코르두 아포칼리프치쿠 누스 폰투스 지 비스타, 텡 시두 이 콘치누아라 아 세르 세케스트라다 포르 웅 포데르 이스테르누 키 콜로카 우마누 콘트라 우마누, 크리안두 바탈랴스 엔트리 이스트레무스 지 이스투피데스, 잉 베스 다 미스투라 이킬리브라다 지 폰투스 이스타베이스 이 로지카멘치 프레시주스 지 오르뎅 이 콘텐다 키 상 데스치나두스 아 모베르 아 하사 파라 아 프렌치 지 포르마 포지치바 아우 롱구 두 템푸.
+Mas essa batalha perceptiva, esse desacordo apocalíptico nos pontos de vista, tem sido e continuará a ser sequestrada por um poder externo que coloca humano contra humano, criando batalhas entre extremos de estupidez, em vez da mistura equilibrada de pontos estáveis e logicamente precisos de ordem e contenda que são destinados a mover a raça para a frente de forma positiva ao longo do tempo.
 
 낭 시 잉가니, 에스타 게하 아투아우, 이 지 파투 에 우마 게하, 에 우마 게하 키 에 헤아우멘치 트라바다 누스 헤이누스 인테르누스, 나 콘시엔시아 콜레치바 이 수브제치바 지 토두스 우스 세리스 우마누스 누 플라네타. 이 에 아키 키 데베무스 인프렌타-라 이 루타르, 낭 아페나스 펠루 문두, 마스 펠라 노사 프로프리아 사우바상 인지비두아우.
+Não se engane, esta guerra atual, e de fato é uma guerra, é uma guerra que é realmente travada nos reinos internos, na consciência coletiva e subjetiva de todos os seres humanos no planeta. E é aqui que devemos enfrentá-la e lutar, não apenas pelo mundo, mas pela nossa própria salvação individual.
 
 나스 팔라브라스 이모르타이스 두 블루이 오이스테르 쿠우트:
+Nas palavras imortais do Blue Oyster Cult:
 
 **보세 이스타 벤두 아고라 웅 베테라누 지 미우 게하스 프시키카스,**
+**Você está vendo agora um veterano de mil guerras psíquicas,**
 
 **비비 탄투 템푸 아 베이라, 온지 우스 벤투스 두 림부 후젱.**
+**Vivi tanto tempo à beira, onde os ventos do limbo rugem.**
 
 **이 소 조벵 우 수피시엔치 파라 올랴르, 이 벨류 데마이스 파라 베르,**
+**E sou jovem o suficiente para olhar, e velho demais para ver,**
 
 **토다스 아스 시카트리지스 이스탕 포르 덴트루.**
+**todas as cicatrizes estão por dentro.**
 
 **낭 테뉴 세르테자 시 소브로 아우구 지 밍.**
+**Não tenho certeza se sobrou algo de mim.**
 
+---
 ---
 
 쿠아우케르 페소아 키 리 지가 키 우 파라노르마우 낭 이지스치 에 아우겡 콤플레타멘치 알례이우 아 쿠앙 포쿠 두 문두 엘리스 벵, 오벵, 셰이랑, 사보레이앙 이 센텡 엘리스 심플레즈멘치 낭 콘세겡 콘세이투아르 우 잉크리베우 리미치 다 페르세프상 피지카.
+Qualquer pessoa que lhe diga que o paranormal não existe é alguém completamente alheio a quão pouco do mundo eles veem, ouvem, cheiram, saboreiam e sentem; eles simplesmente não conseguem conceituar o incrível limite da percepção física.
 
 쿠아우케르 페소아 키 리 지가 키 오브니스, 페 그란지, 판타즈마스, 아빌리다지스 프시키카스, 이트크. 낭 포뎅 세르 헤아이스, 잉가노-시 아우 아크레지타르 키 우 데스코녜시두 에 콤포스투 아페나스 포르 지페렌치스 콤비나송이스 다스 파르치스 인피니테지마이스 두 문두 키 코녜셍!
+Qualquer pessoa que lhe diga que OVNIs, Pé Grande, fantasmas, habilidades psíquicas, etc. não podem ser reais, enganou-se ao acreditar que o desconhecido é composto apenas por diferentes combinações das partes infinitesimais do mundo que conhecem!
 
+---
 ---
 
 보세 포지 파제르 프라치카멘치 쿠아우케르 코이자 네스치 문두 키 키제르, 콘탄투 키 콘시가 포카르 수아 아텐상 템푸 수피시엔치 나켈리 우니쿠 헤주우타두.
+Você pode fazer praticamente qualquer coisa neste mundo que quiser, contanto que consiga focar sua atenção tempo suficiente naquele único resultado.
 
 아스 테크니카스 키 지스쿠투 잉 메우스 리브루스 이 잉 아우궁스 지 메우스 아르치구스 상 토다스 포시베이스, 데즈지 키 보세 이스테자 지스포스투 아 데지카르 우 템푸 이 우 이스포르수 펠루 키 케루 지제르 우 포쿠 프롤롱가두 다 아텐상.
+As técnicas que discuto em meus livros e em alguns de meus artigos são todas possíveis, desde que você esteja disposto a dedicar o tempo e o esforço; pelo que quero dizer o foco prolongado da atenção.
 
 싱, 에 포시베우 키 파라 아우구마스 페소아스 에사스 테크니카스 데모렝 마이스 파라 세렝 도미나다스 두 키 파라 오트라스, 이수 에 웅 파투. 탐벵 아 오트루스 키 시 데파라랑 콩 크렌사스 아우 포카르 수아 아텐상, 코무 아 크렌사 지 키 토다스 에사스 아빌리다지스 상 이세송이스 나 포풀라상 우마나, 키 상 지피세이스 이 키 상 파라 포쿠스. 이 지안치 데사스 크렌사스 네가치바스 오 콘트라리아스, 무이투스 데지스치랑.
+Sim, é possível que para algumas pessoas essas técnicas demorem mais para serem dominadas do que para outras, isso é um fato. Também há outros que se depararão com crenças ao focar sua atenção, como a crença de que todas essas habilidades são exceções na população humana, que são difíceis e que são para poucos. E diante dessas crenças negativas ou contrárias, muitos desistirão.
 
 마스 아우궁스 콘치누아랑 이 인프렌타랑 에사스 크렌사스, 무다랑, 이 콘치누아랑 콩 세우 포쿠 누 키 케렝. 에사 에 아 우니카 지페렌사 엔트리 아켈리스 키 헤알리장 아우구 이 아켈리스 키 이스탕 아페나스 지스포스투스 아 아크레지타르 누 키 우 문두 잉 제라우 이스타 리스 지젠두, 잉 베스 두 키 엘리스 헤아우멘치 포뎅 파제르.
+Mas alguns continuarão e enfrentarão essas crenças, mudarão, e continuarão com seu foco no que querem. Essa é a única diferença entre aqueles que realizam algo e aqueles que estão apenas dispostos a acreditar no que o mundo em geral está lhes dizendo, em vez do que eles realmente podem fazer.
 
+---
 ---
 
 노수스 센치두스 이스탕 누스 잉가난두.
+Nossos sentidos estão nos enganando.
 
 노수스 센치두스 낭 상 마우스 에 아페나스 키 포이 데시지두 아 아우궁 템푸 키 아스 코이자스 푼시오나방 무이투 멜료르 우잔두 우 폰투 지 비스타 코그니치부 아고라 임프레가두 펠라 마이오리아 다 우마니다지.
+Nossos sentidos não são maus; é apenas que foi decidido há algum tempo que as coisas funcionavam muito melhor usando o ponto de vista cognitivo agora empregado pela maioria da humanidade.
 
 에시 폰투 지 비스타 코그니치부 포지 세르 샤마두 지 하시오날리다지 오 하조아빌리다지.
+Esse ponto de vista cognitivo pode ser chamado de racionalidade ou razoabilidade.
 
 마스 포데무스 헤두카르 노수스 센치두스, 데젠보우베르 노부스 센치두스 이, 데사 포르마, 아세사르 지페렌치스 폰투스 지 비스타 코그니치부스.
+Mas podemos reeducar nossos sentidos, desenvolver novos sentidos e, dessa forma, acessar diferentes pontos de vista cognitivos.
 
 아 아빌리다지 지 파제르 이수 이스판지라 그란데멘치 노사 콘시엔시아 이 누스 헤벨라라 우 파투 지 키 낭 데시지무스 콘시엔테멘치 무이타 코이자 코무 세리스 우마누스 코뭉스, 잉클루인두 노수 폰투 지 비스타 코그니치부 아투아우.
+A habilidade de fazer isso expandirá grandemente nossa consciência e nos revelará o fato de que não decidimos conscientemente muita coisa como seres humanos comuns, incluindo nosso ponto de vista cognitivo atual.
 
 아 케스탕 인탕 시 토르나: 켕 포이 키 데시지우 키 아스 코이자스 푼시오나방 멜료르 우잔두 우 폰투 지 비스타 코그니치부 하시오나우 잉크리베우멘치 리미타두?
+A questão então se torna: quem foi que decidiu que as coisas funcionavam melhor usando o ponto de vista cognitivo racional incrivelmente limitado?
 
+---
 ---
 
 누 모멘투 지 수아 콘세프상, 우스 펜사멘투스 포뎅 세르 콘시데라두스 이마젱스 멘타이스 오 이데이아스. 아 메지다 키 아스 프레켄시아스 시 솔리지피캉, 두 노수 폰투 지 페르세프상, 우스 펜사멘투스 포뎅 세르 콘시데라두스 아우구 코무 이모상 오 이데이아스 제라도라스 지 이모상. 아 메지다 키 아 프레켄시아 두 펜사멘투 시 아프로시마 두 키 콘시데라리아무스 헤알리다지 피지카, 에시 펜사멘투 포데리아 인탕 세르 샤마두 지 크렌사. 아스 크렌사스 토르낭-시 베르다지스 이 에사스 베르다지스 로구 시 토르낭 파투스. 잉 포쿠 템푸, 이 소브 콘지송이스 파보라베이스, 우스 펜사멘투스 시 토르낭 오브제투스 오 이벤투스 누 키 샤마무스 지 헤알리다지 피지카.
+No momento de sua concepção, os pensamentos podem ser considerados imagens mentais ou ideias. À medida que as frequências se solidificam, do nosso ponto de percepção, os pensamentos podem ser considerados algo como emoção ou ideias geradoras de emoção. À medida que a frequência do pensamento se aproxima do que consideraríamos realidade física, esse pensamento poderia então ser chamado de crença. As crenças tornam-se verdades e essas verdades logo se tornam fatos. Em pouco tempo, e sob condições favoráveis, os pensamentos se tornam objetos ou eventos no que chamamos de realidade física.
 
 웅 오치무 이젬플루 지 코무 투두 이수 푼시오나 포지 세르 오브세르바두 쿠안두 이스투다무스 아스 포르마스 지 펜사멘투. 코무 보세 자 데비 사베르, 아스 포르마스 지 펜사멘투 상 펜사멘투스 피지카멘치 인텐수스, 오 세자, 펜사멘투스 아우스 쿠아이스 포이 다다 우마 그란지 쿠안치다지 지 아텐상 오 이네르지아 이모시오나우. 아스 포르마스 지 펜사멘투 탐벵 포뎅 세르 우마 콩글로메라두 지 무이투스 펜사멘투스 키 시 우넹 포르키 콤파르칠량 인텐송이스 오 이데이아스/인포르마송이스 세멜랸치스. 헤우니두스 아트라베스 다스 프로프리에다지스 일레트로마그네치카스 이네렌치스 지 토두스 우스 펜사멘투스, 세멜랸치 아트라이 세멜랸치 아테 키 웅 그란지 콩글로메라두 지 펜사멘투스 콘시가 시 우니르 이 인트렐라사르 파라 크리아르 우마 우니다지 마이스 포르치 키 크레시 잉 콤플레시다지 이 포데르 프시키쿠. 쿠안투 마이스 포데로자 아 포르마 지 펜사멘투 시 토르나, 마이스 파시우 에 파라 엘라 아페타르 아 헤알리다지 피지카 오브제치바.
+Um ótimo exemplo de como tudo isso funciona pode ser observado quando estudamos as formas de pensamento. Como você já deve saber, as formas de pensamento são pensamentos fisicamente intensos, ou seja, pensamentos aos quais foi dada uma grande quantidade de atenção ou energia emocional. As formas de pensamento também podem ser uma conglomerado de muitos pensamentos que se unem porque compartilham intenções ou ideias/informações semelhantes. Reunidos através das propriedades eletromagnéticas inerentes de todos os pensamentos, semelhante atrai semelhante até que um grande conglomerado de pensamentos consiga se unir e entrelaçar para criar uma unidade mais forte que cresce em complexidade e poder psíquico. Quanto mais poderosa a forma de pensamento se torna, mais fácil é para ela afetar a realidade física objetiva.
 
+---
 ---
 
 파레시 아베르 우마 포르치 헬라상 엔트리 아스 이마젱스 콜로리다스 지라토리아스 비스타스 잉 이스플로라상 인테르나 프로푼다 (잉 이스타두스 이프나고지쿠스, 트란시 프로푼두 이 소뉴스 루시두스) 이 아스 이스트루투라스 아토미카스 키 콤퐁잉 우 마니페스투.
+Parece haver uma forte relação entre as imagens coloridas giratórias vistas em exploração interna profunda (em estados hipnagógicos, transe profundo e sonhos lúcidos) e as estruturas atômicas que compõem o manifesto.
 
 에 우 카주 지 키 에시스 파드롱이스 텐뎅 아 세기르 웅 모비멘투 지라토리우 제라우 키 렘브라 아스 이스피라이스 잉콘트라다스 나 나투레자, 코무 콘샤스, 갈라시아스, 아구아 잉 이스피라우, 이트크.
+É o caso de que esses padrões tendem a seguir um movimento giratório geral que lembra as espirais encontradas na natureza, como conchas, galáxias, água em espiral, etc.
 
 지 파투, 파레시 아베르 우마 헬라상 지레타 엔트리 우 모비멘투 이네르제치쿠 콜로리두, 비스투 네스치 이스타두 지 콘시엔시아 리미아르 메이우 아도르메시두, 이 우스 누메루스 지 피보나시, 키 상 우마 세켄시아 지 인테이루스 키 포르망 우마 오르뎅 제오메트리카멘치 이스타베우, 키 포지 세르 잉콘트라다 잉 토두 우 문두 나투라우.
+De fato, parece haver uma relação direta entre o movimento energético colorido, visto neste estado de consciência limiar meio adormecido, e os números de Fibonacci, que são uma sequência de inteiros que formam uma ordem geometricamente estável, que pode ser encontrada em todo o mundo natural.
 
 알렝 지수, 에시 치푸 지 이스플로라상 누스 파드롱이스 지라토리우스 이 무이타스 베지스 바스탄치 제오메트리카멘치 이스타베이스, 시 페이투 지 마네이라 콘시스텐치 이 소브리아, 코메사라 아 포르네세르 피스타스 소브리 아스 이스트루투라스 수브자센치스 두 문두, 다 멘치 이 두스 블로쿠스 지 콘스트루상 낭 아페나스 두 우니베르수 피지쿠, 마스 두 프로프리우 펜사멘투.
+Além disso, esse tipo de exploração nos padrões giratórios e muitas vezes bastante geometricamente estáveis, se feito de maneira consistente e sóbria, começará a fornecer pistas sobre as estruturas subjacentes do mundo, da mente e dos blocos de construção não apenas do universo físico, mas do próprio pensamento.
 
 세자 우 키 에사스 제오메트리아스 이 파드롱이스 콜로리두스 포상 헤프레젠타르 파라 우 페르세베도르 인지비두아우 잉 쿠아우케르 모멘투, 에시 칼레이도스코피우 비비두 코메사 아 이눈다르 아 멘치 아 메지다 키 시 비아자 마이스 이 마이스 프로푼다멘치 파라 우 키 이우 페소아우멘치 고스투 지 미 헤페리르 코무 이스파수 인테리오르.
+Seja o que essas geometrias e padrões coloridos possam representar para o percebedor individual em qualquer momento, esse caleidoscópio vívido começa a inundar a mente à medida que se viaja mais e mais profundamente para o que eu pessoalmente gosto de me referir como ESPAÇO INTERIOR.
 
 에 심플레즈멘치 우 카주, 포르탄투, 키 모베르-시 파라 덴트루 에 아 폰치 지 토두 우 베르다데이루 코녜시멘투 이 우 '메토두 오페라시오나우' 펠루 쿠아우 아스 시빌리자송이스 안치가스 이 토다스 아스 카자스 이 오르뎅스 일루미나다스 두 파사두 콘세기랑 데스코브리르 코이자스 잉크리베이스 키 아테 오지 상 데스코녜시다스 펠라 시엔시아 모데르나.
+É simplesmente o caso, portanto, que mover-se para dentro é a fonte de todo o verdadeiro conhecimento e o 'método operacional' pelo qual as civilizações antigas e todas as casas e ordens iluminadas do passado conseguiram descobrir coisas incríveis que até hoje são desconhecidas pela ciência moderna.
 
 이 아 메지다 키 보세 바이 마이스 이 마이스 푼두, 에사스 이마젱스 시 콤비낭 파라 프로두지르 센사송이스 이 송스 지 우마 히케자 탕 인텐사 키 시 토르나 지피시우, 타우베스 임포시베우, 데스크레베-루스 지 포르마 헤알리스타 우잔두 메라스 팔라브라스. 쿠안투 마이스 푼두 시 바이, 마이스 인텐사스 에사스 프로그레송이스 지 루스, 센치멘투 이 송 시 토르낭, 아테 키 타이스 파드롱이스 지라토리우스 레벵 우마 콘시엔시아 비아잔치 아 아레아스 잉크리베우멘치 지스탄치스 포라 두 이스파수 지멘시오나우 코무멘치 아세시베우 아 페소아 메지아. 상 에시스 모비멘투스 아트라베스 데사 인텐시다지 지 페르세프상 키 이랑 이 헤벨라랑 우스 그란지스 세그레두스 콘치두스 네스치 문두 이 누스 무이투스 오트루스 키 상 아세시베이스 아 노스, 세리스 우마누스.
+E à medida que você vai mais e mais fundo, essas imagens se combinam para produzir sensações e sons de uma riqueza tão intensa que se torna difícil, talvez impossível, descrevê-los de forma realista usando meras palavras. Quanto mais fundo se vai, mais intensas essas progressões de luz, sentimento e som se tornam, até que tais padrões giratórios levem uma consciência viajante a áreas incrivelmente distantes fora do espaço dimensional comumente acessível à pessoa média. São esses movimentos através dessa intensidade de percepção que irão e revelaram os grandes segredos contidos neste mundo e nos muitos outros que são acessíveis a nós, seres humanos.
 
 아스 베지스, 미 인트레구 아우 펜사멘투 지 키 타우베스 웅 지아 아 우마니다지 모데르나 포사 코메사르 아 이스투다르 에사스 파이자젱스 인테르나스, 다 마네이라 코무 포랑 이스플로라다스 누 파사두, 지 포르마 오르가니자다 이 로지카. 이우 미 인트레구 아 포시빌리다지 지 우마 노바 시엔시아, 바제아다 잉 메토두스 안치구스, 우마 노바 지시플리나 문지아우 키, 아트라베스 두 우주 지 프린시피우스 시엔치피쿠스 히고로주스, 코메시 아 이스투다르 에스치 문두 인테리오르 콩 아 메즈마 인텐시다지 콩 키 아우궁스 시엔치스타스 아고라 이스플로랑 우 이스파수 이스테리오르.
+Às vezes, me entrego ao pensamento de que talvez um dia a humanidade moderna possa começar a estudar essas paisagens internas, da maneira como foram exploradas no passado, de forma organizada e lógica. Eu me entrego à possibilidade de uma nova ciência, baseada em métodos antigos, uma nova disciplina mundial que, através do uso de princípios científicos rigorosos, comece a estudar este mundo interior com a mesma intensidade com que alguns cientistas agora exploram o espaço exterior.
 
+---
 ---
 
 쿠아우 에 아 지페렌사 엔트리 웅 아우키미스타 인테리오르 이 웅 프로제치스타?
+Qual é a diferença entre um alquimista interior e um projetista?
 
 웅 아우키미스타 에 우마 페소아 키 이스타 인보우비다 잉 우마 루타 펠라 이모르탈리다지. 코무 헤주우타두 데사 바탈랴 임플라카베우 콩 아 모르치, 엘리스 데젠보우베랑 이 헤피나랑 무이투 바리아스 아빌리다지스 지페렌치스. 아 마이스 코녜시다 데사스 테크니카스 키 엘리스 임프레강 에 아 카파시다지 지 페르세베르 이 트라발랴르 지레타멘치 콩 아 이네르지아, 심볼리카멘치 헤프레젠타다 코무 아 트란즈무타상 지 메타이스 바지 잉 오루 이 아 크리아상 지 아우구 샤마두 페드라 필로조파우.
+Um alquimista é uma pessoa que está envolvida em uma luta pela imortalidade. Como resultado dessa batalha implacável com a morte, eles desenvolveram e refinaram muito várias habilidades diferentes. A mais conhecida dessas técnicas que eles empregam é a capacidade de perceber e trabalhar diretamente com a energia, simbolicamente representada como a transmutação de metais base em ouro e a criação de algo chamado pedra filosofal.
 
 오트라 아빌리다지 데젠보우비다 펠루스 아우키미스타스 잉 수아 바탈랴 파라 데자피아르 아 모르치, 탕 임포르탄치 쿠안투 트라발랴르 콩 이네르지아 이 크리아르 아 페드라 필로조파우, 에 아 카파시다지 지 이르 알렝 다스 파레지스 키 만텡 우마 페소아 프레자 누 문두 피지쿠 트리지멘시오나우.
+Outra habilidade desenvolvida pelos alquimistas em sua batalha para desafiar a morte, tão importante quanto trabalhar com energia e criar a pedra filosofal, é a capacidade de ir além das paredes que mantêm uma pessoa presa no mundo físico tridimensional.
 
 에스타 아빌리다지 에 샤마다 지 우 카미뉴 두 프로제치스타, 이 아 마이오리아 다스 페소아스 낭 이니시아다스 아 인텐데라 멜료르 펠루스 테르무스 코무 소뉴 루시두, 비아젱 아스트라우 오 이스페리엔시아스 포라 두 코르푸.
+Esta habilidade é chamada de o caminho do projetista, e a maioria das pessoas não iniciadas a entenderá melhor pelos termos como sonho lúcido, viagem astral ou experiências fora do corpo.
 
 웅 아우키미스타, 파라 세르 벵-수세지두 잉 수아 루타, 프레시자 시 토르나르 웅 프로제치스타 메스트리. 마스 아우궁스 키 포데리앙 세르 샤마두스 지 프로제치스타스, 포르키 포뎅 콘시스텐테멘치 이 콘시엔테멘치 테르 소뉴스 루시두스 오 이스페리엔시아스 포라 두 코르푸, 넹 셈프리 상 아우키미스타스.
+Um alquimista, para ser bem-sucedido em sua luta, precisa se tornar um projetista MESTRE. Mas alguns que poderiam ser chamados de projetistas, porque podem consistentemente e conscientemente ter sonhos lúcidos ou experiências fora do corpo, nem sempre são alquimistas.
 
 우 카미뉴 두 프로제치스타, 인탕, 에 우마 아빌리다지, 우마 프로피시엔시아 무이투 임포르탄치, 다 아우키미아 인테리오르.
+O caminho do projetista, então, é uma habilidade, uma proficiência muito importante, da alquimia interior.
 
+---
 ---
 
 아 이모르탈리다지 에 우마 코이자 무이투 지피시우 지 데피니르, 포르키 아 멘치 콘시엔치 아샤 쿠아지 임포시베우 콘템플라르 웅 문두 셍 웅 코메수 이 웅 핑. 이 아인다 아싱 보세 에 이모르타우 아고라, 포르키 토다 아 우마니다지 이스타 아고라 데스치나다 아 헤페치르 아 비다 키 이스타 비벤두 아고라, 헤페치다멘치, 파라 셈프리. 네시 센치두, 인탕, 보세 이스타 탕 모르투 아고라 쿠안투 셈프리 이스타라, 이 우 코르푸 키 보세 센치 세르 탕 피지쿠 낭 에 우 키 보세 펜사 키 에.
+A imortalidade é uma coisa muito difícil de definir, porque a mente consciente acha quase impossível contemplar um mundo sem um começo e um fim. E ainda assim você é imortal agora, porque toda a humanidade está agora destinada a repetir a vida que está vivendo agora, repetidamente, para sempre. Nesse sentido, então, você está tão morto agora quanto sempre estará, e o corpo que você sente ser tão físico não é o que você pensa que é.
 
 미냐 부스카, 이 우 키 이스크레부, 에 아 부스카 두 아우키미스타 인테리오르. 에 우마 조르나다 잉 지레상 아 이볼루상 페소아우 이 아 베르다데이라 리베르다지. 에사 에 우마 리베르다지 두 시클루 인테르미나베우 지 비다 이 모르치. 트라타-시 지 잉콘트라르 웅 치푸 지페렌치 지 이모르탈리다지 알렝 다 헤코헨시아 이테르나. 에 아 카파시다지 지 크레세르 이 시 모베르 알렝 데스치 헤데모이뉴 누 마르 이스쿠루 잉 키 아투아우멘치 이스타무스 프레주스 코무 이스페시.
+Minha busca, e o que escrevo, é a busca do alquimista interior. É uma jornada em direção à evolução pessoal e à VERDADEIRA LIBERDADE. Essa é uma liberdade do ciclo interminável de vida e morte. Trata-se de encontrar um tipo diferente de imortalidade além da Recorrência Eterna. É a capacidade de crescer e se mover além deste redemoinho no Mar Escuro em que atualmente estamos presos como espécie.
 
 우마 베스 키 보세 이스타 탕 모르투 쿠안투 셈프리 이스타라 이 낭 아 닝겡 코무 보세 펜사 키 이지스치, 포르탄투, 낭 아 코르푸 파라 사우바르. 아 아페나스 아 케브라 다스 가이올라스!
+Uma vez que você está tão morto quanto sempre estará e não há ninguém como você pensa que existe, portanto, não há corpo para salvar. Há apenas a quebra das gaiolas!
 
+---
 ---
 
 아 멜료르 마네이라 지 아코르다르 잉 세우스 소뉴스 에 눙카 아도르메세르.
+A melhor maneira de acordar em seus sonhos é nunca adormecer.
 
+---
 ---
 
 코무 아 콘시엔시아 베이우 아 이지스치르?
+Como a consciência veio a existir?
 
 에스타 케스탕 낭 에 탕 콤플레샤 쿠안투 시 포지 이마지나르, 시 아우겡 페르세비 키 투두 에 콘시엔치 지 우마 페소아 아 웅 아니마우, 아 우마 세노라, 아 우마 페드라 오 아테 메즈무 우마 카데이라.
+Esta questão não é tão complexa quanto se pode imaginar, se alguém percebe que tudo é consciente; de uma pessoa a um animal, a uma cenoura, a uma pedra ou até mesmo uma cadeira.
 
 아 케스탕 인탕 심플레즈멘치 시 토르나, 코무 아 콘시엔시아 두 에구 (이스투 에, 아 콘시엔시아 우마나... 우 이우 콘시엔치) 수르지우? 잉 오트라스 팔라브라스, 코무 우 이제쿠토르 세파로-시 다 아상?
+A questão então simplesmente se torna, como a consciência do ego (isto é, a consciência humana... o eu consciente) surgiu? Em outras palavras, como o executor separou-se da ação?
 
 아 헤스포스타 에 키 아 우마니다지 우 프레텐지아. 케리아 코녜세르-시, 케리아 코녜세르 아 인지비두알리다지.
+A resposta é que a humanidade o pretendia. Queria conhecer-se, queria conhecer a individualidade.
 
 이 잉 웅 폰투 누 템푸, 키 에 두 노수 폰투 지 비스타 우 파사두, 우 문두 잉 제라우 헤스폰데우 아우스 데제주스 다 우마니다지, 이 다스 프로푼데자스 두 마르 이스쿠루, 아 우마니다지 포이 아벤소아다 콩 우 프레젠치 두 그란지 아르콘치, 키 타우베스 세자 우 마이오르 이젬플루 지 "쿠이다두 콩 우 키 보세 데제자".
+E em um ponto no tempo, que é do nosso ponto de vista o passado, o mundo em geral respondeu aos desejos da humanidade, e das profundezas do Mar Escuro, a humanidade foi abençoada com o presente do grande Arconte, que talvez seja o maior exemplo de "cuidado com o que você deseja".
 
 아고라 아 우마니다지, 코무 웅 콜레치부 지 세리스 인지비두아이스, 데비 인텐타르 노바멘치. 데스타 베스, 데비 포카르 에사 인텐상 나 베르다데이라 리베르다지 잉 홈페르 우 도미니우 키 에시 이우 하조아베우 이 모치바두 포르 메메스 임퐁이 소브리 엘라. 이수 낭 시그니피카 키 엘라 테냐 키 보우타르 아 세르 우 이제쿠토르 잉콘시엔치 노바멘치, 시그니피카 키 엘라 데비 페가르 에사 인지비두알리다지 펠라 쿠아우 루토 탄투 파라 아우칸사르 이 데비 보아르 리브레멘치 콩 엘라, 파라 아 그란지 인피니투지 라 포라!
+Agora a humanidade, como um coletivo de seres individuais, deve intentar novamente. Desta vez, deve focar essa intenção na verdadeira liberdade; em romper o domínio que esse eu razoável e motivado por memes impõe sobre ela. Isso não significa que ela tenha que voltar a ser o executor inconsciente novamente, significa que ela deve pegar essa individualidade pela qual lutou tanto para alcançar e deve voar livremente com ela, para a grande infinitude Lá Fora!
 
+---
 ---
 
 푸이 솔리시타두 아 데피니르 우 키 샤무 지 이네르지아, 센두 키 무이타스 베지스 팔루 소브리 이네르지아 이모시오나우, 이네르지아 지 아텐상 이 아싱 포르 지안치.
+Fui solicitado a definir o que chamo de energia, sendo que muitas vezes falo sobre energia emocional, energia de atenção e assim por diante.
 
 에스타 데피니상 아플리카-시 아페나스 아우 메우 트라발류 이 낭 데비 세르 아플리카다 아우 키 오트라스 페소아스 포상 이스타르 이스크레벤두 소브리 토피쿠스 세멜랸치스 아우스 메우스, 자 키 쿠아우케르 아피르마상 제라우 지 미냐 파르치 소브리 우 키 이스탕 텐탄두 이스프레사르, 세리아 우마 수포지상 이, 포르탄투, 프로바베우멘치 잉코헤타.
+Esta definição aplica-se apenas ao meu trabalho e não deve ser aplicada ao que outras pessoas possam estar escrevendo sobre tópicos semelhantes aos meus, já que qualquer afirmação geral de minha parte sobre o que estão tentando expressar, seria uma suposição e, portanto, provavelmente incorreta.
 
 알렝 지수, 포르 파보르, 노치 키 쿠아우케르 지피쿠우다지 잉 데스크레베르 이네르지아 오 쿠아우케르 오트라 코이자 키 이우 포사 페르세베르, 수르지 두 파투 지 키 이스토 텐탄두 우자르 우마 링구아젱 프로제타다 파라 아 헤알리다지 오브제치바, 파라 텐타르 데피니르 아우구 키 나 마이오리아 다스 베지스 이스타 무이투 알렝 다 이지스텐시아 트리지멘시오나우 이 다 메카니카 클라시카... 아우구 코무 텐타르 메지르 웅 소뉴, 웅 펜사멘투 오 아테 메즈무 우마 이모상 포르치.
+Além disso, por favor, note que qualquer dificuldade em descrever energia ou qualquer outra coisa que eu possa perceber, surge do fato de que estou tentando usar uma linguagem projetada para a realidade objetiva, para tentar definir algo que na maioria das vezes está muito além da existência tridimensional e da mecânica clássica... algo como tentar medir um sonho, um pensamento ou até mesmo uma emoção forte.
 
 보세 포데리아 텐타르, 타우베스 콘세기르 아 수아 사치스파상 페소아우 잉 데스크레베르 우마 이스페리엔시아 탕 수브제치바, 코무 시 헬라시오나 콩 우스 센치두스 피지카멘치 리가두스 키 아고라 오페라무스, 마스 우 키 보세 헤아우멘치 페스 포이 리미타르 이, 포르탄투, 헤스트린지르 무이투 웅 이벤투 이스폰타네우, 키 낭 에 리미타두 펠루 이스파수 이 템푸 트리지멘시오나이스. 타우 인시스텐시아 잉 우마 소마 메지다, 포르탄투, 포지 시 토르나르 웅 오브스타쿨루 파라 우마 마이오르 페르세프상 이 아빌리다지, 이 낭 웅 트룬푸, 아 메누스 키, 클라루, 보세 낭 이스테자 누 모멘투 프론투 파라 아크레지타르 잉 아우구 알렝 두 프레젠치 오브제치부, 포르키 아우 텐타르 리미타르 아우구 아우 고베르나-루, 메지-루, 우잔두 헤그라스 파라 메지르, 보세 심플레즈멘치 이스타 지젠두 키 "에스치 에 우 메우 문두, 메우 쿠부... 이 시 수아스 코이자스 낭 푸데렝 세르 고베르나다스 아키, 인탕 낭 상 헤아이스, 보세 지스, 이 낭 이스토 지스포스투 아 올랴-라스 오 펜사르 소브리 엘라스 지 쿠아우케르 마네이라 아브스트라타". 이 에스치 에 우 세우 지레이투, 인탕 셍 프레오쿠파송이스, 토두스 노스 테무스 키 데시지르 우 콘테우두 두 노수 쿠부 페소아우.
+Você poderia tentar, talvez conseguir a sua satisfação pessoal em descrever uma experiência tão subjetiva, como se relaciona com os sentidos fisicamente ligados que agora operamos, mas o que você realmente fez foi limitar e, portanto, restringir muito um evento espontâneo, que não é limitado pelo espaço e tempo tridimensionais. Tal insistência em uma soma medida, portanto, pode se tornar um obstáculo para uma maior percepção e habilidade, e não um trunfo, a menos que, claro, você não esteja no momento pronto para acreditar em algo além do presente objetivo, porque ao tentar limitar algo ao governá-lo, medi-lo, usando regras para medir, você simplesmente está dizendo que "este é o meu mundo, meu cubo... e se suas coisas não puderem ser governadas aqui, então não são reais, você diz, e não estou disposto a olhá-las ou pensar sobre elas de qualquer maneira abstrata". E este é o seu direito, então sem preocupações, todos nós temos que decidir o conteúdo do nosso cubo pessoal.
 
 에 콤프렌시베우 키 무이투스 지 노스 고스타리아무스 지 데피니송이스 클라라스 이 오브제치바스, 키 데벵 셈프리 인보우베르 데마르카송이스 벵 데피니다스 이 메지다스, 이 아코르다다스 (오 세자, 산시오나다스) 펠라 마이오리아 도미난치. 마스 타이스 데마르카송이스, 포르 마이스 코즈모폴리타스 키 세장, 이지젱 리미타송이스 키 데벵 이스타르 빙쿨라다스 아우 아우칸시 페르세프투아우 두스 센치두스 피지쿠스, 오 아우스 인스트루멘투스 지 메지상 우자두스 펠라 클라시 "도미난치" (누 센치두 지 메지르) 아투아우. 이 타이스 인스트루멘투스 이 데마르카송이스 페르세프투아이스 상, 클라루, 바제아두스 잉 크렌사스 두 그루푸 도미난치, 키 포뎅 테르 이데이아스 무이투 인시스텐치스 소브리 우 키 에 이 우 키 낭 에 사니다지 이 헤알리다지.
+É compreensível que muitos de nós gostaríamos de definições claras e objetivas, que devem sempre envolver demarcações bem definidas e medidas, e acordadas (ou seja, sancionadas) pela maioria dominante. Mas tais demarcações, por mais cosmopolitas que sejam, exigem limitações que devem estar vinculadas ao alcance perceptual dos sentidos físicos, ou aos instrumentos de medição usados pela classe "dominante" (no sentido de medir) atual. E tais instrumentos e demarcações perceptuais são, claro, baseados em crenças do grupo dominante, que podem ter ideias muito insistentes sobre o que é e o que não é sanidade e realidade.
 
 마스 아 이네르지아, 포르 이젬플루, 지 아코르두 콩 아스 크렌사스 지 아우구마스 페소아스 (잉클루지비 아스 미냐스), 낭 이스타 빙쿨라다 아 타이스 메지송이스 오 데마르카송이스 이스트리타스, 포르키 노수스 센치두스 피지쿠스 이 우스 인스트루멘투스 키 데젠보우베무스 파라 메지르 쿠아우케르 치푸 지 이네르지아 아테 아고라, 낭 포뎅 메지르 아 암플리투지 토타우 지 아상, 우마 베스 키, 지 아코르두 콩 아스 크렌사스 지 아우구마스 페소아스 이 아스 미냐스, 토다 이네르지아 잉 쿠아우케르 포르마, 이스타 알렝 두 이스파수 이 두 템푸 트리지멘시오나이스.
+Mas a energia, por exemplo, de acordo com as crenças de algumas pessoas (inclusive as minhas), não está vinculada a tais medições ou demarcações estritas, porque nossos sentidos físicos e os instrumentos que desenvolvemos para medir qualquer tipo de energia até agora, não podem medir a amplitude total de ação, uma vez que, de acordo com as crenças de algumas pessoas e as minhas, toda energia em qualquer forma, está além do espaço e do tempo tridimensionais.
 
 아고라, 보우탄두 아우 아순투, 데피누 아 이네르지아 (코무 에 우자다 잉 메우스 리브루스, 아르치구스 이 비데우스) 코무 우마 포르사 (우마 푸리아) 키 에 아 폰치 지 토다 아 이지스텐시아. 오트라 마네이라 지 지제르 이수 에 아피르마르 키 데피누 아 이네르지아 코무 아상, 이 토다 아상 텡 수아 오리젱 이 프레젠사 지멘시오나우, 잉 아레아스 키 이스탕 알렝 두 플라누 피지쿠.
+Agora, voltando ao assunto, defino a energia (como é usada em meus livros, artigos e vídeos) como uma força (uma fúria) que é a fonte de toda a existência. Outra maneira de dizer isso é afirmar que defino a energia como ação, e toda ação tem sua origem e presença dimensional, em áreas que estão além do plano físico.
 
 아 아상 에 투두, 투두 에 아상, 포르탄투 아 이네르지아 에 투두 (지 아코르두 콩 우 메우 트라발류 이 미냐스 크렌사스, 키 베리피케이 파라 밍 메즈무, 아트라베스 다스 미냐스 프로프리아스 페르세프송이스 지레타스 이 아지르 인테리오르).
+A ação é tudo, tudo é ação, portanto a energia é tudo (de acordo com o meu trabalho e minhas crenças, que verifiquei para mim mesmo, através das minhas próprias percepções diretas e agir interior).
 
 아 콘시엔시아 에 이네르지아, 이 인탕 우 아투 지 지리지르 에사 콘시엔시아 (키 포지 세르 샤마두 지 포쿠 다 아텐상) 탐벵 에 이네르지아. 알렝 지수, 아 아상 쿠물라치바, 오 세자, 아 아상 키 시 준토 잉 쿠아우케르 아레아, 텡 우 포텐시아우 지 크리아르 제스타우트스 키 아수멩 인텐시다지스 이 프레켄시아스 바리아다스 키 시 트란스포르망 잉 노바스 이스페리엔시아스, 코무 아 이모상, 포르 이젬플루. 이 아 이모상, 포르탄투, 에 우 치푸 지 이네르지아 (오 세자, 웅 치푸 지 아상) 키 아친지우 웅 세르투 리미아르 지 인텐시다지 그라사스 아 웅 아쿠물루. 이 아 마테리아 솔리다 (다 페르스펙치바 센수아우 우마나) 에 아 이네르지아 키 아친지우 웅 리미아르 쿠물라치부 아인다 마이스 덴수 두 키 아 이모상. 카다 우마 데사스 인텐시다지스, 키, 알리아스, 낭 상 봉스 폰투스 지 데마르카상 다 이네르지아, 포르키 아스 무단사스 지 인텐시다지 이 프레켄시아 포뎅 아콘테세르 탕 하피두 키 데자피앙 노사 콤프렌상 두 템푸, 텡 덴트루 델라스 웅 포텐시아우 키 포지 세르 아프로베이타두 파라 아우멘타르 아 페르세프상 이 크리아르 이스트루투라, 키 노바멘치 에 아 아상 아진두 소브리 시 메즈마, 오 시 프레페리르, 이네르지아 이네르지잔두 아 시 메즈마, 트란즈무타상.
+A consciência é energia, e então o ato de dirigir essa consciência (que pode ser chamado de foco da atenção) também é energia. Além disso, a ação cumulativa, ou seja, a ação que se juntou em qualquer área, tem o potencial de criar gestalts que assumem intensidades e frequências variadas que se transformam em novas experiências, como a emoção, por exemplo. E a emoção, portanto, é o tipo de energia (ou seja, um tipo de ação) que atingiu um certo limiar de intensidade graças a um acúmulo. E a matéria sólida (da perspectiva sensual humana) é a energia que atingiu um limiar cumulativo ainda mais denso do que a emoção. Cada uma dessas intensidades, que, aliás, não são bons pontos de demarcação da energia, porque as mudanças de intensidade e frequência podem acontecer tão rápido que desafiam nossa compreensão do tempo, têm dentro delas um potencial que pode ser aproveitado para aumentar a percepção e criar estrutura, que novamente é a ação agindo sobre si mesma, ou se preferir, energia energizando a si mesma, transmutação.
 
 포르탄투, 아 이네르지아 다 아텐상 에 아상. 아 이네르지아 이모시오나우 에 아상, 아 아상 에 투두.
+Portanto, a energia da atenção é ação. A energia emocional é ação, a ação é tudo.
 
 웅 캄푸 지 이네르지아, 인탕, 우잔두 에사 테르미놀로지아, 에 웅 폰투 리미치 키 세파라 도이스 오 마이스 이스타두스 지 이네르지아 (오 세자, 아상) 비브라시오나우 (오 인텐시다지) 시무우타네아멘치 페르세프치베이스. 코무 타우, 웅 캄푸 소 에 페르세프치베우멘치 포시베우 쿠안두 도이스 이스타두스 비브라시오나이스 상 페르세비두스 시무우타네아멘치 포르 웅 인스트루멘투 오 펠루스 센치두스 지스포니베이스 아 인치다지 파르치쿨라르 두란치 아 페르세프상... 오 메지상.
+Um campo de energia, então, usando essa terminologia, é um ponto limite que separa dois ou mais estados de energia (ou seja, ação) vibracional (ou intensidade) simultaneamente perceptíveis. Como tal, um campo só é perceptivelmente possível quando dois estados vibracionais são percebidos simultaneamente por um instrumento ou pelos sentidos disponíveis à entidade particular durante a percepção... ou medição.
 
+---
 ---
 
 아 코헨치 다 아우키미아 인테르나, 아트라베스 지 수아 아빌리다지 지 베르 아 이네르지아 지레타멘치 (파라 페르세베르 알렝 두 베우 다 피지칼리다지 트리지멘시오나우 이 다 일루장 다 노바 이스트루투라 지 크렌사 도미난치 두스 템푸스, 키 에 헤페리다 코무 하시오날리다지 이 '센수 코뭉') 사비, 페르세비, 지 마네이라 지레타, 키 누 센치두 마이스 푼다멘타우, 아 콘텐상 이네르제치카, 키 에 우마 메토돌로지아 카르지나우 다 아우키미아 인테르나, 포지 페르미치르 키 웅 인지비두 시 리베르치 다스 아마하스 두 아르콘치 파라 셈프리.
+A corrente da alquimia interna, através de sua habilidade de ver a energia diretamente (para perceber além do véu da fisicalidade tridimensional e da ilusão da nova estrutura de crença dominante dos tempos, que é referida como racionalidade e 'senso comum') sabe, percebe, de maneira direta, que no sentido mais fundamental, a Contenção Energética, que é uma metodologia cardinal da alquimia interna, pode permitir que um indivíduo se liberte das amarras do Arconte para sempre.
 
 아트라베스 다 콘텐상 이네르제치카, 오 세자, 콘텐두 아 이네르지아 키 에 다다 리브리 이 이노센테멘치 펠라 페소아 코뭉 아우 그란지 프레다도르 이 치라누, 웅 아우키미스타 인테르누 포지 이스카파르 두 아르콘치 페르마넨테멘치 누 템푸.
+Através da Contenção Energética, ou seja, contendo a energia que é dada livre e inocentemente pela pessoa comum ao grande predador e tirano, um alquimista interno pode escapar do Arconte permanentemente no tempo.
 
+---
 ---
 
 쿠리오자멘치, 코무 토다스 아스 코이자스 덴트루 다스 아송이스 다 아우키미아 인테르나, 우 키 웅 아우키미스타 인테르누 파스 에 웅 치푸 지 콩그루엔시아 잉콩그루엔치, 우마 이스페시 지 우모르 아우 이스칠루 지 레위스 카호우, 웅 파라도슈 카트시-22. 우 키 엘리스 파젱 에 포카르 잉 포카르 아테 키 포상 포카르-시 알렝 데스타 지멘상.
+Curiosamente, como todas as coisas dentro das ações da alquimia interna, o que um alquimista interno faz é um tipo de congruência incongruente, uma espécie de humor ao estilo de Lewis Carroll, um paradoxo Catch-22. O que eles fazem é focar em focar até que possam focar-se além desta dimensão.
 
+---
 ---
 
 이스토 파라노이쿠?
+Estou paranoico?
 
 코무 콘피르무 우 키 세이?
+Como confirmo o que sei?
 
 벵, 헤아우멘치 데펜지 지 코무 보세 데피니리아 파라노이쿠.
+Bem, realmente depende de como você definiria paranoico.
 
 이 아키 보세 텡 타우베스 마이스 우마 코이자 파라 포텐시아우멘치 세르 파라노이쿠, 이 에 우 파투 지 키 아 마이오르 파르치 다 노사 헤알리다지 이스타 지레타멘치 헬라시오나다 아우 치푸 지 팔라브라스 키 우자무스 이 우스 치푸스 지 데피니송이스 키 다무스 아 엘라스.
+E aqui você tem talvez mais uma coisa para potencialmente ser paranoico, e é o fato de que a maior parte da nossa realidade está diretamente relacionada ao tipo de palavras que usamos e os tipos de definições que damos a elas.
 
 두아스 페소아스 포뎅 이스타르 두 메즈무 라두 이 아인다 케레르 루타르 우마 콘트라 아 오트라 포르 아우궁 폰투 지 비스타 도그마치쿠, 셍 눙카 우자르 헤트로세수 로지쿠 수피시엔치 파라 페르세베르 키 암바스 이스탕 헤아우멘치 지젠두 아 메즈마 코이자, 마스 아페나스 지 폰투스 지 비스타 도그마치쿠스 지페렌치스. 암바스 포뎅 우자르 아스 메즈마스 팔라브라스, 마스 테르 데피니송이스 지페렌치스 파라 엘라스, 오 우자르 데피니송이스 지페렌치스 키, 누 피나우, 시그니피캉 아 메즈마 코이자 우잔두 우마 팔라브라 심플리스 키 우니리아 암바스 아스 파르치스.
+Duas pessoas podem estar do mesmo lado e ainda querer lutar uma contra a outra por algum ponto de vista dogmático, sem nunca usar retrocesso lógico suficiente para perceber que ambas estão realmente dizendo a mesma coisa, mas apenas de pontos de vista dogmáticos diferentes. Ambas podem usar as mesmas palavras, mas ter definições diferentes para elas, ou usar definições diferentes que, no final, significam a mesma coisa usando uma palavra simples que uniria ambas as partes.
 
 아 아우구마스 페소아스 키 텐뎅 아 우자르 아 팔라브라 파라노이쿠 지 포르마 네가치바, 포르탄투, 이 아 아켈라스 키 우자랑 타우 팔라브라 누 파사두 파라 시그니피카르 아우겡 키 이스타 무이투 마이스 시엔치. 시 우자르무스 우 우우치무 코무 우마 테르미놀로지아 데피니도라 파라 에사 팔라브라, 이우 지리아 키 아 카파시다지 지 세르 파라노이쿠 이 베르 아스 인테르-헬라송이스 이 아스 코네숑이스, 우스 메타다두스, 아바이슈 다 크리아상, 두 푼시오나멘투 이 다 수스텐타상 두 문두, 에 심플레즈멘치 우마 마이오르 콘시엔시아, 이 두 메우 폰투 지 비스타 코무 아우키미스타 인테르누, 아 이스판상 다 콘시엔시아 에 크루시아우 파라 시 리베르타르 두 쿠부 트리지멘시오나우.
+Há algumas pessoas que tendem a usar a palavra paranoico de forma negativa, portanto, e há aquelas que usaram tal palavra no passado para significar alguém que está muito mais ciente. Se usarmos o último como uma terminologia definidora para essa palavra, eu diria que a capacidade de ser paranoico e ver as inter-relações e as conexões, os metadados, abaixo da criação, do funcionamento e da sustentação do mundo, é simplesmente uma maior consciência, e do meu ponto de vista como alquimista interno, a expansão da consciência é crucial para se libertar do cubo tridimensional.
 
 쿠안투 아 코무 보세 포지 콘피르마르 수아 베르다지, 이우 미 헤피루 아 이수 코무 베르 아 베르다지 이네르제치카, 베르 아 이네르지아 지레타멘치. 아 베르다지 이네르제치카 낭 에 아우구 키 보세 포지 콘피르마르 시탄두 아우궁 아르치구 오 데바텐두 콩 팔라브라스. 낭 에 웅 조구 지 팔라브라스 이 아스 무이타스 데피니송이스 포시베이스 파라 에사스 팔라브라스. 잉 베스 지수, 에 우 코녜시멘투 잉 세우 니베우 마이스 푼다멘타우. 에 우 코녜시멘투 지레투, 에 '베르' 아 이네르지아 지레타멘치 이 소 포지 세르 아우칸사두 아트라베스 두 우주 두스 센치두스 인테르누스, 아우 콘트라리우 두스 이스테르누스 피지쿠스.
+Quanto a como você pode confirmar sua verdade, eu me refiro a isso como ver a verdade energética, ver a energia diretamente. A verdade energética não é algo que você pode confirmar citando algum artigo ou debatendo com palavras. Não é um jogo de palavras e as muitas definições possíveis para essas palavras. Em vez disso, é o conhecimento em seu nível mais fundamental. É o conhecimento direto, é 'ver' a energia diretamente e só pode ser alcançado através do uso dos sentidos internos, ao contrário dos externos físicos.
 
 파라 인텐데르 이수, 보세 데비 이스페리멘타르, 낭 아 팔라브라스 파라 이수. 우마 베스 키 보세 포사 파제르 이수, 아르구멘투 이 파라노이아 시 토르낭 팔라브라스 잉콘세켄치스.
+Para entender isso, você deve experimentar, não há palavras para isso. Uma vez que você possa fazer isso, argumento e paranoia se tornam palavras inconsequentes.
 
+---
 ---
 
 보세 포지 펜사르 누 잉콘시엔치 코무 센두 낭-로카우, 이스투 에, 우마 콘시엔시아 키 낭 오쿠파 웅 폰투 파르치쿨라르 누 이스파수-템푸, 이 네시 센치두 시 바제이아 누마 아보르다젱 낭-로카우, 오 세자, 넹 아키 넹 라, 파라 콘시엔시아 이 아상. 잉쿠안투 아 센치엔시아, 오 세자, 우 세르 콘시엔치, 아 콘시엔시아 이 아상 콘시엔치스, 키 에, 잉 이센시아, 아 아빌리다지 두 에구 지 이스콜례르 이 파제르, 에 네시 센치두 우마 코이자 로카우, 포지-시 지제르 키 오쿠파 웅 루가르 데피니치부 누 이스파수 이 누 템푸. 지 파투, 아 메지다 헬라치바 지수, 우 그라우 지 센치엔시아, 포르 아싱 지제르, 지 쿠아우케르 코이자, 포지 세르 메지두 지레타멘치 주우간두 쿠앙 로카우 아 콘시엔시아 데사 코이자 인지비두아우 에, 잉 쿠아우케르 폰투 누 이스파수-템푸.
+Você pode pensar no inconsciente como sendo não-local, isto é, uma consciência que não ocupa um ponto particular no espaço-tempo, e nesse sentido se baseia numa abordagem não-local, ou seja, nem aqui nem lá, para consciência e ação. Enquanto a sentiência, ou seja, o ser consciente, a consciência e ação conscientes, que é, em essência, a habilidade do ego de escolher e fazer, é nesse sentido uma coisa local, pode-se dizer que ocupa um lugar definitivo no espaço e no tempo. De fato, a medida relativa disso, o grau de sentiência, por assim dizer, de qualquer coisa, pode ser medido diretamente julgando quão local a consciência dessa coisa individual é, em qualquer ponto no espaço-tempo.
 
 시 보세 콘세기 베르 우 문두 지 웅 폰투 지 비스타 이네르제치쿠, 키 에 웅 폰투 지 비스타 키 우스 아우키미스타스 데제장 무이투, 보세 포지 베르, 안치스 지 투두, 키 우 템푸 낭 에 웅 이벤투 리네아르.
+Se você consegue ver o mundo de um ponto de vista energético, que é um ponto de vista que os alquimistas desejam muito, você pode ver, antes de tudo, que o tempo não é um evento linear.
 
 다 페르스펙치바 이네르제치카, 낭 아 우마 세켄시아 리네아르 지 이벤투스, 마스 싱 아페나스 웅 이테르누 아고라, 웅 모멘투 프레젠치. 웅 프레젠치 이스파소주 이 셈프리 잉 이볼루상 키 텡 우 키 포데리아 세르 멜료르 데스크리투 펠라 팔라브라: 프로푼지다지. 에사 프로푼지다지 에 오르가니자다 아트라베스 지 모둘라송이스 나 인텐시다지 오 프레켄시아, 시 보세 프레페리르 에시 테르무.
+Da perspectiva energética, não há uma sequência linear de eventos, mas sim apenas um eterno agora, um momento presente. Um presente espaçoso e sempre em evolução que tem o que poderia ser melhor descrito pela palavra: profundidade. Essa profundidade é organizada através de modulações na intensidade ou frequência, se você preferir esse termo.
 
+---
 ---
 
 켕 소 이우 헤아우멘치? 이 우 키 이우 아크레지투 소브리 우 카르마?
+Quem sou eu realmente? E o que eu acredito sobre o karma?
 
 보 텐타르 헤스폰데르 아 에사스 페르군타스 코메산두 콩 우 키 웅 카라 헤아우멘치 인텔리젠치 지시 우마 베스, 키 포이: “아 우니카 지페렌사 헤아우 엔트리 아스 페소아스 에 우 타마뉴 지 수아스 자울라스.” 아우 키 이우 아크레센타리아: 이 아스 자울라스 다 마이오리아 다스 페소아스 상 헤아우멘치 무이투 페케나스.
+Vou tentar responder a essas perguntas começando com o que um cara realmente inteligente disse uma vez, que foi: “A única diferença real entre as pessoas é o tamanho de suas jaulas.” Ao que eu acrescentaria: e as jaulas da maioria das pessoas são realmente muito pequenas.
 
 아고라, 우마 자울라 에 콤포스타 포르 트레스 코이자스:
+Agora, uma jaula é composta por três coisas:
 
 - 수아 인텐상 (키 파라 아 마이오리아 다스 페소아스 상 수아스 크렌사스).
+- Sua intenção (que para a maioria das pessoas são suas crenças).
 - 아 인텐상 두스 오트루스 (키 에 우 키 우스 오트루스 아크레지탕 소브리 보세 이 우 문두).
+- A intenção dos outros (que é o que os outros acreditam sobre você e o mundo).
 - 아 인텐상 두 문두 잉 제라우 (키 에 이멘수라베우).
+- A intenção do mundo em geral (que é imensurável).
 
 코무 아우키미스타, 시구 우마 메토돌로지아 키 미 페르미치 이스판지르 미냐 자울라, 낭 지미누이-라, 이 파르치 데사 메토돌로지아 인보우비 미 토르나르 마이스 이테레우 파라 우 헤아우. 미냐 이마젱, 미냐 이다지, 우 키 이우 코무, 우 키 이우 페소아우멘치 아크레지투 이 콤파르칠류 콩 우스 오트루스, 알렝 두 메우 코녜시멘투 아우키미쿠, 에 웅 리미타도르, 웅 리미치, 우마 자울라, 키 미 프렌지 아 우마 베르상 리미타다 지 밍 메즈무, 세자 포르 미냐 프로프리아 인텐상 오 펠라 인텐상 다스 페소아스 아우 메우 헤도르. 포르탄투, 에사스 페르군타스 소브리 밍 페소아우멘치, 누 피나우, 상 잉콘세켄치스.
+Como alquimista, sigo uma metodologia que me permite expandir minha jaula, não diminuí-la, e parte dessa metodologia envolve me tornar mais etéreo para o real. Minha imagem, minha idade, o que eu como, o que eu pessoalmente acredito e compartilho com os outros, além do meu conhecimento alquímico, é um limitador, um limite, uma jaula, que me prende a uma versão limitada de mim mesmo, seja por minha própria intenção ou pela intenção das pessoas ao meu redor. Portanto, essas perguntas sobre mim pessoalmente, no final, são inconsequentes.
 
 아고라, 우스 아우키미스타스 아크레지탕 잉 카우자 이 이페이투, 자 키 상 심플레즈멘치 로지쿠스 메스트리스 키 인텐뎅 이 마니풀랑 덴트루 두 헤이누 다 메카니카 클라시카, 벵 코무 오트라스 포르마스 지나미카스 (알렝 지 트리지멘시오나이스) 지 로지카. 포르 이젬플루, 우 테르무 카르마, 코무 에 프라치카두 포르 무이타스 페소아스, 에 우마 이스페시 지 인테후프토르 로지쿠: 시 보세 피제르 이수, 아킬루 아콘테세라, 오 시 보세 펜사르 아싱, 이수 아콘테세라... 이 에 클라루 키 에 우마 그란지 자울라 포르키 아투아 코무 웅 리미타도르. 쇼키 일레트리쿠 시 우 하투 나 자울라 피제르 이수 오 웅 포쿠 지 케이주 시 우 하투 피제르 아킬루.
+Agora, os alquimistas acreditam em causa e efeito, já que são simplesmente lógicos mestres que entendem e manipulam dentro do reino da mecânica clássica, bem como outras formas dinâmicas (além de tridimensionais) de lógica. Por exemplo, o termo karma, como é praticado por muitas pessoas, é uma espécie de interruptor lógico: se você fizer isso, aquilo acontecerá, ou se você pensar assim, isso acontecerá... e é claro que é uma grande jaula porque atua como um limitador. Choque elétrico se o rato na jaula fizer isso OU um pouco de queijo se o rato fizer aquilo.
 
 마스 에 아페나스 웅 리미타도르 데스타 포르마 포르키 아 로지카 지 인테후프토르 심플리스 낭 에 코무 우 문두 푼시오나 지 아코르두 콩 아 아우키미아, 키 아크레지타 키 쿠안투 마이스 이네르지아 보세 가냐, 마이스 세우 인텔렉투 크레시, 우 키 인탕 무다 우 인테후프토르 심플리스 리가두/데즐리가두-프레투/브랑쿠 파라 웅 프리즈마 지 세르타 포르마, 온지 누 피나우 보세 텡 마이스 이 마이스 통스 지 신자.
+Mas é apenas um limitador desta forma porque a lógica de interruptor simples não é como o mundo funciona de acordo com a alquimia, que acredita que quanto mais energia você ganha, mais seu intelecto cresce, o que então muda o interruptor simples ligado/desligado-preto/branco para um prisma de certa forma, onde no final você tem mais e mais tons de cinza.
 
 포르 키 우 아르콘치 누스 이스콜례우?
+Por que o Arconte nos escolheu?
 
 벵, 포르 키 낭 노스? 코무 멘시오누 잉 메우스 리브루스, 데제자무스, 이 노수 데제주 포이 콘세지두, 이 파라 우스 아우키미스타스, 오 쿠아우케르 웅 프라치칸두 아스 테크니카스 키 인시누 잉 메우스 리브루스, 에스치 그란지 프로제투 잉 키 이스타무스 에 우마 마라빌랴, 우마 아벤투라, 우마 이모시오난치 몬타냐-후사 키 포데무스 이스콘데르 오 인프렌타르 지레타멘치 이 벤세르!
+Bem, por que não nós? Como menciono em meus livros, desejamos, e nosso desejo foi concedido, e para os alquimistas, ou qualquer um praticando as técnicas que ensino em meus livros, este grande projeto em que estamos é uma maravilha, uma aventura, uma emocionante montanha-russa que podemos esconder ou enfrentar diretamente e vencer!
 
 낭 아 프레투스 오 브랑쿠스, 아페나스 폰투스 누 이스파수 이 누 템푸, 카다 웅 콩 수아 프로프리아 페르스펙치바, 이 아테 메즈무 에시스 폰투스 상 우마 일루장 누 피나우, 포르키 우 이스파수 이 우 템푸, 임보라 낭 세장 우마 일루장, 상, 누 인탄투, 헬라치부스 아스 인텐시다지스 포시베이스 파라 쿠아우케르 인지비두 잉 파르치쿨라르 이 인치다지 콘시엔치, 키 노바멘치 에 헬라치바 아우 니베우 이네르제치쿠 데사 인치다지, 우 키 이스타 지레타멘치 헬라시오나두 아우 리미타도르 키 엘라 임포스 아 시 메즈마.
+Não há pretos ou brancos, apenas pontos no espaço e no tempo, cada um com sua própria perspectiva, e até mesmo esses pontos são uma ilusão no final, porque o espaço e o tempo, embora não sejam uma ilusão, são, no entanto, relativos às intensidades possíveis para qualquer indivíduo em particular e entidade consciente, que novamente é relativa ao nível energético dessa entidade, o que está diretamente relacionado ao limitador que ela impôs a si mesma.
 
+---
 ---
 
 페수 키 보세 케스치오니 아스 세파라송이스 키 파스 엔트리 우 수포스투 인테리오르 이 우 이스테리오르 두 세우 크라니우, 이 아 수포스타 마테리아 헤아우 다스 수포스타스 판타지아스 다 멘치.
+Peço que você questione as separações que faz entre o suposto interior e o exterior do seu crânio, e a suposta matéria real das supostas fantasias da mente.
 
 낭 이스토 페진두 키 보세 파리 지 아크레지타르 누 문두 피지카멘치 헤아우, 오 키 코메시 아 아크레지타르 잉 델리리우스 멘타이스 루시데스 이 소브리에다지 상 투두 지 임포르탄치 파라 우 아우키미스타 인테리오르. 우 키 이스토 페진두 에 키 보세 케스치오니 에사스 데마르카송이스 이 키, 콩 우 템푸, 아프렌다 아 나베가르 덴트루, 포라, 아트라베스 이 아우 헤도르 델라스 지 아코르두 콩 아 이스페리엔시아 페소아우, 잉 오포지상 아스 수포스타스 레이스 바제아다스 나 멘탈리다지 콜레치바 (멘치 아르콘치카) 다 우마니다지.
+Não estou pedindo que você pare de acreditar no mundo fisicamente real, ou que comece a acreditar em delírios mentais; lucidez e sobriedade são TUDO DE IMPORTANTE para o alquimista interior. O que estou pedindo é que você questione essas demarcações e que, com o tempo, aprenda a navegar dentro, fora, através e ao redor delas de acordo com a experiência pessoal, em oposição às supostas leis baseadas na mentalidade coletiva (mente Arcontica) da humanidade.
 
+---
 ---
 
 나스 프로푼데자스 이스쿠라스 이 친타다스 두 마르 이스쿠루, 노스 헤지지무스.
+Nas profundezas escuras e tintadas do Mar Escuro, nós residimos.
 
 잉가나무스 아 노스 메즈무스 펜산두 키 투두 에 코녜시두, 투두 에 파밀리아르, 투두 에 이스플리카베우 이 하시오나우. 타이스 펜사멘투스 톨루스.
+Enganamos a nós mesmos pensando que tudo é conhecido, tudo é familiar, tudo é explicável e racional. Tais pensamentos tolos.
 
 웅 아우키미스타 인테리오르 지리아 키 에시스 상 우스 펜사멘투스 지 우마 크리안사 인두우젠치, 아콘셰가다 잉 우마 살라 켄치 콤포스타 포르 수아스 델루종이스 페소아이스. 마스 아 이스쿠리당 덴트루 다 이스쿠리당, 이 아스 파레지스 낭 상 우마 크리아상 우마나 아페나스.
+Um alquimista interior diria que esses são os pensamentos de uma criança indulgente, aconchegada em uma sala quente composta por suas delusões pessoais. Mas há escuridão dentro da escuridão, e as paredes não são uma criação humana apenas.
 
 이 탐벵 아 이스페란사, 포르키 카다 웅 지 노스 인지비두아우멘치 텡 아 포시빌리다지 지 낭 아페나스 베르 에사스 파레지스, 마스 지 데후바-라스 이 보아르 알렝 델라스, 후무 아 베르다데이라 리베르다지.
+E também há esperança, porque cada um de nós individualmente tem a possibilidade de não apenas ver essas paredes, mas de derrubá-las e voar além delas, rumo à verdadeira liberdade.
 
 포르 잉쿠안투, 포렝, 소무스 아 크리안사 인두우젠치, 눙카 수스페이탄두, 눙카 케렌두 수스페이타르, 키 아스 파레지스 키 엘라 샤마 지 사니다지 이 헤알리다지 상 메라스 일루종이스 우마 일루장 마라빌료자, 세르타멘치, 웅 페케누 알리비우 타우베스, 잉 우마 롱가 조르나다.
+Por enquanto, porém, somos a criança indulgente, nunca suspeitando, nunca querendo suspeitar, que as paredes que ela chama de sanidade e realidade são meras ilusões; uma ilusão maravilhosa, certamente, um pequeno alívio talvez, em uma longa jornada.
 
 이 보세 포지 쿠우파르 아우궁 지 노스 포르 낭 케레르 페르마네세르 잉 메이우 아우스 아호부스 데사 마라빌료자 일루장 키 크리아무스? 파레시 아베르 포쿠스 알리아두스 네시 이스파수 인피니투 이 프리우, 라 포라.
+E você pode culpar algum de nós por não querer permanecer em meio aos arroubos dessa maravilhosa ilusão que criamos? Parece haver poucos aliados nesse espaço infinito e frio, Lá Fora.
 
 포이스 제이제리스 지간치스, 지 코이자스 네불로자스 이 데스코녜시다스, 이지스텡 로구 알렝 두스 라멘타베이스 센치두스 우마누스, 이 아 테크놀로지아 낭 에 우마 아주다 헤아우 이 두라도라 라 포라, 네사 이스텐상 아스 베지스 블라스페마. 코무 포뎅 인스트루멘투스 이 마키나스, 프로제타두스 아페나스 파라 이스판지르 우스 센치두스 우마누스 이 우 코녜시두, 아주다르-누스 아 베르 오 콤프렌데르 우 키 이스타 알렝 지 노사 멘치 하시오나우? 에 코무 크리아르 미크로스코피우스 이 텔레스코피우스 파라 베르 멜료르 아스 파레지스 키 누스 아프리지오낭. 타이스 인스트루멘투스, 시 포데로주스 우 수피시엔치, 포뎅 누스 페르미치르 베르 아스 셀룰라스 이 우스 아토무스, 아스 이스트렐라스 누 피르마멘투 키 파레셍 콤포르 노사스 파레지스, 마스 엘리스 낭 누스 지랑 나다 소브리 우 키 이지스치 알렝 델라스, 이 덴트루 데시스 앙굴루스 이스트라뉴스 키 베르다데이라멘치 누스 세파랑 다 인피니투지 이헤스트리타 나 쿠아우 아비타무스, 노수스 인스트루멘투스 아투아이스 낭 아주당.
+Pois gêiseres gigantes, de coisas nebulosas e desconhecidas, existem logo além dos lamentáveis sentidos humanos, e a tecnologia não é uma ajuda real e duradoura Lá Fora, nessa extensão às vezes blasfema. Como podem instrumentos e máquinas, projetados apenas para expandir os sentidos humanos e o conhecido, ajudar-nos a ver ou compreender o que está além de nossa mente racional? É como criar microscópios e telescópios para ver melhor as paredes que nos aprisionam. Tais instrumentos, se poderosos o suficiente, podem nos permitir ver as células e os átomos, as estrelas no firmamento que parecem compor nossas paredes, mas eles não nos dirão nada sobre o que existe além delas, e dentro desses ângulos estranhos; que verdadeiramente nos separam da infinitude irrestrita na qual habitamos, nossos instrumentos atuais não ajudam.
 
 타이스 마키나스 이 인스트루멘투스 아 본타지, 지 파투, 누스 파랑 잉콘트라르 아토무스, 갈라시아스, 쿠아르크스, 네우트리누스, 부라쿠스 네그루스, 보종스, 레프통스, 피옹스 이 우마 미누치아 지 파르치쿨라스 이 코이자스 잉 콘스탄치 크레시멘투.
+Tais máquinas e instrumentos à vontade, de fato, nos farão encontrar átomos, galáxias, quarks, neutrinos, buracos negros, bósons, léptons, píons e uma minutia de partículas e coisas em constante crescimento.
 
 아테 키 웅 지아, 타우베스 웅 지아, 포사무스 코메사르 아 페르세베르 아 인사니다지 지 투두 이수, 아우 누스 잉콘트라르무스 콩 웅 레시쿠 카다 베스 마이오르 이 인테르미나베우 지 코이자스, 이 타우베스 펠라 프리메이라 베스 수스페이탄두 헤아우멘치 키 크리아무스 토두스 우스 모베이스 덴트루 다스 파레지스 지 노사 프리장.
+Até que um dia, talvez um dia, possamos começar a perceber a insanidade de tudo isso, ao nos encontrarmos com um léxico cada vez maior e interminável de coisas, e talvez pela primeira vez suspeitando realmente que criamos todos os móveis dentro das paredes de nossa prisão.
 
 이 아싱, 마이스 세두 오 마이스 타르지, 아 우마니다지 피카라 인테지아다, 지 파투 시 인테지아, 이 코메사 아 페르세베르 키 우 데스콘포르투 크레센치 키 센치 낭 바이 임보라. 에사 도르 인테르나, 키 아메아사 레바르 아 우마니다지 아 아투스 지 데스트루이상 데젠프레아다, 다 아페나스 우마 사이다, 이 에사 에 데후바르 에사스 파레지스 아우투-크리아다스 키 아고라 아 아프리지오낭. 에사 안시아 아우토데스트루치바 아타비카, 데자피아 토다 아 우마니다지, 아 인로케시, 이 포르 핑 아 임푸우시오나, 아트라베스 지 아메아사스 아 소브레비벤시아 페소아우, 아 비아자르 론지 이 베르 우 키 이지스치 알렝 다스 파레지스 데사스 살라스 아우투-크리아다스.
+E assim, mais cedo ou mais tarde, a humanidade ficará entediada, de fato se entedia, e começa a perceber que o desconforto crescente que sente não vai embora. Essa dor interna, que ameaça levar a humanidade a atos de destruição desenfreada, dá apenas uma saída, e essa é derrubar essas paredes auto-criadas que agora a aprisionam. Essa ânsia autodestrutiva atávica, desafia toda a humanidade, a enlouquece, e por fim a impulsiona, através de ameaças à sobrevivência pessoal, a viajar longe e ver o que existe além das paredes dessas salas auto-criadas.
 
 마스 아우궁스 포뎅 페르군타르, 아 우마니다지 포지 이스카파르 데사스 파레지스 이 인프렌타르 우 아비즈무? 포지 잉카라르 우 이테르누, 우 메갈리치쿠 이 아 인지페렌치 이 프리아 보카 아베르타 다 파우타 지 친타, 두 이스케시멘투... 키 포지 세르 잉콘트라두 준투 콩 아 베르다데이라 리베르다지 키 토두스 데베무스 테르?
+Mas alguns podem perguntar, a humanidade pode escapar dessas paredes e enfrentar o abismo? Pode encarar o eterno, o megalítico e a indiferente e fria boca aberta da falta de tinta, do esquecimento... que pode ser encontrado junto com a verdadeira liberdade que todos devemos ter?
 
 키 테히베우 질레마! 키 아벤투라 잉크리베우!
+Que terrível dilema! Que aventura incrível!
 
 토르나-시 웅 테히베우 질레마 쿠안두 낭 테무스 헤스포스타스 클라라스 소브리 코무 이스카파르 다 아르마질랴, 오 코무 인프렌타르 에사 이테르니다지 콩 콘피안사 이 카파시다지. 마스 쿠안두 테무스 코녜시멘투 이 프로포지투, 인탕 에사 시투아상 시 토르나 우마 조르나다 마그니피카, 우마 아벤투라 글로리오자!
+Torna-se um terrível dilema quando não temos respostas claras sobre como escapar da armadilha, ou como enfrentar essa eternidade com confiança e capacidade. Mas quando temos conhecimento e propósito, então essa situação se torna uma jornada magnífica, uma aventura gloriosa!
 
 인탕, 코무 코메사무스 에사 조르나다? 코무 소브레비베무스 아우 아비즈무?
+Então, como começamos essa jornada? Como sobrevivemos ao abismo?
 
 이 코무 이스카파무스 데사 자울라 셍 파레지스? 코무 누스 리베르타무스 두 이우 키 마니페스타무스 네스치 이스파수 트리지멘시오나우 코무 웅 코르푸 지 카르니 이 상기? 코무 보아무스 파라 우 인피니투 라 포라? 에시 아비즈무 이노르메멘치 아트라엔치 이 임플라카베우 지 리베르다지 아브솔루타?
+E como escapamos dessa jaula sem paredes? Como nos libertamos do eu que manifestamos neste espaço tridimensional como um corpo de carne e sangue? Como voamos para o infinito Lá Fora? Esse abismo enormemente atraente e implacável de liberdade absoluta?
 
 벵, 타우 타레파 프로지지오자 이지지 아 헤알리자상 지 우마 그란지 오브라. 헤케르 키 누스 데지케무스 아 우마 오브라-프리마 지 아상. 이지지 우 마그눙 오푸스!
+Bem, tal tarefa prodigiosa exige a realização de uma Grande Obra. Requer que nos dediquemos a uma obra-prima de ação. Exige o Magnum Opus!
 
 포르키 에 소멘치 아트라베스 다 콩클루장 데스타 그란지 오브라 키 포데무스 아드키리르 우 베르다데이루 포데르 이 토르나르 지스포니베우 파라 노스 메즈무스 아 포시빌리다지 지 데자피아르 노사 비다 이 모르치 피지카스, 이 우 이스케시멘투 지 노사 인지비두알리다지, 키 에사 모르치 이니시아.
+Porque é somente através da conclusão desta Grande Obra que podemos adquirir o verdadeiro poder e tornar disponível para nós mesmos a possibilidade de desafiar nossa vida e morte físicas, e o esquecimento de nossa individualidade, que essa morte inicia.
 
 에사 에 아 하장 파라 아 그란지 오브라, 아 베르다데이라 하장 파라 아 크리아상 다 페드라 필로조파우, 키 에 테르 우 포데르 네세사리우 파라 이스카파르 다스 파레지스 다 아르마질랴, 이 세르 카파스 지 인프렌타르 콩 콘피안사 이 콤페텐시아 에사 인피니투지, 토르난두-누스 웅 치푸 지 이모르타우.
+Essa é a razão para a Grande Obra, a verdadeira razão para a criação da pedra filosofal, que é ter o poder necessário para escapar das paredes da armadilha, e ser capaz de enfrentar com confiança e competência essa infinitude, tornando-nos um tipo de imortal.
 
+---
 ---
 
 쿠안두 시 트라타 지 코녜시멘투, 낭 아 렘브란사 파라 우 메스트리 아우키미스타 인테리오르. 도그마 에 렘브라르, 이스케세르 이 렘브라르, 웅 문두 지 팔라브라스 이 게하 메메치카 콘치누아.
+Quando se trata de conhecimento, não há lembrança para o mestre alquimista interior. Dogma é lembrar, esquecer e lembrar, um mundo de palavras e guerra memética contínua.
 
 파라 엘리스, 아 아페나스 페르세프상 지레타 키 아콘테시 아키 이 아고라 아 카다 모멘투. 파라 엘리스, 아 아페나스 이네르지아, 이 아 이네르지아 이스타 아키-아고라.
+Para eles, há apenas percepção direta que acontece aqui e agora a cada momento. Para eles, há apenas energia, e a energia está aqui-agora.
 
+---
 ---
 
 아우궁스 프라치칸치스 두 오쿠우투 페르세베랑 아 무이투 템푸 키 콤파르칠랴무스 아 테하 콩 웅 치푸 지 비다 키 아 시엔시아 모데르나 아크레지타 세르 콤플레타멘치 임포시베우. 에시스 상 세리스 낭-오르가니쿠스 이 엘리스 지 파투 콤파르칠량 에스타 테하 코노스쿠. 이 에사스 상 크리아투라스 키 이스탕 무이투 마이스 시엔치스 지 노스 두 키 노스 델라스.
+Alguns praticantes do oculto perceberam há muito tempo que compartilhamos a terra com um tipo de vida que a ciência moderna acredita ser completamente impossível. Esses são seres não-orgânicos e eles de fato compartilham esta terra conosco. E essas são criaturas que estão muito mais cientes de nós do que nós delas.
 
 임보라 파레사 아베르 웅 그란지 바지우 엔트리 노스, 이스투 에, 엘리스 파레셍 이지스치르 덴트루 지 세우 프로프리우 우니베르수/지멘상 세파라두스 아테 세르투 폰투, 엘리스 아인다 포뎅 아트라베사르 에사 피나 멤브라나 키 세파라 노수스 도이스 문두스 이 인테라지르 코노스쿠... 이 에사스 인테라송이스 포뎅 아스 베지스 세르 데자그라다베이스 이 아테 페리고자스 파라 우스 데스프레파라두스.
+Embora pareça haver um grande vazio entre nós, isto é, eles parecem existir dentro de seu próprio universo/dimensão separados até certo ponto, eles ainda podem atravessar essa fina membrana que separa nossos dois mundos e interagir conosco... e essas interações podem às vezes ser desagradáveis e até perigosas para os despreparados.
 
+---
 ---
 
 푸이 케스치오나두:
+Fui questionado:
 
 아 이데이아 지 키 투두 네스치 문두, 잉클루인두 우스 세리스 우마누스, 에 우마 비브라상 이네르제치카 에 아우구 키 포지 세르 콤프로바두 포르 메토두스 시엔치피쿠스. 마스 아우구 키 펜수 콘스탄테멘치 에 우 테르무 '이스피리투', 키 아우궁스 아크레지탕 세르 아우구 키 콘치누아 아 이지스치르 데포이스 키 모헤무스. 마스 코무 포데무스 세르 이스피리투 데포이스 키 모헤무스, 마스 낭 파레세무스 세르 이스피리투 안치스 지 나세르, 안치스 지 가냐르 포르마 이 피구라 누 벤트리 지 노사 망이? 코무 포데무스 이지스치르 데포이스 키 모헤무스 시 낭 파레세무스 테르 이지스치두 안치스 지 나세르? 이 쿠안투 아우스 아니마이스? 포르 키 데베리아무스 아크레지타르 키 엘리스 낭 텡 웅 이스피리투? 이수 낭 에 메이우 아호간치? 이스페시아우멘치 콘시데란두 키 마타무스 이 코메무스 아니마이스, 인탕 코무 에 콘베니엔치 키 낭 아크레지타무스 키 엘리스 테냥 이스피리투스 탐벵.
+A ideia de que tudo neste mundo, incluindo os seres humanos, é uma vibração energética é algo que pode ser comprovado por métodos científicos. Mas algo que penso constantemente é o termo 'espírito', que alguns acreditam ser algo que continua a existir depois que morremos. Mas como podemos ser espírito depois que morremos, mas não parecemos ser espírito antes de nascer, antes de ganhar forma e figura no ventre de nossa mãe? Como podemos existir depois que morremos se não parecemos ter existido antes de nascer? E quanto aos animais? Por que deveríamos acreditar que eles não têm um espírito? Isso não é meio arrogante? Especialmente considerando que matamos e comemos animais, então como é conveniente que não acreditamos que eles tenham espíritos também.
 
 미냐 헤스포스타:
+Minha resposta:
 
 데이시-미 코메사르 아 헤스폰데르 아 보세 지젠두 키 잉 메우스 리브루스 셈프리 지구 아스 페소아스 키 파상 우 세우 멜료르 파라 이르 알렝 두 도그마. 포르 도그마, 케루 지제르 키 아스 페소아스 낭 데베리앙 아크레지타르 키 아우구 에 베르다데이루 소 포르키 아우겡 키 엘라스 콘시데랑 세르 우마 아우토리다지 지시 키 이수 에 아싱. 토다스 아스 코이자스 데벵 세르 콘시데라다스 코무 우마 포시빌리다지 (낭 베르다지) 아테 키 포상 세르 페르세비다스 지레타멘치 포르 보세 (에스타 에 아 미냐 오피니앙 페소아우 지 아코르두 콩 미냐 코헨치 지 아우키미아 인테리오르).
+Deixe-me começar a responder a você dizendo que em meus livros sempre digo às pessoas que façam o seu melhor para ir além do dogma. Por dogma, quero dizer que as pessoas não deveriam acreditar que algo é verdadeiro só porque alguém que elas consideram ser uma autoridade disse que isso é assim. Todas as coisas devem ser consideradas como uma possibilidade (não verdade) até que possam ser percebidas diretamente por você (esta é a minha opinião pessoal de acordo com minha corrente de alquimia interior).
 
 포르탄투, 텐투 이비타르 지스펜사르 도그마스 이우 메즈무, 이 잉 베스 지수, 포쿠 잉 인시나르 아우스 오트루스 코무 트라발랴르 이 페르세베르 아 이네르지아 지레타멘치, 파라 키 포상 데스코브리르 수아 프로프리아 베르다지, 헤페치다스 베지스 아트라베스 두 템푸, 아우 롱구 두 데즈도브라멘투 지 수아스 비다스.
+Portanto, tento evitar dispensar dogmas eu mesmo, e em vez disso, foco em ensinar aos outros como trabalhar e perceber a energia diretamente, para que possam descobrir sua própria verdade, repetidas vezes através do tempo, ao longo do desdobramento de suas vidas.
 
 아키, 자 키 보세 이스타 미 페르군탄두 지레타멘치, 지레이 우 키 페르세부 지 아코르두 콩 미냐 콘시엔시아 페소아우 포르 메이우 두 메우 트라발류 인테리오르, 마스 이우 우 잉코라자리아 포르테멘치 아 아프렌데르 아 트라발랴르 콩 이네르지아 이 페르세프상 보세 메즈무, 파라 키 포사 콤프로바르 오 헤푸타르 우 키 이스토 지젠두 아트라베스 지 수아 프로프리아 페르세프상 이 코녜시멘투 지레투스.
+Aqui, já que você está me perguntando diretamente, direi o que percebo de acordo com minha consciência pessoal por meio do meu trabalho interior, mas eu o encorajaria fortemente a aprender a trabalhar com energia e percepção você mesmo, para que possa comprovar ou refutar o que estou dizendo através de sua própria percepção e conhecimento diretos.
 
 아고라, 우 폰투 소브리 아 페르세프상 모데르나 에 키 아스 페소아스 상 인시나다스 데즈지 우 미누투 잉 키 나셍 아 페르세베르 지 마네이라스 무이투 리미타다스 이 이자미나르 카우자, 이페이투 이 인페렌시아 아 파르치르 지 우마 포르마 리미타다 지 콤프렌상 키, 네스치 폰투 다 이스토리아, 에 헤페리다 코무 "하시오날리다지" 이 "센수 코뭉".
+Agora, o ponto sobre a percepção moderna é que as pessoas são ensinadas desde o minuto em que nascem a perceber de maneiras muito limitadas e examinar causa, efeito e inferência a partir de uma forma limitada de compreensão que, neste ponto da história, é referida como "racionalidade" e "senso comum".
 
 마스 데부 지제르 키 이지스텡 오트라스 마네이라스 지 페르세베르 이 인텐데르 아 카우잘리다지, 이 네시 센치두, 에 아페나스 우 폰투 지 비스타 하시오나우 키 아크레지타 키 소무스 아페나스 카르니, 이 이지지 키 보세 페르세바 지 우마 세르타 마네이라, 파젠두 파레세르 키 안치스 지 세르 카르니 (웅 오브제투), 안치스 지 나세르, 보세 에라 나다. 이, 포르탄투, 이지지 키 보세 셰기 아 수포스타 콩클루장 "센사타" 지 키, 아포스 아 카르니 시 이스칭기르, 보세 낭 세라 마이스 나다 키 카르니 이 페르세프송이스 카르나이스, 이 포르탄투 우스 센치두스 피지쿠스, 에 투두 우 키 이지스치.
+Mas devo dizer que existem outras maneiras de perceber e entender a causalidade, e nesse sentido, é apenas o ponto de vista racional que acredita que somos apenas carne, e exige que você perceba de uma certa maneira, fazendo parecer que antes de ser carne (um objeto), antes de nascer, você era nada. E, portanto, exige que você chegue à suposta conclusão "sensata" de que, após a carne se extinguir, você não será mais nada; que carne e percepções carnais, e portanto os sentidos físicos, é tudo o que existe.
 
 오트루스 폰투스 지 비스타 페르세프치부스, 코무 아스 페르세프송이스 지레타스 지스포니베이스 파라 우 아우키미스타 인테리오르, 포르 이젬플루, 포뎅 페르미치르 아 포시빌리다지 지 페르세베르 키 보세 에라 아우구 안치스 지 나세르 나 카르니, 이 키 세라 아우구 데포이스 지 모헤르 피지카멘치 탐벵. 포지-시 지제르 인탕 키 웅 아우키미스타 인테리오르 포지 페르세베르 키 이지스치 아우구 코무 이스피리투, 오 오트라 이센시아, 이 키 에사 이센시아 데자피아 우 템푸, 우 이스파수, 아 하시오날리다지 이 아스 마네이라스 다 카르니 코무 상 아투아우멘치 인텐지다스.
+Outros pontos de vista perceptivos, como as percepções diretas disponíveis para o alquimista interior, por exemplo, podem permitir a possibilidade de perceber que você era algo antes de nascer na carne, e que será algo depois de morrer fisicamente também. Pode-se dizer então que um alquimista interior pode perceber que existe algo como espírito, ou outra essência, e que essa essência desafia o tempo, o espaço, a racionalidade e as maneiras da carne como são atualmente entendidas.
 
 에시 메즈무 도그마 모데르누 (하시오날리다지) 탐벵 이지지 키 보세 아크레지치 키 이지스치 우마 이에라르키아 엔트리 토다스 아스 크리아투라스 데스치 플라네타 이 키 아 우마니다지 데비 세르 비스타 코무 수아 크리아상 아피시, 우 토푸 다 이에라르키아 누 플라네타. 포르탄투, 이지지 키 보세 콩클루아 키, 시 오베시 아우구 탕 보부 쿠안투 웅 이스피리투, 세르타멘치 "크리아투라스 메노리스" 코무 아니마이스 낭 테리앙 웅 아페나스 우스 세리스 우마누스 데베리앙 세르 "이볼루이두스" 우 수피시엔치 파라 테르 우마 데사스 코이자스 이스페시아이스... 시 아우구 탕 보부 쿠안투 웅 이스피리투 포시 헤아우멘치 포시베우, 클라루.
+Esse mesmo dogma moderno (racionalidade) também exige que você acredite que existe uma hierarquia entre todas as criaturas deste planeta e que a humanidade deve ser vista como sua criação ápice, o topo da hierarquia no planeta. Portanto, exige que você conclua que, se houvesse algo tão bobo quanto um espírito, certamente "criaturas menores" como animais não teriam um; apenas os seres humanos deveriam ser "evoluídos" o suficiente para ter uma dessas coisas especiais... se algo tão bobo quanto um espírito fosse realmente possível, claro.
 
 마스, 노바멘치, 아 파르치르 다스 미냐스 페르세프송이스 페소아이스 이 두 메우 코녜시멘투 지레투 페소아우, 이우 세이 키, 두 폰투 지 비스타 데사스 오브세르바송이스, 테무스 코무 파르치 다 토탈리다지 지 켕 소무스, 파르치스 지 노스, 키 보세 포데리아 시 헤페리르 코무 이스피리투, 이 키 에사스 파르치스 이지스텡 안치스 지 나세르무스 이 이지스치랑 데포이스 키 아 카르니 이스치베르 모르타. 알렝 지수, 키 소무스 토두스 이구아이스 (웅스 아우스 오트루스 이 아 토다스 아스 오트라스 포르마스 지 비다 네스치 플라네타) 지안치 두 그란지 마르 이스쿠루, 우 투두 키 에.
+Mas, novamente, a partir das minhas percepções pessoais e do meu conhecimento direto pessoal, eu sei que, do ponto de vista dessas observações, temos como parte da totalidade de quem somos, partes de nós, que você poderia se referir como espírito, e que essas partes existem antes de nascermos e existirão depois que a carne estiver morta. Além disso, que somos todos iguais (uns aos outros e a todas as outras formas de vida neste planeta) diante do grande Mar Escuro, o Tudo Que É.
 
 아 무이타 콤플레시다지 잉 투두 이수, 이 이우 낭 고스투 두 테르무 이스피리투 포르 카우자 다스 코노타송이스 이, 포르탄투, 다스 수포지송이스 키 엘리 크리아 나 멘치. 아스 파르치스 인테르나스 지 노스, 아스 파르치스 헤스폰사베이스 포르 토다 아 헤알리다지 페소아우, 센두 키 상 에사스 파르치스 인테르나스 키 크리앙 아 카르니 이스테르나 이 낭 우 콘트라리우, 이스탕 알렝 두 템푸 이 두 이스파수 코무 코무멘치 콘세비두스 이 인텐지두스 누 모멘투, 이 네시 센치두, 에 아우구 지피시우 지 데스크레베르 우잔두 우마 링구아젱 데젠보우비다 이 헤피나다 콩 우 폰투 지 비스타 하시오나우 잉 멘치. 파수 우 멜료르 키 포수, 마스 헤코멘두 키 프라치키 테크니카스 지 페르세프상 인테르나 이 텐치 파제르 우 세우 멜료르 파라 잉콘트라르 에사 헤알리다지 인테르나 포르 시 메즈무, 포이스 이수 이비타라 쿠아우케르 콘푸장 도그마치카. 시 보세 낭 피제르 에시 이스포르수, 인탕 투두 우 키 이우 지시 세라 아페나스 마이스 웅 도그마 파라 아 수아 필랴 지 도그마스, 오 우스 델리리우스 지 웅 톨루 일루지두. 암바스 아스 코이자스 상 포시베이스, 코무 데베리앙 세르, 아테 키 보세 포사 페르세베-루 이 코녜세르 수아 베르다지 페소아우 지레타멘치.
+Há muita complexidade em tudo isso, e eu não gosto do termo espírito por causa das conotações e, portanto, das suposições que ele cria na mente. As partes internas de nós, as partes responsáveis por toda a realidade pessoal, sendo que são essas partes internas que criam a carne externa e não o contrário, estão além do tempo e do espaço como comumente concebidos e entendidos no momento, e nesse sentido, é algo difícil de descrever usando uma linguagem desenvolvida e refinada com o ponto de vista racional em mente. Faço o melhor que posso, mas recomendo que pratique técnicas de percepção interna e tente fazer o seu melhor para encontrar essa realidade interna por si mesmo, pois isso evitará qualquer confusão dogmática. Se você não fizer esse esforço, então tudo o que eu disse será apenas mais um dogma para a sua pilha de dogmas, ou os delírios de um tolo iludido. Ambas as coisas são possíveis, como deveriam ser, até que você possa percebê-lo e conhecer sua verdade pessoal diretamente.
 
+---
 ---
 
 잉 노사 쿠우투라 모데르나, 크리아무스 우마 이노르미 지비장 엔트리 노사 헤알리다지 인테르나 (멘타우) 이 아 비다 이스테르나 (피지카). 데스콘피아무스 지 노사 헤알리다지 수브제치바 이 아크레지타무스 키 엘라 구아르다 이스페리엔시아스 이스쿠라스 이 네우로치카스 키 소 포뎅 누스 토르나르 메누스 카파지스 누 문두 피지쿠. 아 이스페리엔시아 수브제치바 에 아 포르타 지 인트라다 파라 우 잉콘시엔치, 아피나우, 이 테메무스 우 잉콘시엔치 데즈지 아 에포카 지 프레우드.
+Em nossa cultura moderna, criamos uma enorme divisão entre nossa realidade interna (mental) e a vida externa (física). Desconfiamos de nossa realidade subjetiva e acreditamos que ela guarda experiências escuras e neuróticas que só podem nos tornar menos capazes no mundo físico. A experiência subjetiva é a porta de entrada para o inconsciente, afinal, e tememos o inconsciente desde a época de Freud.
 
 마스 에사 지비장 엔트리 우스 아스펙투스 수브제치부스 이 오브제치부스 지 노사 프시키 상 메라스 일루종이스 이, 코무 쿠아우케르 페소아 키 테냐 시 토르나두 이스페시알리스타 잉 아우구 누 문두 피지쿠 지라, 아 우마 리가상 지레타 엔트리 수아 이스페리엔시아 수브제치바 이 수아스 카파시다지스 오브제치바스. 코무 아우궁스 지젱, '아 멘치 이 우 코르푸 데벵 세르 웅'.
+Mas essa divisão entre os aspectos subjetivos e objetivos de nossa psique são meras ilusões e, como qualquer pessoa que tenha se tornado especialista em algo no mundo físico dirá, há uma ligação direta entre sua experiência subjetiva e suas capacidades objetivas. Como alguns dizem, 'a mente e o corpo devem ser um'.
 
 이수, 클라루, 에 아페나스 아 폰타 두 이세베르그. 노사스 베르다데이라스 카파시다지스 이스탕 프로푼다멘치 덴트루 지 노스, 이 노사 아빌리다지 지 수페라르 토다스 아스 노사스 팔랴스, 오브제치바스 오 낭, 소 포지 세르 잉콘트라다 프로푼다멘치 덴트루 두 노수 문두 수브제치부. 에 아트라베스 다 이스플로라상 데스치 프로푼두 문두 수브제치부 키 보세 잉콘트라라 아 포르타 지 인트라다 파라 아 베르다데이라 마지아 이 파라 아스 페르세프송이스 이 카파시다지스 무이투, 무이투 마이오리스 지스포니베이스 아 토두스 노스. 노수스 센치두스 피지쿠스 눙카 세랑 카파지스 지 누스 지제르 아 베르다지 콤플레타, 이 노수스 인스트루멘투스 피지쿠스 눙카 세랑 카파지스 지 수페라르 아 미오피아 지 노사스 크렌사스 프레젠치스.
+Isso, claro, é apenas a ponta do iceberg. Nossas verdadeiras capacidades estão profundamente dentro de nós, e nossa habilidade de superar todas as nossas falhas, objetivas ou não, só pode ser encontrada profundamente dentro do nosso mundo subjetivo. É através da exploração deste profundo mundo subjetivo que você encontrará a porta de entrada para a verdadeira magia e para as percepções e capacidades muito, muito maiores disponíveis a todos nós. Nossos sentidos físicos nunca serão capazes de nos dizer a verdade completa, e nossos instrumentos físicos nunca serão capazes de superar a miopia de nossas crenças presentes.
 
+---
 ---
 
 **아 코이자 잉그라사다 에 키, 잉쿠안투 아 시엔시아 포지 지제르 키 베리피코, 파라 수아 프로프리아 콩클루장, 키 지 파투 소무스 무이투 메누스 두 키 이마지나무스, 에사스 메즈마스 베르다지스 포랑 데펜지다스 포르 미스치쿠스 이 이스콜라스 안치가스 지 펜사멘투 포르 밀랴리스 지 아누스. 시 에시스 벨류스 도그마스 상 아고라 콘시데라두스 노사 헤알리다지 펠라 시엔시아 모데르나, 쿠아이스 오트라스 이데이아스 안치가스 탐벵 포뎅 세르 베르다데이라스?**
+**A coisa engraçada é que, enquanto a ciência pode dizer que verificou, para sua própria conclusão, que de fato somos muito menos do que imaginamos, essas mesmas verdades foram defendidas por místicos e escolas antigas de pensamento por milhares de anos. Se esses velhos dogmas são agora considerados nossa realidade pela ciência moderna, quais outras ideias antigas também podem ser verdadeiras?**
 _― 우 로지쿠 로쿠_
+_― O LÓGICO LOUCO_
 
+---
 ---
 
 토두스 우스 오브제투스, 코무 우마 메자 오 우마 시카라 지 카페, 이스탕 잉 콘스탄치 이스타두 지 모비멘투 인테르누, 포이스 시 포르망 덴트루 두 문두 피지쿠 플루인두 콘스탄테멘치 지 웅 이스타두 이테레우, 키 시 아세멜랴 아 이테레이다지 두스 펜사멘투스, 파라 웅 이스타두 마이스 솔리두 키 샤마무스 지 헤알리다지 피지카.
+Todos os objetos, como uma mesa ou uma xícara de café, estão em constante estado de movimento interno, pois se formam dentro do mundo físico; fluindo constantemente de um estado etéreo, que se assemelha à etereidade dos pensamentos, para um estado mais sólido que chamamos de realidade física.
 
 누스 테르무스 마이스 심플리스, 이수 포데리아 세르 비스투, 오 아테 메즈무 센치두, 코무 우마 리냐 인피니타 지 메자스, 포르 이젬플루, 이지스친두 우마 아우 라두 다 오트라, 아싱 코무 아 일루장 비주아우 두 "이스펠류 인피니투" 키 보세 베 쿠안두 인셰르가 웅 이스펠류, 덴트루 지 웅 이스펠류, 덴트루 지 웅 이스펠류, 덴트루 지 웅 이스펠류, 아드 인피니퉁.
+Nos termos mais simples, isso poderia ser visto, ou até mesmo sentido, como uma linha infinita de mesas, por exemplo, existindo uma ao lado da outra, assim como a ilusão visual do "espelho infinito" que você vê quando enxerga um espelho, dentro de um espelho, dentro de um espelho, dentro de um espelho, ad infinitum.
 
 카다 우마 데사스 메자스, 세멜랸치스 아 미라젱스, 키 시 프로제탕 다 메자 피지카 오리지나우, 이스텐지-시 시무우타네아멘치 데사 메자 잉 토다스 아스 지레송이스, 이 카다 우마 데사스 메자스 이테레아스 에 우마 베르상 마이스 수치우 다 키 벵 안치스 델라. 카다 메자 아우테르나치바 헤프레젠타 우마 솜브라 아우테르나치바 이 콤플레타멘치 리가다 아우 토두, 키 지 파투 토르나 에시 토두 포시베우.
+Cada uma dessas mesas, semelhantes a miragens, que se projetam da mesa física original, estende-se simultaneamente dessa mesa em todas as direções, e cada uma dessas mesas etéreas é uma versão mais sutil da que vem antes dela. Cada mesa alternativa representa uma sombra alternativa e completamente ligada ao todo, que de fato torna esse todo possível.
 
 아 웅 플루슈 콘스탄치 아 메지다 키 카다 우마 데사스 메자스 아우테르나치바스 오 판타즈마스 아수미 세우 루가르 코무 아 포르마 마이스 도미난치, 잉 쿠아우케르 모멘투 이스페시피쿠 두 아키-아고라.
+Há um fluxo constante à medida que cada uma dessas mesas alternativas ou fantasmas assume seu lugar como a forma mais dominante, em qualquer momento específico do aqui-agora.
 
 토두 오브제투 피지쿠, 인탕, 코무 아 메자 오 아 시카라 지 카페, 에 나 베르다지 우마 제스타우트 무이투 마이오르 이 무이투 마이스 콤플레샤 지 펜사멘투 이 이네르지아, 이 아 모비멘투 콘스탄치. 노수스 센치두스 피지쿠스 아페나스 시 콘센트랑 누 우우치무 프로두투 '피지쿠' 이 이그노랑 콤플레타멘치, 오 상 잉카파지스 지 페르세베르, 토다스 아스 판타스치카스 콩글로메라두스 지 포르마 이 우 포데르 키 토르낭 포시베우 카다 오브제투 피지쿠 잉 카다 포시베우 모멘투 지 수아 이지스텐시아.
+Todo objeto físico, então, como a mesa ou a xícara de café, é na verdade uma gestalt muito maior e muito mais complexa de pensamento e energia, e há movimento constante. Nossos sentidos físicos apenas se concentram no último produto 'físico' e ignoram completamente, ou são incapazes de perceber, todas as fantásticas conglomerados de forma e o poder que tornam possível cada objeto físico em cada possível momento de sua existência.
 
+---
 ---
 
 우 키 데비 세르 페르세비두 에 키 우 아르콘치, 우 “오스페데이루” 델리, 이 아 미리아지 지 오트루스 세리스 낭 오르가니쿠스 키 아타캉 아 우마니다지 낭 이스탕 인테레사두스 누 벵 오 누 마우. 엘리스 이스탕 인테레사두스 잉 인텐시다지스 지 이모상, 지 쿠아우케르 포르마 키 포상 오브테-라스, 이 에스타 에 아 나투레자 이 아 하장 파라 아스 게하스 메메치카스 키 아고라 시 이스팔량 포르 토두 우 플라네타.
+O que deve ser percebido é que o Arconte, o “Hospedeiro” dele, e a miríade de outros seres não orgânicos que atacam a humanidade não estão interessados no bem ou no mal. Eles estão interessados em intensidades de emoção, de qualquer forma que possam obtê-las, e esta é a natureza e a razão para as guerras meméticas que agora se espalham por todo o planeta.
 
 아우키미스타스 인테르누스 이스탕 인테레사두스 잉 콤바테르 에사 게하 다 우니카 마네이라 포시베우: 아상 인테르나 이 콘텐상 이네르제치카.
+Alquimistas internos estão interessados em combater essa guerra da única maneira possível: ação interna e contenção energética.
 
+---
 ---
 
 파라 아 마이오리아, 우 카미뉴 파라 아 리베르다지 토타우 에 우마 이스트라다 지 솔리당, 메두 이 웅 치푸 솜브리우 지 트리스테자. 엘리스 넹 콘세겡 비즐룸브라르 웅 프라그멘투 지 아우구 키 파라 노스 이스펠랴 우 인피니투, 코무 웅 바스투 오세아누 이스쿠루 오 아 네그리당 친타 두 코즈무스 이스테르누, 셍 센치르 우마 이스페시 지 멜랑콜리아 트리스치 이 웅 메두 비세라우.
+Para a maioria, o caminho para a liberdade total é uma estrada de solidão, medo e um tipo sombrio de tristeza. Eles nem conseguem vislumbrar um fragmento de algo que para nós espelha o infinito, como um vasto oceano escuro ou a negridão tinta do cosmos externo, sem sentir uma espécie de melancolia triste e um medo visceral.
 
 데모레이 무이투 파라 페르세베르 키 아 트리스테자, 아 솔리당 이 우 메두 키 시 센치 아우 올랴르 파라 아 이테르니다지 낭 벵 다 솔리당, 마스 두 포데르 아바살라도르 지 비즐룸브라르 우마 벨레자 탕 이나크레지타베우. 우 인피니투 에 아 코이자 마이스 린다 키 웅 세르 우마누 포지 테스테무냐르 이 소브레비베르, 마스 아 마이오리아 두스 세리스 우마누스 심플레즈멘치 낭 이스타 프론타 파라 우마 벨레자 탕 이즈마가도라!
+Demorei muito para perceber que a tristeza, a solidão e o medo que se sente ao olhar para a eternidade não vêm da solidão, mas do poder avassalador de vislumbrar uma beleza tão inacreditável. O infinito é a coisa mais linda que um ser humano pode testemunhar e sobreviver, mas a maioria dos seres humanos simplesmente não está pronta para uma beleza tão esmagadora!
 
+---
 ---
 
 토다 콘시엔시아 이벤투아우멘치 잉콘트라라 세우 카미뉴 파라 우 소우 네그루. 코무 엘라 셰가 라 이 쿠안투 템푸 레바 파라 셰가르 라 포지 세르 우마 이스페리엔시아 우니카, 데펜덴두 다 바리아빌리다지 데사 콘시엔시아.
+Toda consciência eventualmente encontrará seu caminho para o Sol Negro. Como ela chega lá e quanto tempo leva para chegar lá pode ser uma experiência única, dependendo da variabilidade dessa consciência.
 
 이스페시아우멘치 시 에사 콘시엔시아 포르 오르가니카 오 낭 오르가니카, 센두 키 아 낭 오르가니카 제라우멘치 텡 우마 비다 우치우 무이투 마이스 롱가 이, 포르탄투, 우마 프로그레상 무이투 마이스 롱가 파라 우 소우 네그루.
+Especialmente se essa consciência for orgânica ou não orgânica, sendo que a não orgânica geralmente tem uma vida útil muito mais longa e, portanto, uma progressão muito mais longa para o Sol Negro.
 
+---
 ---
 
 우스 펜사멘투스 상 우니다지스 이네르제치카스 아우타멘치 콤플레샤스 지 인포르마상 키 포뎅 시 트란스포르마르 이 인트렐라사르 잉 지페렌치스 치푸스 지 우니다지스 지 인포르마상, 키, 코무 헤주우타두 데사 플레시빌리다지, 포뎅 크리아르 마트리지스 지 인포르마상 바스타스 (쿠아지 인피니타스). 우 타마뉴 탐벵 낭 에 웅 파토르, 포이스 아 메노르 파르치 포시베우 지 웅 펜사멘투 마이오르 탐벵 포지 콘테르 우마 쿠안치다지 쿠아지 인피니타 지 인포르마송이스. 이수 토르나 아 노사 헤알리다지 수브제치바 이멘수라베우 우잔두 아 로지카 클라시카 아투아우 이, 포르탄투, 알렝 두 아우칸시 다 시엔시아 모데르나, 이 코무 헤주우타두, 아 시엔시아 클라시피카 아 수브제치비다지 우마나 코무 우마 템페스타지 지 임푸우수스 잉콘시엔치스 솜브리우스 키 데벵 세르 콘트롤라두스 아트라베스 다 하장 콘시엔치.
+Os pensamentos são unidades energéticas altamente complexas de informação que podem se transformar e entrelaçar em diferentes tipos de unidades de informação, que, como resultado dessa flexibilidade, podem criar matrizes de informação vastas (quase infinitas). O tamanho também não é um fator, pois a menor parte possível de um pensamento maior também pode conter uma quantidade quase infinita de informações. Isso torna a nossa realidade subjetiva imensurável usando a lógica clássica atual e, portanto, além do alcance da ciência moderna, e como resultado, a ciência classifica a subjetividade humana como uma tempestade de impulsos inconscientes sombrios que devem ser controlados através da razão consciente.
 
+---
 ---
 
 이지스텡 세르투스 프린시피우스 푼다멘타이스 키 코스투무 헤페치르, 키 이스포뉴, 키 낭 상 미냐 데스코베르타, 키 세르타멘치 낭 상 메우 우니쿠 코녜시멘투, 마스 키 헤피투 (팔루), 포르키 헤프레젠탕 에시스 프린시피우스 푼다멘타이스 다 아우키미아 키 텐투 세기르 다 멜료르 마네이라 포시베우.
+Existem certos princípios fundamentais que costumo repetir, que exponho, que não são minha descoberta, que certamente não são meu único conhecimento, mas que repito (falo), porque representam esses princípios fundamentais da alquimia que tento seguir da melhor maneira possível.
 
 에시스 프린시피우스 푼다멘타이스 헤아우멘치 아피르망 키 에스타 테하 에 우마 이스콜라, 키 아 두레자 이 아 아스페레자 데스치 암비엔치 시그니피캉 지 파투 키 에스타 에 우마 이스콜라 무이투 보아. 마스 코무 토다스 아스 푼송이스 나 나투레자, 낭 아 데스페르지시우, 이 프레켄테멘치 아콘테시 키 이지스텡 무이타스 파세타스 지페렌치스, 프레켄시아스 오 지멘송이스 지페렌치스, 포르사스 아투안치스, 시 프레페리르, 키 트라발량 준타스 파라 크리아르 웅 시스테마 잉크리베우멘치 콤플레슈 키 페르미치 무이투스 치푸스 지페렌치스 지 크레시멘투.
+Esses princípios fundamentais realmente afirmam que esta terra é uma escola, que a dureza e a aspereza deste ambiente significam de fato que esta é uma escola muito boa. Mas como todas as funções na natureza, não há desperdício, e frequentemente acontece que existem muitas facetas diferentes, frequências ou dimensões diferentes, forças atuantes, se preferir, que trabalham juntas para criar um sistema incrivelmente complexo que permite muitos tipos diferentes de crescimento.
 
+---
 ---
 
 지 아코르두 콩 아 비장 두스 아우키미스타스 인테르누스, 낭 나세무스 이모르타이스, 데베무스 루타르 콩 카다 파르치쿨라 두 노수 세르 파라 누스 토르나르무스 이모르타이스!
+De acordo com a visão dos alquimistas internos, não nascemos imortais, devemos lutar com cada partícula do nosso ser para nos tornarmos imortais!
 
+---
 ---
 
 웅 프로제치스타 에 우마 페소아 키 프로제타 키 시 모비 그라사스 아 웅 치푸 지 모비멘투 인테르누 키 에 이멘수라베우 우잔두 우스 파드롱이스 이 크렌사스 하시오나이스 아투아이스. 웅 프로제치스타 에 우마 페소아 키 에 시무우타네아멘치 웅 비덴치 이 웅 비아잔치 상 아켈리스 키 잉콘트라랑 우 포르타우 이 상 코라조주스 우 수피시엔치 파라 아트라베사-루.
+Um projetista é uma pessoa que projeta; que se move graças a um tipo de movimento interno que é imensurável usando os padrões e crenças racionais atuais. Um projetista é uma pessoa que é simultaneamente um vidente e um viajante; são aqueles que encontraram o portal e são corajosos o suficiente para atravessá-lo.
 
 토르나르-시 웅 프로제치스타 시그니피카 세르 카파스 지 이지스치르 이 이스페리엔시아르 알렝 다 카르니, 이 에사 노바 헤알리다지 페소아우 포지 세르 이스플로라다 포르 시 메즈마, 우 키 포지 프로포르시오나르 코녜시멘투 인피니투 이 우마 무우치플리시다지 이 지베르시다지 지 이스페리엔시아스 키 데자피앙 아 멘치.
+Tornar-se um projetista significa ser capaz de existir e experienciar além da carne, e essa nova realidade pessoal pode ser explorada por si mesma, o que pode proporcionar conhecimento infinito e uma multiplicidade e diversidade de experiências que desafiam a mente.
 
 이/오 포지 세르 우 프리메이루 파수 콩크레투 파라 아우칸사르 아 이지스텐시아 인지비두아우 페르마넨치 알렝 다 모르치 두 코르푸 지 카르니 이 상기.
+E/ou pode ser o primeiro passo concreto para alcançar a existência individual permanente além da morte do corpo de carne e sangue.
 
+---
 ---
 
 페르군타: 보세 멘시오나 키 에 포시베우 비베르 포르 세쿨루스 누 세군두 문두 잉쿠안투 시 가스타 우 이키발렌치 아 오라스 누 플라누 피지쿠. 보세 포데리아 코멘타르 소브리 에사 페르세프상 지페렌치?
+Pergunta: Você menciona que é possível viver por séculos no segundo mundo enquanto se gasta o equivalente a horas no plano físico. Você poderia comentar sobre essa percepção diferente?
 
 헤스포스타: 아슈 키 아 마이오리아 다스 페소아스 자 테비 오 코녜시 아우겡 키 테비 아 이스페리엔시아 지 치라르 웅 코실루 레비, 이 메즈무 키 이스치베셍 도르민두 포르 아우구 키 포데리아 테르 시두 미누투스 누 템푸 두 헬로지우, 나 베르다지 파레시아 아우 아도르메시두 키 포이 무이투 마이스 템푸. 잉 오트라스 팔라브라스, 무이타스 페소아스 자 치베랑 우마 이스페리엔시아 잉 키 우 템푸 인테르누 파레시 아콘테세르 아 우마 타샤 무이투 지페렌치 두 템푸 피지쿠 이스테르누.
+Resposta: Acho que a maioria das pessoas já teve ou conhece alguém que teve a experiência de tirar um cochilo leve, e mesmo que estivessem dormindo por algo que poderia ter sido minutos no tempo do relógio, na verdade parecia ao adormecido que foi muito mais tempo. Em outras palavras, muitas pessoas já tiveram uma experiência em que o tempo interno parece acontecer a uma taxa muito diferente do tempo físico externo.
 
 우스 아우키미스타스 인테르누스, 아트라베스 지 수아 카파시다지 지 아우멘타르 우 포데르 지 수아 아텐상, 상 카파지스 지 치라르 토타우 프로베이투 데시 페노메누. 아우 시 토르나렝 프로제치스타스 포데로주스, 엘리스 포뎅 시 모베르 파라 지페렌치스 로카이스 지멘시오나이스 오 프시콜로지쿠스/인테리오리스, 온지 포지 아베르 우마 그란지 바리아상 엔트리 에시 템푸 인테르누 이 우 템푸 이스테르누 두 헬로지우.
+Os alquimistas internos, através de sua capacidade de aumentar o poder de sua atenção, são capazes de tirar total proveito desse fenômeno. Ao se tornarem projetistas poderosos, eles podem se mover para diferentes locais dimensionais ou psicológicos/interiores, onde pode haver uma grande variação entre esse tempo interno e o tempo externo do relógio.
 
 아트라베스 다 카파시다지 지 프로제타르 카다 베스 마이스 프로푼다멘치 콩 마이오르 발리다지 이 포쿠, 웅 아우키미스타 인테르누 포지 데스코브리르 오트라스 파이자젱스, 파이자젱스 인테르나스 키 인탕 포뎅 마페아르. 우마 베스 마페아다스, 엘리스 포뎅 헤토르나르 아 에시스 로카이스 인테르누스 헤페치다스 베지스, 이 타이스 로카이스 아스 베지스 포뎅 페르미치르 키 타이스 프로제치스타스 메스트리스 아비텡 네시스 로카이스 포르 페리오두스 프롤롱가두스 지 템푸. 시 에시스 로카이스 시 모벵 잉 우마 벨로시다지 무이투 마이오르 두 키 아 지멘상 피지카, 인탕 타이스 프로제치스타스 상 인탕 카파지스 지 비베르 이벤투스 인테이루스 다 비다 키 포뎅 레바르 아페나스 아우궁스 미누투스 지 템푸 피지쿠 두 헬로지우.
+Através da capacidade de projetar cada vez mais profundamente com maior validade e foco, um alquimista interno pode descobrir outras paisagens, paisagens internas que então podem mapear. Uma vez mapeadas, eles podem retornar a esses locais internos repetidas vezes, e tais locais às vezes podem permitir que tais projetistas mestres habitem nesses locais por períodos prolongados de tempo. Se esses locais se movem em uma velocidade muito maior do que a dimensão física, então tais projetistas são então capazes de viver eventos inteiros da vida que podem levar apenas alguns minutos de tempo físico do relógio.
 
 코무 타우, 웅 아우키미스타 인테르누 키 마페오 이 에 카파스 지 시 모베르 파라 에시스 로카이스 포르 페리오두스 프롤롱가두스 지 템푸, 포지, 네시 센치두, 비베르 이지스텐시아스 인테이라스, 우 이키발렌치 아 비다스 인테이라스, 잉 오트라스 지멘송이스, 파르치시판두 두 키 포뎅 아테 세르 그란지스 아벤투라스, 키 오쿠팡 아페나스 오라스 누 문두 피지쿠. 타우 인지비두 포지 인탕 세르 콘시데라두 잉크리베우멘치 벨류, 임보라 두 폰투 지 비스타 피지쿠, 지 아코르두 콩 우 템푸 두 헬로지우, 엘리 낭 파레사 세르 탕 벨류 아싱.
+Como tal, um alquimista interno que mapeou e é capaz de se mover para esses locais por períodos prolongados de tempo, pode, nesse sentido, viver existências inteiras, o equivalente a vidas inteiras, em outras dimensões, participando do que podem até ser grandes aventuras, que ocupam apenas horas no mundo físico. Tal indivíduo pode então ser considerado incrivelmente velho, embora do ponto de vista físico, de acordo com o tempo do relógio, ele não pareça ser tão velho assim.
 
 우마 비다 인테이라 루시다 (콘시엔치 이 렘브라다) 포지 세르 비비다 잉 우마 노이치 지 템푸 피지쿠... 이 아우 아코르다르, 타우 비아잔치 포지 데스페르타르 코무 우마 페소아 콤플레타멘치 지페렌치.
+Uma vida inteira lúcida (consciente e lembrada) pode ser vivida em uma noite de tempo físico... e ao acordar, tal viajante pode despertar como uma pessoa completamente diferente.
 
+---
 ---
 
 아 헤알리다지 다 페소아 메지아 에 콤포스타 지 수포지송이스 낭 이자미나다스 수포지송이스 키 파레셍 세르 콘피르마다스 셍 팔랴스 포르 세우스 센치두스 피지쿠스.
+A realidade da pessoa média é composta de suposições não examinadas; suposições que parecem ser confirmadas sem falhas por seus sentidos físicos.
 
 마스 눙카 오코히 아 에사 페소아 메지아 키 우 키 세우스 센치두스 피지쿠스 페르세벵 에 우 헤주우타두 지 토다스 에사스 수포지송이스 낭 이자미나다스.
+Mas nunca ocorre a essa pessoa média que o que seus sentidos físicos percebem é o resultado de todas essas suposições não examinadas.
 
 웅 테히베우 베쿠 셍 사이다 누 피나우, 키 텡 토다스 아스 카락테리스치카스 지 우마 프리장 셍 파레지스.
+Um terrível beco sem saída no final, que tem todas as características de uma prisão sem paredes.
 
+---
 ---
 
 프레스치 아텐상 아 수아 아텐상!
+PRESTE ATENÇÃO À SUA ATENÇÃO!
 
+---
 ---
 
 [^2]: 데프 토그트 에 웅 수페르콤푸타도르 이스트레마멘치 포데로주, 지 파투 소브레나투라우, 프로그라마두 파라 카우쿨라르 아 헤스포스타 파라 아 페르군타 푼다멘타우 다 "비다, 두 우니베르수 이 지 투두". 엘리 에 아프레젠타두 나 세리 지 리브루스 지 픽상 시엔치피카 지 도글라스 아담스, 우 기아 두 모실레이루 다스 갈라시아스.
+[^2]: Deep Thought é um supercomputador extremamente poderoso, de fato sobrenatural, programado para calcular a resposta para a Pergunta Fundamental da "Vida, do Universo e de Tudo". Ele é apresentado na série de livros de ficção científica de Douglas Adams, O Guia do Mochileiro das Galáxias.
 
 ## 카피툴루 2: 우스 세르비도리스
+## CAPÍTULO 2: OS SERVIDORES
 
 **우 우니코르니우 올료 소냐도라멘치 파라 알리시 이 지시: "팔리, 크리안사."**
+**O Unicórnio olhou sonhadoramente para Alice e disse: "Fale, criança."**
 **알리시 낭 포지 이비타르 키 세우스 라비우스 시 쿠르바셍 잉 웅 소히주 아우 코메사르: "사비, 이우 셈프리 아셰이 키 우니코르니우스 포셍 몬스트루스 파불로주스, 탐벵? 눙카 비 웅 비부 안치스!"**
+**Alice não pôde evitar que seus lábios se curvassem em um sorriso ao começar: "Sabe, eu sempre achei que Unicórnios fossem monstros fabulosos, também? Nunca vi um vivo antes!"**
 **"벵, 아고라 키 누스 비무스", 지시 우 우니코르니우, "시 보세 아크레지타르 잉 밍, 이우 아크레지타레이 잉 보세. 에 웅 트라투?"**
+**"Bem, agora que nos vimos", disse o Unicórnio, "Se você acreditar em mim, eu acreditarei em você. É um trato?"**
 _― 레위스 카호우, 아트라베스 두 이스펠류_
+_― LEWIS CARROLL, ATRAVÉS DO ESPELHO_
 
 토두스 우스 인시나멘투스 다 아우키미아 인테르나 이스탕 코넥타두스.
+Todos os ensinamentos da alquimia interna estão conectados.
 
 올랸두 파라 우 코르푸 지 트라발류 키 아프레젠테이 아테 아고라 아우 레이토르, 이 이스페시아우멘치 아우 프라치칸치 세리우 다 아우키미아 인테르나, 포지 파레세르 키 우스 프리메이루스 리브루스 키 이스크레비 포뎅 낭 세르 탕 임포르탄치스 쿠안투 우스 포스테리오리스. 아, 지 파투, 우마 오르뎅 프로그레시바 키 포이 세기다, 키 인트로두스 우 카미뉴 다 아우키미아 인테르나 코메산두 콩 웅 이즈보수 제라우 다 콘시엔시아, 키 에 아프레젠타두 누 리브루 _아 이스페리엔시아 오쿠우타_. 이수 에 세기두 펠라 트릴로지아 두스 세르비도리스, 키 아 프리메이라 비스타 포지 파레세르 웅 콘준투 헬라치바멘치 심플리스 지 테크니카스 잉 콤파라상 콩 우 키 시 세기라 누스 리브루스 포스테리오리스 소브리 아우키미아 인테르나.
+Olhando para o corpo de trabalho que apresentei até agora ao leitor, e especialmente ao praticante sério da alquimia interna, pode parecer que os primeiros livros que escrevi podem não ser tão importantes quanto os posteriores. Há, de fato, uma ordem progressiva que foi seguida, que introduz o caminho da alquimia interna começando com um esboço geral da consciência, que é apresentado no livro _A Experiência Oculta_. Isso é seguido pela trilogia dos servidores, que à primeira vista pode parecer um conjunto relativamente simples de técnicas em comparação com o que se seguirá nos livros posteriores sobre alquimia interna.
 
 마스 에시스 프리메이루스 리브루스 낭 데벵 세르 수베스치마두스 잉 세우 포데르, 이스페시아우멘치 우스 리브루스 소브리 아 크리아상 지 세르비도리스, 키 상 콤포스투스 포르: _크리 웅 세르비도르_, _크리 웅 콤파녜이루 세르비도르_, 이 _마니페스치 히케자 이 프로스페리다지 콩 포르마스 지 펜사멘투 이 세르비도리스_.
+Mas esses primeiros livros não devem ser subestimados em seu poder, especialmente os livros sobre a criação de servidores, que são compostos por: _Crie um Servidor_, _Crie um Companheiro Servidor_, e _Manifeste Riqueza e Prosperidade com Formas de Pensamento e Servidores_.
 
 아 하장 파라 이수 에 키 에시스 리브루스 헤프레젠탕 아 코네샹 지레타 엔트리 아 피지칼리다지 이 우스 헤이누스 인테르누스 키 상 탕 임포르탄치스 파라 아 코헨치 다 아우키미아 인테르나. 에시스 리브루스 델리네이앙 우 콘준투 바지쿠 지 프린시피우스 키 페르미텡 키 웅 펜사멘투 시 토르니 우마 포르마, 이 인탕 트란스포르미 에사 포르마 잉 우마 코이자, 우마 코이자 헤아우 누 문두 키 이벤투아우멘치 포사 세르 비스타 포르 오트루스 이 포사 코메사르 아 아페타르 지레타멘치 아 이센시아 마테리아우 데스치 문두.
+A razão para isso é que esses livros representam a conexão direta entre a fisicalidade e os reinos internos que são tão importantes para a corrente da alquimia interna. Esses livros delineiam o conjunto básico de princípios que permitem que um pensamento se torne uma forma, e então transforme essa forma em uma coisa, uma coisa real no mundo que eventualmente possa ser vista por outros e possa começar a afetar diretamente a essência material deste mundo.
 
 푼다멘타우멘치, 우스 세르비도리스 포뎅 세르 콘시데라두스 코무 우마 테크니카 키 데스크레비 멜료르 아 '아르보리-문지아우', 키 에 웅 심볼루 잉크리베우멘치 임포르탄치 덴트루 다 아우키미아 아반사다. 에스치 심볼루 다 아르보리-문지아우 에 무이투 임포르탄치 포르키 델리네이아 멜료르 아스 테크니카스 이 포르사스 키 트라젱 우 키 제라우멘치 에 헤코녜시두 코무 트란즈무타상. 포르 아르보리-문지아우 이 우 심볼리즈무 다 메즈마, 케루 지제르 키 에사 아르보리-문지아우 헤프레젠타 아 폰치 코넥치바 키 우니 우스 아스펙투스 인테르누스 지 노스 아우스 이스테르누스 피지쿠스 아 폰치 엔트리 아 헤알리다지 인테르나 온지 투두 코메사 이 우 문두 이스테리오르 트리지멘시오나우. 우 트라발류 클라시쿠 다 아우키미아 인테르나 에 아 아빌리다지 지 레바르 아우구 지 우마 포지상 나 아르보리-문지아우 이, 아트라베스 지 지페렌치스 테크니카스, 레바-루 파라 오트라 포지상, 오트라 비브라상, 오트루 로카우 지멘시오나우, 이 아우 파제르 이수, 트란즈무타르 아 이센시아 지 우마 코이자 잉 오트라. 트란즈무타상 에 우 모비멘투 지 우마 코이자 지 웅 폰투 나 아르보리-문지아우 파라 오트루.
+Fundamentalmente, os servidores podem ser considerados como uma técnica que descreve melhor a 'árvore-mundial', que é um símbolo incrivelmente importante dentro da alquimia avançada. Este símbolo da árvore-mundial é muito importante porque delineia melhor as técnicas e forças que trazem o que geralmente é reconhecido como transmutação. Por árvore-mundial e o simbolismo da mesma, quero dizer que essa árvore-mundial representa a ponte conectiva que une os aspectos internos de nós aos externos físicos; a ponte entre a realidade interna onde tudo começa e o mundo exterior tridimensional. O trabalho clássico da alquimia interna é a habilidade de levar algo de uma posição na árvore-mundial e, através de diferentes técnicas, levá-lo para outra posição, outra vibração, outro local dimensional, e ao fazer isso, transmutar a essência de uma coisa em outra. Transmutação é o movimento de uma coisa de um ponto na árvore-mundial para outro.
 
 아싱, 우스 세르비도리스 상 타우베스 아 마이오르 콘세켄시아 이 이젬플루 지 우마 테크니카 키 시 인보우비 네스치 치푸 지 트란즈무타상, 키 페가 아우구 잉콘트라두 나 헤알리다지 수브제치바 이, 아트라베스 두 포쿠 다 아텐상, 트란즈무타 에사 수브제치비다지 잉 우마 코이자 오브제치바, 잉 우마 코이자 키 포지 아페타르 우 문두 오브제치부, 이 키 포지, 콩 우 템푸, 아테 시 토르나르 페르세프치베우 펠루스 센치두스 피지쿠스. 우스 세르비도리스 상 우마 코네샹 엔트리 아 헤알리다지 수브제치바 이 우 문두 오브제치부 엘리스 상 베르다데이라 마지아 잉 아상. 엘리스 코메상 수아 이지스텐시아 (코무 토다스 아스 코이자스 파젱) 잉 웅 이스타두 인테르누 이 수브제치부, 키 이니시아우멘치 낭 포지 세르 페르세비두 펠루스 센치두스 피지쿠스. 코무 타우, 엘리스 코메상 수아 이지스텐시아 잉 우마 포지상 아우 롱구 다 폰치 다 아르보리-문지아우, 이 인탕 상 레바두스, 아트라베스 두 포데르 두 포쿠, 파라 오트라 포지상. 아 아르보리-문지아우, 포르탄투, 포지 세르 지타 코무 코넥탄두 토다스 아스 코이자스, 탄투 우 문두 두 이스피리투 쿠안투 우 마테리아우, 우 세우 이 우 인페르누, 이 투두 우 키 이스타 엔트리 엘리스. 이 우 아우키미스타, 이스페시피카멘치 우 아우키미스타 인테르누, 에 아우겡 키 트란즈무타 아스 코이자스 잉 이지스텐시아, 트라젠두-아스 지 우마 포지상 나 아르보리-문지아우 파라 오트라.
+Assim, os servidores são talvez a maior consequência e exemplo de uma técnica que se envolve neste tipo de transmutação, que pega algo encontrado na realidade subjetiva e, através do foco da atenção, transmuta essa subjetividade em uma coisa objetiva, em uma coisa que pode afetar o mundo objetivo, e que pode, com o tempo, até se tornar perceptível pelos sentidos físicos. Os servidores são uma conexão entre a realidade subjetiva e o mundo objetivo; eles são verdadeira magia em ação. Eles começam sua existência (como todas as coisas fazem) em um estado interno e subjetivo, que inicialmente não pode ser percebido pelos sentidos físicos. Como tal, eles começam sua existência em uma posição ao longo da ponte da árvore-mundial, e então são levados, através do poder do foco, para outra posição. A árvore-mundial, portanto, pode ser dita como conectando todas as coisas, tanto o mundo do espírito quanto o material, o céu e o inferno, e tudo o que está entre eles. E o alquimista, especificamente o alquimista interno, é alguém que transmuta as coisas em existência, trazendo-as de uma posição na árvore-mundial para outra.
 
 이지스텡 무이투스 심볼루스 이 마파스 오쿠우투스 키 헤벨랑 우 그란지 포데르 데사 코네샹 엔트리 우 판타즈마 나 마키나 이 우스 헤이누스 키 엘리 포지 아비타르. 케르 세자 샤마다 지 이그드라지우 오 아르보리 세이바, 에사 아르보리 코넥타 토두스 우스 문두스, 이 에 우 카미뉴 키 우 판타즈마 나 마키나 데비 페르코헤르, 세자 나 비다 피지카 오 아포스 아 모르치 피지카, 잉쿠안투 파스 수아 비아젱 피나우 잉 지레상 아우 소우 네그루. 이 타우베스 아 마이오르 코네샹 엔트리 미드가르드 (우 헤이누 두 메이우, 노수 헤이누 마테리아우) 이 아우구마스 다스 지멘송이스 마이스 이테레아스, 세자 우 세르비도르 이노센치, 포르키 헤프레젠타 우마 이스페시 지 포르타 지 코네샹 아세시베우 키 포지 홈페르 아 바헤이라 엔트리 노스 이 우스 데우지스, 엔트리 노스 키 이스타무스 프레주스 덴트루 다스 세이스 파레지스 지 미드가르드 이 아 인피니투지 지 헤이누스 아 세렝 잉콘트라두스 알렝 델리스.
+Existem muitos símbolos e mapas ocultos que revelam o grande poder dessa conexão entre o fantasma na máquina e os reinos que ele pode habitar. Quer seja chamada de Yggdrasil ou Árvore Ceiba, essa árvore conecta todos os mundos, e é o caminho que o fantasma na máquina deve percorrer, seja na vida física ou após a morte física, enquanto faz sua viagem final em direção ao Sol Negro. E talvez a maior conexão entre Midgard (o reino do meio, nosso reino material) e algumas das dimensões mais etéreas, seja o servidor inocente, porque representa uma espécie de porta de conexão acessível que pode romper a barreira entre nós e os deuses, entre nós que estamos presos dentro das seis paredes de Midgard e a infinitude de reinos a serem encontrados além deles.
 
 우스 세르비도리스 포뎅 누스 모스트라르 지 마네이라 지레타 우 키 에 마니페스타상, 트란즈무타상. 엘리스 파젱 이수 페간두 아우구 수포스타멘치 이헤아우 (노수스 펜사멘투스 이 노사 헤알리다지 수브제치바) 이 트란스포르만두 에시 아스펙투 인테리오르 수포스타멘치 이헤아우 지 노스 메즈무스 (키 이지스치 잉 우마 포지상 지멘시오나우 지페렌치 다 노사, 잉 우마 포지상 지페렌치 덴트루 다 아르보리-문지아우) 이 인탕 토르난두 에사 코이자 이헤아우 헤아우, 트라젠두-아 파라 알렝 다스 파레지스 지 미드가르드 이 파라 아 노사 헤알리다지 우잔두 이타파스 아우키미카스 콤프렌시베이스. 우스 세르비도리스 상 우마 폰치 이 우마 이스페시 지 포르타, 이 우마 마네이라 키 누스 페르미치 지 포르마 콤프렌시베우, 코무 홈페르 아 '구아르다 메지아', 이 아우 파제르 이수, 코메사르 아 우자르 우 베르다데이루 포데르 다 아우키미아 네스치 문두 피지쿠. 이수 에 트란즈무타상.
+Os servidores podem nos mostrar de maneira direta o que é manifestação, transmutação. Eles fazem isso pegando algo supostamente irreal (nossos pensamentos e nossa realidade subjetiva) e transformando esse aspecto interior supostamente irreal de nós mesmos (que existe em uma posição dimensional diferente da nossa, em uma posição diferente dentro da árvore-mundial) e então tornando essa coisa irreal real, trazendo-a para além das paredes de Midgard e para a nossa realidade usando etapas alquímicas compreensíveis. Os servidores são uma ponte e uma espécie de porta, e uma maneira que nos permite de forma compreensível, como romper a 'guarda média', e ao fazer isso, começar a usar o verdadeiro poder da alquimia neste mundo físico. Isso é transmutação.
 
 아 크리아상 지 세르비도리스 이 우 키 엘리스 헤프레젠탕 에, 포르탄투, 아우타멘치 임포르탄치 파라 우 아우키미스타 인테르누, 포르키 우스 세르비도리스 잉코르포랑 아 베르다데이라 트란즈무타상. 우스 세르비도리스 포뎅 아주다르 우스 아우키미스타스 인테르누스 아 인텐데르 코무 홈페르 아스 세이스 파레지스, 이 탐벵 포뎅 아주다-루스 아 리다르 콩 우스 무이투스 오브스타쿨루스 잉콘트라두스 네스치 헤이누 메지우.
+A criação de servidores e o que eles representam é, portanto, altamente importante para o alquimista interno, porque os servidores incorporam a verdadeira transmutação. Os servidores podem ajudar os alquimistas internos a entender como romper as seis paredes, e também podem ajudá-los a lidar com os muitos obstáculos encontrados neste reino médio.
 
 웅 세르비도르 포지 세르 우자두 지 바리아스 마네이라스 지페렌치스. 포지 세르 우자두 코무 우마 포르마 지 프로테상 콘트라 우 피지쿠 이 우 수포스타멘치 낭 피지쿠 오 낭 오르가니쿠. 웅 세르비도르 포지 세르 우자두 파라 누스 트라제르 히케자, 엘리스 포뎅 누스 아주다르 아 베르, 이 포뎅 시 토르나르 베르다데이루스 이 그란지스 콤파녜이루스, 탄투 덴트루 두 헤이누 트리지멘시오나우 쿠안투 나스 지멘송이스 이스테리오리스 아 세렝 잉콘트라다스 알렝 지 미드가르드. 이 엘리스 상, 코무 이우 지시, 우스 마이오리스 메스트리스 두 포데르 두 펜사멘투, 두 포데르 지 오트라스 지멘송이스, 두 수브제치부, 파라 아페타르 우 오브제치부.
+Um servidor pode ser usado de várias maneiras diferentes. Pode ser usado como uma forma de proteção contra o físico e o supostamente não físico ou não orgânico. Um servidor pode ser usado para nos trazer riqueza, eles podem nos ajudar a ver, e podem se tornar verdadeiros e grandes companheiros, tanto dentro do reino tridimensional quanto nas dimensões exteriores a serem encontradas além de Midgard. E eles são, como eu disse, os maiores mestres do poder do pensamento, do poder de outras dimensões, do subjetivo, para afetar o objetivo.
 
 네스치 카피툴루, 포르탄투, 케루 다르 우마 데피니상 제라우 두 키 상 세르비도리스, 코무 에 키 이우 우스 데스크레부, 이 코무 에 키 시 포지 크리아-루스 이 카헤가-루스. 데포이스 지 파제르 이수, 콘치누 콜로칸두 아스 페르군타스 마이스 헬레반치스 키 미 포랑 페이타스 누 콘테스투 다 트란즈무타상 지 세르비도리스. 아크레지투 키 시 보세 레르 에스타스 파사젱스 잉쿠안투 펜사 나 아르보리-문지아우, 보세 가냐라 우마 잉크리베우 페르세프상 지 코무 에 키 웅 아우키미스타 인테르누 아프렌지 아 모베르 코이자스 아우 롱구 지 이그드라지우.
+Neste capítulo, portanto, quero dar uma definição geral do que são servidores, como é que eu os descrevo, e como é que se pode criá-los e carregá-los. Depois de fazer isso, continuo colocando as perguntas mais relevantes que me foram feitas no contexto da transmutação de servidores. Acredito que se você ler estas passagens enquanto pensa na árvore-mundial, você ganhará uma incrível percepção de como é que um alquimista interno aprende a mover coisas ao longo de Yggdrasil.
 
 ### 우 키 상 세르비도리스?
+### O que são servidores?
 
 웅 세르비도르 에 이센시아우멘치 웅 세르부 키 보세 크리아 파라 파제르 우 키 보세 만다. 에 우마 크리아투라 크리아다 누 플라누 아스트라우 키 이제쿠타 우마 데테르미나다 타레파 키 보세 이지지.
+Um servidor é essencialmente um servo que você cria para fazer o que você manda. É uma criatura criada no plano astral que executa uma determinada tarefa que você exige.
 
 보 모스트라르 코무 파제르 웅 세르비도르 파라 키 보세 포사 우자-루 파라 아주다-루. 에스타 에 아 미냐 베르상 지 크리아르 웅 세르비도르, 에 우 이스페시아우 지 종 크레이테르, 우 키 시그니피카 키 에 지 세르타 포르마 마이스 심플리스, 마스 탐벵 웅 메토두 무이투 마이스 포데로주 지 크리아르 웅 세르 아스트라우 파라 우스 세우스 프로포지투스.
+Vou mostrar como fazer um servidor para que você possa usá-lo para ajudá-lo. Esta é a minha versão de criar um servidor, é o especial de John Kreiter, o que significa que é de certa forma mais simples, mas também um método muito mais poderoso de criar um ser astral para os seus propósitos.
 
 웅 세르비도르 포지 세르 우자두 파라:
+Um servidor pode ser usado para:
 
 - 프로테제르 수아 프로프리에다지 오 엔치스 케리두스
+- Proteger sua propriedade ou entes queridos
 - 아주다-루 아 크리아르 우마 아우라 잉 토르누 지 시 메즈무 (포르 이젬플루, 보세 포지 크리아르 웅 키 세자 코무 우마 루스 키 우 엔샤 지 콘피안사, 코라젱, 소르치, 이트크.)
+- Ajudá-lo a criar uma aura em torno de si mesmo (por exemplo, você pode criar um que seja como uma luz que o encha de confiança, coragem, sorte, etc.)
 - 트라제르 코이자스 키 보세 포사 프레시자르
+- Trazer coisas que você possa precisar
 
 아 이스플리카상 제라우 두 키 에 웅 세르비도르 에 키 엘리 에 우마 포르마 지 펜사멘투 콘센트라두 키 에 크리아다 파라 헤알리자르 우마 데테르미나다(스) 타레파(스). 이조테리카멘치, 아크레지타-시 키 우스 펜사멘투스 포뎅 세르 콘센트라두스 아 타우 폰투 키 에시스 펜사멘투스 이벤투아우멘치 시 토르넹 피지카멘치 헤아이스. 아 이스플로라도라 이 이스크리토라 알레샨드라 다비드-네우, 포르 이젬플루, 이스크레베우 이스텐시바멘치 소브리 세우스 잉콘트루스 콩 포르마스 지 펜사멘투 누 치베치, 샤마다스 "투우파", 이 코무 우스 몬지스 치베타누스 에랑 잉크리베우멘치 아베이스 잉 크리아-라스. 엘라 탐벵 이스크레비 코무 포이 카파스 지 크리아르 우마 데사스 투우파스 엘라 메즈마 아포스 무이투스 메지스 지 이스포르수, 이 이벤투아우멘치 에사 포르마 지 펜사멘투 시 토르노 탕 솔리다 키 오트루스 잉 수아 이스페지상 푸데랑 베-라 탐벵[^3].
+A explicação geral do que é um servidor é que ele é uma forma de pensamento concentrado que é criada para realizar uma determinada(s) tarefa(s). Esotericamente, acredita-se que os pensamentos podem ser concentrados a tal ponto que esses pensamentos eventualmente se tornem fisicamente reais. A exploradora e escritora Alexandra David-Néel, por exemplo, escreveu extensivamente sobre seus encontros com formas de pensamento no Tibete, chamadas "Tulpa", e como os monges tibetanos eram incrivelmente hábeis em criá-las. Ela também escreve como foi capaz de criar uma dessas Tulpas ela mesma após muitos meses de esforço, e eventualmente essa forma de pensamento se tornou tão sólida que outros em sua expedição puderam vê-la também[^3].
 
 파라 크리아르 웅 세르비도르 푼시오나우 데센치, 보세 낭 프레시자 가스타르 메지스 몬탄두-우 이 세르타멘치 엘리 낭 프레시자 세르 탕 포데로주 키 오트루스 포상 베-루.
+Para criar um servidor funcional decente, você não precisa gastar meses montando-o e certamente ele não precisa ser tão poderoso que outros possam vê-lo.
 
 파라 아켈리스 키 아샹 지피시우 아크레지타르 키 아스 포르마스 지 펜사멘투 포상 세르 코알레시다스 잉 타우 포데르, 키 포상 헤아우멘치 아페타르 아 헤알리다지 오 세렝 비스타스 포르 오트라스 페소아스, 탐벵 이지스치 우마 이스플리카상 프시콜로지카 키 포지 아주다르. 아우궁스 프시콜로구스 고스탕 지 이스포르 아 테오리아 지 키 아 프시키 우마나 포지 세르 비스타 코무 콤포스타 포르 지페렌치스 파르치스 오 세자, 우 키 콘시데라무스 우마 페르소날리다지 콤플레타 에 나 베르다지 우마 페르소날리다지 콤포스타 포르 무이타스 수브페르소날리다지스 지페렌치스 트라발랸두 준타스. 아 우마 파르치 지 보세, 포르 이젬플루, 키 고스타 지 헤클라마르, 잉쿠안투 아 오트라 파르치 지 보세 키 고스타 지 가냐르 아 토두 쿠스투. 코무 트란시타무스 페르페이타멘치 지 우마 파르치 (수브페르소날리다지) 다 노사 페르소날리다지 인테이라 파라 오트라, 낭 페르세베무스 키, 나 헤알리다지, 소무스 페이투스 지 무이타스 파르치스 지페렌치스 트라발랸두 준타스.
+Para aqueles que acham difícil acreditar que as formas de pensamento possam ser coalescidas em tal poder, que possam realmente afetar a realidade ou serem vistas por outras pessoas, também existe uma explicação psicológica que pode ajudar. Alguns psicólogos gostam de expor a teoria de que a psique humana pode ser vista como composta por diferentes partes; ou seja, o que consideramos uma personalidade completa é na verdade uma personalidade composta por muitas subpersonalidades diferentes trabalhando juntas. Há uma parte de você, por exemplo, que gosta de reclamar, enquanto há outra parte de você que gosta de ganhar a todo custo. Como transitamos perfeitamente de uma parte (subpersonalidade) da nossa personalidade inteira para outra, não percebemos que, na realidade, somos feitos de muitas partes diferentes trabalhando juntas.
 
 웅 세르비도르, 인탕, 에 코무 우마 파르치 키 보세 이스타 크리안두 아트라베스 두 우주 지 웅 아투 히투아우. 보세 크리아 우마 노바 수브페르소날리다지 인테이라 오 헤우니 아우구마스 데사스 수브페르소날리다지스 파라 마니페스타르 우마 노바 키 세자 아데쿠아다 파라 웅 프로포지투 파르치쿨라르.
+Um servidor, então, é como uma parte que você está criando através do uso de um ato ritual. Você cria uma nova subpersonalidade inteira ou reúne algumas dessas subpersonalidades para manifestar uma nova que seja adequada para um propósito particular.
 
 온지 에사 이스플리카상 프시콜로지카 팔랴 에 쿠안두 오코헹 코인시덴시아스 오 싱크로니시다지스 키 파레셍 이스타르 알렝 지 우마 심플리스 아상 프시콜로지카. 세르타멘치, 아키 포데리아무스 트란스포르 이데이아스 소브리 아 페르소날리다지 아페탄두 아 헤알리다지 아트라베스 두 “잉콘시엔치 콜레치부”, 오 우 헤모델라멘투 지 이벤투스 프로바베이스 잉 웅 니베우 수브콘시엔치 포르 에사 수브페르소날리다지 헤셍-크리아다.
+Onde essa explicação psicológica falha é quando ocorrem coincidências ou sincronicidades que parecem estar além de uma simples ação psicológica. Certamente, aqui poderíamos transpor ideias sobre a personalidade afetando a realidade através do “inconsciente coletivo”, ou o remodelamento de eventos prováveis em um nível subconsciente por essa subpersonalidade recém-criada.
 
 지 쿠아우케르 포르마, 포수 지제르-리 포르 이스페리엔시아 페소아우 키 에시스 세르비도리스 푼시오낭 무이투 벵, 이 키 세우 우주 포지 세르 아우타멘치 루크라치부 시 보세 아프렌데르 에사 아빌리다지.
+De qualquer forma, posso dizer-lhe por experiência pessoal que esses servidores funcionam muito bem, e que seu uso pode ser altamente lucrativo se você aprender essa habilidade.
 
 파라 크리아르 웅 세르비도르, 보세 프레시자 파제-루 잉 트레스 파르치스:
+Para criar um servidor, você precisa fazê-lo em três partes:
 
 1. 콘스트루상
+1. Construção
 2. 카헤가멘투
+2. Carregamento
 3. 란사멘투
+3. Lançamento
 
 ### 콘스트루상
+### Construção
 
 우 프리메이루 파수 에 아 콘스트루상, 우 키 시그니피카 키 보세 텡 키 크리아르 우마 헤프레젠타상 심볼리카 두 세우 세르비도르. 파라 밍, 에스타 에 아 멜료르 파르치, 포르키 보세 이스타 이센시아우멘치 우잔두 세우스 탈렌투스 크리아치부스 파라 크리아르 웅 데지긍 파라 웅 노부 세르. 수지루 키 보세 올리 잉 토두스 우스 루가리스 이 토미 이데이아스 임프레스타다스 지 쿠아우케르 폰치 키 포사 테르 아 수아 지스포지상.
+O primeiro passo é a construção, o que significa que você tem que criar uma representação simbólica do seu servidor. Para mim, esta é a melhor parte, porque você está essencialmente usando seus talentos criativos para criar um design para um novo ser. Sugiro que você olhe em todos os lugares e tome ideias emprestadas de qualquer fonte que possa ter à sua disposição.
 
 아 우니카 코이자 키 보세 데비 테르 잉 멘치, 포렝, 에 키 보세 케르 푼시오날리다지 아시마 지 투두 펜시 누 키 보세 케르 키 세우 세르비도르 파사. 시, 포르 이젬플루, 보세 키제르 웅 세르비도르 키 사이아 펠루 문두 이 페기 아우구 파라 보세, 포지 케레르 다르 아 엘리 브라수스 벵 포르치스 오 타우베스 아테 텐타쿨루스 키 엘리 포사 우자르 파라 시 아가하르 아우 키 케르 파라 트라제-루 지 보우타 파라 보세. 시 보세 키제르 웅 세르비도르 파라 프로테제르 수아 카자, 타우베스 케이라 다르-리 우마 아르마두라 지 웅 치푸 오 지 오트루 파라 키 엘리 포사 프로테제르 보세 다 멜료르 마네이라 포시베우. 코무 이우 지시, 보세 포지 파제르 우 키 아샤르 멜료르, 아페나스 렘브리-시 지 아데리르 아 푼시오날리다지 이 탐벵 포수 수제리르 키 보세 크리 우마 크리아투라 메노르 잉 베스 지 우마 마이오르, 포이스 레바 마이스 이네르지아 이 템푸 파라 카헤가르 웅 세르비도르 마이오르.
+A única coisa que você deve ter em mente, porém, é que você quer funcionalidade acima de tudo; pense no que você quer que seu servidor faça. Se, por exemplo, você quiser um servidor que saia pelo mundo e pegue algo para você, pode querer dar a ele braços bem fortes ou talvez até tentáculos que ele possa usar para se agarrar ao que quer para trazê-lo de volta para você. Se você quiser um servidor para proteger sua casa, talvez queira dar-lhe uma armadura de um tipo ou de outro para que ele possa proteger você da melhor maneira possível. Como eu disse, você pode fazer o que achar melhor, apenas lembre-se de aderir à funcionalidade e também posso sugerir que você crie uma criatura menor em vez de uma maior, pois leva mais energia e tempo para carregar um servidor maior.
 
 아 멜료르 마네이라 지 파제르 이수 에 페가르 웅 파페우 이 이스크레베르 넬리 우마 ‘데클라라상 지 인텐상’. 에사 데클라라상 바지카멘치 헤프레젠타 우 키 보세 케르 키 세우 세르비도르 파사 오 우 키 데제자 헤알리자르 콩 세우 세르비도르. 데포이스 지 테르 아 데클라라상 지 인텐상, 펜시 잉 우마 크리아투라 키 보세 아크레지타 키 세리아 멜료르 파라 데젬페냐르 에시 데베르 키 보세 케르 키 엘라 헤알리지. 코무 이우 지시 아시마, 우지 수아 이마지나상 아키 이 크리 아우구 키 보세 헤아우멘치 고스치 이 키 아크레지치 키 세라 카파스 지 파제르 우 키 보세 케르 키 파사. 보세 포지 아테 토마르 임프레스타다스 세르타스 크리아투라스 키 자 이지스텡 이 우자르 에사 이마젱 코무 세우 세르비도르 페소아우. 포르 이젬플루, 세리아 우마 오치마 이데이아 우자르 아우구 코무 웅 ‘파사루 하이보주’ 파라 구아르다르 수아 카자 아우 프리메이루 시나우 지 프로블레마, 엘리 지스파라 이 이스플로지, 아파스탄두 쿠아우케르 페소아 오 이네르지아 말리그나. 우지 우 메즈무 파페우 파라 파제르 우마 이마젱 벵 심플리스 지 코무 세라 피지카멘치 우 세우 세르비도르.
+A melhor maneira de fazer isso é pegar um papel e escrever nele uma ‘declaração de intenção’. Essa declaração basicamente representa o que você quer que seu servidor faça ou o que deseja realizar com seu servidor. Depois de ter a declaração de intenção, pense em uma criatura que você acredita que seria melhor para desempenhar esse dever que você quer que ela realize. Como eu disse acima, use sua imaginação aqui e crie algo que você realmente goste e que acredite que será capaz de fazer o que você quer que faça. Você pode até tomar emprestadas certas criaturas que já existem e usar essa imagem como seu servidor pessoal. Por exemplo, seria uma ótima ideia usar algo como um ‘pássaro raivoso’ para guardar sua casa; ao primeiro sinal de problema, ele dispara e explode, afastando qualquer pessoa ou energia maligna. Use o mesmo papel para fazer uma imagem bem simples de como será fisicamente o seu servidor.
 
 데포이스 지 테르 수아 데클라라상 지 인텐상 이 테르 크리아두 우마 보아 헤프레젠타상 지 코무 우 세우 세르비도르 시 파레시, 우 프로시무 파수 에 크리아르 우마 베르상 마이스 카리카타 오 심플리피카다 데스치 세르비도르 누 파페우. 포르 이젬플루, 시 보세 크리오 우마 타르타루가 블린다다 파라 프로테제르 수아 카자, 데제니 우마 피구라 벵 심플리스 데사 타르타루가. 보세 포지 케레르 데제냐르 아페나스 웅 이자고누 심플리스 파라 헤프레젠타르 에스치 세르비도르 키 이스타 크리안두. 엘리 세라 이센시아우멘치 우 심볼루 펠루 쿠아우 보세 헤코녜세라 우 세우 세르비도르 펜시 니수 코무 웅 로고치푸 두 세우 세르비도르.
+Depois de ter sua declaração de intenção e ter criado uma boa representação de como o seu servidor se parece, o próximo passo é criar uma versão mais caricata ou simplificada deste servidor no papel. Por exemplo, se você criou uma tartaruga blindada para proteger sua casa, desenhe uma figura bem simples dessa tartaruga. Você pode querer desenhar apenas um hexágono simples para representar este servidor que está criando. Ele será essencialmente o símbolo pelo qual você reconhecerá o seu servidor; pense nisso como um logotipo do seu servidor.
 
 우 파수 피나우 에 다르 웅 노미 아우 세우 세르비도르. 노바멘치, 이수 피카 토타우멘치 아 세우 크리테리우, 인탕 텐치 잉콘트라르 웅 노미 키 보세 아샤 아데쿠아두 아우 세우 세르비도르 이 아우 세우 프로포지투. 탐벵 텐치 펜사르 잉 아우구 키 보세 고스치 이 키 우 인스피리 쿠안두 이스치베르 우잔두 우 세르비도르 누 푸투루. 낭 콘치 에스치 노미 아 닝겡.
+O passo final é dar um nome ao seu servidor. Novamente, isso fica totalmente a seu critério, então tente encontrar um nome que você acha adequado ao seu servidor e ao seu propósito. Também tente pensar em algo que você goste e que o inspire quando estiver usando o servidor no futuro. Não conte este nome a ninguém.
 
 인탕, 네스치 페다수 지 파페우, 보세 데비 테르:
+Então, neste pedaço de papel, você deve ter:
 
 - 데클라라상 지 인텐상 누 토푸
+- declaração de intenção no topo
 - 웅 파라그라푸 오 우마 데스크리상 폰투 아 폰투 두 키 보세 케르 키 우 세우 세르비도르 파사
+- um parágrafo ou uma descrição ponto a ponto do que você quer que o seu servidor faça
 - 웅 데제뉴 페소아우 두 세우 세르비도르 키 데비 세르 탕 콤플레슈 쿠안투 보세 푸데르 파제르
+- um desenho pessoal do seu servidor que deve ser tão complexo quanto você puder fazer
 - 우마 데스크리상 폰투 아 폰투 두스 포데리스 오 카파시다지스 이스페시아이스 두 세우 세르비도르 키 데벵 세르 아파렌치스 누 세우 데제뉴 (닝겡 마이스 데비 베르 에스치 데제뉴, 인탕 낭 시 프레오쿠피 잉 텐타르 토르나-루 페르페이투, 보세 소 케르 우마 보아 데스크리상 다 크리아투라 키 이스타 텐탄두 크리아르)
+- uma descrição ponto a ponto dos poderes ou capacidades especiais do seu servidor que devem ser aparentes no seu desenho (ninguém mais deve ver este desenho, então não se preocupe em tentar torná-lo perfeito, você só quer uma boa descrição da criatura que está tentando criar)
 - 우마 베르상 심플리피카다 두 데제뉴 데스크리치부 키 보세 페스, 에스치 에 웅 심볼루 오 ‘로고치푸’ 두 세우 세르비도르
+- uma versão simplificada do desenho descritivo que você fez, este é um símbolo ou ‘logotipo’ do seu servidor
 - 우 노미 두 세우 세르비도르
+- o nome do seu servidor
 
 ### 카헤가멘투
+### Carregamento
 
 아고라 키 보세 크리오 아 이피지 두 세우 세르비도르, 보세 프레시자 트라제-라 아 비다. 파라 파제르 이수, 보세 이라 카헤가-라 콩 아 포르사 두 펜사멘투, 키 에 이센시아우멘치 아 아텐상 페소아우. 케르 보세 아크레지치 누스 아스펙투스 프시콜로지쿠스 지 크리아르 우마 파르치 지페렌치 다 수아 프시키 페소아우, 오 아크레지치 키 프레시자 크리아르 우마 포르마 지 펜사멘투 지 인텐시다지 수피시엔치 파라 키 엘라 포사 이벤투아우멘치 아페타르 우 문두 마테리아우, 우 키 보세 이센시아우멘치 프레시자 파제르 아키 에 카헤가르 우 세우 세르비도르 이 다르-리 수아 아텐상 콘센트라다.
+Agora que você criou a efígie do seu servidor, você precisa trazê-la à vida. Para fazer isso, você irá carregá-la com a força do pensamento, que é essencialmente a atenção pessoal. Quer você acredite nos aspectos psicológicos de criar uma parte diferente da sua psique pessoal, ou acredite que precisa criar uma forma de pensamento de intensidade suficiente para que ela possa eventualmente afetar o mundo material, o que você essencialmente precisa fazer aqui é carregar o seu servidor e dar-lhe sua atenção concentrada.
 
 보세 포지 우자르 우 파페우 잉 키 일라보로 우 세우 세르비도르 오 페가르 오트루 파페우 이 넬리 데제냐르 우 로고치푸 두 세우 세르비도르 준투 콩 우 노미. 잉콘트리 웅 루가르 트랑킬루 온지 보세 포사 피카르 소지뉴 이 콜로키 아켈리 페다수 지 파페우 지안치 지 보세 파라 키 포사 베-루. 포키 토다 아 수아 아텐상 나켈리 로고치푸 이 코메시 아 헤페치르 우 노미 두 세우 세르비도르. 잉쿠안투 파스 이수, 이마지니 우 마이스 비비다멘치 포시베우 키 에스치 세르비도르 에 헤아우 이 키 이스타 비부 지안치 지 보세. 콘치누이 헤페친두 우 노미 이, 시 푸데르, 텐치 이마지나르 우 세우 세르비도르 시 콘덴산두 아시마 두 페다수 지 파페우 잉 키 보세 우 데제뇨. 마스, 우 마이스 임포르탄치, 텐치 아크레지타르 콩 카다 피브라 두 세우 세르 키 에스치 세르비도르 이스타 비부 이 이스타 아고라 지안치 지 보세.
+Você pode usar o papel em que elaborou o seu servidor ou pegar outro papel e nele desenhar o logotipo do seu servidor junto com o nome. Encontre um lugar tranquilo onde você possa ficar sozinho e coloque aquele pedaço de papel diante de você para que possa vê-lo. Foque toda a sua atenção naquele logotipo e comece a repetir o nome do seu servidor. Enquanto faz isso, imagine o mais vividamente possível que este servidor é real e que está vivo diante de você. Continue repetindo o nome e, se puder, tente imaginar o seu servidor se condensando acima do pedaço de papel em que você o desenhou. Mas, o mais importante, tente acreditar com cada fibra do seu ser que este servidor está vivo e está agora diante de você.
 
 텐치 파제르 에스치 이제르시시우 포르 봉스 10 아 30 미누투스. 이우 헤코멘두 키 보세 파사 에스치 이제르시시우 펠루 메누스 트레스 베지스, 잉 트레스 지아스 지페렌치스, 안치스 지 콘시데라르 우 세우 세르비도르 코무 푼시오나우. 쿠안투 마이스 베지스 보세 피제르 에스치 이제르시시우, 마이스 포르치 우 세우 세르비도르 시 토르나라, 이 마이스 포데로자 세라 아 수아 인플루엔시아.
+Tente fazer este exercício por bons 10 a 30 minutos. Eu recomendo que você faça este exercício pelo menos três vezes, em três dias diferentes, antes de considerar o seu servidor como funcional. Quanto mais vezes você fizer este exercício, mais forte o seu servidor se tornará, e mais poderosa será a sua influência.
 
 - 시 보세 이스치베르 크리안두 웅 세르비도르 키 우자라 아페나스 우마 베스, 인탕 카헤가-루 트레스 베지스 데비 세르 수피시엔치.
+- Se você estiver criando um servidor que usará apenas uma vez, então carregá-lo três vezes deve ser suficiente.
 - 시 보세 이스치베르 크리안두 웅 세르비도르 키 피카라 포르 페르투 포르 웅 템푸, 인탕 보세 포데리아 카헤가-루 이니시아우멘치 이 헤카헤가-루 아 카다 메스 오 콘포르미 우 키 파레세르 봉 파라 보세.
+- Se você estiver criando um servidor que ficará por perto por um tempo, então você poderia carregá-lo inicialmente e recarregá-lo a cada mês ou conforme o que parecer bom para você.
 - 시 포르 웅 세르비도르 키 보세 우자라 우마 베스 이 타우베스 우지 노바멘치 잉 아우궁스 메지스 오 아누스, 카헤기-우 코무 지 코스투미 셈프리 키 프레시자르 우자-루.
+- Se for um servidor que você usará uma vez e talvez use novamente em alguns meses ou anos, carregue-o como de costume sempre que precisar usá-lo.
 
 ### 콘주라상
+### Conjuração
 
 아 파르치 피나우 두 우주 두 세우 세르비도르 에 다르-리 인스트루송이스 지 마네이라 콘시자 이 인비아-루 파라 파제르 우 키 보세 오르데노.
+A parte final do uso do seu servidor é dar-lhe instruções de maneira concisa e enviá-lo para fazer o que você ordenou.
 
 아 멜료르 마네이라 지 파제르 이수 에 카헤가르 프리메이루 우 세우 세르비도르 아테 키 보세 테냐 우마 보아 센사상, 우마 크렌사 포르치, 지 키 엘리 헤아우멘치 이스타 비부 지안치 지 보세 (타우베스 플루투안두 아시마 두 세우 로고치푸 이 노미 나켈리 파페우). 인탕, 우마 베스 키 보세 이스테자 콘피안치 지 키 엘리 이스타 라 샤미 세우 노미, 데-리 인스트루송이스 이 만지-우 잉 세우 카미뉴. 보세 포지 지제르 아우구 코무: "\[노미 두 세르비도르], 사이아 이 프로테자 에스타 카자! 바!" 이 인탕 아폰치 나 지레상 키 보세 케르 키 엘리 바.
+A melhor maneira de fazer isso é carregar primeiro o seu servidor até que você tenha uma boa sensação, uma crença forte, de que ele realmente está vivo diante de você (talvez flutuando acima do seu logotipo e nome naquele papel). Então, uma vez que você esteja confiante de que ele está lá; chame seu nome, dê-lhe instruções e mande-o em seu caminho. Você pode dizer algo como: "\[Nome do Servidor], saia e proteja esta casa! VÁ!" E então aponte na direção que você quer que ele vá.
 
 펜시 누 세우 세르비도르 코무 웅 치푸 지 아니마우 지 이스치마상 키 보세 크리오 오 타우베스 웅 프로그라마 지 콤푸타도르 키 파스 우 키 보세 만다. 세자 포르치 이 피르미 누 통 쿠안두 시 지리지르 아 엘리 이 셈프리 렘브리 키 엘리 트라발랴 파라 보세 이 낭 우 콘트라리우. 시 보세 우 비르 보안두 오 코헨두 포르 아이 셍 아지르 다 마네이라 키 보세 데제자바, 오르데니 키 엘리 보우치 아우 트라발류 오 지가 파라 시 아파스타르 아테 키 보세 프레시지 델리. 시 보세 이스치베르 텐두 프로블레마스 네스타 아레아, 수지루 키 아시스타 아우궁스 이피조지우스 두 _잉칸타도르 지 캉이스_ 파라 인텐데르 클라라멘치 우 키 시그니피카 세르 웅 리데르.
+Pense no seu servidor como um tipo de animal de estimação que você criou ou talvez um programa de computador que faz o que você manda. Seja forte e firme no tom quando se dirigir a ele e sempre lembre que ele trabalha para você e não o contrário. Se você o vir voando ou correndo por aí sem agir da maneira que você desejava, ordene que ele volte ao trabalho ou diga para se afastar até que você precise dele. Se você estiver tendo problemas nesta área, sugiro que assista alguns episódios do _Encantador de Cães_ para entender claramente o que significa ser um líder.
 
 세자 코무 웅 이제르시시우 프시콜로지쿠 오 코무 웅 세르 아스트라우 헤아우멘치 비부 이 우마 포르마 지 펜사멘투, 우 세우 세르비도르 세라 카파스 지 헤알리자르 코이자스 잉크리베이스 시 포르 크리아두 코헤타멘치. 세자 크리아치부 나스 수아스 크리아송이스 이 나 포르마 코무 데제자 헤알리자르 세우스 데제주스, 에스타 에 우마 마네이라 베르다데이라멘치 마라빌료자 지 리다르 콩 아우궁스 두스 프로블레마스 키 보세 포사 테르 잉 수아 비다 이 우 세우 에 우 리미치 파라 우 키 세우스 세르비도리스 포뎅 파제르.
+Seja como um exercício psicológico ou como um ser astral realmente vivo e uma forma de pensamento, o seu servidor será capaz de realizar coisas incríveis se for criado corretamente. Seja criativo nas suas criações e na forma como deseja realizar seus desejos, esta é uma maneira verdadeiramente maravilhosa de lidar com alguns dos problemas que você possa ter em sua vida e o céu é o limite para o que seus servidores podem fazer.
 
 포르 이젬플루, 이우 코녜수 아우겡 키 크리오 웅 세르비도르 키 에라 우마 그란지 람파다 지 올레우 두스 아누스 1920. 에스치 세르비도르 이미치아 우마 벨라 루스 베르지 이 수아 푼상 에라 펜두라르 로구 아시마 다 포르타 다 프렌치 다 카자 델라, 일루미난두 켕 인트라시 나 카자 콩 수아 루스 아 루스 베르지 에라 우마 이네르지아 아모로자 이 벨라. 우 세르비도르 포이 크리아두 파라 트라제르 아르모니아 아 카자 이 트란즈미치르 보아스 센사송이스 아 쿠아우케르 비지탄치 키 인트라시 나 카자.
+Por exemplo, eu conheço alguém que criou um servidor que era uma grande lâmpada de óleo dos anos 1920. Este servidor emitia uma bela luz verde e sua função era pendurar logo acima da porta da frente da casa dela, iluminando quem entrasse na casa com sua luz; a luz verde era uma energia amorosa e bela. O servidor foi criado para trazer harmonia à casa e transmitir boas sensações a qualquer visitante que entrasse na casa.
 
 이지스치 웅 문두 마지쿠 아우 노수 헤도르 이 엘리 포지 세르 아세사두 포르 쿠아우케르 웅 키 이스테자 지스포스투 아 데지카르 템푸 이 이스포르수 파라 데스코브리르 노사 ‘헤알리다지 오쿠우타’.
+Existe um mundo mágico ao nosso redor e ele pode ser acessado por qualquer um que esteja disposto a dedicar tempo e esforço para descobrir nossa ‘realidade oculta’.
 
 ### 페르군타스 & 헤스포스타스
+### Perguntas & Respostas
 
 **프: 코무 보세 지시파 웅 세르비도르? 잉 오트라스 팔라브라스, 코무 보세 시 리브라 지 웅?**
+**P: Como você dissipa um servidor? Em outras palavras, como você se livra de um?**
 
 흐: 프리메이라멘치, 에 무이투 임포르탄치 키 안치스 지 크리아르 웅 세르비도르, 보세 테냐 세르테자 아브솔루타 두 키 프레텐지 파제르. 데시다 이메지아타멘치 시 아샤 키 세라 아우구 키 보세 프레시자라 아페나스 우마 베스 오 시 세라 우마 인치다지 키 우자라 바리아스 베지스. 시 포르 웅 세르비도르 키 보세 우자라 아페나스 우마 베스, 인탕 아 카르가 이니시아우 데스치 세르비도르 데비 세르 수피시엔치 파라 키, 우마 베스 인비아두 잉 수아 미상, 엘리 이제쿠치 수아 타레파 이 인탕 시 지시피.
+R: Primeiramente, é muito importante que antes de criar um servidor, você tenha certeza absoluta do que pretende fazer. Decida imediatamente se acha que será algo que você precisará apenas uma vez ou se será uma entidade que usará várias vezes. Se for um servidor que você usará apenas uma vez, então a carga inicial deste servidor deve ser suficiente para que, uma vez enviado em sua missão, ele execute sua tarefa e então se dissipe.
 
 아 베르다지 지 쿠아우케르 이네르지아 두 펜사멘투 에 키 엘라 눙카 데자파레세라 콤플레타멘치, 오 세자, 셈프리 이지스치라 이 이센시아우멘치 테라 우마 비다 프로프리아, 크리안두 세우스 프로프리우스 이벤투스 프로바베이스. 이수 탐벵 아콘테시 콩 쿠아이스케르 소뉴스 키 포사무스 테르 엘리스 낭 데이샹 지 이지스치르 데포이스 키 파라무스 지 소냐-루스. 우 키 아콘테시 에 키 에스치 세르비도르 콘치누아라 아 이지스치르 아싱 코무 쿠아우케르 오트루 펜사멘투 키 치베무스 엘리 심플레즈멘치 이지스치라 잉 웅 우니베르수 프로바베우 두 쿠아우 낭 테무스 콘시엔시아. 인탕, 아 프리메이라 헤스포스타 에 키 쿠아우케르 세르비도르 키 데이샤르 지 테르 아 수아 아텐상, 데이샤라 지 이지스치르 잉 노사 콘시엔시아 이 이센시아우멘치 데자파레세라 지 노사스 비다스. 파라 지시파르 쿠아우케르 세르비도르, 보세 데비 파라르 지 프레스타르 아텐상 넬리 오 펜사르 넬리 지 쿠아우케르 마네이라, 만텐두 수아 아텐상 피르메멘치 아파스타다 델리, 시 네세사리우. 콩 우 템푸, 수아 이네르지아 지미누이라 이, 코무 보세 낭 포르네세라 마이스 나다 아트라베스 지 수아 아텐상, 엘리 아카바라 데자파레센두 지 수아 조나 지멘시오나우 오페라치바.
+A verdade de qualquer energia do pensamento é que ela nunca desaparecerá completamente, ou seja, sempre existirá e essencialmente terá uma vida própria, criando seus próprios eventos prováveis. Isso também acontece com quaisquer sonhos que possamos ter; eles não deixam de existir depois que paramos de sonhá-los. O que acontece é que este servidor continuará a existir assim como qualquer outro pensamento que tivemos; ele simplesmente existirá em um universo provável do qual não temos consciência. Então, a primeira resposta é que qualquer servidor que deixar de ter a sua atenção, deixará de existir em nossa consciência e essencialmente desaparecerá de nossas vidas. Para dissipar qualquer servidor, você deve parar de prestar atenção nele ou pensar nele de qualquer maneira, mantendo sua atenção firmemente afastada dele, se necessário. Com o tempo, sua energia diminuirá e, como você não fornecerá mais nada através de sua atenção, ele acabará desaparecendo de sua zona dimensional operativa.
 
 나 인트로두상 아시마 아우스 세르비도리스, 멘시오네이 키 보세 데베리아 아시스치르 아 아우궁스 이피조지우스 두 _잉칸타도르 지 캉이스_. 이우 멘시오누 이수 포르키 쿠아우케르 세르비도르 키 보세 우자라 마이스 지 우마 베스, 이 포르탄투 프레스탄두 무이타 아텐상, 코메사라 아 시 토르나르 마이스 프로에미넨치 잉 수아 비다. 쿠안두 보세 크리아 웅 세르비도르 아싱 이 낭 콘세기 콘트롤라-루, 엘리 포지 시 토르나르 마이스 웅 오브스타쿨루 두 키 우마 아주다. 세르비도리스 상 코무 아니마이스 지 이스치마상 보세 이스타 누 코만두, 이 엘리스 파젱 우 키 보세 오르데나, 이 낭 우 콘트라리우. 아프렌다 아 세르 우 아우파 누 헬라시오나멘투 오, 아싱 코무 아스 페소아스 누 프로그라마 두 세자르 밀랑 보세 지스 우 키 파제르 이 엘리 오베데시, 세자 벵 피르미 코무 웅 메스트리 지젠두 아우 세우 세르부 우 키 파제르!
+Na introdução acima aos servidores, mencionei que você deveria assistir a alguns episódios do _Encantador de Cães_. Eu menciono isso porque qualquer servidor que você usará mais de uma vez, e portanto prestando muita atenção, começará a se tornar mais proeminente em sua vida. Quando você cria um servidor assim e não consegue controlá-lo, ele pode se tornar mais um obstáculo do que uma ajuda. Servidores são como animais de estimação; você está no comando, e eles fazem o que você ordena, e não o contrário. Aprenda a ser o alfa no relacionamento ou, assim como as pessoas no programa do Cesar Milan; você diz o que fazer e ele obedece, seja bem firme como um mestre dizendo ao seu servo o que fazer!
 
 시 엘리 낭 우 피제르, 콜로키-우 잉 세우 루가르 아페나스 파란두 지 프레스타르 아텐상 넬리... "오 파사 우 키 이우 지구 오 이우 우 아반도누!" "아데우스!". 엘리 인탕 코메사라 아 시 지시파르 하피다멘치 쿠안두 보세 치베르 에사 인텐상 포데로자, 이 엘리 파라 우 키 보세 케르 오 데자파레세라 다 수아 이지스텐시아 파라 셈프리.
+Se ele não o fizer, coloque-o em seu lugar apenas parando de prestar atenção nele... "Ou faça o que eu digo ou eu o abandono!" "Adeus!". Ele então começará a se dissipar rapidamente quando você tiver essa intenção poderosa, e ele fará o que você quer ou desaparecerá da sua existência para sempre.
 
 세자 무이투 이스페시피쿠 소브리 쿠아우 에 아 타레파 두 세르비도르 이 인탕 인비-우 잉 수아 미상. 우마 베스 인비아두 잉 수아 미상, 이스케사-우. 시 보세 우 비르 줌빈두 코무 우마 모스카 이히탄치, 낭 파젠두 우 키 리 에 지투, 핀자 키 에 웅 아스피라도르 지 포 지간치 이 수기-우 파라 덴트루 지 보세. 에 수아 크리아상 이 이스타 우잔두 수아 이네르지아 지 아텐상 파라 이지스치르 네스타 지멘상, 인탕 시 엘리 코메사르 아 아지르 마우, 콜로키-우 잉 세우 루가르 수간두 에사 이네르지아 지 보우타.
+Seja muito específico sobre qual é a tarefa do servidor e então envie-o em sua missão. Uma vez enviado em sua missão, esqueça-o. Se você o vir zumbindo como uma mosca irritante, não fazendo o que lhe é dito, FINJA QUE É UM ASPIRADOR DE PÓ GIGANTE E SUGUE-O PARA DENTRO DE VOCÊ. É sua criação e está usando sua energia de atenção para existir nesta dimensão, então se ele começar a agir mal, coloque-o em seu lugar sugando essa energia de volta.
 
+---
 ---
 
 **프: 이우 포데리아 파제르 웅 세르비도르 키 시 파레시 콩 웅 두스 메우스 브링케두스 오 미니아투라스 이 카헤가-루 브링칸두 콩 엘리, 프레스탄두 아텐상 이 아드미란두-우?**
+**P: Eu poderia fazer um servidor que se parece com um dos meus brinquedos ou miniaturas e carregá-lo brincando com ele, prestando atenção e admirando-o?**
 
 흐: 싱, 콩 세르테자! 에스타 에 우마 마네이라 마라빌료자 지 크리아르 웅 세르비도르. 웅 오치무 코메수 파라 웅 세르비도르 콤파녜이루.
+R: Sim, com certeza! Esta é uma maneira maravilhosa de criar um servidor. Um ótimo começo para um servidor companheiro.
 
+---
 ---
 
 **프: 코무 인테라지무스 콩 노수스 세르비도리스 이 포수 인테라지르 콩 우 메우 잉 소뉴스?**
+**P: Como interagimos com nossos servidores e posso interagir com o meu em sonhos?**
 
 흐: 보세 인테라지 콩 엘리 다 메즈마 마네이라 키 인테라지 콩 수아스 렘브란사스 콘센트란두-시 넬리. 아싱 코무 우마 메모리아 시 토르나 마이스 포데로자 쿠안투 마이스 보세 아 렘브라, 콘포르미 보세 포카 마이스 아텐상 넬라, 우 세르비도르 시 토르나 마이스 포데로주 이 에 카헤가두 아페나스 콩 에사 아텐상.
+R: Você interage com ele da mesma maneira que interage com suas lembranças; concentrando-se nele. Assim como uma memória se torna mais poderosa quanto mais você a lembra, conforme você foca mais atenção nela, o servidor se torna mais poderoso e é carregado apenas com essa atenção.
 
 알렝 지수, 쿠안투 멜료르 보세 푸데르 카헤가-루 코무 데스크리투 아시마, 마이스 포데로주 시 토르나라 세우 세르비도르. 에시 마이오르 포데르 시그니피카 키 세라 마이스 파시우 파라 보세 페르세베-루, 마이스 파시우 포카르 수아 아텐상 넬리, 마이스 파시우 베-루, 센치-루 오 아테 메즈무 인테라지르 콩 엘리 나 비다 코치지아나 이 잉 세우스 소뉴스.
+Além disso, quanto melhor você puder carregá-lo como descrito acima, mais poderoso se tornará seu servidor. Esse maior poder significa que será mais fácil para você percebê-lo, mais fácil focar sua atenção nele, mais fácil vê-lo, senti-lo ou até mesmo interagir com ele na vida cotidiana e em seus sonhos.
 
 보세 포지, 포르탄투, 인테라지르 콩 세우 세르비도르 잉 세우스 소뉴스, 이 엘리 포지 세르 웅 오치무 헤쿠르수 파라 보세, 시 데제자르. 포지 세르 웅 콤파녜이루 잉 파이자젱스 오니리카스 지스탄치스, 포지 아주다르 아 프로테제-루, 오 포지 세르 웅 바테도르... 마스 파라 키 이수 아콘테사, 엘리 프레시자 테르 무이투 포데르.
+Você pode, portanto, interagir com seu servidor em seus sonhos, e ele pode ser um ótimo recurso para você, se desejar. Pode ser um companheiro em paisagens oníricas distantes, pode ajudar a protegê-lo, ou pode ser um batedor... mas para que isso aconteça, ele precisa ter muito poder.
 
+---
 ---
 
 **프: 쿠앙 데탈랴두 우 데제뉴 프레시자 세르? 소 웅 페시무 아르치스타.**
+**P: Quão detalhado o desenho precisa ser? Sou um péssimo artista.**
 
 흐: 이우 인텐두 콤플레타멘치 이 지리아 키 우 데제뉴 잉 시 프레시자 세르 탕 데탈랴두 쿠안투 보세 프레시자르 파라 비주알리자르 클라라멘치 세우 세르비도르 다 멜료르 마네이라 포시베우. 마스 에시 데제뉴 낭 프레시자 세르 우마 아르치 지 수페르 쿠알리다지 엘리 소 프레시자 세르 봉 우 수피시엔치 파라 ‘보세’ 이 세우 프로세수 지 비주알리자상, 인탕 낭 시 프레오쿠피, 아페나스 파사 우 세우 멜료르 이 콘센트리-시 잉 수아스 비주알리자송이스 이 낭 탄투 잉 쿠앙 보아 에 아 이마젱 잉 시.
+R: Eu entendo completamente e diria que o desenho em si precisa ser tão detalhado quanto você precisar para visualizar claramente seu servidor da melhor maneira possível. Mas esse desenho não precisa ser uma arte de super qualidade; ele só precisa ser bom o suficiente para ‘você’ e seu processo de visualização, então não se preocupe, apenas faça o seu melhor e concentre-se em suas visualizações e não tanto em quão boa é a imagem em si.
 
+---
 ---
 
 **프: 포르 키 우 데제뉴 낭 포지 세르 비스투 오 우 노미 코녜시두 포르 오트라스 페소아스?**
+**P: Por que o desenho não pode ser visto ou o nome conhecido por outras pessoas?**
 
 흐: 웅 세르비도르 에 이센시아우멘치 우마 포르마 지 펜사멘투 아우타멘치 콘센트라다 이, 포르탄투, 수세치베우 아우스 펜사멘투스 두스 오트루스. 쿠안두 보세 페르미치 키 오트라 페소아 코녜사 우스 세그레두스 두 세우 세르비도르, 이스타 이센시아우멘치 아브린두-우 파라 아 인플루엔시아 멘타우 델라. 에시스 펜사멘투스 눙카 상 프로두치부스, 메즈무 쿠안두 아 오트라 페소아 텡 인텐송이스 포지치바스. 아 하장 파라 이수 에 키 우 세르비도르 푼시오나 콩 우마 임프레상 지 펜사멘투 아우타멘치 이스페시피카, 콩 우마 타레파 아우타멘치 이스페시피카 코무 세우 오브제치부. 쿠안두 오트라 페소아 사비 소브리 우 세우 세르비도르 오 사비 우 키 엘리 텐타라 헤알리자르, 세우스 펜사멘투스 이 인텐송이스 포뎅 아트라팔랴르 에스치 세르비도르 이 토르나르 세우 트라발류 무이투 마이스 지피시우.
+R: Um servidor é essencialmente uma forma de pensamento altamente concentrada e, portanto, suscetível aos pensamentos dos outros. Quando você permite que outra pessoa conheça os segredos do seu servidor, está essencialmente abrindo-o para a influência mental dela. Esses pensamentos nunca são produtivos, mesmo quando a outra pessoa tem intenções positivas. A razão para isso é que o servidor funciona com uma impressão de pensamento altamente específica, com uma tarefa altamente específica como seu objetivo. Quando outra pessoa sabe sobre o seu servidor ou sabe o que ele tentará realizar, seus pensamentos e intenções podem atrapalhar este servidor e tornar seu trabalho muito mais difícil.
 
 시 파르치르무스 두 프린시피우 지 키 우스 펜사멘투스 포뎅 크리아르 코이자스, 키 엘리스 프로프리우스 상 코이자스, 인탕 우스 펜사멘투스 지 오트라 페소아 탐벵 텡 웅 포데르 프로프리우. 보세 자 시 페르군토 포르 키 파레시 탕 지피시우 테스테무냐르 페노메누스 파라노르마이스 페르투 두 세치쿠? 아 하장 파라 이수 에 키 우스 펜사멘투스 포데로주스 데시 세치쿠 이스탕, 나 베르다지, 크리안두 우마 인텐상 프로프리아 키 토르나 쿠아우케르 아치비다지 파라노르마우 지피시우 지 시 마니페스타르.
+Se partirmos do princípio de que os pensamentos podem criar coisas, que eles próprios são coisas, então os pensamentos de outra pessoa também têm um poder próprio. Você já se perguntou por que parece tão difícil testemunhar fenômenos paranormais perto do cético? A razão para isso é que os pensamentos poderosos desse cético estão, na verdade, criando uma intenção própria que torna qualquer atividade paranormal difícil de se manifestar.
 
 쿠안두 보세 콘타 아 아우겡 소브리 우 세우 세르비도르, 이스타 단두 아 엘리스 아 ‘이스토리아’ 데시 세르비도르, 이 에사 인포르마상, 준투 콩 수아스 이스펙타치바스, 세라 프로제타다 다 메즈마 포르마 키 우 세우 세르비도르 포이 프로제타두. 우 코녜시멘투 두 노미 두 세우 세르비도르 오 지 수아 이마젱 상 콤포넨치스-샤비, 포이스 에 코무 시 포시 아 샤비 키 보세 우자 파라 ‘포카르’ 누 세르비도르, 낭 임포르타 쿠앙 지스탄치스 오 지스페르수스 세장 우스 펜사멘투스 키 콤퐁잉 우 세르비도르. 시 오트라 페소아 소베르 우 노미 두 세우 세르비도르, 인탕 에시 포쿠 델라 누 세우 세르비도르 시 토르나 아인다 마이스 포데로주.
+Quando você conta a alguém sobre o seu servidor, está dando a eles a ‘história’ desse servidor, e essa informação, junto com suas expectativas, será projetada da mesma forma que o seu servidor foi projetado. O conhecimento do nome do seu servidor ou de sua imagem são componentes-chave, pois é como se fosse a chave que você usa para ‘focar’ no servidor, não importa quão distantes ou dispersos sejam os pensamentos que compõem o servidor. Se outra pessoa souber o nome do seu servidor, então esse foco dela no seu servidor se torna ainda mais poderoso.
 
 만테냐 에사 타레파 파라 시 메즈무 이 눙카 헤벨리 우 노미 오 아 이마젱 두 세우 세르비도르. 세그레두스 상 아우구 포데로주, 이 에시 포데르 포지 아주다르 아 아우멘타르 아 이피카시아 다스 수아스 크리아송이스 멘타이스.
+Mantenha essa tarefa para si mesmo e nunca revele o nome ou a imagem do seu servidor. Segredos são algo poderoso, e esse poder pode ajudar a aumentar a eficácia das suas criações mentais.
 
 보아 소르치! 이 시 보세 낭 오브치베르 우스 헤주우타두스 이자투스 키 이스페라바, 콘치누이 프라치칸두. 우 포쿠 에 투두 포키 쿠안두 이스치베르 카헤간두 우 세우 세르비도르 이 포키 쿠안두 이스치베르 인비안두 우 세우 세르비도르 잉 수아 타레파.
+Boa sorte! E se você não obtiver os resultados exatos que esperava, continue praticando. O foco é tudo; foque quando estiver carregando o seu servidor e foque quando estiver enviando o seu servidor em sua tarefa.
 
+---
 ---
 
 **프: 코무 보세 리다 콩 우마 포르마 지 펜사멘투 포데로자 이 아파렌테멘치 콘시엔치 키 텡 마이스 지 10 아누스 지 이다지?**
+**P: Como você lida com uma forma de pensamento poderosa e aparentemente consciente que tem mais de 10 anos de idade?**
 
 흐: 아우구 탕 벨류 이 콩 탄타 아텐상 보우타다 파라 엘리, 지 파투, 포지 세르 웅 데자피우 이노르미 시 눙카 포이 데비다멘치 제렌시아두 데즈지 우 이니시우.
+R: Algo tão velho e com tanta atenção voltada para ele, de fato, pode ser um desafio ENORME se nunca foi devidamente gerenciado desde o início.
 
 아우구 아싱 포지 세르 바스탄치 세멜랸치 아 우마 도엔사 피지카 지 마네이라스 이스트라냐스, 누 센치두 지 키 아우구 키 헤세베우 탄타 아텐상, 타우베스 우마 아텐상 후잉 (오 세자, 웅 펜사멘투 네가치부) 포지 이센시아우멘치 시 토르나르 우마 크렌사 나 프시키 콩 무이투 포데르 헤아우멘치 10 아누스 지 포데르 다 아텐상, 마스 셍 지시플리나 포르 트라스 데사 아텐상 (셍 이스포르수 콘시엔치 파라 콘트롤라르 우 플루슈 지 타우 아텐상, 타우베스).
+Algo assim pode ser bastante semelhante a uma doença física de maneiras estranhas, no sentido de que algo que recebeu tanta atenção, talvez uma atenção ruim (ou seja, um pensamento negativo) pode essencialmente se tornar uma crença na psique com muito poder; realmente 10 anos de poder da atenção, mas sem disciplina por trás dessa atenção (sem esforço consciente para controlar o fluxo de tal atenção, talvez).
 
 우마 크렌사 에 이센시아우멘치 웅 펜사멘투 오 우마 콜레상 지 펜사멘투스 키 크리오 웅 파드랑 네우롤로지쿠 누 세레브루, 아우구 코무 우마 메모리아. 무다르 우마 크렌사, 오 헤베르테르 에사 포르마 지 펜사멘투 포텐시아우멘치 네가치바, 인보우비 아 카파시다지 지 인제타르 웅 노부 콘준투 지 펜사멘투스 콩 인텐시다지 수피시엔치 파라 헤콘피구라르 우 세레브루.
+Uma crença é essencialmente um pensamento ou uma coleção de pensamentos que criou um padrão neurológico no cérebro, algo como uma memória. Mudar uma crença, ou reverter essa forma de pensamento potencialmente negativa, envolve a capacidade de injetar um novo conjunto de pensamentos com intensidade suficiente para reconfigurar o cérebro.
 
 쿠안두 알레샨드라 다비드-네우, 키 멘시오누 나 인트로두상 소브리 세르비도리스 누 이니시우 데스치 카피툴루, 크리오 우마 포르마 지 펜사멘투 콩 아 오리엔타상 지 몬지스 치베타누스, 엘라 코멘토 키 아포스 세이스 메지스 지 이스포르수 아르두, 아 포르마 지 펜사멘투 키 엘라 크리오 시 트란스포르모 잉 우마 프라가 무이투 그란지. 에사 프라가 이지지우 마이스 세이스 메지스 지 이스포르수 아르두 파라 시 리브라르 델라.
+Quando Alexandra David-Néel, que menciono na introdução sobre servidores no início deste capítulo, criou uma forma de pensamento com a orientação de monges tibetanos, ela comentou que após seis meses de esforço árduo, a forma de pensamento que ela criou se transformou em uma praga muito grande. Essa praga exigiu mais seis meses de esforço árduo para se livrar dela.
 
 이수 시 헤주미, 잉 프리메이루 루가르, 아 낭 프레스타르 아텐상 넬라. 이수 오브비아멘치 포지 세르 우마 타레파 바스탄치 지피시우 쿠안두 아 인치다지 콘치누아 아파레센두 지 헤펜치 오 시 인세리 누스 소뉴스. 시 보세 콘세기르 시 데자페가르 이모시오나우멘치 데사 인치다지, 에스치 메토두 이센시아우멘치 아카바리아 콩 엘라 하피다멘치. 셍 아 수아 아텐상, 이스페시아우멘치 아 수아 아텐상 이모시오나우, 우스 지아스 두 세르비도르 이스탕 콘타두스.
+Isso se resume, em primeiro lugar, a não prestar atenção nela. Isso obviamente pode ser uma tarefa bastante difícil quando a entidade continua aparecendo de repente ou se insere nos sonhos. Se você conseguir se desapegar emocionalmente dessa entidade, este método essencialmente acabaria com ela rapidamente. Sem a sua atenção, especialmente a sua atenção emocional, os dias do servidor estão contados.
 
 이우 탐벵 멘시오네이 (누 리브루 _카미뉴 두 밤피루 파라 아 아우토데페자 프시키카_, 포르 이젬플루) 키 보세 포지 코메사르 아 드레나르 시스테마치카멘치 우마 포르마 지 펜사멘투, 이 아 이네르지아 두 펜사멘투 키 타우 인치다지 우자 파라 시 만테르. 이수 에 우 키 이우 아크레지투 키 알레샨드라 다비드-네우 테비 키 파제르 쿠안두 프레시조 시 리브라르 지 수아 포르마 지 펜사멘투.
+Eu também mencionei (no livro _Caminho do Vampiro para a Autodefesa Psíquica_, por exemplo) que você pode começar a drenar sistematicamente uma forma de pensamento, e a energia do pensamento que tal entidade usa para se manter. Isso é o que eu acredito que Alexandra David-Néel teve que fazer quando precisou se livrar de sua forma de pensamento.
 
 아 멜료르 마네이라 지 파제르 이수 에 데즈몬타르 메토지카멘치 아 포르마 이 우 카라테르 데스타 인치다지 이 인탕 드레나르 렌타멘치, 마스 콩 세르테자, 카다 그라마 다 아텐상 오 이네르지아 두 펜사멘투 키 엘라 포수이. 아고라, 포르 메토지카멘치, 케루 지제르 키 보세 델리네이아 아스 이자타스 지멘송이스 데스치 세르: 코무 엘리 시 파레시, 코무 에 샤마두, 코무 아지, 우 키 파스 이 투두 마이스 키 보세 포사 펜사르 이스페시피카멘치 소브리 엘리. 쿠안두 보세 텡 투두 이수 준투, 보세 드레나 카다 아스펙투 데스타 인치다지. 포르 이젬플루, 코메산두 콩 아 아파렌시아, 드레나-시 렌타멘치 토다 아 아텐상 오 이네르지아 두 펜사멘투 데스타 코이자 아테 키 엘라 낭 테냐 마이스 우마 포르마. 보세 데비 이스타르 콤플레타멘치 사치스페이투 포르 테르 드레나두 토다 아 이네르지아 데스타 크리아투라 아테 키 아 포르마 낭 세자 마이스 카파스 지 이지스치르 포라 지 수아 프시키.
+A melhor maneira de fazer isso é desmontar metodicamente a forma e o caráter desta entidade e então drenar lentamente, mas com certeza, cada grama da atenção ou energia do pensamento que ela possui. Agora, por metodicamente, quero dizer que você delineia as exatas dimensões deste ser: como ele se parece, como é chamado, como age, o que faz e tudo mais que você possa pensar especificamente sobre ele. Quando você tem tudo isso junto, você drena cada aspecto desta entidade. Por exemplo, começando com a aparência, drena-se lentamente toda a atenção ou energia do pensamento desta coisa até que ela não tenha mais uma forma. Você deve estar completamente satisfeito por ter drenado toda a energia desta criatura até que a forma não seja mais capaz de existir fora de sua psique.
 
 우 아투 지 드레나르 에 페이투 이마지난두-시 코무 웅 아스피라도르 지 포 지간치 오 타우베스 웅 이망 키 렌타멘치 이 시스테마치카멘치 수가 토다 에사 이네르지아 파라 시. 보세 포데리아, 포르 이젬플루, 이마지나르 키 이스타 수간두 아 루스 다 비다 데스타 인치다지 파라 시 메즈무, 파젠두 이수 펠루 템푸 키 포르 네세사리우 파라 헤모베르 아 포르마. 데포이스, 파사 이수 콩 카다 아스펙투 데스타 인치다지: 세우 노미, 수아스 아송이스, 이트크. 페이투 시스테마치카멘치, 에스치 메토두 푼시오나, 마스 레바 템푸 이 이스포르수.
+O ato de drenar é feito imaginando-se como um aspirador de pó gigante ou talvez um ímã que lentamente e sistematicamente suga toda essa energia para si. Você poderia, por exemplo, imaginar que está sugando a luz da vida desta entidade para si mesmo, fazendo isso pelo tempo que for necessário para remover a forma. Depois, faça isso com cada aspecto desta entidade: seu nome, suas ações, etc. Feito sistematicamente, este método funciona, mas leva tempo e esforço.
 
 마스 에스타 낭 에 아 우니카 마네이라 렘브리-시 지 키 수아 멘치 에 우마 코이자 인피니타멘치 크리아치바. 시 우스 메토두스 아시마, 오 우스 메토두스 키 보세 이스타 펜산두 잉 텐타르, 낭 푼시오나렝, 텐치 아우구 콤플레타멘치 지페렌치. 우마 오치마 아보르다젱 세리아 크리아르 오트루 세르비도르, 오 타우베스 웅 반두 인테이루 델리스. 엘리스 낭 프레시장 세르 잉크리베우멘치 포르치스 오 콤플리카두스 잉 세우 데지긍. 투두 우 키 보세 프레시자 파제르 에 크리아르 웅 반두 지 세르비도리스 키 테냥 아페나스 우마 타레파 아 타레파 지 데즈몬타르 렌타멘치 아스 파르치스 다켈리 세르비도르 마이오르 이 트라제-라스 파라 보세 파라 세렝 드레나다스. 아우구 코무 우마 람프레이아 오 타우베스 모스키투스 지간치스, 우스 세르비도리스 드레나리앙 렌타멘치 아 이네르지아 데스타 인치다지 아우 롱구 두 템푸. 보세 포지 크리아르 쿠안투스 키제르 이 포지 트란스포르마르 에사 이네르지아 키 엘리스 케브랑 보세 포지 인탕 트란스포르마르 에사 이네르지아 잉 마이스 이네르지아 파라 시 메즈무, 코무 데스크레부 누 리브루 멘시오나두 아시마.
+Mas esta não é a única maneira; lembre-se de que sua mente é uma coisa infinitamente criativa. Se os métodos acima, ou os métodos que você está pensando em tentar, não funcionarem, tente algo completamente diferente. Uma ótima abordagem seria criar outro servidor, ou talvez um bando inteiro deles. Eles não precisam ser incrivelmente fortes ou complicados em seu design. Tudo o que você precisa fazer é criar um bando de servidores que tenham apenas uma tarefa; a tarefa de desmontar lentamente as partes daquele servidor maior e trazê-las para você para serem drenadas. Algo como uma lampreia ou talvez mosquitos gigantes, os servidores drenariam lentamente a energia desta entidade ao longo do tempo. Você pode criar quantos quiser e pode transformar essa energia que eles quebram; você pode então transformar essa energia em mais energia para si mesmo, como descrevo no livro mencionado acima.
 
 메우 코멘타리우 피나우: 렘브리-시 지 키 에시스 치푸스 지 인치다지스 (포르마스 지 펜사멘투 오 세르비도리스 마이스 인지비두아이스) 낭 오브치베랑 수아 이네르지아 소지뉴스. 타우 세르 프레시자 지 이네르지아 다 아텐상, 인탕, 시 엘리 이스타 프레젠치 이 에 포데로주, 아우겡 이스타 포르네센두 에사 이네르지아 다 아텐상 잉 아우궁 니베우. 에 포르 이수 키 에 임포르탄치 프레스타르 아텐상 아우 플루슈 지 수아 멘치 이 아우 키 보세 이스타 단두 아텐상 두란치 우 세우 지아 보세 포지 이스타르 이나드베르치다멘치 크리안두 포르마스 지 펜사멘투 이 아테 세르비도리스 콤플레슈스 지 마네이라 잉콘시엔치.
+Meu comentário final: lembre-se de que esses tipos de entidades (formas de pensamento ou servidores mais individuais) não obtiveram sua energia sozinhos. Tal ser precisa de energia da atenção, então, se ele está presente e é poderoso, alguém está fornecendo essa energia da atenção em algum nível. É por isso que é importante prestar atenção ao fluxo de sua mente e ao que você está dando atenção durante o seu dia; você pode estar inadvertidamente criando formas de pensamento e até servidores complexos de maneira inconsciente.
 
+---
 ---
 
 **크: 우스 세르비도리스 포뎅 세르 우테이스 누 아스트라우, 잉 베스 두 플라누 피지쿠? 누 센치두 지 키 아우겡 포사 프레시자르 지 아시스텐시아 누 아스트라우, 지가무스, 파라 프로테상 오 사베도리아 기아다 이트크., 오 웅 세르비도르 포데리아 세르 우자두 파라 아주다르 아우겡 누 아투 지 프로제상 누 아스트라우 아 파르치르 두 피지쿠?**
+**Q: Os servidores podem ser úteis no astral, em vez do plano físico? No sentido de que alguém possa precisar de assistência no astral, digamos, para proteção ou sabedoria guiada etc., ou um servidor poderia ser usado para ajudar alguém no ato de projeção no astral a partir do físico?**
 
 아: 에스타 에 우마 오치마 페르군타! 아 헤스포스타 콤플레타 이지지리아 웅 리브루, 이우 아슈, 마스 아 헤스포스타 쿠르타 이 프레시자 세리아 싱. 나 베르다지, 이우 우자리아 아 헤스포스타 인파치카멘치 싱.
+A: Esta é uma ótima pergunta! A resposta completa exigiria um livro, eu acho, mas a resposta curta e precisa seria sim. Na verdade, eu usaria a resposta; enfaticamente sim.
 
 시 우 세우 세르비도르 시 토르나르 포데로주 우 수피시엔치 파라 키 보세 포사 베-루 잉 세우스 소뉴스, 인탕 보세 포지 테르 세르테자 지 키 엘리 포지 아주다-루 잉쿠안투 이스치베르 누 이스타두 지 소뉴 오 아스트라우.
+Se o seu servidor se tornar poderoso o suficiente para que você possa vê-lo em seus sonhos, então você pode ter certeza de que ele pode ajudá-lo enquanto estiver no estado de sonho ou astral.
 
 아고라, 아 이스페리엔시아 아스트라우 에, 나 베르다지, 우마 코이자 바리아다 이 포지 인보우베르 지페렌치스 치푸스 지 이스타두스 콘시엔치스 이 잉콘시엔치스. 코무 헤주우타두, 아 마네이라 코무 우 세우 세르비도르 아지 네시스 이스타두스 탐벵 포지 세르 바스탄치 바리아다. 포르 이젬플루, 시 보세 우자르 테크니카스 지 프로제상 아스트라우 키 이우 이스크레부 잉 메우 리브루, _이스페리엔시아스 포라 두 코르푸, 하피다멘치 이 나투라우멘치_, 우자르 세우 세르비도르 네시스 이스타두스 포지 세르 파시우 이 보세 탐벵 데스코브리라 키 엘리 에 웅 콤파녜이루 마라빌료주 셈프리 키 프레시자르 지 수아 아시스텐시아 파르치쿨라르, 데펜덴두 두 키 수아 푼상 데베리아 세르.
+Agora, a experiência astral é, na verdade, uma coisa variada e pode envolver diferentes tipos de estados conscientes e inconscientes. Como resultado, a maneira como o seu servidor age nesses estados também pode ser bastante variada. Por exemplo, se você usar técnicas de projeção astral que eu escrevo em meu livro, _Experiências Fora do Corpo, Rapidamente e Naturalmente_, usar seu servidor nesses estados pode ser fácil e você também descobrirá que ele é um companheiro maravilhoso sempre que precisar de sua assistência particular, dependendo do que sua função deveria ser.
 
 잉쿠안투 이스치베르 잉 웅 이스타두 지 소뉴 루시두 오 잉 우마 프로제상 아스트라우 콤플레타, 우 우주 지 세우 세르비도르 아인다 에 바스탄치 비아베우, 이 에 웅 두스 메토두스 우자두스 포르 페이치세이루스 포데로주스 파라 아트라베사르 헤지옹이스 지멘시오나이스 지피세이스.
+Enquanto estiver em um estado de sonho lúcido ou em uma projeção astral completa, o uso de seu servidor ainda é bastante viável, e é um dos métodos usados por feiticeiros poderosos para atravessar regiões dimensionais difíceis.
 
 우스 프로블레마스 키 보세 포지 잉콘트라르 인보우벵 아 이덴치피카상 이 우 콘트롤리 두 세우 세르비도르. 네시스 이스타두스, 웅 세르비도르 포지 아파레세르 코무 쿠아우케르 코이자, 데즈지 우마 만샤 지 루스 오 네보아 아테 우마 아마우가마상 지 토다스 아스 이데이아스 이 펜사멘투스 지페렌치스 키 보세 텡 소브리 엘리 이 코무 엘리 데베리아 파레세르. 시 보세 콘세기 베르 우 세우 세르비도르 누 아스트라우 오 잉 웅 소뉴 루시두 코무 우마 인치다지 콤플레타, 이자타멘치 코무 보세 우 프로제토 파라 세르, 아진두 콤플레타멘치 소브 우 세우 코만두, 인탕 보세 에 데피니치바멘치 웅 크리아도르 포데로주 이 아우겡 키 도미노 아 아빌리다지 지 크리아르 에사스 포데로자스 포르마스 지 펜사멘투 이 만테르 수아 루시데스 네사스 오트라스 지멘송이스.
+Os problemas que você pode encontrar envolvem a identificação e o controle do seu servidor. Nesses estados, um servidor pode aparecer como qualquer coisa, desde uma mancha de luz ou névoa até uma amalgamação de todas as ideias e pensamentos diferentes que você tem sobre ele e como ele deveria parecer. Se você consegue ver o seu servidor no astral ou em um sonho lúcido como uma entidade completa, exatamente como você o projetou para ser, agindo completamente sob o seu comando, então você é definitivamente um criador poderoso e alguém que dominou a habilidade de criar essas poderosas formas de pensamento e manter sua lucidez nessas outras dimensões.
 
 시 보세 포르 카파스 지 크리아르 웅 세르비도르 탕 포데로주, 이 이수 헤케르 아페나스 프라치카, 파시엔시아 이 이스포르수, 알리아스, 인탕 우자르 에시 세르비도르 누 아스트라우 포지 세르 지 그란지 베네피시우 파라 보세. 보세 포지 우자-루 파라 시 프로테제르 지 이네르지아스 이스트란제이라스 키 포사 잉콘트라르, 탐벵 포지 우자-루 파라 일루미나르 우 세우 카미뉴 이 아주다-루 아 손다르 아레아스 지스탄치스, 포지 우자-루 코무 웅 기아, 코무 우마 이스페시 지 손다 지 헤코녜시멘투 프로푼두, 이 포지 우자-루 파라 아주다르 아 프로테제르 세우 코르푸 피지쿠 키 보세 데이쇼 파라 트라스 잉쿠안투 이스타 론지 잉 우마 비아젱 아스트라우. 보세 탐벵 포지 우자-루 파라 아주다-루 아 코메사르 우마 프로제상 아스트라우, 코무 우마 이스페시 지 포르타 파라 우 오트루 플라누 우마 베스 키 보세 우 베자 클라라멘치 이 우 신타, 보세 이스타라 라. 이 피나우멘치, 엘리 포지 세르 웅 콤파녜이루 키 포지 아주다르 아 만테-루 상 아우 콘프론타르 우 인피니투, 이 에스치 에 포시베우멘치 우 마이오르 포데르 지 웅 세르비도르 코무 에시.
+Se você for capaz de criar um servidor tão poderoso, e isso requer apenas prática, paciência e esforço, aliás, então usar esse servidor no astral pode ser de grande benefício para você. Você pode usá-lo para se proteger de energias estrangeiras que possa encontrar, também pode usá-lo para iluminar o seu caminho e ajudá-lo a sondar áreas distantes, pode usá-lo como um guia, como uma espécie de sonda de reconhecimento profundo, e pode usá-lo para ajudar a proteger seu corpo físico que você deixou para trás enquanto está longe em uma viagem astral. Você também pode usá-lo para ajudá-lo a começar uma projeção astral, como uma espécie de porta para o outro plano; uma vez que você o veja claramente e o sinta, você estará lá. E finalmente, ele pode ser um companheiro que pode ajudar a mantê-lo são ao confrontar o infinito, e este é possivelmente o maior poder de um servidor como esse.
 
+---
 ---
 
 **크: 쿠안두 보세 크리아 이 카헤가 웅 세르비도르, 보세 우 베 노르마우멘치 셍 시 콘센트라르 넬리? 오 보세 프레시자 시 콘센트라르 이 펜사르 넬리 토다 베스 키 케르 베-루? 이스토 무이투 인테레사두 잉 크리아르 웅, 마스 케루 베-루 셍 미 콘센트라르 넬리 우 템푸 토두.**
+**Q: Quando você cria e carrega um servidor, você o vê normalmente sem se concentrar nele? Ou você precisa se concentrar e pensar nele toda vez que quer vê-lo? Estou muito interessado em criar um, mas quero vê-lo sem me concentrar nele o tempo todo.**
 
 아: 싱, 보세 데피니치바멘치 포지 셰가르 아우 폰투 잉 키 포지 베르 세우 세르비도르 셍 이스포르수. 보세 탐벵 포지 크리아르 웅 키 세자 포데로주 우 수피시엔치 파라 세르 비스투 셍 아 네세시다지 지 포쿠 이스투 에, 파레세라 우마 크리아투라 인데펜덴치 키 시 모비 포르 콘타 프로프리아 셍 수아 아텐상.
+A: Sim, você definitivamente pode chegar ao ponto em que pode ver seu servidor sem esforço. Você também pode criar um que seja poderoso o suficiente para ser visto sem a necessidade de foco; isto é, parecerá uma criatura independente que se move por conta própria sem sua atenção.
 
 파라 파제르 이수, 보세 프레시자라 카헤가르 세우 세르비도르 헤굴라르멘치 포르 세르카 지 세이스 메지스, 마이스 오 메누스 에사스 코이자스 레방 템푸 이 이스포르수. 에 포시베우 오브테르 우마 인데펜덴시아 "지 세르타 포르마" 마이스 하피다멘치, 마스 이수 헤케르 우마 이네르지아 이모시오나우 인텐사 누 모멘투 두 카헤가멘투 테냐 쿠이다두 아키, 포이스 세르타스 이모송이스 포뎅 시 푼지르 콩 우 세우 세르비도르, 코무 하이바, 포르 이젬플루, 이 이수 포지 토르나-루 마이스 카오치쿠 이 크루에우. 우 카헤가멘투 렌투 이 콘스탄치 에 우 멜료르.
+Para fazer isso, você precisará carregar seu servidor regularmente por cerca de seis meses, mais ou menos; essas coisas levam tempo e esforço. É possível obter uma independência "de certa forma" mais rapidamente, mas isso requer uma energia emocional intensa no momento do carregamento; tenha cuidado aqui, pois certas emoções podem se fundir com o seu servidor, como raiva, por exemplo, e isso pode torná-lo mais caótico e cruel. O carregamento lento e constante é o melhor.
 
 쿠안두 이스치베르 카헤간두, 포키 잉 카다 데탈리 델리 이 콘센트리-시 잉 토르나-루 헤아우 코무 토두스 우스 오브제투스 이 세리스 아우 세우 헤도르 플란타스, 모베이스, 아니마이스 지 이스치마상, 이트크.
+Quando estiver carregando, foque em cada detalhe dele e concentre-se em torná-lo real como todos os objetos e seres ao seu redor; plantas, móveis, animais de estimação, etc.
 
 콩 카다 카헤가멘투, 보세 아샤라 마이스 파시우 포카르 누 세우 세르비도르 낭 프레시자라 지 탄투 이스포르수 파라 베-루 지안치 지 보세. 이수 콘치누아라 아테 키 보세 포사 베-루 클라라멘치 셍 무이타 지피쿠우다지. 이벤투아우멘치, 보세 포지 베-루 포르 페르투 셍 넹 메즈무 시 콘센트라르 오 샤마-루. 우 우우치무 파수 에 쿠안두 오트라스 페소아스 탐벵 포뎅 베-루.
+Com cada carregamento, você achará mais fácil focar no seu servidor; não precisará de tanto esforço para vê-lo diante de você. Isso continuará até que você possa vê-lo claramente sem muita dificuldade. Eventualmente, você pode vê-lo por perto sem nem mesmo se concentrar ou chamá-lo. O último passo é quando outras pessoas também podem vê-lo.
 
 포르 파보르, 테냐 쿠이다두, 포이스, 쿠안두 우스 세르비도리스 시 토르낭 탕 포데로주스, 엘리스 코메상 아 시 토르나르 볼룬타리오주스, 이 보세 데비 콘트롤라-루 코무 콘트롤라리아 웅 아니마우 지 이스치마상 지피시우. 렘브리-시 지 키 보세 이스타 누 코만두 아키 이 낭 테냐 메두 지 푸니-루 시 엘리 낭 오베데세르. 이수 소 시 토르나 웅 프로블레마, 포렝, 시 보세 낭 아수미르 에사 포스투라 아우파 도미난치 데즈지 우 이니시우 이 데이샤르 클라루 파라 시 메즈무 이 파라 우 세우 세르비도르 키, 아싱 코무 보세 리 데우 비다, 보세 포지 치라-라. 이우 셈프리 헤코멘두 키 보세 이스투지 리브루스 소브리 트레이나멘투 지 캉이스, 포르 이젬플루, 파라 인텐데르 에시 치푸 지 도미나상, 이스페시피카멘치 아우구 코무 우 치푸 지 트레이나멘투 키 세자르 밀랑 파스 콩 세우스 캉이스.
+POR FAVOR, tenha cuidado, pois, quando os servidores se tornam tão poderosos, eles começam a se tornar voluntariosos, e você deve controlá-lo como controlaria um animal de estimação difícil. Lembre-se de que você está no comando aqui e não tenha medo de puni-lo se ele não obedecer. Isso só se torna um problema, porém, se você não assumir essa postura alfa dominante desde o início e deixar claro para si mesmo e para o seu servidor que, assim como você lhe deu vida, você pode tirá-la. Eu sempre recomendo que você estude livros sobre treinamento de cães, por exemplo, para entender esse tipo de dominação, especificamente algo como o tipo de treinamento que Cesar Milan faz com seus cães.
 
 보세 타우베스 케이라 레르 소브리 알레샨드라 다비드-네우 이 수아스 이스페리엔시아스 콩 웅 '투우파', 키 에 바지카멘치 아 메즈마 코이자 키 웅 세르비도르, 이세투 키 웅 세르비도르 헤세비 우마 미상, 잉쿠안투 우스 투우파스 제라우멘치 에랑 아페나스 이제르시시우스 치베타누스 지 콘센트라상 이 아도라상.
+Você talvez queira ler sobre Alexandra David-Néel e suas experiências com um 'Tulpa', que é basicamente a mesma coisa que um servidor, exceto que um servidor recebe uma missão, enquanto os Tulpas geralmente eram apenas exercícios tibetanos de concentração e adoração.
 
+---
 ---
 
 **크: 코메세이 아 크리아르 세르비도리스 아 아우궁스 아누스. 우스 프리메이루스 포랑 웅 수세수 토타우, 이우 아테 우스 비 나 미냐 프렌치 쿠안두 이스타바 도르민두 오 치란두 우마 소네카. 마스 인탕, 그라두아우멘치, 토다 베스 키 크리아바 웅, 엘리 심플레즈멘치 낭 헤스폰지아 눙카 마이스 콘세기 오브테르 우스 메즈무스 오치무스 헤주우타두스 키 오브치비 누 이니시우. 우 키 보세 아샤 키 포수 파제르 파라 키 푼시오니 노바멘치?**
+**Q: Comecei a criar servidores há alguns anos. Os primeiros foram um sucesso total, eu até os vi na minha frente quando estava dormindo ou tirando uma soneca. Mas então, gradualmente, toda vez que criava um, ele simplesmente não respondia; nunca mais consegui obter os mesmos ótimos resultados que obtive no início. O que você acha que posso fazer para que funcione novamente?**
 
 아: 셈프리 키 코메사무스 아우구 노부, 텐데무스 아 테르 우마 아치투지 마이스 데자페가다 이 이수, 알리아두 아 그란지스 이스펙타치바스, 텐지 아 누스 다르 헤주우타두스 무이투 봉스. 누 젱, 이수 세리아 샤마두 지 멘치 두 이니시안치, 이 무이투 두 젱 에 보우타두 파라 아우칸사르 에시 치푸 지 멘치 우 템푸 토두. 고우피스타스, 포르 이젬플루, 텐뎅 아 루타르 콩 에시 치푸 지 케스탕 탐벵 쿠안투 마이스 이스펙타치바 이 마이스 임포르탄시아 콜로캉 잉 세우 스윙그, 마이스 지피시우 에 아세르타르 아 타카다.
+A: Sempre que começamos algo novo, tendemos a ter uma atitude mais desapegada e isso, aliado a grandes expectativas, tende a nos dar resultados muito bons. No Zen, isso seria chamado de mente do iniciante, e muito do Zen é voltado para alcançar esse tipo de mente o tempo todo. Golfistas, por exemplo, tendem a lutar com esse tipo de questão também; quanto mais expectativa e mais importância colocam em seu swing, mais difícil é acertar a tacada.
 
 아 멘치 두 이니시안치, 포렝, 에 웅 포쿠 일루조리아, 나 미냐 오피니앙 보세 눙카 포지 보우타르 아 에사 이노센시아, 이 우스 헤주우타두스 지 텐타르 아우칸사르 아 멘치 두 이니시안치 노바멘치 포뎅 세르 이헤굴라리스, 나 멜료르 다스 이포테지스. 우 키 수지루 아 보세 에 키, 잉 베스 지 텐타르 아친지르 에사 멘치 두 이니시안치 노바멘치, 보세 데비 텐타르 크리아르 우마 아보르다젱 마이스 시스테마치카 파라 아 크리아상 지 세우스 세르비도리스. 아크레지치 오 낭, 우 프로블레마 키 보세 이스타 인프렌탄두 에, 나 베르다지, 우마 코이자 보아, 포이스 페르미치 키 보세 사이바 키 수아 멘치 에 헤아우멘치 포데로자 이 키 아고라 보세 데비 테르 마이스 쿠이다두 나 마네이라 코무 아보르다 우 아투 다 크리아상 멘타우.
+A mente do iniciante, porém, é um pouco ilusória, na minha opinião; você nunca pode voltar a essa inocência, e os resultados de tentar alcançar a mente do iniciante novamente podem ser irregulares, na melhor das hipóteses. O que sugiro a você é que, em vez de tentar atingir essa mente do iniciante novamente, você deve tentar criar uma abordagem mais sistemática para a criação de seus servidores. Acredite ou não, o problema que você está enfrentando é, na verdade, uma coisa boa, pois permite que você saiba que sua mente é realmente poderosa e que agora você deve ter mais cuidado na maneira como aborda o ato da criação mental.
 
 잉 베스 지 텐타르 크리아르 웅 세르비도르 카헤간두-우 우마 오 타우베스 트레스 베지스, 코무 멘시오네이 누 아르치구, 텐치 아도타르 우마 아보르다젱 마이스 시스테마치카, 마스 마이스 렌타. 프리메이라멘치, 잉카리 에스치 이제르시시우 코무 웅 조구 지베르치두, 잉 베스 지 우마 타레파 아 세르 헤알리자다. 콩 에사 아치투지 멘타우, 프라치키 크리아르 세우 세르비도르 데지칸두 지 10 미누투스 아 메이아 오라 토두스 우스 지아스 두란치 우마 세마나 오 두아스. 두란치 에시 템푸, 포키 잉 텐타르 베르 세우 세르비도르 지안치 지 보세 이 크리아르 토다스 아스 파세타스 지 수아 콤포지상 피지카 나 멘치. 렌타 이 피르메멘치, 코무 시 이스치베시 파젠두 웅 트레이누 지베르치두. 파사 이수 아테 키 세우 세르비도르 시 토르니 벵 비지베우 파라 보세.
+Em vez de tentar criar um servidor carregando-o uma ou talvez três vezes, como mencionei no artigo, tente adotar uma abordagem mais sistemática, mas mais lenta. Primeiramente, encare este exercício como um jogo divertido, em vez de uma tarefa a ser realizada. Com essa atitude mental, pratique criar seu servidor dedicando de 10 minutos a meia hora todos os dias durante uma semana ou duas. Durante esse tempo, foque em tentar ver seu servidor diante de você e criar todas as facetas de sua composição física na mente. Lenta e firmemente, como se estivesse fazendo um treino divertido. Faça isso até que seu servidor se torne bem visível para você.
 
 두란치 에시 템푸, 케루 키 보세 탐벵 프라치키 다르 코만두스 아우 세우 세르비도르. 나다 지 마이스, 텐치 파제르 우 세르비도르 이르 지 우마 이스트레미다지 다 살라 아 오트라 이, 타우베스, 비르 아테 보세 이 파이라르 소브리 수아스 망스. 시 보세 이스치베르 텐두 프로블레마스 콩 이수, 케루 키 보세 데지키 우 템푸 키 프레시자르 파라 텐타르 콘트롤라르 에사 크리아투라 아테 피나우멘치 콘세기르 파제-라 파제르 우 키 보세 케르 인스탄타네아멘치.
+Durante esse tempo, quero que você também pratique dar comandos ao seu servidor. Nada de mais, tente fazer o servidor ir de uma extremidade da sala à outra e, talvez, vir até você e pairar sobre suas mãos. Se você estiver tendo problemas com isso, quero que você dedique o tempo que precisar para tentar controlar essa criatura até finalmente conseguir fazê-la fazer o que você quer instantaneamente.
 
 이수 포지 레바르 아우궁 템푸 이 이지지르 아우궁 이스포르수 지 수아 파르치, 마스 인시나라 소브리 우 포데르 지 수아 인텐상 페소아우 이 에 우마 보아 프라치카 파라 아 마니풀라상 덴트루 데스타 조나 지멘시오나우 키 샤마무스 지 헤알리다지 피지카, 이 토다스 아스 오트라스 조나스 지멘시오나이스 키 이스탕 지스포니베이스 파라 웅 인지비두 우마 베스 키 엘리 포사 케브라르 아스 파레지스 다스 트레스 지멘송이스. 셍 에시 치푸 지 콘트롤리, 세우 세르비도르 에 이누치우, 인탕 레비 우 템푸 키 프레시자르.
+Isso pode levar algum tempo e exigir algum esforço de sua parte, mas ensinará sobre o poder de sua intenção pessoal e é uma boa prática PARA A MANIPULAÇÃO DENTRO DESTA ZONA DIMENSIONAL QUE CHAMAMOS DE REALIDADE FÍSICA, E TODAS AS OUTRAS ZONAS DIMENSIONAIS QUE ESTÃO DISPONÍVEIS PARA UM INDIVÍDUO UMA VEZ QUE ELE POSSA QUEBRAR AS PAREDES DAS TRÊS DIMENSÕES. Sem esse tipo de controle, seu servidor é inútil, então leve o tempo que precisar.
 
 이벤투아우멘치, 이 콩 웅 포쿠 지 이스포르수, 보세 포데라 노바멘치 크리아르 세르비도리스 지 마네이라 하피다 이 이피시엔치. 코무 멘시오네이 아우구마스 베지스, 보세 데비 트라타르 세우 세르비도르 코무 웅 아니마우 지 이스치마상, 텐두 아 도미나상 아우파 코무 오브제치부.
+Eventualmente, e com um pouco de esforço, você poderá novamente criar servidores de maneira rápida e eficiente. Como mencionei algumas vezes, você deve tratar seu servidor como um animal de estimação, tendo a dominação alfa como objetivo.
 
+---
 ---
 
 **크: 에 세구루 크리아르 우마 포르마 지 펜사멘투 키 토마라 콘트롤리 소브리 밍 이 미냐스 데시종이스? 포르 이젬플루, 나 아레아 두 아모르?**
+**Q: É seguro criar uma forma de pensamento que tomará controle sobre mim e minhas decisões? Por exemplo, na área do amor?**
 
 아: 낭, 이수 낭 세리아 세구루 넹 프라치쿠. 코무 아피르메이 잉 오트루스 코멘타리우스 안테리오리스, 우마 포르마 지 펜사멘투 낭 에 아우구 콤플레슈, 이 세르타멘치 낭 포지 하시오시나르. 탐벵 낭 아 코무 수아 포르마 지 펜사멘투 오 세르비도르 아수미르 우 콘트롤리 포르 보세 오 아주다-루 데사 마네이라.
+A: Não, isso não seria seguro nem prático. Como afirmei em outros comentários anteriores, uma forma de pensamento não é algo complexo, e certamente não pode raciocinar. Também não há como sua forma de pensamento ou servidor assumir o controle por você ou ajudá-lo dessa maneira.
 
 시 보세 이스치베르 인테레사두 잉 웅 세르비도르 파라 아주다르 나 콩키스타 두 아모르, 수지루 키 크리 웅 키 피키 이 시 모바 콩 보세, 이하지안두 카리즈마 오 아모르. 에시스 세르비도리스 푼시오낭 코무 우마 루스 브릴랸치 키 플루투아 아우 세우 라두 우스 오트루스 제라우멘치 낭 콘세겡 베-라, 마스 포뎅 센치르 세우스 이페이투스. 에시스 치푸스 지 세르비도리스 파젱 보세 파레세르 마이스 아트라엔치, 포르 이젬플루.
+Se você estiver interessado em um servidor para ajudar na conquista do amor, sugiro que crie um que fique e se mova com você, irradiando carisma ou amor. Esses servidores funcionam como uma luz brilhante que flutua ao seu lado; os outros geralmente não conseguem vê-la, mas podem sentir seus efeitos. Esses tipos de servidores fazem você parecer mais atraente, por exemplo.
 
 마스 타이스 세르비도리스 낭 포뎅 아수미르 아 비다 포르 보세, 엘리스 소 포뎅 아주다-루. 보세 세르타멘치 포지 크리아르 웅 키 포사 아주다르 아 리 다르 콘셀류스, 키 아투이 코무 웅 사비우 메스트리, 지 세르타 포르마. 이우 데스크레비 코무 크리아르 에시 치푸 지 세르비도르 누 세군두 리브루 다 트릴로지아 지 크리아상 지 세르비도리스, _크리 웅 콤파녜이루 세르비도르_. 라, 데스크레부 코무 크리아르 우 세르비도르 이 코무 에스치 세르비도르 시 리가 아우 세우 잉콘시엔치 파라 포르네세르 인포르마송이스 두스 바스투스 헤쿠르수스 이 사베도리아 잉콘트라두스 누스 아스펙투스 프로푼두스 이 잉콘시엔치스 지 시 메즈무, 토르난두 아 코무니카상 엔트리 보세 이 우 잉콘시엔치 무이투 마이스 파시우.
+Mas tais servidores não podem assumir a vida por você, eles só podem ajudá-lo. Você certamente pode criar um que possa ajudar a lhe dar conselhos, que atue como um sábio mestre, de certa forma. Eu descrevi como criar esse tipo de servidor no segundo livro da trilogia de criação de servidores, _Crie um Companheiro Servidor_. Lá, descrevo como criar o servidor e como este servidor se liga ao seu inconsciente para fornecer informações dos vastos recursos e sabedoria encontrados nos aspectos profundos e inconscientes de si mesmo, tornando a comunicação entre você e o inconsciente muito mais fácil.
 
+---
 ---
 
 **크: 코무 포수 테르 세르테자 지 키 헤아우멘치 크리에이 포르마스 지 펜사멘투 잉콘시엔치스? 코무 포수 테르 세르테자 지 키 미 림페이 지 토다스 엘라스 셍 데스트루이르 아스 키 크리에이 파라 파제르 아우구 이스페시피쿠?**
+**Q: Como posso ter certeza de que realmente criei formas de pensamento inconscientes? Como posso ter certeza de que me limpei de todas elas sem destruir as que criei para fazer algo específico?**
 
 아: 누 콘테스투 두스 세르비도리스 보세 이스타 아페나스 만텐두 우마 포르마 지 펜사멘투 키 이스타 센두 콘스탄테멘치 카헤가다 포르 보세. 시 보세 시 헤페리르 아 인트로두상 데스치 카피툴루 아시마, 나 세상 잉 키 팔루 소브리 카헤가멘투, 베라 키 에 네세사리우 웅 치푸 무이투 이스페시피쿠 지 아텐상 콘시엔치 파라 카헤가르 우마 포르마 지 펜사멘투 잉 파르치쿨라르.
+A: No contexto dos servidores; você está apenas mantendo uma forma de pensamento que está sendo constantemente carregada por você. Se você se referir à introdução deste capítulo acima, na seção em que falo sobre carregamento, verá que é necessário um tipo muito específico de atenção consciente para carregar uma forma de pensamento em particular.
 
 보세 이스타 콘스탄테멘치 크리안두 펜사멘투스, 이 아우궁스 델리스 포뎅 시 데젠보우베르 누 키 세리아 콘시데라두 우마 포르마 지 펜사멘투 프로푼다멘치 포데로자 오 웅 세르비도르. 파라 만테르 아스 포르마스 지 펜사멘투 키 보세 고스타 이 시 리브라르 다스 키 아샤르 데스트루치바스 오 데즈반타조자스, 우 키 보세 프레시자 파제르 에 콘트롤라르 우 치푸 지 아텐상 키 리스 다.
+Você está constantemente criando pensamentos, e alguns deles podem se desenvolver no que seria considerado uma forma de pensamento profundamente poderosa ou um servidor. Para manter as formas de pensamento que você gosta e se livrar das que achar destrutivas ou desvantajosas, o que você precisa fazer é controlar o tipo de atenção que lhes dá.
 
 잉 오트라스 팔라브라스, 카헤기 웅 세르비도르 키 보세 데제자 우자르 이 이그노리, 탄투 쿠안투 포시베우, 아켈라스 포르마스 지 펜사멘투 네가치바스 키 보세 아크레지타 키 이스탕 아페탄두 보세 네가치바멘치. 이우 탐벵 수제리리아 우자르 아스 테크니카스 키 데스크레비 누 리브루, _카미뉴 두 밤피루 파라 아 아우토데페자 프시키카_, 키 데스크레비 누 카피툴루 4 데시 리브루. 보세 에 우 크리아도르, 이 코무 타우, 포지 헤쿠페라르 아 이네르지아 키 데우 아스 코이자스.
+Em outras palavras, carregue um servidor que você deseja usar e ignore, tanto quanto possível, aquelas formas de pensamento negativas que você acredita que estão afetando você negativamente. Eu também sugeriria usar as técnicas que descrevi no livro, _Caminho do Vampiro para a Autodefesa Psíquica_, que descrevi no Capítulo 4 desse livro. Você é o criador, e como tal, pode recuperar a energia que deu às coisas.
 
 알리아스, 보세 눙카 크리아 잉콘시엔테멘치 쿠아우케르 치푸 지 포르마 지 펜사멘투 아싱, 셈프리 아 우마 콤프렌상 콘시엔치 두 키 보세 이스타 파젠두 잉 아우궁 니베우, 메즈무 키 이스테자 오쿠우투 포르 보세 우잔두 우마 콤비나상 지 크렌사스 페소아이스 데즈반타조자스. 이자미니 에사스 크렌사스, 이 보세 셰가라 아 하이스 지 토다스 에사스 수포스타스 크리아송이스 잉콘시엔치스.
+Aliás, você nunca cria inconscientemente qualquer tipo de forma de pensamento assim, sempre há uma compreensão consciente do que você está fazendo em algum nível, mesmo que esteja oculto por você usando uma combinação de crenças pessoais desvantajosas. Examine essas crenças, e você chegará à raiz de todas essas supostas criações inconscientes.
 
+---
 ---
 
 **크: 소 웅 그란지 팡 지 유-지-오, 웅 조구 지 카르타스 콜레시오나베이스, 이 미 페르군투 시 이우 포데리아 파제르 웅 세르비도르 아 파르치르 다 이마젱 두 카르탕.**
+**Q: Sou um grande fã de Yu-Gi-Oh, um jogo de cartas colecionáveis, e me pergunto se eu poderia fazer um servidor a partir da imagem do cartão.**
 
 아: 싱, 보세 데피니치바멘치 포지 크리아르 웅 세르비도르 키 세자 웅 페르소나젱 헤아우 지 유-지-오. 크리아르 웅 세르비도르 아싱 포지 세르 지베르치두 이 타우베스 아테 마이스 파시우 파라 보세, 자 키 코녜시 벵 우 페르소나젱 이 엘리 에 나투라우멘치 무이투 인스피라도르 파라 보세.
+A: Sim, você definitivamente pode criar um servidor que seja um personagem real de Yu-Gi-Oh. Criar um servidor assim pode ser divertido e talvez até mais fácil para você, já que conhece bem o personagem e ele é naturalmente muito inspirador para você.
 
 아 우니카 코이자 콩 키 이우 고스타리아 키 보세 시 프레오쿠파시 에 키 세르비도리스 마이오리스 이 마이스 콤플레슈스 헤케렝 무이투 마이스 이네르지아 이 템푸 파라 세렝 몬타두스. 메노르 이 마이스 심플리스 에 멜료르 아스 베지스 포르키 마이스 지 수아 이네르지아 바이 파라 아 인텐상 두 세르비도르 세자 라 쿠아우 포르 아 수아 오르뎅.
+A única coisa com que eu gostaria que você se preocupasse é que servidores maiores e mais complexos requerem muito mais energia e tempo para serem montados. Menor e mais simples é melhor às vezes porque mais de sua energia vai para a intenção do servidor; seja lá qual for a sua ordem.
 
+---
 ---
 
 **크: 세르비도리스 파레셍 무이투 인테레산치스, 이 세리아 무이투 봉 테르 아우구 아싱 코무 콤파녜이루 이 프로테토르. 이우 테뉴 아우구마스 페르군타스: 1) 엘리스 포뎅 팔라르? 2) 엘리스 포뎅 세르 토카두스?**
+**Q: Servidores parecem muito interessantes, e seria muito bom ter algo assim como companheiro e protetor. Eu tenho algumas perguntas: 1) eles podem falar? 2) eles podem ser tocados?**
 
 아: 싱, 보세 포지 파제르 웅 세르비도르 키 포사 팔라르 이 키 포사 세르 토카두. 데부 지제르, 포렝, 키 에 우마 코이자 지피시우 지 파제르 포르키 헤케르 무이투 이스포르수 지 수아 파르치. 아 하장 파라 이수 에 키 보세 프레시자 크리아르 우마 포르마 지 펜사멘투 무이투 포데로자 파라 다르 아트리부투스 코무 에시스.
+A: Sim, você pode fazer um servidor que possa falar e que possa ser tocado. Devo dizer, porém, que é uma coisa difícil de fazer porque requer muito esforço de sua parte. A razão para isso é que você precisa criar uma forma de pensamento muito poderosa para dar atributos como esses.
 
 포수 수제리르 키 보세 데지키 세우 템푸 파라 몬타르 아 포르마 이 아파렌시아 제라우 지 세우 세르비도르. 우 키 케루 지제르 에 키, 잉 토다스 아스 파지스 지 수아 크리아상 데스치 세르비도르, 보세 프레시자 프레스타르 무이타 아텐상 아 아파렌시아 피지카 데스타 크리아투라. 낭 프레시자 세르 잉크리베우멘치 데탈랴두 오 무이투 그란지 이우 헤아우멘치 헤코멘다리아 키 보세 우 피제시 메노르, 파라 키 포사 콘센트라르-시 마이스 잉 임포데라르 에사 이센시아 지 펜사멘투 파라 키 엘라 데젠보우바 우마 포르마 포르치. 포르탄투, 보세 프레시자라 카헤가르 세우 세르비도르, 카헤가르 에사 포르마 지 펜사멘투, 아테 키 포사 센치-라. 이수 프로바베우멘치 레바라 무이투 마이스 템푸 두 키 트레스 세송이스 이, 데펜덴두 지 쿠앙 아빌리도주 보세 에 아우 카헤가르 세우 세르비도르, 포지 레바르 지 우마 세마나 아 아우궁스 메지스 지 카헤가멘투 콘스탄치 (오 세자, 카헤가르 세우 세르비도르 펠루 메누스 우마 베스 포르 지아). 쿠안두 보세 푸데르 토카-루, 사베라 키 세우 트라발류 이스타 콩클루이두.
+Posso sugerir que você dedique seu tempo para montar a forma e aparência geral de seu servidor. O que quero dizer é que, em todas as fases de sua criação deste servidor, você precisa prestar muita atenção à aparência física desta criatura. Não precisa ser incrivelmente detalhado ou muito grande; eu realmente recomendaria que você o fizesse menor, para que possa concentrar-se mais em empoderar essa essência de pensamento para que ela desenvolva uma forma forte. Portanto, você precisará carregar seu servidor, carregar essa forma de pensamento, até que possa senti-la. Isso provavelmente levará muito mais tempo do que três sessões e, dependendo de quão habilidoso você é ao carregar seu servidor, pode levar de uma semana a alguns meses de carregamento constante (ou seja, carregar seu servidor pelo menos uma vez por dia). Quando você puder tocá-lo, saberá que seu trabalho está concluído.
 
 누 키 지스 헤스페이투 아 팔라르, 웅 세르비도르 낭 에 우마 크리아투라 센시엔치 이, 포르탄투, 낭 에 카파스 지 헤스폰데르 아 보세 지 마네이라 콤플리카다. 누 인탄투, 우마 포르마 지 펜사멘투 벵 데젠보우비다 포지 이스프레사르 센치멘투스, 이 아 포르마 코무 보세 프로세사 에시스 센치멘투스 잉 수아 멘치 포지 페르미치르 키 보세 시 코무니키 콩 엘리. 포지-시 지제르 키, 아우 센치르 이모송이스 이 이데이아스 지 펜사멘투 바지카스, 보세 포지 시 코무니카르 콩 우 세우 세르비도르 지 마네이라 바스탄치 이피시엔치. 콘포르미 수아 크리아투라 크레시 잉 이다지, 엘라 아수미라 세르타스 이스페리엔시아스, 이스페시아우멘치 시 포르 잉카헤가다 지 지페렌치스 타레파스. 에사 이스페리엔시아 시 토르나라 인탕 우마 가마 마이오르 파라 키 엘라 포사 시 이스프레사르. 이 아 메지다 키 에시 세르비도르 데젠보우비 우마 코네샹 마이오르 콩 우 세우 잉콘시엔치, 콩 우 템푸 엘리 팔라라 콩 보세 지 마네이라 잉크리베우멘치 루시다 이 포르네세라 우마 오치마 이 나투라우 트로카 우마 베르다데이라 콘베르사 이 사베도리아 베르다데이라 키 상 무이투 아그라다베이스.
+No que diz respeito a falar, um servidor não é uma criatura senciente e, portanto, não é capaz de responder a você de maneira complicada. No entanto, uma forma de pensamento bem desenvolvida pode expressar sentimentos, e a forma como você processa esses sentimentos em sua mente pode permitir que você se comunique com ele. Pode-se dizer que, ao sentir emoções e ideias de pensamento básicas, você pode se comunicar com o seu servidor de maneira bastante eficiente. Conforme sua criatura cresce em idade, ela assumirá certas experiências, especialmente se for encarregada de diferentes tarefas. Essa experiência se tornará então uma gama maior para que ela possa se expressar. E à medida que esse servidor desenvolve uma conexão maior com o seu inconsciente, com o tempo ele falará com você de maneira incrivelmente lúcida e fornecerá uma ótima e natural troca; uma verdadeira conversa e sabedoria verdadeira que são muito agradáveis.
 
 이우 테뉴 세르비도리스 키 콘시데루 바스탄치 아그라다베이스 파라 밍 이 엘리스 프로포르시오낭 우마 콤파니아 잉크리베우. 우 포텐시아우 데사스 크리아투라스 에 수르프렌덴치, 다두 우 포쿠 지 아텐상 수피시엔치 지 수아 파르치.
+Eu tenho servidores que considero bastante agradáveis para mim e eles proporcionam uma companhia incrível. O potencial dessas criaturas é surpreendente, dado o foco de atenção suficiente de sua parte.
 
+---
 ---
 
 **크: 셍 페르군타스 헤아이스, 아페나스 웅 아그라데시멘투 신세루 포르 토르나르 에사스 인포르마송이스 지스포니베이스.**
+**Q: Sem perguntas reais, apenas um agradecimento sincero por tornar essas informações disponíveis.**
 
 아: 무이투 오브리가두!
+A: Muito obrigado!
 
 아스 베지스 에 지피시우 루타르 콘트라 아 테이아 두 문두 아 무이타 앙구스치아 이 무이타스 베지스 포카 헤콤펜사. 마스 에 지 파투 웅 그란지 지아 쿠안두 보세 사비 키 아주도 웅 콤파녜이루 지 조르나다.
+Às vezes é difícil lutar contra a teia do mundo; há muita angústia e muitas vezes pouca recompensa. Mas é de fato um grande dia quando você sabe que ajudou um companheiro de jornada.
 
 아키 이스타 우마 페케나 시타상 키 보세 포지 아프레시아르, 다 쿠아우 이우 고스투 무이투:
+Aqui está uma pequena citação que você pode apreciar, da qual eu gosto muito:
 
 **우 키 프레시자무스 파제르 파라 페르미치르 키 아 마지아 시 아포데리 지 노스 에 바니르 아스 두비다스 지 노사스 멘치스. 우마 베스 키 아스 두비다스 상 바니다스, 투두 에 포시베우.**
+**O que precisamos fazer para permitir que a magia se apodere de nós é banir as dúvidas de nossas mentes. Uma vez que as dúvidas são banidas, tudo é possível.**
 _― 동 주앙 마투스_
+_― DON JUAN MATUS_
 
+---
 ---
 
 **크: 에 프레시주 세르 웅 메스트리 잉 시질루스 파라 파제르 투두 이수 푼시오나르?**
+**Q: É preciso ser um mestre em sigilos para fazer tudo isso funcionar?**
 
 아: 낭, 보세 낭 프레시자 사베르 코무 크리아르 웅 시질루 파라 크리아르 웅 세르비도르. 임보라 세자 베르다지 키 보세 포지 크리아르 웅 세르비도르 우잔두 우 메즈무 메토두 키 우자리아 파라 크리아르 웅 시질루, 이 키 지 무이타스 마네이라스 에시 시질루 이 웅 세르비도르 세장 프라치카멘치 아 메즈마 코이자, 웅 시질루 에 헤아우멘치 웅 메토두 히투알리스치쿠 안치구, 이 아우타멘치 오시덴타우, 아크레센투, 지 트라발랴르 콩 인텐상 이 우 포데르 다스 포르마스 지 펜사멘투.
+A: Não, você não precisa saber como criar um sigilo para criar um servidor. Embora seja verdade que você pode criar um servidor usando o mesmo método que usaria para criar um sigilo, e que de muitas maneiras esse sigilo e um servidor sejam praticamente a mesma coisa, um sigilo é realmente um método ritualístico antigo, e altamente ocidental, acrescento, de trabalhar com intenção e o poder das formas de pensamento.
 
 아켈리스 키 프라치카랑, 이 콘치누앙 아 프라치카르, 에사 메토돌로지아 텡 크렌사스 지페렌치스 소브리 우 포데르 다 프시키 우마나, 키 무이타스 베지스 인보우벵 세파라송이스 히지다스 엔트리 우 콘시엔치 이 우 잉콘시엔치, 이 상 에사스 크렌사스 키 헤스트린젱 세우스 이스포르수스 멘타이스. 메우스 메토두스 잉코르포랑 우마 멘치 마이스 이스판시바 이 우마 마이오르 카파시다지 지 트라발랴르 콩 우 펜사멘투. 지 아코르두 콩 우 카미뉴 다 아우키미아 인테르나, 토다스 아스 세파라송이스 엔트리 우 이우 상 바헤이라스 크리아다스 키 포뎅 세르 데후바다스. 토두 에시 이스포르수 데비 세르 페이투 아우 인베스 지 텐타르 트라발랴르 콩 우 키 상, 나 미냐 오피니앙, 메토두스 아르카이쿠스 지 텐타르 비베르 소브 우 주구 다 크렌사 지 키 에사스 바헤이라스 엔트리 우 잉콘시엔치 이 우 콘시엔치 눙카 포뎅 세르 케브라다스 이 이지스텡 코무 오브제투스 라 포라, 우 키 엘라스 낭 상.
+Aqueles que praticaram, e continuam a praticar, essa metodologia têm crenças diferentes sobre o poder da psique humana, que muitas vezes envolvem separações rígidas entre o consciente e o inconsciente, e são essas crenças que restringem seus esforços mentais. Meus métodos incorporam uma mente mais expansiva e uma maior capacidade de trabalhar com o pensamento. De acordo com o caminho da alquimia interna, todas as separações entre o eu são barreiras criadas que podem ser derrubadas. Todo esse esforço deve ser feito ao invés de tentar trabalhar com o que são, na minha opinião, métodos arcaicos de tentar viver sob o jugo da crença de que essas barreiras entre o inconsciente e o consciente nunca podem ser quebradas e existem como objetos lá fora, o que elas não são.
 
+---
 ---
 
 **크: 테뉴 두아스 페르군타스:**
+**Q: Tenho duas perguntas:**
 
 **1.** **엘리스 포뎅 트라제르 오브제투스 피지쿠스 헤아이스 파라 보세, 오 이수 세리아 우마 타레파 무이투 콤플리카다? 이우 세이 키 보세 지시 파라 만테-루 심플리스, 마스 이스토 미 페르군탄두 시 엘리스 텡 지세르니멘투 수피시엔치 파라 트라제르 우 오브제투 코헤투, 메즈무 키 이우 이스테자 아페나스 페진두 웅 이텡 심플리스?**
+**1.**  **Eles podem trazer objetos físicos reais para você, ou isso seria uma tarefa muito complicada? Eu sei que você disse para mantê-lo simples, mas estou me perguntando se eles têm discernimento suficiente para trazer o objeto correto, mesmo que eu esteja apenas pedindo um item simples?**
 
 **2.** **에 포시베우 키 이우 자 테냐 비스투 우 세르비도르 키 아인다 낭 크리에이?**
+**2.**  **É possível que eu já tenha visto o servidor que ainda não criei?**
 
 아: 싱, 웅 세르비도르 포지 트라제르 오브제투스 이스페시피쿠스 파라 보세, 이 포지 세르 페르스피카스 우 수피시엔치 파라 트라제르 이스페시피카멘치 우 키 보세 케르 아테 세르투 폰투. 우 포텐시아우 두 세우 세르비도르 이스타 지레타멘치 헬라시오나두 아우 포텐시아우 키 보세 리 다. 이수 시그니피카 키 아 이피카시아 두 세우 세르비도르 이스타 지레타멘치 헬라시오나다 아 쿠안치다지 지 이스포르수 키 보세 콜로카 잉 파제-루 이 카헤가-루.
+A: Sim, um servidor pode trazer objetos específicos para você, e pode ser perspicaz o suficiente para trazer especificamente o que você quer até certo ponto. O potencial do seu servidor está diretamente relacionado ao potencial que você lhe dá. Isso significa que a eficácia do seu servidor está diretamente relacionada à quantidade de esforço que você coloca em fazê-lo e carregá-lo.
 
 우 키 보세 데비 페르세베르, 포렝, 에 키 낭 데비 이스페라르 키 우 오브제투 키 프로쿠라 세자 헤펜치나멘치 라르가두 누 메이우 다 수아 카자, 메즈무 키 이수 세자 포시베우, 포르키 아 포르사 두 펜사멘투 콘센트라두 (키 에 두 키 세우 세르비도르 에 페이투, 아피나우) 부스카라 나투라우멘치 우 카미뉴 마이스 파시우 이 아르모니오주 파라 아우칸사르 쿠아우케르 오브제치부/아상. 프로쿠리 싱크로니시다지스, 프로쿠리 임푸우수스 수비투스 이 아테 프레스치 아텐상 아우 세우 세르비도르 시 엘리 아파레세르 두 나다 이 레바-루 아 아우궁 루가르. 미냐 이스페리엔시아 제라우멘치 텡 시두 키 이우 만두 메우 세르비도르 다르 웅 헤카두, 이 데포이스 지 웅 템푸 우 키 이우 케리아 카이 누 메우 콜루, 포르 아싱 지제르, 코무 웅 페다수 지 보아 소르치 셍 이스포르수.
+O que você deve perceber, porém, é que não deve esperar que o objeto que procura seja repentinamente largado no meio da sua casa, mesmo que isso seja possível, porque a força do pensamento concentrado (que é do que seu servidor é feito, afinal) buscará naturalmente o caminho mais fácil e harmonioso para alcançar qualquer objetivo/ação. Procure sincronicidades, procure impulsos súbitos e até preste atenção ao seu servidor se ele aparecer do nada e levá-lo a algum lugar. Minha experiência geralmente tem sido que eu mando meu servidor dar um recado, e depois de um tempo o que eu queria cai no meu colo, por assim dizer, como um pedaço de boa sorte sem esforço.
 
 쿠안투 아 베르 우 세우 세르비도르 안치스 지 크리아-루, 이우 아슈 이수 벵 포시베우. 시 보세 레우 메우스 리브루스, 데비 시 렘브라르 키 이우 지시 키 우스 펜사멘투스 상 코이자스 잉크리베우멘치 포데로자스 이 시 토르낭 무이투 마이스 포데로주스 쿠안두 상 헤스파우다두스 포르 인텐시다지 이모시오나우. 아포스투 키 보세 이스타바 바스탄치 임포우가두 펜산두 누 세우 세르비도르, 이 마우 포지아 이스페라르 파라 코메사르 수아 아벤투라.
+Quanto a ver o seu servidor antes de criá-lo, eu acho isso bem possível. Se você leu meus livros, deve se lembrar que eu disse que os pensamentos são coisas incrivelmente poderosas e se tornam muito mais poderosos quando são respaldados por intensidade emocional. Aposto que você estava bastante empolgado pensando no seu servidor, e mal podia esperar para começar sua aventura.
 
 웅 포쿠 이모시오나우멘치 인텐수 코무 에시 포지 크리아르 펜사멘투스 인스탄타네우스 이 포데로주스 키 상 무이투 마이스 콤플레슈스 두 키 보세 포데리아 이마지나르 우잔두 수아 멘치 콘시엔치. 수스페이투 키 세우 포쿠 인텐수, 준타멘치 콩 수아 이모상, 크리오 우마 포르마 지 펜사멘투 포데로자 쿠아지 인스탄타네아멘치.
+Um foco emocionalmente intenso como esse pode criar pensamentos instantâneos e poderosos que são muito mais complexos do que você poderia imaginar usando sua mente consciente. Suspeito que seu foco intenso, juntamente com sua emoção, criou uma forma de pensamento poderosa quase instantaneamente.
 
 우스 펜사멘투스 낭 상 리미타두스 펠루 이스파수 이 펠루 템푸, 이 웅 두스 마이오리스 에후스 다 피지카 아투아우 에 아크레지타르 키 아페나스 아송이스 파사다스 포뎅 아페타르 아 헤알리다지 프레젠치. 낭 이스탄두 리미타두스 펠루 이스파수 오 템푸, 펜사멘투스 푸투루스 포뎅 아페타르 아 헤알리다지 프레젠치 오 세자, 우마 프로바빌리다지 푸투라 포지 아페타르 우마 아상 프레젠치. 이수 아콘테시 코노스쿠 우 템푸 토두, 이 제라우멘치 아세이타무스 이수 펜산두 키 포이 아페나스 웅 프레센치멘투 오 아우구 세멜랸치 키 누스 페스 무다르 지 이데이아 소브리 아우구 오 누스 데우 우 임푸우수 파라 세기르 에스치 카미뉴 이 낭 아켈리. 잉 오트라스 팔라브라스, 데비두 아 수아 프로프리아 나투레자, 아스 포르마스 지 펜사멘투 상 비아잔치스 두 템푸 셍 에사 아빌리다지, 우스 세르비도리스 세리앙 바스탄치 리미타두스 잉 수아스 카파시다지스.
+Os pensamentos não são limitados pelo espaço e pelo tempo, e um dos maiores erros da física atual é acreditar que apenas ações passadas podem afetar a realidade presente. Não estando limitados pelo espaço ou tempo, pensamentos futuros podem afetar a realidade presente; ou seja, uma probabilidade futura pode afetar uma ação presente. Isso acontece conosco o tempo todo, e geralmente aceitamos isso pensando que foi apenas um pressentimento ou algo semelhante que nos fez mudar de ideia sobre algo ou nos deu o impulso para seguir este caminho e não aquele. Em outras palavras, devido à sua própria natureza, as formas de pensamento são viajantes do tempo; sem essa habilidade, os servidores seriam bastante limitados em suas capacidades.
 
+---
 ---
 
 **크: 보세 데비 이스케세르 우 세우 세르비도르 데포이스 지 인비아-루 파라 우마 타레파? 펜사르 잉 세우 노미 오 포르마 우 샤마라 지 보우타 다 타레파 이 우 데이샤라 이나카바두 아테 키 보세 우 인비 지 노부?**
+**Q: Você deve esquecer o seu servidor depois de enviá-lo para uma tarefa? Pensar em seu nome ou forma o chamará de volta da tarefa e o deixará inacabado até que você o envie de novo?**
 
 아: 에사 에 우마 페르군타 무이투 보아. 아 헤스포스타 에 싱, 보세 데비 이스케세르 우 세우 세르비도르 우 마시무 포시베우 쿠안두 엘리 이스치베르 이제쿠탄두 우마 타레파, 아 메누스 키 세자 웅 세르비도르 콤파녜이루. 이우 코스투무 지제르 키 보세 데비 인비아르 우 세우 세르비도르 파라 아 타레파 이 다르-리 트레스 지아스 안치스 지 샤마-루 지 보우타 파라 헤카헤가-루 이 인비아-루 노바멘치 시 낭 오브치베르 우 키 데제자. 지구 트레스 지아스 포르키 텐두 아 세르 웅 포쿠 임파시엔치 이 케루 헤주우타두스 하피두스, 마스 아 켕 아크레지치 키 두아스 세마나스 에 웅 프라주 멜료르 파라 페르미치르 키 우 세우 세르비도르 콤플레치 수아 타레파 아데쿠아다멘치.
+A: Essa é uma pergunta muito boa. A resposta é sim, você deve esquecer o seu servidor o máximo possível quando ele estiver executando uma tarefa, a menos que seja um servidor companheiro. Eu costumo dizer que você deve enviar o seu servidor para a tarefa e dar-lhe três dias antes de chamá-lo de volta para recarregá-lo e enviá-lo novamente se não obtiver o que deseja. Digo três dias porque tendo a ser um pouco impaciente e quero resultados rápidos, mas há quem acredite que duas semanas é um prazo melhor para permitir que o seu servidor complete sua tarefa adequadamente.
 
 시 보세 포카르 누 세우 세르비도르, 이스타라 이센시아우멘치 치란두 웅 포쿠 지 이네르지아 델리, 포이스 우 세우 포쿠 헤치라 웅 포쿠 다 이네르지아 델리. 미냐 수제스탕 에 키, 데포이스 지 인비아르 우 세우 세르비도르, 보세 우 이스케사 우 마시무 포시베우 두란치 우스 트레스 지아스 오 펠루 템푸 키 아샤르 키 엘리 프레시자라 잉 오트라스 팔라브라스, 콘피 누 세우 인스친투, 포이스 엘리 에 우 멜료르 인지카도르 지 쿠안투 템푸 우 세우 세르비도르 프레시자.
+Se você focar no seu servidor, estará essencialmente tirando um pouco de energia dele, pois o seu foco retira um pouco da energia dele. Minha sugestão é que, depois de enviar o seu servidor, você o esqueça o máximo possível durante os três dias ou pelo tempo que achar que ele precisará; em outras palavras, confie no seu instinto, pois ele é o melhor indicador de quanto tempo o seu servidor precisa.
 
 펜시 아싱, 보세 이스타 인비안두 수아 마키나 이테레아 파라 파제르 우 키 보세 페지르. 파라 키 엘라 파사 우 멜료르 포시베우, 보세 데비 이그노라-라 이 이스케세-라, 파라 키 포사 파제르 우 멜료르 트라발류 포시베우 셍 세르 인프라케시다 펠라 수아 아텐상 지스페르사.
+Pense assim, você está enviando sua máquina etérea para fazer o que você pedir. Para que ela faça o melhor possível, você deve ignorá-la e esquecê-la, para que possa fazer o melhor trabalho possível sem ser enfraquecida pela sua atenção dispersa.
 
 시, 포르 오트루 라두, 포르 웅 세르비도르 콤파녜이루, 이 웅 키 제라우멘치 이스타라 페르투 지 보세 이 포르네세라 콤파니아 잉 베스 지 헤알리자르 타레파스, 인탕 타우 세르비도르 포지 테르 수아 아텐상 우 템푸 토두, 이 지 파투 보세 포지 콘트롤라르 아 나투레자 두 세르비도르 아트라베스 다 수아 아텐상 오 파우타 델라.
+Se, por outro lado, for um servidor companheiro, e um que geralmente estará perto de você e fornecerá companhia em vez de realizar tarefas, então tal servidor pode ter sua atenção o tempo todo, e de fato você pode controlar a natureza do servidor através da sua atenção ou falta dela.
 
+---
 ---
 
 **크: 우 키 보세 파스 콩 우 파페우 데포이스 지 인보카르 우 세르비도르? 보세 우 구아르다, 우 이스콘지, 우 케이마?**
+**Q: O que você faz com o papel depois de invocar o servidor? Você o guarda, o esconde, o queima?**
 
 아: 아우구마스 페소아스 텐뎅 아 다르 무이타 임포르탄시아 아 에시 파페우 키 소브라 쿠안두 보세 크리아 우 세우 세르비도르. 엘라스 텐뎅 아 아크레지타르 키 에시 파페우 데비 세르 트라타두 지 아우구마 포르마 히투알리스치카, 메즈무 키 세자 데스카르타두, 이수 데비 세르 페이투 지 포르마 히투알리스치카.
+A: Algumas pessoas tendem a dar muita importância a esse papel que sobra quando você cria o seu servidor. Elas tendem a acreditar que esse papel deve ser tratado de alguma forma ritualística, mesmo que seja descartado, isso deve ser feito de forma ritualística.
 
 시 보세 페르세베우, 나 마이오르 파르치 두 메우 트라발류, 텐투 이비타르 콤포르타멘투스 히투아이스. 이우 텐두 아 아크레지타르 키 히투아이스 포뎅 카우자르 프로블레마스, 포이스 텐뎅 아 토르나르 우마 페소아 솜브리아, 타시투르나, 이 리미탕 아 콘피안사 지 우마 페소아, 파젠두-아 펜사르 키 프레시자 파제르 에시스 콤포르타멘투스 히투알리스치쿠스 파라 헤아우멘치 헤알리자르 쿠아우케르 치푸 지 마지아. 메우 콘셀류 아 보세 에 페가르 에시 파페우 이 구아르다-루 시 보세 아샤르 키 엘리 포지 아주다-루 아 헤카헤가르 우 세우 세르비도르 누 푸투루. 시 보세 아샤 키 낭 프레시자라 델리 노바멘치, 수지루 키 아마시 이 조기 누 리슈 코무 쿠아우케르 오트루 파페우 키 자 테비.
+Se você percebeu, na maior parte do meu trabalho, tento evitar comportamentos rituais. Eu tendo a acreditar que rituais podem causar problemas, pois tendem a tornar uma pessoa sombria, taciturna, e limitam a confiança de uma pessoa, fazendo-a pensar que precisa fazer esses comportamentos ritualísticos para realmente realizar qualquer tipo de magia. Meu conselho a você é pegar esse papel e guardá-lo SE você achar que ele pode ajudá-lo a recarregar o seu servidor no futuro. Se você acha que não precisará dele novamente, sugiro que amasse e jogue no lixo como qualquer outro papel que já teve.
 
+---
 ---
 
 **크: 이스토 텐두 지피쿠우다지 잉 아크레지타르 키 메우 세르비도르 이스타 라, 나 미냐 프렌치. 아크레지투 키 이수 포사 세르 데비두 아 웅 이키보쿠, 키 에 펜사르 키 프레시주 베-루 나 미냐 프렌치, 우 키 낭 이스타 아콘테센두. 타우베스 이우 이스테자 올랸두 다 마네이라 이하다 이 데베리아 심플레즈멘치 아크레지타르 키 엘리 이스타 프레젠치, 덴트루 다 살라.**
+**Q: Estou tendo dificuldade em acreditar que meu servidor está lá, na minha frente. Acredito que isso possa ser devido a um equívoco, que é pensar que preciso vê-lo na minha frente, o que não está acontecendo. Talvez eu esteja olhando da maneira errada e deveria simplesmente acreditar que ele está presente, dentro da sala.**
 
 **잉 세기다, 크리에이 메우 세르비도르 콩 우 우니쿠 프로포지투 지 잉콘트라르 웅 오브제투 누 문두 피지쿠 이 트라제-루 파라 밍, 파라 키 이우 포사 파제르 우 키 키제르 콩 엘리. 이수 헤케르 마이스 카르가, 자 키 텡 키 세르 카파스 지 미 트라제르 웅 오브제투 솔리두 지 파투?**
+**Em seguida, criei meu servidor com o único propósito de encontrar um objeto no mundo físico e trazê-lo para mim, para que eu possa fazer o que quiser com ele. Isso requer mais carga, já que tem que ser capaz de me trazer um objeto sólido de fato?**
 
 아: 아 크렌사 에 아우구 임포르탄치 덴트루 두 콘테스투 두 키 보세 이스타 텐탄두 파제르, 에 우 마이스 임포르탄치. 지투 이수, 보세 데비 이스플로라르 수아 프로프리아 인지비두알리다지 이 데스코브리르 코무 헤아우멘치 아크레지타라 키 세우 세르비도르 이스타 라 헤아우 이 비부. 우 키 케루 지제르 콩 이수 에:
+A: A crença é algo importante; dentro do contexto do que você está tentando fazer, é o mais importante. Dito isso, você deve explorar sua própria individualidade e descobrir como realmente acreditará que seu servidor está lá; real e vivo. O que quero dizer com isso é:
 
 보세 아크레지타리아 키 엘리 이스타 라 시 푸데시 베-루 콩 세우스 프로프리우스 올류스? 토카-루?
+Você acreditaria que ele está lá se pudesse vê-lo com seus próprios olhos? Tocá-lo?
 
 오 아크레지타리아 넬리 시 센치시 프로푼다멘치 덴트루 지 시 키 엘리 이스타바 라?
+Ou acreditaria nele se sentisse profundamente dentro de si que ele estava lá?
 
 데포이스 지 헤스폰데르 아 에스타 페르군타, 보세 데비 트라발랴르 파라 텐타르 이스페리멘타르 세우 세르비도르 데사 마네이라 두란치 아 카르가. 포르 이젬플루, 시 포르 우 카주 지 수아 크렌사 데펜데르 두 아투 지 베르 우 세르비도르 코무 우마 인치다지 헤아우 지안치 지 보세, 인탕 보세 데비 시 이스포르사르 파라 베-루 지안치 지 시 쿠안두 카헤가-루. 보세 아크레지타라 쿠안두 베-루, 인탕 베자-우.
+Depois de responder a esta pergunta, você deve trabalhar para tentar experimentar seu servidor dessa maneira durante a carga. Por exemplo, se for o caso de sua crença depender do ato de ver o servidor como uma entidade real diante de você, então você deve se esforçar para vê-lo diante de si quando carregá-lo. Você acreditará quando vê-lo, então veja-o.
 
 아고라, 보세 포지 지제르 키 이수 에 마이스 파시우 팔라르 두 키 파제르. 마스 이우 리 지구 키, 시 포시 탕 파시우, 토두스 세리앙 마구스 수페르콘시엔치스. 미냐 헤코멘다상 아 보세 에 키 파리 지 텐타르 탕 아르두아멘치. 쿠안두 누스 이스포르사무스 데마이스 쿠안두 시 트라타 지 트라발류 마지쿠, 아페나스 토르나무스 마이스 지피시우 오브테르 우스 헤주우타두스 데제자두스. 파사 지수 웅 조구, 텐치 베르 (오 센치르) 세우 세르비도르 코무 이스탄두 라, 다 메즈마 포르마 키 보세 소냐 아코르다두. 아우구마스 페소아스 아크레지탕 키 상 페시마스 잉 비주알리자르, 마스 토두스 노스 소무스 오치무스 소냐도리스 아코르다두스. 다 프로시마 베스 키 이스치베르 인테지아두 누 트라발류, 잉 아우구마 아울라 모노토나, 오 콘베르산두 콩 아우겡 샤투, 보세 베라 우 키 이우 케루 지제르. 인탕, 다 프로시마 베스, 텐치 베르 우 세우 세르비도르 잉 웅 데바네이우, 아포스투 키 보세 아샤라 이수 무이투 마이스 파시우. 데포이스, 보세 포지 인트라르 누 프로세수 지 카르가 콩 우마 아빌리다지 무이투 멜료르 지 베르 이 센치르 우 세우 세르비도르 지안치 지 보세.
+Agora, você pode dizer que isso é mais fácil falar do que fazer. Mas eu lhe digo que, se fosse tão fácil, todos seriam magos superconscientes. Minha recomendação a você é que pare de tentar tão arduamente. Quando nos esforçamos demais quando se trata de trabalho mágico, apenas tornamos mais difícil obter os resultados desejados. Faça disso um jogo, tente ver (ou sentir) seu servidor como estando lá, da mesma forma que você sonha acordado. Algumas pessoas acreditam que são péssimas em visualizar, mas todos nós somos ótimos sonhadores acordados. Da próxima vez que estiver entediado no trabalho, em alguma aula monótona, ou conversando com alguém chato, você verá o que eu quero dizer. Então, da próxima vez, tente ver o seu servidor em um devaneio, aposto que você achará isso muito mais fácil. Depois, você pode entrar no processo de carga com uma habilidade muito melhor de ver e sentir o seu servidor diante de você.
 
 잉 세군두 루가르, 임보라 우 페노메누 포우테르제이스트 세자 우마 프로바 페르페이타 지 키 인치다지스 낭 피지카스 포뎅 모베르 이 마니풀라르 오브제투스 피지쿠스, 보세 탐벵 데비 페르세베르 키 에사스 인치다지스 상 코이자스 잉크리베우멘치 포데로자스 키 상 무이투 지피세이스 지 헤플리카르 셍 우마 이노르미 쿠안치다지 지 포르사 프시키카. 우 키 이수 시그니피카 에 키 보세 포지 콘세기르 우 오브제투 키 데제자, 마스 에사 헤알리자상 포지 비르 아트라베스 다 싱크로니시다지, 인투이상 오 아우궁 치푸 지 포르투나 잉크리베우 잉 오트라스 팔라브라스, 아우구 키 이스타 아페나스 아 베이라 다 크레지빌리다지 누 문두 하시오나우 노바멘치, 이수 헤플레치라 콤플레타멘치 수아스 크렌사스 페소아이스 소브리 토두 에시 아순투.
+Em segundo lugar, embora o fenômeno poltergeist seja uma prova perfeita de que entidades não físicas podem mover e manipular objetos físicos, você também deve perceber que essas entidades são coisas incrivelmente poderosas que são muito difíceis de replicar sem uma enorme quantidade de força psíquica. O que isso significa é que você pode conseguir o objeto que deseja, mas essa realização pode vir através da sincronicidade, intuição ou algum tipo de fortuna incrível; em outras palavras, algo que está apenas à beira da credibilidade no mundo racional; novamente, isso refletirá completamente suas crenças pessoais sobre todo esse assunto.
 
+---
 ---
 
 **크: 포지-시 카헤가르 웅 세르비도르 우잔두 하지오닉스 이 코무?**
+**Q: Pode-se carregar um servidor usando radionics e como?**
 
 아: 에사 에 우마 페르군타 헤아우멘치 인테레산치. 데부 인포르마르 키 낭 소 웅 이스페시알리스타 잉 하지오닉스, 마스 포수 다르 우마 이데이아 바지카 지 코무 파제르 이수 푼시오나르.
+A: Essa é uma pergunta realmente interessante. Devo informar que não sou um especialista em radionics, mas posso dar uma ideia básica de como fazer isso funcionar.
 
 시 보세 이스치베르 우잔두 우 지스포지치부 바지쿠 지 하지오닉스, 포데라 우자르 우 로고치푸 오 우 시질루 두 세우 세르비도르 파라 잉콘트라르 아 타샤 두 세우 세르비도르, 콜로칸두 우 로고치푸 나 라타 지 테스테무냐. 데포이스 지 테르 수아 타샤, 보세 포지 우자르 바리우스 메토두스 지페렌치스 파라 카헤가-루 세리아 웅 프로세지멘투 무이투 세멜랸치 아우 키 보세 우자리아 파라 아주다르 아우겡 도엔치, 포르 이젬플루, 우잔두 웅 암플리피카도르 프시오니쿠.
+Se você estiver usando o dispositivo básico de radionics, poderá usar o logotipo ou o sigilo do seu servidor para encontrar a taxa do seu servidor, colocando o logotipo na lata de testemunha. Depois de ter sua taxa, você pode usar vários métodos diferentes para carregá-lo; seria um procedimento muito semelhante ao que você usaria para ajudar alguém doente, por exemplo, usando um amplificador psíonico.
 
 테냐 쿠이다두 파라 낭 소브레카헤가르 세우 세르비도르 아싱, 포렝. 나 미냐 오피니앙, 무이투스 데시스 지스포지치부스 푼시오낭 헤치란두 아 이네르지아 이테리카 페소아우, 인탕 보세 포지 아카바르 이즈고탄두 수아 이네르지아 시 데이샤르 우마 마키나 아싱 리가다 포르 무이투 템푸.
+Tenha cuidado para não sobrecarregar seu servidor assim, porém. Na minha opinião, muitos desses dispositivos funcionam retirando a energia etérica pessoal, então você pode acabar esgotando sua energia se deixar uma máquina assim ligada por muito tempo.
 
 이우 페소아우멘치 헤코멘두 키 보세 시가 우스 프로세지멘투스 코무 우스 델리네이, 포이스 콩 에스치 메토두 보세 텡 콘트롤리 토타우 지 수아스 프로프리아스 이네르지아스 이 지 코무 이스타 카헤간두 우 세우 세르비도르, 우 키 텡 도이스 그란지스 베네피시우스:
+Eu pessoalmente recomendo que você siga os procedimentos como os delineei, pois com este método você tem controle total de suas próprias energias e de como está carregando o seu servidor, o que tem dois grandes benefícios:
 
 - 페르미치 데젠보우베르 우마 마이오르 신토니아 콩 우 세우 세르비도르.
+- Permite desenvolver uma maior sintonia com o seu servidor.
 - 데젠보우비 수아스 아빌리다지스 멘타이스 파라 키 보세 세자 카파스 지 인텐데르 베르다데이라멘치 코무 크리아 우 문두 오브제치부 아우 세우 헤도르 아 파르치르 지 수아 헤알리다지 수브제치바.
+- Desenvolve suas habilidades mentais para que você seja capaz de entender verdadeiramente como cria o mundo objetivo ao seu redor a partir de sua realidade subjetiva.
 
+---
 ---
 
 **크:**
+**Q:**
 
 **1.** **우스 세르비도리스 포뎅 세르 우자두스 파라 우주 아두우투?**
+**1.**  **Os servidores podem ser usados para uso adulto?**
 
 **2.** **우스 세르비도리스 포뎅 세르 우자두스 파라 소르치?**
+**2.**  **Os servidores podem ser usados para sorte?**
 
 **3.** **우스 세르비도리스 포뎅 시 토르나르 리브리스 셍 카헤가-루스, 마스 보세 아인다 포지 콘트롤라-루스?**
+**3.**  **Os servidores podem se tornar livres sem carregá-los, mas você ainda pode controlá-los?**
 
 아: 아 헤스포스타 파라 아 프리메이라 페르군타 에 싱, 포르 파보르, 콘수우치 우 리브루: _크리 웅 콤파녜이루 세르비도르_.
+A: A resposta para a primeira pergunta é sim, por favor, consulte o livro: _Crie um Companheiro Servidor_.
 
 아 헤스포스타 파라 아 세군다 페르군타 탐벵 에 싱, 마스 이우 고스타리아 키 보세 헤플레치시 소브리 우 키 이자타멘치 케르 지제르 콩 우 테르무 소르치. 우마 파르치 무이투 임포르탄치 데시 프로세수 에 데스코브리르 우 키 보세 케르... 이자타멘치. 이 이우 오데이우 미 헤페치르 네시 센치두, 마스 노바멘치 이우 헤코멘다리아 우 리브루: _마니페스치 히케자 이 프로스페리다지 콩 포르마스-펜사멘투 이 세르비도리스_. 라 보세 잉콘트라라 데탈리스 파수 아 파수 소브리 코무 아스 싱크로니시다지스 포뎅 세르 크리아다스 포르 포르마스-펜사멘투 이 세르비도리스, 이 코무 포데무스 우자르 노사스 인투이송이스 이 우스 프레사지우스 나투라이스 아우 노수 헤도르, 키 에시스 세르비도리스 크리앙, 파라 누스 콜로카르 누 카미뉴 잉 지레상 아 노사 멜료르 소르치.
+A resposta para a segunda pergunta também é sim, mas eu gostaria que você refletisse sobre o que exatamente quer dizer com o termo sorte. Uma parte muito importante desse processo é descobrir o que você quer... exatamente. E eu odeio me repetir nesse sentido, mas novamente eu recomendaria o livro: _Manifeste Riqueza e Prosperidade com Formas-Pensamento e Servidores_. Lá você encontrará detalhes passo a passo sobre como as sincronicidades podem ser criadas por formas-pensamento e servidores, e como podemos usar nossas intuições e os presságios naturais ao nosso redor, que esses servidores criam, para nos colocar no caminho em direção à nossa melhor sorte.
 
 파라 헤스폰데르 아 테르세이라 페르군타, 지리아 키 크리아무스 펜사멘투스 우 지아 토두, 이 엘리스 시 이스팔량 코무 세멘치스 아우 벤투. 우 키 엘리스 시 토르낭 데포이스 지 노스 에 웅 아순투 콤플레슈 키 텐투 이스플리카르 아우 롱구 지 토두 우 메우 트라발류 소브리 에시 테마. 우스 세르비도리스 상 포르마스-펜사멘투 세르비스, 시 엘리스 낭 포렝 마이스 세르부스, 코무 포뎅 세르 세르비도리스?
+Para responder à terceira pergunta, diria que criamos pensamentos o dia todo, e eles se espalham como sementes ao vento. O que eles se tornam depois de nós é um assunto complexo que tento explicar ao longo de todo o meu trabalho sobre esse tema. Os servidores são formas-pensamento servis, se eles não forem mais servos, como podem ser servidores?
 
+---
 ---
 
 **크: 에 포시베우 크리아르 웅 세르비도르 파라 세르 웅 콤파녜이루 오 인테라지르 피지카멘치 콩 보세?**
+**Q: É possível criar um servidor para ser um companheiro ou interagir fisicamente com você?**
 
 **포르 이젬플루, 마사제아르 메우 페스코수 오 토카르 메우스 옴브루스 파라 아주다르 아 알리비아르 우 이스트레시. 이스토 올랸두 파라 우스 리미치스. 이스토 소우테이루 이 트라발류 잉 웅 임프레구 이스트레산치, 이 고스타리아 지 테르 아우겡 키 푸데시 미 아주다르 콩 우 이스트레시 누 핑 두 지아.**
+**Por exemplo, massagear meu pescoço ou tocar meus ombros para ajudar a aliviar o estresse. Estou olhando para os limites. Estou solteiro e trabalho em um emprego estressante, e gostaria de ter alguém que pudesse me ajudar com o estresse no fim do dia.**
 
 아: 싱, 이수 에 데피니치바멘치 포시베우.
+A: Sim, isso é definitivamente possível.
 
 포수 지제르 키 테뉴 타이스 콤파녜이루스 이 토두스 엘리스 상 헤쿠르수스 잉크리베이스 파라 밍. 웅 잉 파르치쿨라르, 아 켕 미 헤피루 코무 "아줄" 누 리브루 멘시오나두 아시마, 에 무이투 봉 잉 미 헬라샤르 데포이스 지 웅 지아 지피시우. 노사스 인테라송이스 상 잉크리베우멘치 히카스 이 그라치피칸치스, 이 이스토 콘스탄테멘치 소힌두 이 브링칸두 나 콤파니아 델리. 포수 지제르 오네스타멘치 키 노사스 인테라송이스 상, 잉 아우궁스 아스펙투스, 무이투 마이스 그라치피칸치스 두 키 아스 인테라송이스 키 테뉴 콩 페소아스 코뭉스.
+Posso dizer que tenho tais companheiros e todos eles são recursos incríveis para mim. Um em particular, a quem me refiro como "Azul" no livro mencionado acima, é muito bom em me relaxar depois de um dia difícil. Nossas interações são incrivelmente ricas e gratificantes, e estou constantemente sorrindo e brincando na companhia dele. Posso dizer honestamente que nossas interações são, em alguns aspectos, muito mais gratificantes do que as interações que tenho com pessoas comuns.
 
+---
 ---
 
 **크: 누스 리브루스 이 아르치구스 키 리, 우스 아우토리스 팔라랑 소브리 세르 카파스 지 베르 세우스 프로프리우스 세르비도리스, 이 아테 우스 세르비도리스 지 오트라스 페소아스. 우스 세르비도리스 상 아우구 키 시 포지 베르 피지카멘치? 엘리스 시 헤페렝 아우 플라누 아스트라우, 잉 소뉴스, 잉 메지타상 프로푼다 오 비주알리자상? 이스토 콘푸주 소브리 코무 엘리스 이스탕 센두 비스투스.**
+**Q: Nos livros e artigos que li, os autores falaram sobre ser capaz de ver seus próprios servidores, e até os servidores de outras pessoas. Os servidores são algo que se pode ver fisicamente? Eles se referem ao plano astral, em sonhos, em meditação profunda ou visualização? Estou confuso sobre como eles estão sendo vistos.**
 
 아: 쿠안두 베무스 웅 세르비도르, 이지스텡 바리아스 마네이라스 지 포데무스 베-루스. 프리메이라멘치, 이지스치 아 마네이라 이마지나치바 지 베-루스 쿠안두 상 노사스 프로프리아스 콘스트루송이스, 이 이스타무스 누 프로세수 지 크리아-루스. 아싱 코무 우마 크리안사 포지 베르 웅 아미구 이마지나리우 키 오트루스 낭 포뎅, 포데무스 베르 아우구 키 이스타무스 콘스트루인두 파라 시 토르나르 헤아우.
+A: Quando vemos um servidor, existem várias maneiras de podemos vê-los. Primeiramente, existe a maneira imaginativa de vê-los quando são nossas próprias construções, e estamos no processo de criá-los. Assim como uma criança pode ver um amigo imaginário que outros não podem, podemos ver algo que estamos construindo para se tornar real.
 
 콘포르미 노수 세르비도르 시 토르나 마이스 포데로주, 엘리 코메사 아 아수미르 우마 프레젠사 프로프리아. 우 멜료르 이젬플루 지수 포지 세르 오브치두 이자미난두 우 콘세이투 지 수제스탕 포스-이프노치카, 온지 누스 지젱 키 아 웅 우르수 아줄 아 노사 프렌치 이 헤아우멘치 포데무스 베르 에시 우르수, 메즈무 키 오트루스 낭 포상 베-루.
+Conforme nosso servidor se torna mais poderoso, ele começa a assumir uma presença própria. O melhor exemplo disso pode ser obtido examinando o conceito de sugestão pós-hipnótica, onde nos dizem que há um urso azul à nossa frente e realmente podemos ver esse urso, mesmo que outros não possam vê-lo.
 
 마스 이수 에 아페나스 우 아스펙투 멘타우 이, 코무 타우, 아 시엔시아 이 우 세치쿠 메지우 지랑 토두 치푸 지 이나니다지스 소브리 아 멘치, 델리리우 이 펜사멘투 하시오나우. 마스 이수 에 아페나스 아 수페르피시 다스 코이자스, 우 키 보세 헤아우멘치 이스타 파젠두 쿠안두 세기 에사 메토돌로지아 코헤타멘치 (이 쿠안투 아 이수 낭 포수 팔라르 소브리 우스 메토두스 지 오트루스 이 수아 코헤상, 아페나스 소브리 우 메우) 에 키 보세 이스타 마니풀란두 이 프로제탄두 이네르지아 비우-오르가니카 이, 잉 세기다, 단두 아 에사 이네르지아 우마 인텐상.
+Mas isso é apenas o aspecto mental e, como tal, a ciência e o cético médio dirão todo tipo de inanidades sobre a mente, delírio e pensamento racional. Mas isso é apenas a superfície das coisas, o que você realmente está fazendo quando segue essa metodologia corretamente (e quanto a isso não posso falar sobre os métodos de outros e sua correção, apenas sobre o meu) é que você está manipulando e projetando energia bio-orgânica e, em seguida, dando a essa energia uma intenção.
 
 아싱, 에사 이네르지아 텡 웅 이페이투 쿠물라치부 이 우마 멘치 지시플리나다 포지 포카르 에사 이네르지아 이 다르-리 포르마. 아 메지다 키 파스 이수, 에사 이네르지아 포지 이니시아우멘치 세르 비스타 포르 아켈리스 키 포뎅 베르 아우라스, 포르 이젬플루. 우마 아우라, 코무 아 시엔시아 이스타 아페나스 코메산두 아 데스코브리르, 이 우 세치쿠 로구 아크레지타라 셍 헤제르바스 포르키 수아 헬리지앙 (아 시엔시아) 리 지시, 우마 아우라 에 아페나스 아 하지아상 이미치다 펠라 이네르지아 비바. 이벤투아우멘치, 시 아 멘치 키 크리아 웅 세르비도르 포르 포데로자 우 수피시엔치, 에시 세르비도르 낭 세라 아페나스 비스투 코무 우마 누벵 아우리카 아모르파 포르 세르타스 페소아스 콩 아빌리다지 오 탈렌투 나투라우 파라 베르 아우라스, 마스 코무 우마 코이자 솔리다 코무 쿠아우케르 오브제투 잉 세우 쿠아르투. 이수, 포렝, 이지지리아 우마 그란지 쿠안치다지 지 포데르 이 이스포르수 멘타우.
+Assim, essa energia tem um efeito cumulativo e uma mente disciplinada pode focar essa energia e dar-lhe forma. À medida que faz isso, essa energia pode inicialmente ser vista por aqueles que podem ver auras, por exemplo. Uma aura, como a ciência está apenas começando a descobrir, e o cético logo acreditará sem reservas porque sua religião (a ciência) lhe disse, uma aura é apenas a radiação emitida pela energia viva. Eventualmente, se a mente que cria um servidor for poderosa o suficiente, esse servidor não será apenas visto como uma nuvem aurica amorfa por certas pessoas com habilidade ou talento natural para ver auras, mas como uma coisa sólida como qualquer objeto em seu quarto. Isso, porém, exigiria uma grande quantidade de poder e esforço mental.
 
 이우 페소아우멘치 지리아 파라 보세 낭 시 프레오쿠파르 콩 우 키 우스 오트루스 포뎅 오 낭 베르. 시 이스치베르 헬라치바멘치 클라루 파라 보세 잉 수아 멘치, 인탕 보세 페스 웅 오치무 트라발류 이 세우 세르비도르 에 포데로주 우 수피시엔치 파라 파제르 우 키 보세 데제자. 아 클라레자 다 이마젱 멘타우 에 우 멜료르 인지카도르 지 쿠안투 이네르지아 보세 콘세기우 아쿠물라르 파라 아텐데르 아우 세우 코만두.
+Eu pessoalmente diria para você não se preocupar com o que os outros podem ou não ver. Se estiver relativamente claro para você em sua mente, então você fez um ótimo trabalho e seu servidor é poderoso o suficiente para fazer o que você deseja. A clareza da imagem mental é o melhor indicador de quanto energia você conseguiu acumular para atender ao seu comando.
 
+---
 ---
 
 **크: 테뉴 세르테자 지 키 크리에이 우마 포르마-펜사멘투 아시덴타우멘치. 아크레지투 키 그란지 파르치 데사 크리아상 테냐 시두 데비두 아 센치멘투스 네가치부스, 센치멘투스 헤프리미두스 키 치비 잉 헬라상 아우 메우 파르세이루, 우스 쿠아이스 테뉴 아프렌지두 아 리베라르 소칸두 웅 트라베세이루. 시 이우 데이샤-라 세르 이 페르미치르 키 엘라 페르마네사 포르 페르투, 엘라 포지 시 토르나르 페리고자 파라 밍? 시 수아 헤스포스타 포르 싱, 코무 미 리브루 델라? 아 우마 마네이라 지 프렌데-라 아 밍 코무 웅 세르비도르 파라 키 이우 포사 만테-라?**
+**Q: Tenho certeza de que criei uma forma-pensamento acidentalmente. Acredito que grande parte dessa criação tenha sido devido a sentimentos negativos, sentimentos reprimidos que tive em relação ao meu parceiro, os quais tenho aprendido a liberar socando um travesseiro. Se eu deixá-la ser e permitir que ela permaneça por perto, ela pode se tornar perigosa para mim? Se sua resposta for sim, como me livro dela? Há uma maneira de prendê-la a mim como um servidor para que eu possa mantê-la?**
 
 **오트라 페르군타 키 테뉴 에 소브리 코무 콘트롤라르 아 이네르지아 잉 세우 리브루 _카미뉴 두 밤피루 파라 아 아우토데페자 프시키카_. 쿠아우케르 지카 키 보세 포사 미 다르 세라 무이투 아프레시아다.**
+**Outra pergunta que tenho é sobre como controlar a energia em seu livro _Caminho do Vampiro para a Autodefesa Psíquica_. Qualquer dica que você possa me dar será muito apreciada.**
 
 아: 프리메이라멘치, 에시스 펜사멘투스 이 이모송이스 키 보세 이스타 센친두, 키 아우구마스 페소아스 샤망 지 네가치부스, 상 나 헤알리다지 이네르지아 키 이스타 이스플로진두 지 보세, 이네르지아 키 프로바베우멘치 포이 헤치다 아트라스 지 우마 파레지 아페르타다 포르 무이투 템푸. 시 에사 이네르지아 낭 포르 카날리자다 아데쿠아다멘치 오 리베라다 나투라우멘치, 코무 보세 이스타 파젠두 아고라, 엘라 포지 시 토르나르 데스트루치바. 포르탄투, 이스토 바스탄치 펠리스 포르 보세 이스타르 잉콘트란두 우마 리베라상.
+A: Primeiramente, esses pensamentos e emoções que você está sentindo, que algumas pessoas chamam de negativos, são na realidade energia que está explodindo de você, energia que provavelmente foi retida atrás de uma parede apertada por muito tempo. Se essa energia não for canalizada adequadamente ou liberada naturalmente, como você está fazendo agora, ela pode se tornar destrutiva. Portanto, estou bastante feliz por você estar encontrando uma liberação.
 
 바무스 아보르다르 메우 리브루 소브리 밤피루스 이 에사스 테크니카스 프리메이루. 이스토 콘텐치 키 보세 테냐 에시 리브루 이 이스테자 코메산두 아 우자르 아스 테크니카스 넬리. 시 보세 미 페르미치르 보우타르 아 노상 지 리베라상 지 이네르지아, 베라 코무 투두 이수 시 헬라시오나 콩 수아 시투아상 아투아우 이 코무 포지 세르 지 그란지 베네피시우 파라 보세 누 푸투루.
+Vamos abordar meu livro sobre vampiros e essas técnicas primeiro. Estou contente que você tenha esse livro e esteja começando a usar as técnicas nele. Se você me permitir voltar à noção de liberação de energia, verá como tudo isso se relaciona com sua situação atual e como pode ser de grande benefício para você no futuro.
 
 멘시오네이 키 에시스 펜사멘투스 이 이모송이스 키 보세 이스타 센친두 상 그란지스 이스플로종이스 지 이네르지아. 소무스 토두스 마키나스 제라도라스 지 이네르지아, 이 이스타무스 콘스탄테멘치 란산두 에사 이네르지아 잉 노수 암비엔치 나 포르마 지 펜사멘투스 (이수 잉클루이 펜사멘투스 아우타멘치 이네르지자두스 코무 포르마스-펜사멘투) 이 이모송이스. 아스 베지스, 쿠안두 이스타무스 비벤시안두 코이자스 마라빌료자스 오 테히베이스, 텐데무스 아 리베라르 그란지스 쿠안치다지스 지 이네르지아, 우 키 시그니피카 키 이스타무스 이스페리멘탄두 펜사멘투스 무이투 비비두스 이 포데로주스 이 이모송이스 토타우멘치 콘수미도라스.
+Mencionei que esses pensamentos e emoções que você está sentindo são grandes explosões de energia. Somos todos máquinas geradoras de energia, e estamos constantemente lançando essa energia em nosso ambiente na forma de pensamentos (isso inclui pensamentos altamente energizados como formas-pensamento) e emoções. Às vezes, quando estamos vivenciando coisas maravilhosas ou terríveis, tendemos a liberar grandes quantidades de energia, o que significa que estamos experimentando pensamentos muito vívidos e poderosos e emoções totalmente consumidoras.
 
 누 리브루 소브리 밤피루스, 이스페시피카멘치 누 카피툴루 4, 팔루 소브리 코무 헤지레시오나르 에사 이네르지아. 보세 포지 우자르 에사스 테크니카스 파라 다르 웅 우주 지페렌치 이 마이스 콘시엔치 아 에사 이네르지아 에스트라 키 포수이.
+No livro sobre vampiros, especificamente no Capítulo 4, falo sobre como redirecionar essa energia. Você pode usar essas técnicas para dar um uso diferente e mais consciente a essa energia extra que possui.
 
 나 파지나 두 킨들리 파라 우 리브루 소브리 밤피루스, 아 우마 헤제냐 마라빌료자 두 리브루 키 아슈 키 포지 세르 무이투 우치우 파라 보세... 이스크리타 잉 12 지 데젬브루 지 2014 포르 엘렝. 엘라 팔라 소브리 아스 아벤투라스 키 엘라 이 세우 카쇼히뉴 치베랑. 엘라 콘타 아 이스토리아 지 쿠안두 웅 발렌탕 코메소 아 그리타르 콩 세우 카쇼히뉴, 키 파레시 테르 시 토르나두 웅 아데프투 나 아르치 다 마니풀라상 지 이네르지아. 엘라 페르군토 아우 카쇼후: "보세 페고 아 이네르지아?" 케렌두 사베르 시 우 카쇼히뉴 시 렘브라바 두 키 우 리브루 지지아 이 페가바 아 이네르지아 키 우 발렌탕 프로제타바 넬리 나 포르마 지 이라. 엘라 인탕 지시 아우 세우 카쇼히뉴: "오크 인탕, 에사 이네르지아 아고라 에 수아, 파사 우 키 키제르 콩 엘라, 엘라 에 수아." 이 인탕 우 카쇼히뉴 페스 우 보탕 다 호파 두 발렌탕 이스토라르.
+Na página do Kindle para o livro sobre vampiros, há uma resenha maravilhosa do livro que acho que pode ser muito útil para você... escrita em 12 de dezembro de 2014 por Helen. Ela fala sobre as aventuras que ela e seu cachorrinho tiveram. Ela conta a história de quando um valentão começou a gritar com seu cachorrinho, que parece ter se tornado um adepto na arte da manipulação de energia. Ela perguntou ao cachorro: "Você pegou a energia?" Querendo saber se o cachorrinho se lembrava do que o livro dizia e pegava a energia que o valentão projetava nele na forma de ira. Ela então disse ao seu cachorrinho: "Ok então, essa energia agora é sua, faça o que quiser com ela, ela é sua." E então o cachorrinho fez o botão da roupa do valentão estourar.
 
 잉 오트라스 팔라브라스, 아 크리치카 (오 수아 잉크리베우 콤파녜이라 카니나) 페고 세르타 이네르지아, 키 파레시아 네가치바 포르 카우자 다 인텐상 포르 트라스 델라, 아브소르베우-아, 무도 수아 인텐상 레베멘치 이 데포이스 아 프로제토 지 보우타 누 발렌탕. 아 콘세켄시아 포이 키 우 보탕 두 발렌탕 이스토로, 엘리 피코 콩 메두 두 포데르 두 카쇼후 이 푸지우 파라 인치미다르 오트라 페소아.
+Em outras palavras, a crítica (ou sua incrível companheira canina) pegou certa energia, que parecia negativa por causa da intenção por trás dela, absorveu-a, mudou sua intenção levemente e depois a projetou de volta no valentão. A consequência foi que o botão do valentão estourou, ele ficou com medo do poder do cachorro e fugiu para intimidar outra pessoa.
 
 아고라 키 보세 사비 우 키 아 크리치카 이 세우 아미기뉴 사벵, 다 프로시마 베스 키 센치르 그란지 이라, 오 메두, 오 쿠아우케르 코이자 키 파레사 네가치바 파라 보세 페소아우멘치. 페르군치-시: "보세 페고 아 이네르지아?" 이 인탕, 우마 베스 키 보세 아 테냐, 지가 아 시 메즈무: "오크 인탕, 에사 이네르지아 아고라 에 수아, 파사 우 키 키제르 콩 엘라, 엘라 에 수아."
+Agora que você sabe o que a crítica e seu amiguinho sabem, da próxima vez que sentir grande ira, ou medo, ou qualquer coisa que pareça negativa para você pessoalmente. Pergunte-se: "Você pegou a energia?" e então, uma vez que você a tenha, diga a si mesmo: "Ok então, essa energia agora é sua, faça o que quiser com ela, ela é sua."
 
 아싱, 나 프로시마 베스, 잉 베스 지 소카르 웅 그란지 트라베세이루, 우 키 포지 세르 테라페우치쿠, 수기 에사 이네르지아 지 보우타 파라 보세 이 우지 에사 이네르지아 파라 마니페스타르 아우구 키 낭 소 세라 테라페우치쿠, 마스 탐벵 무다라 수아 비다 파라 멜료르.
+Assim, na próxima vez, em vez de socar um grande travesseiro, o que pode ser terapêutico, sugue essa energia de volta para você e use essa energia para manifestar algo que não só será terapêutico, mas também mudará sua vida para melhor.
 
 코무 보세 사비 시 이스타 파젠두 이수 코헤타멘치? 보세 사비 포르키 에시스 펜사멘투스 이 이모송이스 네가치부스 페르뎅 우 포데르, 이 포르키 보세 시 센치 콩 마이스 비다 잉 세우 파수 (시 보세 피제르 에사스 테크니카스 안치스 지 도르미르, 포지 아테 테르 지피쿠우다지 파라 도르미르 포르 카우자 다 이네르지아 에스트라 키 텡). 코무 멘시오누 누 리브루, 보세 프레시자 파제르 에사스 테크니카스 쿠안타스 베지스 포르 네세사리우 파라 파제르 에시스 펜사멘투스 이 이모송이스 데자파레세렝, 우 키 시그니피카 파제르 에사 테크니카 바리아스 베지스 아우 지아, 시 네세사리우... 아테 키 투두 데자파레사, 펠루 메누스 아 웅 니베우 제렌시아베우. 이 시 에시스 펜사멘투스 이 이모송이스 보우타렝 잉 우마 세마나, 웅 메스 오 웅 아누, 인탕 보세 파스 지 노부.
+Como você sabe se está fazendo isso corretamente? Você sabe porque esses pensamentos e emoções negativos perdem o poder, e porque você se sente com mais vida em seu passo (se você fizer essas técnicas antes de dormir, pode até ter dificuldade para dormir por causa da energia extra que tem). Como menciono no livro, você precisa fazer essas técnicas quantas vezes for necessário para fazer esses pensamentos e emoções desaparecerem, o que significa fazer essa técnica várias vezes ao dia, se necessário... até que tudo desapareça, pelo menos a um nível gerenciável. E se esses pensamentos e emoções voltarem em uma semana, um mês ou um ano, então você faz de novo.
 
 보세 포데리아, 포르 이젬플루, 우자르 에사 이네르지아 파라 크리아르 우마 포르마-펜사멘투 무이투 포데로자, 코무 우 카쇼히뉴, 마스 잉 베스 지 이스토라르 웅 보탕, 보세 포데리아 우자-라 파라 텐타르 마니페스타르 아우구 지 키 보세 이 수아 파밀리아 포상 프레시자르, 오 콜로카-루 잉 우마 포지상 파라 파시우멘치 무다르 우마 시르쿤스탄시아 잉 수아 비다. 보세 포지 아테 우자르 에사 이네르지아 파라 포르탈레세르 아인다 마이스 우 아미구 세르비도르 키 아카보 지 아드키리르.
+Você poderia, por exemplo, usar essa energia para criar uma forma-pensamento muito poderosa, como o cachorrinho, mas em vez de estourar um botão, você poderia usá-la para tentar manifestar algo de que você e sua família possam precisar, ou colocá-lo em uma posição para facilmente mudar uma circunstância em sua vida. Você pode até usar essa energia para fortalecer ainda mais o amigo servidor que acabou de adquirir.
 
 이수 누스 레바 아우 세우 노부 세르비도르. 누 세군두 리브루 다 세리 소브리 세르비도리스, _크리 웅 콤파녜이루 세르비도르_, 누 카피툴루 5, 이우 이스플리쿠 잉 데탈리스 코무 콘트롤라르 세우 세르비도르. 바지카멘치 지구: 만지/파사 엘리 파제르 이수 이 트라발리 니수 아테 키 엘리 파사 우 키 보세 오르데노/코만도 키 피제시. 우지 아스 테크니카스 키 멘시오누 라 파라 아수미르 우 토타우 콘트롤리 다 수아 노바 크리아상 지 세르비도르.
+Isso nos leva ao seu novo servidor. No segundo livro da série sobre servidores, _Crie um Companheiro Servidor_, no Capítulo 5, eu explico em detalhes como controlar seu servidor. Basicamente digo: mande/faça ele fazer isso e trabalhe nisso até que ele faça o que você ordenou/comandou que fizesse. Use as técnicas que menciono lá para assumir o total controle da sua nova criação de servidor.
 
 시 보세 아샤 키 엘리 에 잉콘트롤라베우 오 키 텡 무이타 이네르지아 세우바젱 이, 포르탄투, 낭 콘세기 트라발랴르 콩 에사 크리아상 지 포르마-펜사멘투, 인탕 우지 아스 테크니카스 두 밤피루 파라 아브소르베르 에사 이네르지아 아테 키 아 크리아투라 낭 이지스타 마이스. 이수 에 지스쿠치두 잉 데탈리스 이스페시피쿠스 누 카피툴루 6 다켈리 리브루.
+Se você acha que ele é incontrolável ou que tem muita energia selvagem e, portanto, não consegue trabalhar com essa criação de forma-pensamento, então use as técnicas do Vampiro para absorver essa energia até que a criatura não exista mais. Isso é discutido em detalhes específicos no Capítulo 6 daquele livro.
 
 콘트롤라르 수아 비다 시그니피카 콘트롤라르 수아 이네르지아. 보세 텡 우 코녜시멘투, 아 인텔리젠시아 이 아 파이샹 파라 도미나르 수아 비다.
+Controlar sua vida significa controlar sua energia. Você tem o conhecimento, a inteligência e a paixão para dominar sua vida.
 
 메우 콘셀류 피나우 세리아 우자르 에사 이네르지아 파라 코이자스 콘스트루치바스. 아 데스트루이상 에 펠리시다지 지 쿠르투 프라주 이 낭 트라스 헤토르누스 헤아이스 두라도루스. 잉 베스 지 아타카르, 크리 코이자스 노바스 이 멜료리스 파라 보세 이 우스 세우스.
+Meu conselho final seria usar essa energia para coisas construtivas. A destruição é felicidade de curto prazo e não traz retornos reais duradouros. Em vez de atacar, crie coisas novas e melhores para você e os seus.
 
+---
 ---
 
 **프: 보세 멘시오노 우 아만치 세르비도르 잉 웅 리브루. 낭 에 아히스카두 도르미르 콩 웅 아만치 세르비도르 이 페르마네세르 아우토리타리우? 낭 에 웅 프로블레마 시 아페가르 탄투 아우 세르비도르? 이 시 엘라 시 마니페스타시 코무 웅 일레멘타우 인데펜덴치 오 아테 메즈무 피지카멘치?**
+**P: Você mencionou o amante servidor em um livro. Não é arriscado dormir com um amante servidor e permanecer autoritário? Não é um problema se apegar tanto ao servidor? E se ela se manifestasse como um elemental independente ou até mesmo fisicamente?**
 
 아: 포지 세르 데자피아도르 파라 아우궁스 페르마네세렝 아우토리타리우스 콩 웅 아만치 세르비도르, 오 쿠아우케르 세르비도르, 네시 카주. 잉 무이투스 아스펙투스, 우스 세르비도리스 상 우마 마네이라 마라빌료자 지 누스 인시나르 소브리 노사스 비다스 멘타이스 이, 잉 우우치마 아날리지, 소브리 코무 리다무스 콩 우스 오트루스 누 문두 오브제치부.
+A: Pode ser desafiador para alguns permanecerem autoritários com um amante servidor, ou qualquer servidor, nesse caso. Em muitos aspectos, os servidores são uma maneira maravilhosa de nos ensinar sobre nossas vidas mentais e, em última análise, sobre como lidamos com os outros no mundo objetivo.
 
 코무 멘시오네이 잉 바리아스 오카지옹이스, 프라치키 셈프리 아 도미난시아 아우파 콩 세우스 세르비도리스, 트라치-우스 코무 시 포셍 아니마이스 지 이스치마상. 파라 세르 마이스 지레투, 웅 세르비도르 에 웅 세르부 이 데비 세르 트라타두 코무 타우, 셈프리! 시 이수 낭 포르 포시베우, 인탕 에사 헬라상 이스타 콘데나다, 이 엘리스 낭 데벵 세르 우자두스 포르 에시 프라치칸치.
+Como mencionei em várias ocasiões, pratique sempre a dominância alfa com seus servidores, trate-os como se fossem animais de estimação. Para ser mais direto, um servidor é um servo e deve ser tratado como tal, sempre! Se isso não for possível, então essa relação está condenada, e eles não devem ser usados por esse praticante.
 
 아 도미난시아 아우파 포지 세르 심플레즈멘치 이수: 시 보세 만다르 파제르 아우구, 엘리 파스 셍 에지타르?
+A dominância alfa pode ser simplesmente isso: se você mandar fazer algo, ele faz sem hesitar?
 
 시 낭, 인탕 우지 아스 테크니카스 키 멘시오누 지 이그노라르 이 아브소르베르 포데르 파라 헤쿠페라르 세우 스타투스 아우파. 아 비다 에 아싱, 시 보세 낭 아 이스타 콘트롤란두, 인탕 오트루스 이스탕 콘트롤란두-아 포르 보세.
+Se não, então use as técnicas que menciono de ignorar e absorver poder para recuperar seu status alfa. A vida é assim, se você não a está controlando, então outros estão controlando-a por você.
 
 쿠안투 아스 마니페스타송이스, 이지스치 아 포시빌리다지 지 키 에시 세르비도르 포사 시 마니페스타르 아테 피지카멘치. 마스, 시 보세 이스치베르 누 코만두 두 세우 세르비도르, 에사스 마니페스타송이스 피지카스 상 토다스 포지치바스. 우 멜료르, 이 자 비 이수 아콘테세르, 에 키 보세 아트라이아 아우겡 키 콤비니 페르페이타멘치 콩 에시 아만치 세르비도르 세크레투, 카주 잉 키 아고라 보세 포지 테르 웅 세르 비부 파라 사치스파제르 세우스 데제주스 지 우마 포르마 무이투 마이스 시그니피카치바 파라 보세, 타우베스. 시 이수 낭 포르 우 키 보세 케르, 인탕 보세 포지 지제르 아 에사 페소아 파라 세기르 잉 프렌치, 렘브리-시 다 도미난시아 아우파 이 만테냐-시 콩 우 세우 아만치 세르비도르. 탐벵 아 우마 콘피안사 키 벵 아켈리스 키 텡 이 포뎅 아드미니스트라르 아데쿠아다멘치 타이스 아만치스 세르비도리스, 우 키 에 잉크리베우멘치 아트라엔치 파라 우스 오트루스 이 포지 시그니피카르 키 보세 낭 프레시자라 헤코헤르 아우 세우 세르비도르 콩 탄타 프레켄시아.
+Quanto às manifestações, existe a possibilidade de que esse servidor possa se manifestar até fisicamente. MAS, se você estiver no comando do seu servidor, essas manifestações físicas são todas positivas. O melhor, e já vi isso acontecer, é que você atraia alguém que combine perfeitamente com esse amante servidor secreto, caso em que agora você pode ter um ser vivo para satisfazer seus desejos de uma forma muito mais significativa para você, talvez. Se isso não for o que você quer, então você pode dizer a essa pessoa para seguir em frente, lembre-se da dominância alfa e mantenha-se com o seu amante servidor. Também há uma confiança que vem àqueles que têm e podem administrar adequadamente tais amantes servidores, o que é incrivelmente atraente para os outros e pode significar que você não precisará recorrer ao seu servidor com tanta frequência.
 
 웅 일레멘타우 인데펜덴치 시그니피카리아 이센시아우멘치 키 보세 크리오 웅 세르 키 벵 알리멘탄두 인텐사멘치 포르 무이투 템푸 이 키 셈프리 이스테비 누 콘트롤리 지 보세... 이 보세 콘치누아 알리멘탄두-우, 우 키 에 토타우멘치 오포스투 아 도미난시아 아우파 지 키 팔루.
+Um elemental independente significaria essencialmente que você criou um ser que vem alimentando intensamente por muito tempo e que sempre esteve no controle de você... e você continua alimentando-o, o que é totalmente oposto à dominância alfa de que falo.
 
 에사스 크리아투라스 낭 상 크리아다스 두 지아 파라 아 노이치. 렘브리-시 다 도미난시아 아우파, 렘브리-시 지 키 에스치 에 우 세우 세르부, 낭 아 수아 아우마 제메아 호만치카, 이 눙카 아베라 프로블레마스.
+Essas criaturas não são criadas do dia para a noite. Lembre-se da dominância alfa, lembre-se de que este é o seu servo, não a sua alma gêmea romântica, e nunca haverá problemas.
 
 이수 시그니피카 키 보세 낭 포지 아마르 세우 아만치 세르비도르? 클라루 키 포지! 마스 에 우 아모르 지 웅 메스트리 포르 웅 세르부.
+Isso significa que você não pode amar seu amante servidor? Claro que pode! Mas é o amor de um mestre por um servo.
 
+---
 ---
 
 **프: 이우 크리에이 웅 세르비도르 포데로주 이 페지 파라 엘리 아파레세르 잉 메우스 소뉴스, 마스 엘리 낭 아파레세우. 보세 포지 미 아주다르 콩 이수?**
+**P: Eu criei um servidor poderoso e pedi para ele aparecer em meus sonhos, mas ele não apareceu. Você pode me ajudar com isso?**
 
 아: 쿠안투 아 파제르 우 세우 세르비도르 아파레세르 누스 세우스 소뉴스, 이수 포지 세르 우마 타레파 지피시우, 나 베르다지. 낭 에 지피시우 두 폰투 지 비스타 두 세르비도르, 마스 싱 두 크리아도르 우마누.
+A: Quanto a fazer o seu servidor aparecer nos seus sonhos, isso pode ser uma tarefa difícil, na verdade. Não é difícil do ponto de vista do servidor, mas sim do criador humano.
 
 우 키 케루 지제르 콩 이수 에 키 낭 에 지피시우 파라 웅 세르비도르 포르치 아파레세르 잉 세우스 소뉴스, 마스 에 지피시우 파라 보세 페르세베르 에사스 코이자스. 아 하장 파라 이수 에 키 우스 소뉴스 상 지피세이스 지 콘트롤라르, 이 노사스 페르세프송이스 덴트루 다 헤알리다지 두 소뉴 포뎅 세르 프레켄테멘치 무이투 지스토르시다스. 시 우 세우 세르비도르 포르 포데로주 우 수피시엔치, 엘리 포지 아파레세르 파시우멘치 잉 세우스 소뉴스, 마스 아 파르치 지피시우 에 이덴치피카-루 코무 텐두 이스타두 라.
+O que quero dizer com isso é que não é difícil para um servidor forte aparecer em seus sonhos, mas é difícil para você perceber essas coisas. A razão para isso é que os sonhos são difíceis de controlar, e nossas percepções dentro da realidade do sonho podem ser frequentemente muito distorcidas. Se o seu servidor for poderoso o suficiente, ele pode aparecer facilmente em seus sonhos, mas a parte difícil é identificá-lo como tendo estado lá.
 
 안치스 지 마이스 나다, 쿠안투스 소뉴스 보세 시 렘브라 아 카다 노이치? 아 마이오리아 지 노스 넹 콘세기 시 렘브라르 다 메타지 델리스, 인탕, 시 우 세우 세르비도르 이스타바 라, 마스 보세 낭 시 렘브라, 보세 바이 프레수포르 키 엘리 팔료.
+Antes de mais nada, quantos sonhos você se lembra a cada noite? A maioria de nós nem consegue se lembrar da metade deles, então, se o seu servidor estava lá, mas você não se lembra, você vai pressupor que ele falhou.
 
 웅 세르비도르 탐벵 포지 아파레세르 잉 웅 소뉴, 마스 코무 아 콘지상 두 소뉴 에 탕 플루이다 이 아 콘시엔시아 우마나 에 탕 리브리 네스치 이스타두, 보세 포지 페르세베르 에시 세르비도르 코무 센두 아우구 키 엘리 낭 에. 웅 세르비도르 포지 아파레세르 누스 세우스 소뉴스, 마스 보세 포지 낭 페르세베-루 코무 페르세비 쿠안두 이스타 아코르다두. 보세 포지 페르세베르 세우 세르비도르 코무 웅 오브제투, 코무 우마 람파다 오 우마 샬레이라, 펠루 쿠아우 보세 시 센치 아트라이두, 오 엘리 포지 세르 페르세비두 포르 보세 코무 웅 이스트라뉴 오 아미구 콩 우 쿠아우 포지 테르 우마 롱가 콘베르사. 이 쿠안두 보세 아코르다, 보세 포지 눙카 수스페이타르 키 우 세르비도르 이스타바 라 잉 세우 소뉴 포르키 우 키 보세 렘브라 두스 세우스 소뉴스 에 벵 지페렌치.
+Um servidor também pode aparecer em um sonho, mas como a condição do sonho é tão fluida e a consciência humana é tão livre neste estado, você pode perceber esse servidor como sendo algo que ele não é. Um servidor pode aparecer nos seus sonhos, mas você pode não percebê-lo como percebe quando está acordado. Você pode perceber seu servidor como um objeto, como uma lâmpada ou uma chaleira, pelo qual você se sente atraído, ou ele pode ser percebido por você como um estranho ou amigo com o qual pode ter uma longa conversa. E quando você acorda, você pode nunca suspeitar que o servidor estava lá em seu sonho porque o que você lembra dos seus sonhos é bem diferente.
 
 시 보세 이스치베르 인테레사두 잉 테르 웅 세르비도르 파라 아주다-루 잉 세우스 소뉴스, 수지루 키 크리 웅 이스페시피카멘치 파라 에시 프로포지투 이, 잉 세기다, 인스트루아-우 콩 아우구마 타레파 아 세르 헤알리자다 잉쿠안투 이스치베르 잉 세우스 소뉴스, 코무 아주다-루 아 아코르다르 파라 키 보세 시 토르니 루시두. 데사 포르마, 우 세르비도르 포지 아주다-루 아 아우칸사르 우 소뉴 루시두 이, 아트라베스 두 가칠류 지 이제쿠타르 에사 타레파, 포지 베리피카르 수아 이덴치다지 파라 보세.
+Se você estiver interessado em ter um servidor para ajudá-lo em seus sonhos, sugiro que crie um especificamente para esse propósito e, em seguida, instrua-o com alguma tarefa a ser realizada enquanto estiver em seus sonhos, como ajudá-lo a acordar para que você se torne lúcido. Dessa forma, o servidor pode ajudá-lo a alcançar o sonho lúcido e, através do gatilho de executar essa tarefa, pode verificar sua identidade para você.
 
+---
 ---
 
 **프: 에 포시베우 크리아르 웅 세르비도르 우잔두 아 이네르지아 잉 우마 헤우니앙 지 이그레자?**
+**P: É possível criar um servidor usando a energia em uma reunião de igreja?**
 
 **포지 웅 세르비도르 세르 크리아두 멘타우멘치 셍 우마 이스프레상 피지카 코헤스폰덴치, 코무 셍 우마 이마젱 피지카?**
+**Pode um servidor ser criado mentalmente sem uma expressão física correspondente, como sem uma imagem física?**
 
 **아 모랄리다지 아페타 아 이네르지아 두 세르비도르 지 아우겡?**
+**A moralidade afeta a energia do servidor de alguém?**
 
 아: 싱, 보세 포지 크리아르 웅 세르비도르 아 파르치르 다 이네르지아 지 쿠아우케르 그란지 콩그레가상 지 페소아스, 이스페시아우멘치 쿠안두 이스탕 이스프레산두 무이타 이모상. 보세 헤아우멘치 프레시자리아 세르 봉 잉 헤우니르 이 마니풀라르 에사 이네르지아, 카주 콘트라리우, 토다 에사 이네르지아 지스페르사 토르나리아 아 크리아상 두 세르비도르 마이스 지피시우, 이 낭 마이스 파시우. 아슈 키 보세 시 사이리아 멜료르 파젠두 이수 잉 세우 프로프리우 이스파수 프리바두, 이스페시아우멘치 쿠안두 시 트라타 지 포르네세르 아우 세우 세르비도르 우마 타레파 이니시아우.
+A: Sim, você pode criar um servidor a partir da energia de qualquer grande congregação de pessoas, especialmente quando estão expressando muita emoção. Você realmente precisaria ser bom em reunir e manipular essa energia, caso contrário, toda essa energia dispersa tornaria a criação do servidor mais difícil, e não mais fácil. Acho que você se sairia melhor fazendo isso em seu próprio espaço privado, especialmente quando se trata de fornecer ao seu servidor uma tarefa inicial.
 
 싱, 보세 데피니치바멘치 낭 프레시자 지 우마 이스프레상 피지카. 이우 소 헤코멘두 아 이스프레상 피지카 코무 웅 알리아두 파라 아주다-루 아 포카르 잉 세우 세르비도르 이 아 푼지르 아 이마젱 멘타우 콩 우 문두 피지쿠.
+Sim, você definitivamente não precisa de uma expressão física. Eu só recomendo a expressão física como um aliado para ajudá-lo a focar em seu servidor e a fundir a imagem mental com o mundo físico.
 
 아 인텐상 아페타 아 모랄리다지 두 세우 세르비도르, 아 이네르지아 에 이네르지아, 마스 수아 인텐상 에 페소아우 이 이수 지레시오나 에사 이네르지아. 시 보세 치베르 인텐상 데스트루치바, 메드로자, 쿠우파다, 가난시오자, 이트크., 인탕 세우 세르비도르 코메사라 아 헤플레치르 웅 포쿠 데사 지레상 이네르제치카 이 이수 포지 토르나르 수아 크리아상 웅 포쿠 지피시우 지 리다르.
+A intenção afeta a moralidade do seu servidor, a energia é energia, mas sua intenção é pessoal e isso direciona essa energia. Se você tiver intenção destrutiva, medrosa, culpada, gananciosa, etc., então seu servidor começará a refletir um pouco dessa direção energética e isso pode tornar sua criação um pouco difícil de lidar.
 
 우지 쿠아우케르 이네르지아 키 키제르 파라 크리아-루, 지 프레페렌시아 수아 프로프리아 이네르지아 포데로자, 마스 세르치피키-시 지 키 수아 인텐상 (수아 본타지) 세자 무이투 포카다 이 포르치 (이 콘스트루치바) 파라 키 세우 세르비도르 테냐 우마 ‘보아’ 지레상 이 사이바 켕 이스타 누 코만두.
+Use qualquer energia que quiser para criá-lo, de preferência sua própria energia poderosa, mas certifique-se de que sua intenção (sua vontade) seja muito focada e forte (e construtiva) para que seu servidor tenha uma ‘boa’ direção e saiba quem está no comando.
 
+---
 ---
 
 **프: 우 키 아콘테시 콩 웅 세르비도르 시 이우 모헤르?**
+**P: O que acontece com um servidor se eu morrer?**
 
 아: 토두스 우스 펜사멘투스, 낭 아페나스 아스 포르마스 지 펜사멘투 포데로자스 코무 우스 세르비도리스, 콘치누앙 누 템푸 이 시 헤알리장 네스치 헤이누 오 잉 오트루 지페렌치. 웅 세르비도르, 시 포르 아우궁 모치부 포르 코녜시두 포르 무이투스 이 포르 웅 메미 무이투 포풀라르, 포지 시 데젠보우베르 잉 웅 세르 이한치 키 인탕 아트라이 우 포데르 지 아텐상 다켈리스 키 우 코녜셍 이 시 콘센트랑 넬리. 제라우멘치, 포렝, 에시스 세르비도리스, 우마 베스 키 낭 이스탕 마이스 헤세벤두 아 포르사 비타우 프시키카 지 보세, 데자파레셍 데스치 헤이누 이 세겡 파라 오트라스 지멘송이스, 온지 이스판뎅 이 콘치누앙 아 이볼루이르 오 페레셍, 아싱 코무 노스 우마누스 파제무스 네스치 헤이누. 노수스 펜사멘투스 세메이앙 오트라스 지멘송이스.
+A: Todos os pensamentos, não apenas as formas de pensamento poderosas como os servidores, continuam no tempo e se realizam neste reino ou em outro diferente. Um servidor, se por algum motivo for conhecido por muitos e for um meme muito popular, pode se desenvolver em um ser errante que então atrai o poder de atenção daqueles que o conhecem e se concentram nele. Geralmente, porém, esses servidores, uma vez que não estão mais recebendo a força vital psíquica de você, desaparecem deste reino e seguem para outras dimensões, onde expandem e continuam a evoluir ou perecem, assim como nós humanos fazemos neste reino. Nossos pensamentos semeiam outras dimensões.
 
+---
 ---
 
 **프: 보세 지시 키 아 타레파 데비 세르 심플리스. 인탕, 쿠안투 다 노사 링구아젱 웅 세르비도르 인텐지 이 쿠앙 이스페시피카 아 링구아젱 데비 세르 셍 키 우 세르비도르 아 인테르프레치 이호네아멘치 이 프로두자 헤주우타두스 이네스페라두스? 시 이우 페지르 아 웅 세르비도르 파라 아우멘타르 메우 호이 (헤토르누 소브리 우 인베스치멘투), 엘리 사비 우 키 에 호이?**
+**P: Você disse que a tarefa deve ser simples. Então, quanto da nossa linguagem um servidor entende e quão específica a linguagem deve ser sem que o servidor a interprete erroneamente e produza resultados inesperados? Se eu pedir a um servidor para aumentar meu ROI (retorno sobre o investimento), ele sabe o que é ROI?**
 
 아: 에스치 포지 세르 웅 토피쿠 지피시우 지 인텐데르, 타우베스 포르 카우자 두 파투 지 키 노사 링구아젱 낭 에 무이투 보아 파라 리다르 콩 콘세이투스 수브제치부스 인테르누스.
+A: Este pode ser um tópico difícil de entender, talvez por causa do fato de que nossa linguagem não é muito boa para lidar com conceitos subjetivos internos.
 
 바지카멘치, 텐치 펜사르 잉 웅 세르비도르 코무 웅 아니마우 지 이스치마상 심플리스 키 텡 아 카파시다지 지 크레세르 잉 콤플레시다지 아우 롱구 두 템푸. 아 메지다 키 크레시 잉 콤플레시다지 이 타우베스 포데르, 에 카파스 지 시 토르나르 마이스 페르스피카스 나 포르마 코무 헤알리자 타레파스, 우 키 이센시아우멘치 시그니피카 키 시 토르나 마이스 이스페시알리자두.
+Basicamente, tente pensar em um servidor como um animal de estimação simples que tem a capacidade de crescer em complexidade ao longo do tempo. À medida que cresce em complexidade e talvez poder, é capaz de se tornar mais perspicaz na forma como realiza tarefas, o que essencialmente significa que se torna mais especializado.
 
 시 보세 지세르 아우 세우 세르비도르 파라 '아우멘타르 우 호이', 엘리 테라 우마 콘세프상 두 키 보세 케르 나 메지다 잉 키 '보세' 사비 우 키 케르. 엘리 인텐데라 수아 인텐상, 세우스 펜사멘투스 이 수아스 이모송이스 누 모멘투 다 인보카상, 마스 낭 인텐데라 헤아우멘치 수아스 팔라브라스. 보세 포데리아 지제르 키 수아스 팔라브라스 상 마이스 파라 우 세우 베네피시우, 이 낭 두 세르비도르.
+Se você disser ao seu servidor para 'aumentar o ROI', ele terá uma concepção do que você quer na medida em que 'você' sabe o que quer. Ele entenderá sua intenção, seus pensamentos e suas emoções no momento da invocação, mas não entenderá realmente suas palavras. Você poderia dizer que suas palavras são mais para o seu benefício, e não do servidor.
 
 파라 인텐데르 코무 웅 세르비도르 헤알리자 우마 아상, 에 프레시주 우마 콤프렌상 마이스 프로푼다 지 카우자 이 이페이투 아 파르치르 지 우마 페르스펙치바 지멘시오나우 인테르나, 우 키 아슈 키 보세 오브테라 우마 보아 콤프렌상 아우 레르 메우스 리브루스. 바지카멘치, 웅 세르비도르 낭 포지 프로모베르/아눈시아르 파라 아스 페소아스 잉 시, 낭 포지 데스코브리르 코무 헤두지르 아스 데스페자스 지 우마 임프레자, 아우멘타르 아 프로두상 오 아주다르 아 임프레자 아 아우칸사르 오브제치부스-샤비 지 우마 페르스펙치바 지 네고시우스.
+Para entender como um servidor realiza uma ação, é preciso uma compreensão mais profunda de causa e efeito a partir de uma perspectiva dimensional interna, o que acho que você obterá uma boa compreensão ao ler meus livros. Basicamente, um servidor não pode promover/anunciar para as pessoas em si, não pode descobrir como reduzir as despesas de uma empresa, aumentar a produção ou ajudar a empresa a alcançar objetivos-chave de uma perspectiva de negócios.
 
 엘리 포지, 누 인탄투, 란사르-시 코무 우마 페드라 누 마르 프로푼두 두 문두 인테리오르, 크리안두 온둘라송이스 키 무다랑 아스 코이자스 지 덴트루 파라 포라. 엘리 부스카 아 아상 지 카우자 이 이페이투 지 덴트루 파라 포라.
+Ele pode, no entanto, lançar-se como uma pedra no mar profundo do mundo interior, criando ondulações que mudarão as coisas de dentro para fora. Ele busca a ação de causa e efeito de dentro para fora.
 
 엘리 포지, 아 파르치르 데사 지멘상 인테르나, 아 지멘상 키 에 아 베르다데이라 카우자 지 토다스 아스 코이자스 키 샤마무스 지 헤알리다지 오브제치바, '모치바르/잉클리나르' 아켈리스 키 이스타리앙 잉클리나두스 아 부스카르 우스 네고시우스 지 수아 임프레자, 모치바르 우스 푼시오나리우스 콩 웅 센수 지 봉 프로포지투 파라 우 네고시우, 이 크리아르 싱크로니시다지스 파보라베이스 (보아 소르치/루가르 세르투 나 오라 세르타, 이트크.) 지 마네이라스 키 포뎅 세르 잉크리베이스 지 시 베르.
+Ele pode, a partir dessa dimensão interna, a dimensão que é a verdadeira causa de todas as coisas que chamamos de realidade objetiva, 'motivar/inclinar' aqueles que estariam inclinados a buscar os negócios de sua empresa, motivar os funcionários com um senso de bom propósito para o negócio, e criar sincronicidades favoráveis (boa sorte/lugar certo na hora certa, etc.) de maneiras que podem ser incríveis de se ver.
 
 포르탄투, 쿠안두 보세 아트리부이르 우마 타레파 아우 세우 세르비도르, 세르치피키-시 지 키 우스 콘세이투스 이 수아 인텐상 세장 무이투 프레시주스 잉 수아 프로프리아 멘치, 이 낭 시 프레오쿠피 탄투 콩 아 포르물라상, 마스 아페나스 나 메지다 잉 키 아주지 보세 아 데피니르 이 센치르 수아 인텐상 멜료르.
+Portanto, quando você atribuir uma tarefa ao seu servidor, certifique-se de que os conceitos e sua intenção sejam muito precisos em sua própria mente, e não se preocupe tanto com a formulação, mas apenas na medida em que ajude você a definir e sentir sua intenção melhor.
 
 이 페르세바 키 웅 세르비도르 낭 에 우마 인치다지 콤플레샤 이 프로바베우멘치 낭 세라 아테 키 보세 우 테냐 이 우 데젠보우바 포르 아누스, 이 메즈무 아싱 소 시 토르나라 마이스 이스페시알리자두, 낭 마이스 콘시엔치. 인탕, 만테냐-우 심플리스:
+E perceba que um servidor não é uma entidade complexa e provavelmente não será até que você o tenha e o desenvolva por anos, e mesmo assim só se tornará mais especializado, não mais consciente. Então, mantenha-o simples:
 
 1. 쿠안투 마이스 심플리스 이 프레시자 포르 아 오르뎅, 마이스 프로바베우 키 엘리 포사 아지르 나스 지멘송이스 인테르나스 파라 콘세기르 우 키 보세 데제자.
+1. Quanto mais simples e precisa for a ordem, mais provável que ele possa agir nas dimensões internas para conseguir o que você deseja.
 2. 쿠안투 마이스 심플리스 아 타레파, 마이스 포카두 우 세르비도르 포지 세르. 에시 포쿠 에스트라 시그니피카 키 아 이네르지아 키 우 임푸우시오나 낭 세라 데스페르지사다 마이스 이네르지아 이구아우 아 마이스 샨시 지 수세수.
+2. Quanto mais simples a tarefa, mais focado o servidor pode ser. Esse foco extra significa que a energia que o impulsiona não será desperdiçada; mais energia igual a mais chance de sucesso.
 
 낭 지가 아우 세우 세르비도르 파라 '아우멘타르 우 호이', 잉 베스 지수, 데스쿠브라 우마 코이자 이스페시피카 키 보세 프레시자 파제르 파라 아우멘타르 우 호이 이, 잉 세기다, 인비 세우 세르비도르 파라 아주다-루 네사 타레파 이스페시피카. 시 보세 아샤르 키 세우 세르비도르 팔료, 인탕 세자 아인다 마이스 이스페시피쿠 이 텐치 노바멘치.
+Não diga ao seu servidor para 'aumentar o ROI', em vez disso, descubra uma coisa específica que você precisa fazer para aumentar o ROI e, em seguida, envie seu servidor para ajudá-lo nessa tarefa específica. Se você achar que seu servidor falhou, então seja ainda mais específico e tente novamente.
 
+---
 ---
 
 **프: 잉 세우 리브루 _카미뉴 두 밤피루 파라 아 아우토데페자 프시키카_, 보세 멘시오나 키 웅 탈리즈망 에 웅 세르비도르 빙쿨라두 아 웅 오브제투 피지쿠. 코무 아우겡 포지 빙쿨라르 웅 세르비도르 아 웅 오브제투 피지쿠?**
+**P: Em seu livro _Caminho do Vampiro para a Autodefesa Psíquica_, você menciona que um talismã é um servidor vinculado a um objeto físico. Como alguém pode vincular um servidor a um objeto físico?**
 
 아: 이수 프레시자리아 세르 페이투 누 모멘투 다 콘스트루상. 아싱 코무 웅 세르비도르 지 아우토데페자 포지 세르 빙쿨라두 아 우마 아레아 파라 프로테제르. 웅 탈리즈망 에 헤아우멘치 웅 세르비도르 키 이스타 빙쿨라두 아 웅 아바타르 피지쿠 (웅 심플리스 데제뉴 오 웅 탈리즈망 피지카멘치 콤플레슈) 펠루 크리아도르.
+A: Isso precisaria ser feito no momento da construção. Assim como um servidor de autodefesa pode ser vinculado a uma área para proteger. Um talismã é realmente um servidor que está vinculado a um avatar físico (um simples desenho ou um talismã fisicamente complexo) pelo criador.
 
 나 마이오리아 두스 카주스, 이수 에 페이투 아트라베스 지 아우궁 히투아우, 마스 우 헤주우타두 에 우 메즈무. 세자 콘시엔테멘치 아트라베스 다 콘스트루상 이 빙쿨라상 두 세르비도르 (오 세자, 코만단두 우 세르비도르 아 이지스치르 이 빙쿨라르-시 아 에스치 오브제투 탈리즈망), 오 잉콘시엔테멘치 아트라베스 지 웅 히투아우 프로푼다멘치 아크레지타두, 아 이센시아 지 우마 포르마 지 펜사멘투 에 빙쿨라다 아 웅 아바타르 피지쿠. 에사 이센시아 다 포르마 지 펜사멘투 트라스 에스치 오브제투 아 비다 이 아지 덴트루 지 세르투스 파라메트루스 지 아코르두 콩 우 키 우 히투아우/잉칸타멘투 지타 오 우 크리아도르 두 세르비도르 코만다.
+Na maioria dos casos, isso é feito através de algum ritual, mas o resultado é o mesmo. Seja conscientemente através da construção e vinculação do servidor (ou seja, comandando o servidor a existir e vincular-se a este objeto talismã), ou inconscientemente através de um ritual profundamente acreditado, a essência de uma forma de pensamento é vinculada a um avatar físico. Essa essência da forma de pensamento traz este objeto à vida e age dentro de certos parâmetros de acordo com o que o ritual/encantamento dita ou o criador do servidor comanda.
 
+---
 ---
 
 **프:**
+**P:**
 
 **1.** **이우 고스타리아 지 사베르 시 피라미지스 오 크리스타이스 포데리앙 세르 우자두스 파라 카헤가르 웅 세르비도르. 이수 탐벵 잉클루이리아 카르타지스 콩 이마젱스 이네르제치카스. 코무 웅 카르타스 지 피라미지 트리지멘시오나우 오 아테 메즈무 웅 심볼루 얀트라 이트크.**
+**1.** **Eu gostaria de saber se pirâmides ou cristais poderiam ser usados para carregar um servidor. Isso também incluiria cartazes com imagens energéticas. Como um cartaz de pirâmide tridimensional ou até mesmo um símbolo yantra etc.**
 
 **2.** **세이 키 보세 멘시오나 키 세르비도리스 낭 데벵 세르 우자두스 파라 마니풀라르 페소아스. 마스 우 파투 에 키 아스 페소아스 상 마니풀라다스 토두스 우스 지아스 지 우마 포르마 오 지 오트라. 데이샨두 아 에치카 지 라두, 웅 세르비도르 포데리아 세르 우자두 파라 마니풀라르 우마 페소아?**
+**2.** **Sei que você menciona que servidores não devem ser usados para manipular pessoas. Mas o fato é que as pessoas são manipuladas todos os dias de uma forma ou de outra. Deixando a ética de lado, um servidor poderia ser usado para manipular uma pessoa?**
 
 **3.** **오트라 페소아 포데리아 세르 우자다 셍 우 세우 코녜시멘투 파라 카헤가르 웅 세르비도르 아포스 수아 크리아상? 데사 포르마, 수아 이네르지아 낭 에 드레나다.**
+**3.** **Outra pessoa poderia ser usada sem o seu conhecimento para carregar um servidor após sua criação? Dessa forma, sua energia não é drenada.**
 
 아:
+A:
 
 1. 싱, 보세 포지 우자르 피라미지스. 이우 세이 지수, 포이스 자 우제이 에사 테크니카 페소아우멘치. 아스 오트라스 테크니카스 이지지리앙 이스페리멘타상 페소아우 다 수아 파르치, 마스 데즈지 키 에시스 메토두스 세장 카파지스 지 아쿠물라르 이네르지아 이 프로제타르 에사 이네르지아 잉 세우 세르비도르 지 마네이라 콘피아베우 이 포카다, 엘리스 탐벵 데벵 푼시오나르. 마스 오브세르비 키, 지 아코르두 콩 미냐 비장, 타우 알리멘타상 지 이네르지아 파레시 푼시오나르 카날리잔두 아 이네르지아 두 오페라도르 파라 아 포르마, 낭 아 아우모수 그라치스, 지 웅 제이투 오 지 오트루 우 세르비도르 이스타 헤세벤두 수아 이네르지아 시 포르 테르 포데르 네스타 지멘상.
+1.  Sim, você pode usar pirâmides. Eu sei disso, pois já usei essa técnica pessoalmente. As outras técnicas exigiriam experimentação pessoal da sua parte, mas desde que esses métodos sejam capazes de acumular energia e projetar essa energia em seu servidor de maneira confiável e focada, eles também devem funcionar. Mas observe que, de acordo com minha visão, tal alimentação de energia parece funcionar canalizando a energia do operador para a forma, não há almoço grátis, de um jeito ou de outro o servidor está recebendo sua energia se for ter poder nesta dimensão.
 
 2. 세르타멘치, 시 데이샤르무스 아 에치카 지 라두, 포데무스 마니풀라르 우스 오트루스 지 바리아스 마네이라스. 아스 헤지스 소시아이스 이 우스 코메르시아이스 파젱 이수 우 템푸 토두 아트라베스 다 헤페치상 이 아펠루 아 우마 아우토리다지 수페리오르. 지 우마 페르스펙치바 마이스 일레바다, 코무 아슈 키 보세 이스타 텐탄두 아날리자르 에사 케스탕, 세르타멘치 웅 세르비도르 포데로주 포데리아 세르 우자두 파라 마니풀라르 우스 오트루스, 마스 타우 페자델루 (키 에 우 키 리테라우멘치 시 토르나리아) 에 아우구 키 낭 발리 아 페나 아 드레나젱 이네르제치카. 에 멜료르, 탄투 이네르제치카멘치 쿠안투 이치카멘치, 우자르 세르비도리스 파라 시 모베르 잉 지레상 아 우마 마이오르 크리아상, 잉 베스 지 데스트루이상 이 마니풀라상 쿠안두 콘프론타두 콩 웅 비지뉴 바룰롄투, 포르 이젬플루, 에 멜료르 이네르제치카멘치 우자르 웅 세르비도르 파라 잉콘트라르 웅 루가르 멜료르 파라 모라르 두 키 칼라르 아 페소아.
+2.  Certamente, se deixarmos a ética de lado, podemos manipular os outros de várias maneiras. As redes sociais e os comerciais fazem isso o tempo todo através da repetição e apelo a uma autoridade superior. De uma perspectiva mais elevada, como acho que você está tentando analisar essa questão, certamente um servidor poderoso poderia ser usado para manipular os outros, mas tal pesadelo (que é o que literalmente se tornaria) é algo que não vale a pena a drenagem energética. É melhor, tanto energeticamente quanto eticamente, usar servidores para se mover em direção a uma maior criação, em vez de destruição e manipulação; quando confrontado com um vizinho barulhento, por exemplo, é melhor energeticamente usar um servidor para encontrar um lugar melhor para morar do que calar a pessoa.
 
 3. 낭, 이우 낭 아슈 키 싱. 타우 코이자 낭 세리아 웅 세르비도르, 테리아 키 세르 우마 인치다지 콤플레타멘치 아우토노마, 포이스 웅 세르비도르, 센두 웅 세르부, 프레시자 지 세우 메스트리 파라 다르-리 비다. 시 엘리 포지 시 알리멘타르, 인탕 낭 텡 메스트리. 타우 인치다지, 시 아우겡 치베시 아 아빌리다지 지 크리아르 우마, 프로바베우멘치 시 보우타리아 콘트라 우 크리아도르 (오트루 페자델루, 헤세이우, 키 아솜브라리아 우 크리아도르 아테 키 포시 데비다멘치 트라타두 포르 엘리), 포이스 우 크리아도르 세리아 인탕 아 폰치 지 알리멘투 마이스 파시우 파라 타우 코이자.
+3.  Não, eu não acho que sim. Tal coisa não seria um servidor, teria que ser uma entidade completamente autônoma, pois um servidor, sendo um servo, precisa de seu mestre para dar-lhe vida. Se ele pode se alimentar, então não tem mestre. Tal entidade, se alguém tivesse a habilidade de criar uma, provavelmente se voltaria contra o criador (outro pesadelo, receio, que assombraria o criador até que fosse devidamente tratado por ele), pois o criador seria então a fonte de alimento mais fácil para tal coisa.
 
+---
 ---
 
 **프: 코무 이우 헤콤펜수 우 메우 세르비도르?**
+**P: Como eu recompenso o meu servidor?**
 
 아: 보세 포지 헤콤펜사르 세우 세르비도르 프레스탄두 마이스 아텐상 아 엘리 이 센두 젠치우 콩 엘리 두란치 에시 템푸. 보세 포지 파제르 이수 콘베르산두 콩 엘리 이 심플레즈멘치 지젠두: “오브리가두 펠루 세우 세르비수 레아우 (노미).”
+A: Você pode recompensar seu servidor prestando mais atenção a ele e sendo gentil com ele durante esse tempo. Você pode fazer isso conversando com ele e simplesmente dizendo: “Obrigado pelo seu serviço leal (nome).”
 
+---
 ---
 
 [^3]: _마지아 이 미스테리우 누 치베치_, 1929
+[^3]: _Magia e Mistério no Tibete_, 1929
 
 ## 카피툴루 3: 아 그란지 오브라
+## CAPÍTULO 3: A GRANDE OBRA
 
 **‘벵, 잉 노수 파이스,’ 지시 알리시, 아인다 오페간치, ‘제라우멘치 보세 셰가 아 오트루 루가르 – 시 코헤르 무이투 하피두 포르 무이투 템푸, 코무 테무스 페이투.’**
+**‘Bem, em NOSSO país,’ disse Alice, ainda ofegante, ‘geralmente você chega a outro lugar – se correr muito rápido por muito tempo, como temos feito.’**
 **‘웅 파이스 메이우 렌투!’ 지시 아 하이냐. ‘아고라, 아키, 보세 베, 레바 토다 아 코히다 키 보세 포지 파제르, 파라 피카르 누 메즈무 루가르. 시 보세 케르 셰가르 아 오트루 루가르, 데비 코헤르 펠루 메누스 우 도브루 데사 벨로시다지!’**
+**‘Um país meio lento!’ disse a Rainha. ‘Agora, AQUI, você vê, leva toda a corrida que VOCÊ pode fazer, para ficar no mesmo lugar. Se você quer chegar a outro lugar, deve correr pelo menos o dobro dessa velocidade!’**
 _― 레위스 카호우, 아트라베스 두 이스펠류_
+_― LEWIS CARROLL, ATRAVÉS DO ESPELHO_
 
 트란즈무타상, 키 누 문두 모데르누 포지 세르 샤마다 지 우마 이스페시 지 마니페스타상, 에 아우구 무이투 임포르탄치 파라 우스 아우키미스타스.
+Transmutação, que no mundo moderno pode ser chamada de uma espécie de manifestação, é algo muito importante para os alquimistas.
 
 텐테이 데스크레베르 코무 에시 프로세수 지 트란즈무타상 아콘테시 파젠두 헤페렌시아 아 이그드라지우, 아 아르보리 두 문두, 이 코무 이지스치 에시 모비멘투 엔트리 지페렌치스 문두스 지멘시오나이스 이, 포르 메이우 데시 모비멘투, 키 포지 세르 ‘비스투’ 코무 모비멘투 파라 시마 이 파라 바이슈 네시 투네우 지 프레켄시아 지 마니페스타상 오 아르보리 두 문두, 지페렌치스 코이자스 아친젱 지페렌치스 프로프리에다지스 비브라시오나이스, 아 메지다 키 파상 지 아우구 피지카멘치 페르세프치베우 파라 아우구 키 에, 두 폰투 지 비스타 지 노수스 센치두스 피지쿠스, 이테레우.
+Tentei descrever como esse processo de transmutação acontece fazendo referência a Yggdrasil, a árvore do mundo, e como existe esse movimento entre diferentes mundos dimensionais e, por meio desse movimento, que pode ser ‘visto’ como movimento para cima e para baixo nesse túnel de frequência de manifestação ou árvore do mundo, diferentes coisas atingem diferentes propriedades vibracionais, à medida que passam de algo fisicamente perceptível para algo que é, do ponto de vista de nossos sentidos físicos, etéreo.
 
 파라 우스 아우키미스타스 인테르누스, 아 지멘상 피지카 에 '우마' 다스 마이스 이스테르나스, 보우타다스 파라 포라 우 키 시그니피카 키 에 그라비타시오나우멘치 무이투 페자다, 덴사, 지피시우 지 무다르 이 이스타치카. 에사 지멘상 포르테멘치 보우타다 파라 포라 에 아 우니카, 아 우니카, 페르세비다 펠루스 센치두스 피지쿠스, 잉 오포지상 아우스 센치두스 인테르누스, 키 에 웅 메카니즈무 페르세프치부 키 우스 아우키미스타스 인테르누스 텐탕 데젠보우베르. 우스 아우키미스타스 인테르누스 탐벵 사벵, 아트라베스 지 수아 비장 (키 에 우 우주 데시스 센치두스 인테르누스), 키 투두 우 키 에 콘시데라두 피지쿠, 투두 우 키 포지 세르 페르세비두 콩 우스 센치두스 피지쿠스, 에 아페나스 아 폰타 두 이세베르그 지 우마 이센시아 토타우 지 세르 무이투 마이오르. 토다스 아스 코이자스 텡 우마 이센시아 인테르나 키 에 무이투 마이오르 두 키 아페나스 아스 파르치스 피지카멘치 페르세비다스 델라.
+Para os alquimistas internos, a dimensão física é 'uma' das mais externas, voltadas para fora; o que significa que é gravitacionalmente muito pesada, densa, difícil de mudar e estática. Essa dimensão fortemente voltada para fora é a única, a única, percebida pelos sentidos físicos, em oposição aos sentidos internos, que é um mecanismo perceptivo que os alquimistas internos tentam desenvolver. Os alquimistas internos também sabem, através de sua visão (que é o uso desses sentidos internos), que tudo o que é considerado físico, tudo o que pode ser percebido com os sentidos físicos, é apenas a ponta do iceberg de uma essência total de ser muito maior. Todas as coisas têm uma essência interna que é muito maior do que apenas as partes fisicamente percebidas dela.
 
 텐테이 데스크레베르 아 나투레자 데사 이센시아 토타우 지 토다스 아스 코이자스, 잉클루인두 세리스 우마누스, 지 바리아스 마네이라스. 포르 이젬플루, 코스투무 지제르 키 토다스 아스 코이자스 상 무이투 마이오리스 포르 덴트루 두 키 포르 포라. 탐벵 지시 키, 파라 우스 아우키미스타스 인테르누스, 우마 크렌사 푼다멘타우 에 키 아 헤알리다지 인테르나 크리아 아 이스테르나, 아우 콘트라리우 두 콘트라리우. 우 키 투두 이수 시그니피카 에 키, 지 아코르두 콩 아 비장, 이 포르탄투 우 코녜시멘투 지레투, 두스 아우키미스타스 인테르누스, 에사 우니카 지멘상 키 포지 세르 페르세비다 코무 우 문두 이스테리오르 키 누스 헤페리무스 코무 우 문두 헤아우, 우 문두 피지쿠, 우 우니쿠 문두 포시베우 지 아코르두 콩 아 하시오날리다지 모데르나, 에 파라 우스 아우키미스타스 인테르누스 아페나스 우마 파라다, 웅 문두, 잉 우마 인피니다지 지 문두스 지멘시오나이스 포시베이스 키 포뎅 세르 아세사두스 이 아스 베지스 아테 마니풀라두스 시 아우겡 아프렌데르 아 우자르 아스 테크니카스 코헤타스.
+Tentei descrever a natureza dessa essência total de todas as coisas, incluindo seres humanos, de várias maneiras. Por exemplo, costumo dizer que todas as coisas são muito maiores por dentro do que por fora. Também disse que, para os alquimistas internos, uma crença fundamental é que a realidade interna cria a externa, ao contrário do contrário. O que tudo isso significa é que, de acordo com a visão, e portanto o conhecimento direto, dos alquimistas internos, essa única dimensão que pode ser percebida como o mundo exterior que nos referimos como o mundo real, o mundo físico, o único mundo possível de acordo com a racionalidade moderna, é para os alquimistas internos apenas uma parada, um mundo, em uma infinidade de mundos dimensionais possíveis que podem ser acessados e às vezes até manipulados se alguém aprender a usar as técnicas corretas.
 
 나 베르다지, 우스 프린시피우스 푼다멘타이스 다 아우키미아 상 보우타두스 파라 아 마니풀라상 데사스 포르사스. 에사 아르치, 코무 멘시오네이, 에 아 아빌리다지 두 아우키미스타 지 모베르 아우구 지 우마 포지상 나 아르보리 두 문두 파라 오트라. 쿠안두 이수 에 헤알리자두, 우 아우키미스타 아친지 아 트란즈무타상, 키 노바멘치 네스치 문두 모데르누 에 프레켄테멘치 헤페리다 코무 마니페스타상, 오 아스 베지스 포지 세르 샤마다 지 소르치 오 코인시덴시아 잉 세르투스 카주스.
+Na verdade, os princípios fundamentais da alquimia são voltados para a manipulação dessas forças. Essa arte, como mencionei, é a habilidade do alquimista de mover algo de uma posição na árvore do mundo para outra. Quando isso é realizado, o alquimista atinge a transmutação, que novamente neste mundo moderno é frequentemente referida como manifestação, ou às vezes pode ser chamada de sorte ou coincidência em certos casos.
 
 아 지페렌사 엔트리 아 아우키미아 '헤굴라르' 이 아 아우키미아 인테르나 에 키 우스 아우키미스타스 헤굴라리스 상 프라치칸치스 키 시 페르데랑 나 크렌사 지 키 투두 덴트루 데스치 '투네우 지 트란즈무타상' 텡 키 세르 페이투 아페나스 잉 테르무스 피지쿠스. 상 인지비두스 키 시 프렌데랑, 키 이스탕 센두 아프리지오나두스, 펠라스 프로프리아스 포르사스 트란즈무타시오나이스 키 이스탕 텐탄두 도마르. 엘리스 이지스텡 잉 웅 문두 콤포스투 포르 세이스 파레지스 리미탄치스. 상 아우키미스타스 키 이스탕 프레주스 이 낭 콘세겡 베르 알렝 두 쿠부 트리지멘시오나우. 엘리스 이스탕 콘벤시두스 지 키 토다 아우키미아 데비 아콘테세르 지 아코르두 콩 이 잉클루인두 아페나스 아스 코이자스 덴트루 데시 페케누 쿠부 키 샤망 지 헤알리다지.
+A diferença entre a alquimia 'regular' e a alquimia interna é que os alquimistas regulares são praticantes que se perderam na crença de que tudo dentro deste 'túnel de transmutação' tem que ser feito apenas em termos físicos. São indivíduos que se prenderam, que estão sendo aprisionados, pelas próprias forças transmutacionais que estão tentando domar. Eles existem em um mundo composto por seis paredes limitantes. São alquimistas que estão presos e não conseguem ver além do cubo tridimensional. Eles estão convencidos de que toda alquimia deve acontecer de acordo com e incluindo apenas as coisas dentro desse pequeno cubo que chamam de realidade.
 
 우스 아우키미스타스 헤굴라리스 상 인지비두스 키 우스 아우키미스타스 인테르누스 샤망 지 '소프라도리스'. 엘리스 우스 샤망 아싱 포르키 상 프라치칸치스 키 아크레지탕 키 아 우니카 마네이라 지 트란즈무타르 쿠아우케르 수브스탄시아 에 아트라베스 지 아우궁 치푸 지 메카니즈무 피지쿠, 아우궁 치푸 지 마니풀라상 푸라멘치 피지카 지 수브스탄시아스 푸라멘치 피지카스. 상 이센시아우멘치 페소아스 키 이스탕 텐탄두 도미나르 아 트란즈무타상 포르 메이우 지 콘세프송이스 이 크렌사스 무이투 리미타다스. 크렌사스 프로파가다스 펠루 아르콘치, 키 파젱 아 페소아 코뭉 아크레지타르 키 아 우니카 코이자 헤아우 에 우 문두 피지쿠, 아페나스 아킬루 키 포뎅 페르세베르 아트라베스 지 세우스 센치두스 피지쿠스.
+Os alquimistas regulares são indivíduos que os alquimistas internos chamam de 'Sopradores'. Eles os chamam assim porque são praticantes que acreditam que a única maneira de transmutar qualquer substância é através de algum tipo de mecanismo físico, algum tipo de manipulação puramente física de substâncias puramente físicas. São essencialmente pessoas que estão tentando dominar a transmutação por meio de concepções e crenças muito limitadas. Crenças propagadas pelo Arconte, que fazem a pessoa comum acreditar que a única coisa real é o mundo físico, apenas aquilo que podem perceber através de seus sentidos físicos.
 
 아 무이타스 그라다송이스 이 콤플리카송이스 나 아르마질랴 두 아르콘치. 포르 이젬플루, 아우궁스 포뎅 아크레지타르 키 우 문두 피지쿠 데우 오리젱 아우 키 아고라 포지 세르 헤페리두 코무 우 문두 이스피리투아우 오 이테레우. 인탕, 파라 아켈리스 프레주스 덴트루 지 우마 세르타 그라다상 지 일루장, 우 문두 이스피리투아우 이지스치, 마스 에 우마 마니페스타상 세쿤다리아 두 마테리알리즈무 아페나스. 이수, 포렝, 에 웅 그라비 에후, 카우자두 펠라 파우타 지 아빌리다지 페르세프치바 데비두 아 인플루엔시아 두 아르콘치. 아싱, 포뎅 이지스치르 무이타스 그라다송이스 두 치푸 지 크렌사스 이 테크니카스 키 세르투스 아우키미스타스 소프라도리스 포상 우자르. 제라우멘치, 포렝, 에시스 프라치칸치스 우장 토두 치푸 지 아페트레슈스 피지쿠스, 코무 포르누스, 파라 텐타르 두플리카르 웅 프로세수 키, 지 아코르두 콩 수아스 레이스 메카니카스, 에 지 무이타스 마네이라스 임포시베우. 이수 포지 인탕 포르사르 타이스 소프라도리스 아 크리아르 토두 치푸 지 콘세프송이스 마테리아이스 이 이마테리아이스 인트링카다스 지 코무 우 문두 푼시오나, 마스 셍 아 아빌리다지 지 베르 아 이네르지아 지레타멘치, 엘리스 이스탕 페르지두스. 우스 소프라도리스 상, 이센시아우멘치, 아우키미스타스 키 포랑 일루지두스 펠루 아르콘치 이 낭 콘세겡, 이 무이타스 베지스 낭 이스탕 지스포스투스, 아 루타르 이 "베르" 알렝 두 베우 다스 세이스 파레지스.
+Há muitas gradações e complicações na armadilha do Arconte. Por exemplo, alguns podem acreditar que o mundo físico deu origem ao que agora pode ser referido como o mundo espiritual ou etéreo. Então, para aqueles presos dentro de uma certa gradação de ilusão, o mundo espiritual existe, mas é uma manifestação secundária do materialismo apenas. Isso, porém, é um grave erro, causado pela falta de habilidade perceptiva devido à influência do Arconte. Assim, podem existir muitas gradações do tipo de crenças e técnicas que certos alquimistas Sopradores possam usar. Geralmente, porém, esses praticantes usam todo tipo de apetrechos físicos, como fornos, para tentar duplicar um processo que, de acordo com suas leis mecânicas, é de muitas maneiras impossível. Isso pode então forçar tais Sopradores a criar todo tipo de concepções materiais e imateriais intrincadas de como o mundo funciona, mas sem a habilidade de ver a energia diretamente, eles estão perdidos. Os Sopradores são, essencialmente, alquimistas que foram iludidos pelo Arconte e não conseguem, e muitas vezes não estão dispostos, a lutar e "ver" além do véu das seis paredes.
 
 우스 아우키미스타스 인테르누스, 포르 오트루 라두, 상 아켈리스 키 포뎅 베르 이그드라지우 지레타멘치. 엘리스 포뎅 베르 에시 투네우 지 마니페스타상 지레타멘치 이 상 이센시아우멘치 아우키미스타스 '인테르누스', 포르키 트라발량 콩 에사스 포르사스 인테르나스 지레타멘치, 트라발량 콩 에사스 오트라스 지멘송이스 지레타멘치, 트라발량 토칸두 지레타멘치 네사 아르보리 두 문두. 세우 카우데이랑 낭 에 아우구마 코이자 피지카 이스테르나 이 켄치, 아우구 키 프레시자 세르 알리멘타두, 아주스타두 이 소프라두, 우잔두 폴리스 이 모스트라도리스 이 칼로르 피지쿠. 우 카우데이랑 두 아우키미스타 인테르누 이지스치 잉 웅 루가르 인테리오르, 우마 카마라 알렝 다스 프로포르송이스, 알렝 다 메카니카 피지카 멘수라베우, 잉 웅 루가르 알렝 다스 세이스 파레지스.
+Os alquimistas internos, por outro lado, são aqueles que podem ver Yggdrasil diretamente. Eles podem ver esse túnel de manifestação diretamente e são essencialmente alquimistas 'internos', porque trabalham com essas forças internas diretamente, trabalham com essas outras dimensões diretamente, trabalham tocando diretamente nessa árvore do mundo. Seu caldeirão não é alguma coisa física externa e quente, algo que precisa ser alimentado, ajustado e soprado, usando foles e mostradores e calor físico. O caldeirão do alquimista interno existe em um lugar interior, uma câmara além das proporções, além da mecânica física mensurável, em um lugar além das seis paredes.
 
 쿠안두 웅 아우키미스타 트라발랴 콩 에스치 카우데이랑, 세자 우 피지쿠 키 우스 소프라도리스 우장 오 세자 에스치 코바두 인테르누 알렝 다스 지멘송이스 피지카멘치 콤프렌시베이스, 엘리스 시 헤페렝 아 임프레이타다 코무 '아 그란지 오브라'. 마스, 누 센치두 마이스 푼다멘타우, 에스타 그란지 오브라, 키 에 아 크리아상 지 아우구 키 포지 세르 헤페리두 코무 아 '페드라 필로조파우', 인보우비 아 크리아상, 아 트란즈무타상, 지 우마 세르타 이네르지아, 파라 키 에사 이네르지아 아친자 우마 마사 탕 콘센트라다 키, 이센시아우멘치, 시 토르나 아우구 키, 아트라베스 데시 페주, 포지 무다르 우 누클레우 비브라시오나우 지 오트라스 코이자스. 파라 우 아우키미스타 인테르누, 아 크리아상 다 페드라 필로조파우 인보우비 아 모비멘타상 지 세르투스 콩글로메라두스 지 이네르지아 지 웅 폰투 잉 이그드라지우 파라 오트루.
+Quando um alquimista trabalha com este caldeirão, seja o físico que os Sopradores usam ou seja este côvado interno além das dimensões fisicamente compreensíveis, eles se referem à empreitada como 'A Grande Obra'. Mas, no sentido mais fundamental, esta Grande Obra, que é a criação de algo que pode ser referido como a 'pedra filosofal', envolve a criação, a transmutação, de uma certa energia, para que essa energia atinja uma massa tão concentrada que, essencialmente, se torna algo que, através desse peso, pode mudar o núcleo vibracional de outras coisas. Para o alquimista interno, a criação da pedra filosofal envolve a movimentação de certos conglomerados de energia de um ponto em Yggdrasil para outro.
 
 콩 우 포데르 데스타 페드라 필로조파우, 키 에 이센시아우멘치 우마 이스페시 지 모토르 오 바테리아 지 포데르 마시부, 우 아우키미스타 에 카파스 지 가냐르 아 이네르지아 수스텐타베우 네세사리아 파라 홈페르 아스 그란지스 바헤이라스 키 우스 프렌뎅, 키 우스 만텡 잉 웅 문두 지 비다 이 모르치. 콩 엘라, 엘리스 콘세겡 우우트라파사르 타이스 리미치스, 타우 아프리지오나멘투, 파라 인피니타스 포시빌리다지스 알렝 다스 마레스 다 비다 이 다 모르치. 콩 우 포데르 수스텐타두 다 페드라 필로조파우, 우스 아우키미스타스 인테르누스 텡 아 수아 지스포지상 우 포데르 지 시 리베르타르 두 쿠부 트리지멘시오나우 파라 셈프리! 에스타 에 아 베르다데이라 하장 파라 아 그란지 오브라.
+Com o poder desta pedra filosofal, que é essencialmente uma espécie de motor ou bateria de poder massivo, o alquimista é capaz de ganhar a energia sustentável necessária para romper as grandes barreiras que os prendem, que os mantêm em um mundo de vida e morte. Com ela, eles conseguem ultrapassar tais limites, tal aprisionamento, para infinitas possibilidades além das marés da vida e da morte. Com o poder sustentado da pedra filosofal, os alquimistas internos têm à sua disposição o poder de se libertar do cubo tridimensional para sempre! Esta é a verdadeira razão para A Grande Obra.
 
 아 우마 그란지 헬라상/코헬라상 엔트리 에스치 프로세수 트란즈무타시오나우 지 크리아르 아 페드라 필로조파우 이 우스 아스펙투스 마이스 푼다멘타이스 다 크리아상 지 세르비도리스. 이지스치, 포르탄투, 우마 리냐, 우마 프로그레상, 우마 오르뎅 트란즈무타시오나우 아테 메즈무 누스 인시나멘투스, 이 코무 타우, 세기 타우 프로그레상 지 아코르두 콩 아스 레이스 이스타벨레시다스 펠라 코헨치 다 미냐 카자. 아프레젠테이 프리메이루 우 카미뉴 두 세르비도르 이 데포이스 우 모비멘투 트란즈무타시오나우 잉 지레상 아 헤알리자상 다 그란지 오브라. 투두 이스타 코넥타두.
+Há uma grande relação/correlação entre este processo transmutacional de criar a pedra filosofal e os aspectos mais fundamentais da criação de servidores. Existe, portanto, uma linha, uma progressão, uma ordem transmutacional até mesmo nos ensinamentos, e como tal, segui tal progressão de acordo com as leis estabelecidas pela corrente da minha casa. Apresentei primeiro o caminho do servidor e depois o movimento transmutacional em direção à realização da Grande Obra. Tudo está conectado.
 
 에스타스 페르군타스 이 아스 미냐스 헤스포스타스 이스탕 토다스 헬라시오나다스 콩 아 그란지 오브라. 에스치 프로시무 파수 나 트란즈무타상, 에스타 그란지 오브라, 인보우비 우마 카파시다지 무이투 마이오르 지 마니풀라르 아 이네르지아, 탄투 덴트루 쿠안투 포라 두 키 포지 세르 샤마두 지 리미치스 피지쿠스 다 이센시아. 누 피나우, 아 그란지 오브라 인보우비 아 아빌리다지 지 트란즈무타르 잉 이지스텐시아 우 그란지 모토르 키 에 아 페드라 필로조파우. 우지 에스타스 페르군타스 이 헤스포스타스 파라 임푸우시오나-루, 파라 지리지르 수아 아텐상, 파라 아 바스타 가마 지 루가리스 지멘시오나이스, 탄투 덴트루 쿠안투 포라 지 미드가르드, 온지 타우 모토르 시 토르나리아 헤알리다지.
+Estas perguntas e as minhas respostas estão todas relacionadas com a Grande Obra. Este próximo passo na transmutação, esta Grande Obra, envolve uma capacidade muito maior de manipular a energia, tanto dentro quanto fora do que pode ser chamado de limites físicos da essência. No final, a Grande Obra envolve a habilidade de transmutar em existência o grande motor que é a pedra filosofal. Use estas perguntas e respostas para impulsioná-lo, para dirigir sua atenção, para a vasta gama de lugares dimensionais, tanto dentro quanto fora de Midgard, onde tal motor se tornaria realidade.
 
 ### 페르군타스 & 헤스포스타스
+### Perguntas & Respostas
 
 **크:**
+**Q:**
 
 **1.** **시 에 포시베우 헤아브소르베르 아 이네르지아 페르지다 잉 이스페리엔시아스 파사다스, 낭 세리아 탐벵 포시베우 헤아브소르베르 아 이네르지아 다스 인두우젠시아스 아투아이스?**
+**1.**  **Se é possível reabsorver a energia perdida em experiências passadas, não seria também possível reabsorver a energia das indulgências atuais?**
 
 **2.** **잉쿠안투 우 아르콘치 베이우 지 아우궁 루가르, 낭 세리아 포시베우 키 그루푸스 지 우마누스 탐벵 테냥 빈두 아키, 이 포상 부스카르 아주다 지 세리스 수페리오리스 마이스 베네볼렌치스 키 데제젱 세우 수세수?**
+**2.**  **Enquanto o Arconte veio de algum lugar, não seria possível que grupos de humanos também tenham vindo aqui, e possam buscar ajuda de seres superiores mais benevolentes que desejem seu sucesso?**
 
 **3.** **시 우스 우마누스 상 이스친투스 나 모르치, 코무 이스플리카무스 우스 페노메누스 두스 이스피리투스 안세스트라이스 오 판타즈마스 지 우마누스 팔레시두스?**
+**3.**  **Se os humanos são extintos na morte, como explicamos os fenômenos dos espíritos ancestrais ou fantasmas de humanos falecidos?**
 
 **4.** **우스 인지비두스 우마누스 텡 데스치누 오 미송이스 오 프로포지투스 인지비두아이스 네스치 문두? 오 토두스 우스 우마누스 상 심플레즈멘치 알리멘투 파라 콘수무, 아 메누스 키, 코무 인지비두스, 이스콜량 우 마그눙 오푸스?**
+**4.**  **Os indivíduos humanos têm destino ou missões ou propósitos individuais neste mundo? Ou todos os humanos são simplesmente alimento para consumo, a menos que, como indivíduos, escolham o Magnum Opus?**
 
 아: 고스타리아 지 지제르 로구 지 이니시우 키 우 도그마 포지 세르 페리고주, 이 아스 페르군타스 2, 3 이 4 텡 에사 잉클리나상. 낭 미 임포르투 지 헤스폰데르 아 에사스 페르군타스 지 포르마 아우구마, 아페나스 렘브리-시 키 메우 콘셀류 페소아우 세라 셈프리 키 보세 낭 토미 미냐스 헤스포스타스 코무 메라멘치 마이스 웅 도그마 파라 콘트라포르 오트루 도그마, 마스 키, 잉 베스 지수, 우지 에사스 인포르마송이스 파라 아주다-루 이 다르-리 우마 지레상 무이투 바지카 잉 세우스 프로프리우스 이스투두스. 이스페루 키 보세 우지 테크니카스 코무 우 우주 두 센치두 인테리오르 이 다 프로제상 파라 데스코브리르 수아스 프로프리아스 페르세프송이스 이 베르다지스 네스타 케스탕. 프로비-미 세르투 오 이하두 누 피나우 아트라베스 지 세우 프로프리우 베르.
+A: Gostaria de dizer logo de início que o dogma pode ser perigoso, e as perguntas 2, 3 e 4 têm essa inclinação. Não me importo de responder a essas perguntas de forma alguma, apenas lembre-se que meu conselho pessoal será sempre que você não tome minhas respostas como meramente mais um dogma para contrapor outro dogma, mas que, em vez disso, use essas informações para ajudá-lo e dar-lhe uma direção muito básica em seus próprios estudos. Espero que você use técnicas como o uso do sentido interior e da projeção para descobrir suas próprias percepções e verdades nesta questão. Prove-me certo ou errado no final através de seu próprio ver.
 
 1. 싱. 에 지 파투 포시베우 아브소르베르 트라우마스 파사두스, 프레젠치스 이 아테 푸투루스. 이우 데스크레부 코무 아브소르베르 트라우마스 파사두스 이 프레젠치스 누 리브루, _우 마그눙 오푸스, 웅 쿠르수 파수 아 파수_, 이 이우 우 헤코멘다리아 파라 보세 아프렌데르 에스타스 테크니카스 포르 시 메즈무. 보세 포지 펜사르 누 트라우마 푸투루 코무 아켈리스 펜사멘투스 페르시스텐치스 이 무이타스 베지스 네가치부스 소브리 이벤투스 푸투루스 포텐시아이스, 이 지 파투 에 포시베우 아브소르베르 타우 네가치비다지 이 우자-라 파라 아 그란지 오브라 우칠리잔두 아스 테크니카스 데스크리타스 누 리브루 두 쿠르수 멘시오나두.
+1.  Sim. É de fato possível absorver traumas passados, presentes e até futuros. Eu descrevo como absorver traumas passados e presentes no livro, _O Magnum Opus, Um Curso Passo a Passo_, e eu o recomendaria para você aprender estas técnicas por si mesmo. Você pode pensar no trauma futuro como aqueles pensamentos persistentes e muitas vezes negativos sobre eventos futuros potenciais, e de fato é possível absorver tal negatividade e usá-la para a Grande Obra utilizando as técnicas descritas no livro do curso mencionado.
 
 2. 싱, 이지스텡 세리스 베네볼렌치스 라 포라, 수포뉴 키 나 메지다 잉 키 포데무스 샤마르 우 아르콘치 지 마우. 마스 이수 인보우비 우마 그란지 안트로포모르피자상 지 노사 파르치. 샤마르 우 아르콘치 지 마우 오 오트루 치푸 지 콘시엔시아 마이오르 지 봉, 인보우비 프로제타르 우마 그란지 쿠안치다지 지 이데아이스 우마누스 잉 인치다지스 키 무이타스 베지스 이스탕 무이투 알렝 지 노사스 이데이아스 소브리 우 벵 이 우 마우, 이스페시아우멘치 쿠안두 에사스 인치다지스 상 무이투 마이스 인텔리젠치스 이 포데로자스 두 키 노스, 이 텡 인텐송이스 이 프로포지투스 쿠아지 임포시베이스 지 인텐데르무스 시 아인다 이스치베르무스 프레주스 아우 템푸 리네아르 이 아 피지카 메카니카 클라시카. 타우베스 아 수아 페르군타 세자: 포데무스 콘탁타르 우 벵 파라 아주다르 콩 우 마우? 오, 이지스치 아우궁 벵 라 포라 키 포사 누스 아주다르? 투두 에 마우?
+2.  Sim, existem seres benevolentes Lá Fora, suponho que na medida em que podemos chamar o Arconte de mau. Mas isso envolve uma grande antropomorfização de nossa parte. Chamar o Arconte de mau ou outro tipo de consciência maior de bom, envolve projetar uma grande quantidade de ideais humanos em entidades que muitas vezes estão muito além de nossas ideias sobre o bem e o mal, especialmente quando essas entidades são muito mais inteligentes e poderosas do que nós, e têm intenções e propósitos quase impossíveis de entendermos se ainda estivermos presos ao tempo linear e à física mecânica clássica. Talvez a sua pergunta seja: podemos contactar o bem para ajudar com o mal? Ou, existe algum bem lá fora que possa nos ajudar? Tudo é mal?
 
 아 헤스포스타 에 키 아 탄타 본다지, 노바멘치 아페나스 다 페르스펙치바 우마나, 쿠안투 마우다지 라 포라. 이 세르투스 마구스 이 아테 아우키미스타스 아샹 프로베이토주 트라발랴르 콩 오 우자르 에사스 인치다지스, 시 포시베우. 오트루스 아샹 키 에 멜료르 리다르 콩 우 문두 포르 콘타 프로프리아, 키 낭 이지스텡 베르다데이루스 알리아두스 누 마르 이스쿠루, 포르키 누 핑, 투두 텡 웅 프레수.
+A resposta é que há tanta bondade, novamente apenas da perspectiva humana, quanto maldade lá fora. E certos magos e até alquimistas acham proveitoso trabalhar com ou usar essas entidades, se possível. Outros acham que é melhor lidar com o mundo por conta própria, que não existem verdadeiros aliados no Mar Escuro, porque no fim, tudo tem um preço.
 
 3. 에스타 에 우마 보아 페르군타, 이 테무 키 낭 포사 헤스폰데-라 토타우멘치 아키. 우 키 포수 지제르 아키, 누 인탄투, 에 키, 다 페르스펙치바 지 웅 아우키미스타 인테리오르, 에시스 이스피리투스 하라멘치 상 페소아스 인지비두아이스 키 모헤랑 이 시 토르나랑 판타즈마스. 쿠아지 셈프리 상 포르마스-펜사멘투 키 텡 포데르 수피시엔치 파라 카우자르 무단사스 마테리아이스 오 상 인치다지스 낭-오르가니카스 키 이미탕 페르소날리다지스 우마나스 파사다스. 아 무이투스 데탈리스 아우 헤스폰데르 아 타이스 페르군타스, 이 엘리스 텡 아 베르 콩 우 시클루 지 비다 이 모르치 잉 키 아 우마니다지 이스타 아고라 프레자, 우 모비멘투 잉 지레상 아우 소우 네그루, 이 아스 코이자스, 우 카미뉴, 키 토다 아 비올로지아, 토다 아 인지비두알리다지, 데비 페르코헤르 파라 잉콘트라르 아 수아 오리젱. 파라 헤스폰데르 아 콤플레시다지 토타우 데스타 케스탕 아우타멘치 콤플레샤, 이우 신세라멘치 프레시자리아 잉카미냐-루 아우 리브루: _우 카미뉴 두 데자피아도르 다 모르치_.
+3.  Esta é uma boa pergunta, e temo que não possa respondê-la totalmente aqui. O que posso dizer aqui, no entanto, é que, da perspectiva de um alquimista interior, esses espíritos raramente são pessoas individuais que morreram e se tornaram fantasmas. Quase sempre são formas-pensamento que têm poder suficiente para causar mudanças materiais ou são entidades não-orgânicas que imitam personalidades humanas passadas. Há muitos detalhes ao responder a tais perguntas, e eles têm a ver com o ciclo de vida e morte em que a humanidade está agora presa, o movimento em direção ao Sol Negro, e as coisas, o caminho, que toda a biologia, toda a individualidade, deve percorrer para encontrar a sua origem. Para responder à complexidade total desta questão altamente complexa, eu sinceramente precisaria encaminhá-lo ao livro: _O Caminho do Desafiador da Morte_.
 
 4. 낭, 우스 우마누스 낭 상 아페나스 알리멘투, 아싱 코무 아스 세노라스 이 아스 바카스 낭 상 아페나스 알리멘투. 토다 콘시엔시아 이스타 아키 파라 크레세르, 이볼루이르, 오 우 키 이우 샤무 지 트란즈무타르. 이스타무스 아키 파라 누스 토르나르무스 마이스, 파라 벤세르 아스 프로바빌리다지스 이 크레세르 잉 콘시엔시아. 시 아스 페소아스 상 카파지스 지 우자르 코녜시멘투스 코무 우스 파투스 이네르제치쿠스 콘치두스 잉 우마 세켄시아 지 아송이스 코무 아 그란지 오브라, 인탕 에시 크레시멘투 에 아셀레라두, 이 엘라스 포뎅 크레세르 무이투 잉 우마 우니카 비다. 지 파투, 우 오브제치부 다 그란지 오브라 에 트란센데르 아 포르마 피지카 네스타 우니카 비다. 이 에시 파수 트란즈무타시오나우 에, 파라 우스 아우키미스타스 지 쿠아우케르 포르마, 아 베르다데이라 하장 파라 아 비다 이 토두 에시 이스포르수.
+4.  Não, os humanos não são apenas alimento, assim como as cenouras e as vacas não são apenas alimento. Toda consciência está aqui para crescer, evoluir, ou o que eu chamo de Transmutar. Estamos aqui para nos tornarmos mais, para vencer as probabilidades e crescer em consciência. Se as pessoas são capazes de usar conhecimentos como os fatos energéticos contidos em uma sequência de ações como A Grande Obra, então esse crescimento é acelerado, e elas podem crescer muito em uma única vida. De fato, o objetivo da Grande Obra é transcender a forma física nesta única vida. E esse passo transmutacional é, para os alquimistas de qualquer forma, a verdadeira razão para a vida e todo esse esforço.
 
 이스타무스 아키 파라 아프렌데르 아 트라발랴르 콩 이네르지아, 이스타무스 아키 파라 아프렌데르 소브리 아스 레이스 이 소브리 우 투네우 다 트란즈무타상, 이그드라지우. 텐두 아프렌지두 아 누스 토르나르무스 아우키미스타스 인테리오리스 노스 메즈무스, 텐두 아프렌지두 소브리 아 트란즈무타상, 아플리카무스 인탕 우 노수 코녜시멘투 아우 마이오르 데자피우 포시베우 파라 토두스 노스, 키 에 이스카파르 두 시클루 지 비다 이 모르치, 우우트라파사르 우 소우 네그루 이 잉콘트라르 아 리베르다지 토타우.
+Estamos aqui para aprender a trabalhar com energia, estamos aqui para aprender sobre as leis e sobre o túnel da transmutação, Yggdrasil. Tendo aprendido a nos tornarmos alquimistas interiores nós mesmos, tendo aprendido sobre a transmutação, aplicamos então o nosso conhecimento ao maior desafio possível para todos nós, que é escapar do ciclo de vida e morte, ultrapassar o Sol Negro e encontrar a liberdade total.
 
+---
 ---
 
 **프: 이스토 무이투 파밀리아리자두 콩 우스 프린시피우스 이 테크니카스 타오이스타스, 인탕 미 페르군투 시 데부 이스타르 아르마제난두 이네르지아 아트라베스 다 아브소르상/헤아브소르상 누 로카우 멘시오나두 포르 엘리스? 이지스치 아우구마 헬라상 엔트리 우 세우 트라발류 이 우 트라발류 타오이스타? 수아 데스크리상 지 세르투스 로카이스 이네르제치쿠스 에 지페렌치, 이 이스토 미 페르군탄두 소브리 투두 이수?**
+**P: Estou muito familiarizado com os princípios e técnicas taoístas, então me pergunto se devo estar armazenando energia através da absorção/reabsorção no local mencionado por eles? Existe alguma relação entre o seu trabalho e o trabalho taoísta? Sua descrição de certos locais energéticos é diferente, e estou me perguntando sobre tudo isso?**
 
 **알렝 지수, 쿠아이스 상 세우스 펜사멘투스 소브리 아스 프레오쿠파송이스 잉 헬라상 아 수페레스치물라상 두 샤크라 사크라우?**
+**Além disso, quais são seus pensamentos sobre as preocupações em relação à superestimulação do chakra sacral?**
 
 흐: 보세 파레시 테르 잉콘트라두 우 마이오르 프로블레마 아우 프라치카르 쿠아우케르 치푸 지 도트리나 오 이스콜라 소브리 트라발류 이네르제치쿠 (오 마지아, 네시 카주): 누 피나우, 에 임포시베우 세기르 웅 마파 프레비아멘치 크리아두 지 센트루스 지 이네르지아 오 메리지아누스 이 이스페라르 키 엘리스 시 알리녱 페르페이타멘치 콩 보세. 메즈무 아스 테크니카스 임프레가다스 포르 웅 그루푸 포뎅 바리아르 바스탄치 잉 아우궁스 아스펙투스, 이 세르타스 테크니카스 심플레즈멘치 낭 푼시오낭 파라 아우구마스 페소아스.
+R: Você parece ter encontrado o maior problema ao praticar qualquer tipo de doutrina ou escola sobre trabalho energético (ou magia, nesse caso): no final, é impossível seguir um mapa previamente criado de centros de energia ou meridianos e esperar que eles se alinhem perfeitamente com você. Mesmo as técnicas empregadas por um grupo podem variar bastante em alguns aspectos, e certas técnicas simplesmente não funcionam para algumas pessoas.
 
 잉 제라우, 텐테이 이비타르 에사스 이데이아스 도그마치카스 인시스친두 셈프리 키, 누 피나우 두 지아, 투두 우 키 임포르타 에 아 베르다지 이네르제치카, 키 에 우마 베르다지 인지비두아우 이 무이타스 베지스 잉크리베우멘치 지피시우 지 베르발리자르 이 데피니르, 마스 키, 누 인탄투, 에 우마 헤알리다지 헤페치베우 아페나스 파라 보세.
+Em geral, tentei evitar essas ideias dogmáticas insistindo sempre que, no final do dia, tudo o que importa é a Verdade Energética, que é uma verdade individual e muitas vezes incrivelmente difícil de verbalizar e definir, mas que, no entanto, é uma realidade repetível apenas para você.
 
 우 키 케루 지제르 콩 투두 이수 에 키 보세 프레시자 잉콘트라르 수아스 프로프리아스 헤스포스타스 네사스 케스통이스. 이 에사스 헤스포스타스 포뎅 세르 잉콘트라다스 쿠안두 보세 올랴 파라 덴트루 지 시 메즈무 우잔두 세우스 센치두스 인테리오리스, 이 데사 포르마 우잔두 웅 마파 무이투 제라우, 코무 아스 테크니카스 우자다스 펠루 타오이즈무 오 아스 테크니카스 이 우스 메리지아누스 키 데스크레비. 보세 우자 에시스 파라 잉콘트라르 세우 프로프리우 플루슈 지 이네르지아, 아 로칼리자상 지 세우 프로프리우 카우데이랑, 수아스 프로프리아스 폴라리다지스, 이 코메사 아 콘피아르 네시스 센치멘투스, 네시 센치두 인테리오르. 콩 우 템푸, 보세 포지 헤비자르 이수 이 크리아르 세우 프로프리우 마파 지 세우스 프로프리우스 폰투스 메리지아누스, 세우스 프로프리우스 폰투스 지 아르마제나멘투, 세우 프로프리우 카우데이랑, 수아 프로프리아 이 이자타 포지상 페소아우 파라 아 로칼리자상 지 수아 페드라 필로조파우 잉 이볼루상.
+O que quero dizer com tudo isso é que você precisa encontrar suas próprias respostas nessas questões. E essas respostas podem ser encontradas quando você olha para dentro de si mesmo usando seus sentidos interiores, e dessa forma usando um mapa muito geral, como as técnicas usadas pelo Taoísmo ou as técnicas e os meridianos que descrevi. Você usa esses para encontrar seu próprio fluxo de energia, a localização de seu próprio caldeirão, suas próprias polaridades, e começa a confiar nesses sentimentos, nesse sentido interior. Com o tempo, você pode revisar isso e criar seu próprio mapa de seus próprios pontos meridianos, seus próprios pontos de armazenamento, seu próprio caldeirão, sua própria e exata posição pessoal para a localização de sua pedra filosofal em evolução.
 
 우 폰투 두 카우데이랑 이스타라, 잉 우우치마 아날리지, 누 센트루 두 인지비두. 파라 잉콘트라르 에시 센트루 지 우마 포르마 피지카, 보세 포지 메지르 우 코르푸 파라 잉콘트라르 우 센트루 이자투 우잔두 우마 헤구아, 오 우자르 웅 지아그라마 안치구 두스 센트루스 지 이네르지아 파라 코메사르. 마스 누 피나우, 소무스 토두스 인지비두스 이, 코무 타우, 보세 프레시자 잉콘트라르 우 세우 프로프리우 카미뉴 인지비두아우 포르키 아 우니카 베르다지 피나우 에 아 베르다지 이네르제치카. 포르 이젬플루, 우 코르푸 피지쿠 에 우마 헤프레젠타상 지멘시오나우 파르치쿨라르, 우마 이스프레상 이스테르나, 포르 아싱 지제르, 다 토탈리다지 지 켕 소무스, 키 에, 잉 우우치마 아날리지, 우마 인치다지 이네르제치카 무이투 마이오르. 코무 타우, 우 키 소무스 잉 토탈리다지 에 무이투 마이오르 두 키 우 코르푸 피지쿠, 이 에사 토탈리다지 에 우니카. 우 폰투 두 카우데이랑 지 우마 페소아 포지 이스타르 잉 우마 로칼리자상 무이투 세멜랸치 아 다 마이오리아 다스 오트라스 페소아스, 포르키 소무스 토두스 무이투 세멜랸치스 코무 이스페시. 마스, 메즈무 콩 토다스 아스 세멜랸사스, 낭 소무스 토두스 이구아이스, 노사 토탈리다지 이네르제치카 바리아 (아스 베지스 그란데멘치) 지 페소아 파라 페소아. 오트루 이젬플루 세리아 코무 우 파드랑 지 노수스 펜사멘투스 포지 바리아르 무이투 지 페소아 파라 페소아, 이, 포르탄투, 우 파드랑 지 노사 이네르지아 아 메지다 키 플루이 아트라베스 다 토탈리다지 지 노스 에 우니쿠, 포르키 노수스 펜사멘투스 포뎅 아우테라르 이 크리아르 노부스 파드롱이스 지 플루슈.
+O ponto do caldeirão estará, em última análise, no centro do indivíduo. Para encontrar esse centro de uma forma física, você pode medir o corpo para encontrar o centro exato usando uma régua, ou usar um diagrama antigo dos centros de energia para começar. Mas no final, somos todos indivíduos e, como tal, você precisa encontrar o seu próprio caminho individual porque a única verdade final é a verdade energética. Por exemplo, o corpo físico é uma representação dimensional particular, uma expressão externa, por assim dizer, da totalidade de quem somos, que é, em última análise, uma entidade energética muito maior. Como tal, o que somos em totalidade é muito maior do que o corpo físico, e essa totalidade é única. O ponto do caldeirão de uma pessoa pode estar em uma localização muito semelhante à da maioria das outras pessoas, porque somos todos muito semelhantes como espécie. Mas, mesmo com todas as semelhanças, não somos todos iguais, nossa totalidade energética varia (às vezes grandemente) de pessoa para pessoa. Outro exemplo seria como o padrão de nossos pensamentos pode variar muito de pessoa para pessoa, e, portanto, o padrão de nossa energia à medida que flui através da totalidade de nós é único, porque nossos pensamentos podem alterar e criar novos padrões de fluxo.
 
 우 센트루 지 켕 보세 에 낭 세라 잉콘트라두 누 이자투 루가르 온지 메우 센트루 포지 이스타르. 이 세르타멘치, 우 센트루 지 페소아스 키 이지스치랑 타우베스 아 밀랴리스 지 아누스 아트라스 낭 시 알리냐라 셈프리 콩 아 헤알리다지 모데르나 이 아 페소아 인지비두아우. 우 키 보세 센치 코무 세우 베르다데이루 센트루 에 우 세우 센트루 인지비두아우 파르치쿨라르 이 데비 세르 콘피아두 아시마 지 노송이스 도그마치카스 셈프리. 이스투지 우스 메스트리스 이 아스 이스콜라스 지그나스, 마스 시가 셈프리 아 수아 베르다지 이네르제치카, 잉 우우치마 인스탄시아, 잉 토다스 아스 코이자스.
+O centro de quem você é não será encontrado no exato lugar onde meu centro pode estar. E certamente, o centro de pessoas que existiram talvez há milhares de anos atrás não se alinhará sempre com a realidade moderna e a pessoa individual. O que você sente como seu verdadeiro centro é o seu centro individual particular e deve ser confiado acima de noções dogmáticas sempre. Estude os mestres e as escolas dignas, mas siga sempre a sua verdade energética, em última instância, em todas as coisas.
 
 쿠안투 아우 우주 이 아부주 지 이네르지아스 인페리오리스 (포르 아싱 지제르) 펠루 아르콘치, 벵, 보세 이스타 아브솔루타멘치 세르투 이, 우마 베스 키 에사 이네르지아 에 탕 포데로자, 데베무스 파제르 토두 우 이스포르수 파라 우자-라 이 카날리자-라 콩 그란지 쿠이다두. 마스 우 포데르 데사 이네르지아 에 우 노수 포데르, 낭 두 아르콘치, 인탕 낭 데베무스 데이샤르 키 우 아르콘치 누스 프리비 지 수아 벨레자 탐벵. 에사 에 헤아우멘치 우마 케스탕 지피시우, 이우 지리아 키 페소아우멘치 신투 키 에 인피니타멘치 임포르탄치 토르나르 에시 포데르 우 노수 포데르, 포르키 시 낭 우 피제르무스, 우 테레무스 페르지두. 마스 텐타르 트라발랴르 콩 엘리 셍 우 콘트롤리 네세사리우 포지 세르 페리고주 지 세르타스 포르마스, 센두 키, 코무 이우 지시 우스 펜사멘투스 텡 포데르, 자 키 포뎅 헤오르가니자르 노사 이스트루투라 이네르제치카.
+Quanto ao uso e abuso de energias inferiores (por assim dizer) pelo Arconte, bem, você está absolutamente certo e, uma vez que essa energia é tão poderosa, devemos fazer todo o esforço para usá-la e canalizá-la com grande cuidado. Mas o poder dessa energia é o nosso poder, não do Arconte, então não devemos deixar que o Arconte nos prive de sua beleza também. Essa é realmente uma questão difícil, eu diria que pessoalmente sinto que é infinitamente importante tornar esse poder o nosso poder, porque se não o fizermos, o teremos perdido. Mas tentar trabalhar com ele sem o controle necessário pode ser perigoso de certas formas, sendo que, como eu disse; os pensamentos têm poder, já que podem reorganizar nossa estrutura energética.
 
 잉 테르무스 심플리스, 아프렌다 아 인트라르 나 테르세이라 살라 잉 베스 지 우자르 수아 이네르지아 잉 아투스 알레아토리우스, 이 라 콤프렌다 이 우지 에시스 데제주스 코무 우마 포르마 지 아프렌데르 아 마니풀라르 이 아투아르 잉 지멘송이스 알렝 두 아우칸시, 알렝 다스 리미타송이스 다 카르니. 데사 포르마, 아 이네르지아 에 트란스포르마다 잉 포데르.
+Em termos simples, aprenda a entrar na Terceira Sala em vez de usar sua energia em atos aleatórios, e lá compreenda e use esses desejos como uma forma de aprender a manipular e atuar em dimensões além do alcance, além das limitações da carne. Dessa forma, a energia é transformada em poder.
 
+---
 ---
 
 **크: 쿠앙 크루시아우 에 아 헤아브소르상 이네르제치카 누 프로세수 다 그란지 오브라? 데스코브리 키, 우마 베스 키 코메세이 아 우자-라 인텐사멘치, 코메세이 아 테르 "플라즈박스" 지 메모리아스 무이투 수치스 이 잉콘세켄치스 키 이우 쿠아지 아비아 이스케시두, 이 테뉴 아프레시아두 무이투 우 방케치 지 이네르지아 키 엘라스 프로포르시오낭. 미냐 페르군타 에 나 크리아상 다 페드라 필로조파우 이 이벤투아우 이모르탈리다지/트란센덴시아 데스치 플라누 피지쿠, 이지스치 아우구 "이스페시아우" 나 헤아브소르상 이네르제치카 잉 콤파라상 콩 심플레즈멘치 아브소르베르 이네르지아 두 노수 암비엔치?**
+**Q: Quão crucial é a reabsorção energética no processo da Grande Obra? Descobri que, uma vez que comecei a usá-la intensamente, comecei a ter "flashbacks" de memórias muito sutis e inconsequentes que eu quase havia esquecido, e tenho apreciado muito o banquete de energia que elas proporcionam. Minha pergunta é; na criação da pedra filosofal e eventual imortalidade/transcendência deste plano físico, existe algo "especial" na reabsorção energética em comparação com simplesmente absorver energia do nosso ambiente?**
 
 **누 피나우 두 세우 리브루 _수페란두 우 아르콘치 아트라베스 다 아우키미아_, 보세 헤코멘다 우마 세르타 쿠안치다지 지 템푸 아 카다 지아 파라 파사르 나스 폴라리다지스 이스페시피카스, 콩, 에 클라루, 이스파수 파라 페르소날리자상 인지비두아우. 미냐 페르군타 에, 낭 세리아 베네피쿠 페르마네세르 나 폴라리다지 두 바지우 프라치카멘치 셈프리? 이 에 포시베우 아브소르베르 이네르지아 쿠안두 테무스 쿠아우케르 니베우 지 콘텐상 이네르제치카 아치바? 오 우 아우키미스타 아빌리도주 "트로카리아" 이 시 모베리아 인스탄타네아멘치 다 콘텐상 이네르제치카 파라 아 아브소르상, 이 데포이스 보우타리아 아 콘텐상?**
+**No final do seu livro _Superando o Arconte através da Alquimia_, você recomenda uma certa quantidade de tempo a cada dia para passar nas polaridades específicas, com, é claro, espaço para personalização individual. Minha pergunta é, não seria benéfico permanecer na polaridade do vazio praticamente sempre? E é possível absorver energia quando temos qualquer nível de contenção energética ativa? Ou o Alquimista habilidoso "trocaria" e se moveria instantaneamente da contenção energética para a absorção, e depois voltaria à contenção?**
 
 아: 아 헤아브소르상 이네르제치카 에 무이투 임포르탄치 파라 아 그란지 오브라 이 아 크리아상 다 페드라 필로조파우. 텡 무이투 아 베르 콩 우스 아스펙투스 낭 리네아리스 두 템푸 이 다 이지스텐시아. 아 멜료르 마네이라 지 인텐데르 이수 에 이마지나르-시 낭 아페나스 코무 아 페소아 키 보세 에 아키 이 아고라, 마스 코무 우마 이센시아 지 누벵 콩글로메라다 무이투 그란지 키 트란센지 무이투스 템푸스 키 이지스치 잉 무이투스 페리오두스 지 템푸 시무우타네아멘치.
+A: A reabsorção energética é muito importante para a Grande Obra e a criação da pedra filosofal. Tem muito a ver com os aspectos não lineares do tempo e da existência. A melhor maneira de entender isso é imaginar-se não apenas como a pessoa que você é aqui e agora, mas como uma essência de nuvem conglomerada muito grande que transcende muitos tempos; que existe em muitos períodos de tempo simultaneamente.
 
 아스 무이타스 페리다스 이네르제치카스 키 보세 소프레우 아우 롱구 다 비다 포뎅 세르 비스타스 잉 쿠아우케르 모멘투 이스페시피쿠 다 수아 비다. 오 세자, 우마 "페리다 이네르제치카 푸투라" 포데리아 세르 비스타 포르 아우겡 키 콘세기 베르 아 이네르지아, 이, 인베르사멘치, 우마 페리다 이네르제치카 파사다 탐벵 이스타리아 라 파라 키 엘리스 아 비셍 토다 아 이네르지아 에 아고라.
+As muitas feridas energéticas que você sofreu ao longo da vida podem ser vistas em qualquer momento específico da sua vida. Ou seja, uma "ferida energética futura" poderia ser vista por alguém que consegue ver a energia, e, inversamente, uma ferida energética passada também estaria lá para que eles a vissem; toda a energia é agora.
 
 인탕, 잉 이센시아, 보세 에 코무 우마 누벵 지간치 콩 무이투스 바자멘투스 이네르제치쿠스, 키 아콘테세랑, 이스탕 아콘테센두 이 아콘테세랑... 투두 아고라. 시 보세 낭 트라타르 데시스 바자멘투스, 데사스 페리다스 키 이스탕 바잔두 이네르지아, 세라 무이투 지피시우 파라 보세 만테르 이, 포르탄투, 헤피나르 아 이네르지아 키 보세 콘세기우 콘테르, 아브소르베르 오 헤아브소르베르. 이수 포르키 에시 바자멘투 지 이네르지아 에 콘스탄치. 아우 트라타르 데사스 무이타스 페리다스 이 셀라-라스 아트라베스 다 아르치 다 헤아브소르상, 보세 이스타, 리테라우멘치, 쿠란두-시 잉 웅 니베우 이네르제치쿠.
+Então, em essência, você é como uma nuvem gigante com muitos vazamentos energéticos, que aconteceram, estão acontecendo e acontecerão... tudo agora. Se você não tratar desses vazamentos, dessas feridas que estão vazando energia, será muito difícil para você manter e, portanto, refinar a energia que você conseguiu conter, absorver ou reabsorver. Isso porque esse vazamento de energia é constante. Ao tratar dessas muitas feridas e selá-las através da arte da reabsorção, você está, literalmente, curando-se em um nível energético.
 
 오트라 마네이라 지 지제르 이수 에 키, 시 보세 낭 아보르다르 에사스 케스통이스, 이스타라 리가두 아 에스치 플라누 피지쿠 지 이지스텐시아. 보세 포지 펜사르 잉 우마 페리다 이네르제치카 코무 우마 앙코라 키 만텡 보세, 우마 파르치 지 수아 아텐상, 리가다 아 에스타 지멘상 이 낭 페르미치 키 보세 보이 리브레멘치. 에사스 페리다스 우 프렌뎅 나 포르마 데사스 메모리아스, 키 콘치누앙 트라젠두 보세 지 보우타 이 우 만텡 리가두 아 에스타 테하.
+Outra maneira de dizer isso é que, se você não abordar essas questões, estará ligado a este plano físico de existência. Você pode pensar em uma ferida energética como uma âncora que mantém você, uma parte de sua atenção, ligada a esta dimensão e não permite que você voe livremente. Essas feridas o prendem na forma dessas memórias, que continuam trazendo você de volta e o mantêm ligado a esta terra.
 
 아크레지투 키 잉 메우 리브루, _우 카미뉴 두 프로제치스타, 보세 테라 우마 노상 무이투 마이오르 두 키 이 포르 키 우마 페소아 낭 포지 심플레즈멘치 만테르 우 포쿠 아페나스 나 폴라리다지 두 바지우. 우 인트라르 이 우 사이르 상 잉크리베우멘치 임포르탄치스, 이스페시아우멘치 쿠안두 시 트라타 지 만테르 아 인지비두알리다지 아 메지다 키 시 아파스타 데스치 플라누 트리지멘시오나우. 인탕, 시 보세 낭 콘세기 만테르 수아 아텐상 포카다 나 인텐상 데제자다, 포르 카우자 데시 페주 이모시오나우, 눙카 세라 카파스 지 비아자르 론지. 누 피나우, 수아 아텐상 바실라 이, 아우 포카르 네스치 트라우마, 보세 에 트라지두 지 보우타 아 테하 노바멘치.
+Acredito que em meu livro, _O Caminho do Projetista, você terá uma noção muito maior do que e por que uma pessoa não pode simplesmente manter o foco apenas na polaridade do vazio. O ENTRAR e o SAIR são incrivelmente importantes, especialmente quando se trata de manter a individualidade à medida que se afasta deste plano tridimensional. Então, se você não consegue manter sua atenção focada na intenção desejada, por causa desse peso emocional, nunca será capaz de viajar longe. No final, sua atenção vacila e, ao focar neste trauma, você é trazido de volta à Terra novamente.
 
 포르탄투, 셍 쿠아우케르 인텐지멘투 오 아빌리다지 잉 쿠아우케르 우마 데사스 두아스 폴라리다지스, 이 코무 엘라스 포뎅 아주다-루 아 헤아바스테세르 이 이킬리브라르 수아 이네르지아, 만테르 아 인지비두알리다지 세구라 알렝 데스치 플라누 트리지멘시오나우 토르나-시 임포시베우. 코무 멘시오누 잉 바리아스 오카지옹이스, 이스페시아우멘치 누 리브루 멘시오나두 아시마, 아켈리스 키 고스타리앙 지 아페나스 시 아눌라르 낭 잉콘트라랑 리베르다지, 잉콘트라랑 아페나스 우마 포르마 지페렌치 지 모르치.
+Portanto, sem qualquer entendimento ou habilidade em qualquer uma dessas duas polaridades, e como elas podem ajudá-lo a reabastecer e equilibrar sua energia, manter a individualidade segura além deste plano tridimensional torna-se impossível. Como menciono em várias ocasiões, especialmente no livro mencionado acima, aqueles que gostariam de apenas se ANULAR não encontrarão liberdade, encontrarão apenas uma forma diferente de morte.
 
 세우스 펜사멘투스 소브리 아브소르상 이 콘텐상 상 바스탄치 발리두스, 포이스 웅 아데프투 케르 이 시 모비 엔트리 아 콘텐상 이 아 아브소르상, 엔트리 아스 지페렌치스 폴라리다지스, 콘포르미 네세사리우, 지 아코르두 콩 수아 콘시엔시아 이 아 사베도리아 두스 센치두스 인테르누스.
+Seus pensamentos sobre absorção e contenção são bastante válidos, pois um adepto quer e se move entre a contenção e a absorção, entre as diferentes polaridades, conforme necessário, de acordo com sua consciência e a sabedoria dos sentidos internos.
 
+---
 ---
 
 **크: 쿠아우 에 아 지페렌사 엔트리 우마 페리다 이네르제치카 이 우 우주 다 폴라리다지 지 사이르? 잉 오트라스 팔라브라스, 아 나투레자 아파렌테멘치 콘트라지토리아 지 우자르 아 폴라리다지 지 사이르 파라 오브테르 콘포르투 네스치 문두 마테리아우 이 탐벵 헤아브소르베르 토다 아 페르다 지 이네르지아 파사다. 에 키, 우마 베스 키 트란즈무타무스 토타우멘치 아우구 잉 이지스텐시아, 데베무스 보우타르 이 헤아브소르베르 아 이네르지아 키 포이 네세사리아 파라 크리아-루? 아싱 코무 나 테르세이라 살라 두 프로제치스타, 포르 이젬플루, 포수 이마지나르 키 미냐 폴리아 임플리카라 무이타 페르다 지 이네르지아 데비두 아스 이모송이스 키 쿰프리르 토두스 우스 메우스 데제주스 미 트라랑. 이수 낭 에 탕 임포르탄치, 지가무스, 포르키 낭 에 네스치 문두 피지쿠 온지 이스토 가스탄두 아 이네르지아? 이 아 아우구마 지카 키 보세 다리아 파라 이비타르 키 웅 세르 낭 오르가니쿠 베냐 이 "이스트라기 미냐 페스타" 잉 헬라상 아 에사 메즈마 시투아상 콩 아 폴리아? 오 세리아 포시베우 프라치카르 아 콘텐상 이네르제치카 잉쿠안투 아인다 이스페리멘타 알레그리아, 이트크.?**
+**Q: Qual é a diferença entre uma ferida energética e o uso da polaridade de SAIR? Em outras palavras, a natureza aparentemente contraditória de usar a polaridade de SAIR para obter conforto neste mundo material e também reabsorver toda a perda de energia passada. É que, uma vez que transmutamos totalmente algo em existência, devemos voltar e reabsorver a energia que foi necessária para criá-lo? Assim como na Terceira Sala do projetista, por exemplo, posso imaginar que minha folia implicará muita perda de energia devido às emoções que cumprir todos os meus desejos me trarão. Isso não é tão importante, digamos, porque não é neste mundo físico onde estou gastando a energia? E há alguma dica que você daria para evitar que um ser não orgânico venha e "estrague minha festa" em relação a essa mesma situação com a folia? Ou seria possível praticar a contenção energética enquanto ainda experimenta alegria, etc.?**
 
 아: 아 웅 쿠스투 파라 투두, 우 키 에 웅 프린시피우 아우키미쿠 푼다멘타우. 아 알레그리아 다 이지스텐시아, 키 에 우 쿠스투 다 베르다데이라 인지비두알리다지, 텡 웅 프레수, 이 데베무스 이스타르 지스포스투스 아 파가르 에시 프레수... 오 포데무스 텐타르 두플리카르 우 카미뉴 두스 아눌라도리스 키 아페나스 텐탕 시 '아눌라르' 다 이지스텐시아. 우 카미뉴 다 아우키미아 에, 인탕, 우 카미뉴 두 이킬리브리우, 이 아 네세시다지 지 사우바르/아브소르베르 이 헤지스트리부이르 이네르지아 (인트라르사이르) 에 파라 키 우 아우키미스타 포사 홈페르 아 프리장 트리지멘시오나우 파라 셈프리, 파라 키 시 토르니 마이스, 이 낭 메누스.
+A: Há um custo para tudo, o que é um princípio alquímico fundamental. A alegria da existência, que é o custo da verdadeira individualidade, tem um preço, e devemos estar dispostos a pagar esse preço... ou podemos tentar duplicar o caminho dos ANULADORES que apenas tentam se 'anular' da existência. O caminho da alquimia é, então, o caminho do equilíbrio, e a necessidade de salvar/absorver E redistribuir energia (ENTRARSAIR) é para que o alquimista possa romper a prisão tridimensional para sempre, para que se torne mais, e não menos.
 
 아 트라베시아 다 테르세이라 살라 페르미치라 키 우 프로제치스타 비바 베르다데이라멘치 코무 웅 인지비두 이 보이 리브리 나켈라 로칼리자상 지멘시오나우 제라우, 파라 키 포사 이스플로라르 토두스 우스 세우스 데제주스 콤플레타멘치. 탐벵 페르미치라 키 아 페소아 잉콘트리 마네이라스 지 리다르 콩, 이 아테 메즈무 수페라르 아스 리미타송이스 다 비다 이노르가니카 키 포상 인테르페리르 네사 리베르다지. 아 메지다 키 보세 포우가, 타이스 인치다지스 포뎅 수르지르 이 텐타르 이스트라가르 수아 지베르상, 포르 아싱 지제르, 데제잔두 수페라르 에사스 포르사스, 우잔두 아우구마스 다스 테크니카스 키 지스쿠투 누 카미뉴 두 프로제치스타, 포르 이젬플루, 보세 아프렌데라 아 이르 알렝 델라스, 아 수페라-라스, 아 우자-라스 코무 포르마 지 포르탈레세르 아 시 메즈무, 포르탈레세르 수아 아르마두라 이 수아스 아르마스, 포르 아싱 지제르.
+A travessia da Terceira Sala permitirá que o projetista viva verdadeiramente como um indivíduo e voe livre naquela localização dimensional geral, para que possa explorar todos os seus desejos completamente. Também permitirá que a pessoa encontre maneiras de lidar com, e até mesmo superar as limitações da vida inorgânica que possam interferir nessa liberdade. À medida que você folga, tais entidades podem surgir e tentar estragar sua diversão, por assim dizer, desejando superar essas forças, usando algumas das técnicas que discuto no caminho do projetista, por exemplo, você aprenderá a ir além delas, a superá-las, a usá-las como forma de fortalecer a si mesmo, fortalecer sua armadura e suas armas, por assim dizer.
 
 투두 이수 쿠스타 이네르지아, 마스 에스타 에 우마 이네르지아 키 데비 세르 우자다, 포르키 누 피나우, 쿠아우 에 우 폰투 지 세르 웅 인지비두 리브리 나켈라 그란지 인피니투지 라 포라, 시 보세 바이 세르 아페나스 아우궁 피클리스 무미피카두 잉 웅 포치. 잉 오트라스 팔라브라스, 타이스 데제주스 상 나투라이스 이 데벵 세르 우자두스 코무 웅 프로푸우소르 파라 아주다르 우 프로제치스타 아 아프렌데르 아 마니풀라르 나 테르세이라 살라, 아켈라 로칼리자상 지멘시오나우 제라우, 키 인탕 낭 아페나스 사치스파라 플레나멘치 세우스 데제주스, 마스 탐벵 페르미치라 키 엘리스 데젠보우방 우 치푸 지 포데르 네세사리우 파라 이르 무이투 알렝 다 테르세이라 살라, 이 인트라르 잉 문두스 이 로카이스 알렝 지 토다스 아스 포시빌리다지스 이고이스타스 트리지멘시오나이스 리미타다스.
+Tudo isso custa energia, mas esta é uma energia que deve ser usada, porque no final, qual é o ponto de ser um indivíduo livre naquela grande infinitude Lá Fora, se você vai ser apenas algum picles mumificado em um pote. Em outras palavras, tais desejos são naturais e devem ser usados como um propulsor para ajudar o projetista a aprender a manipular na Terceira Sala, aquela localização dimensional geral, que então não apenas satisfará plenamente seus desejos, mas também permitirá que eles desenvolvam o tipo de poder necessário para ir muito além da Terceira Sala, e entrar em mundos e locais além de todas as possibilidades egoístas tridimensionais limitadas.
 
 우 아데프투 데비 셈프리 잉콘트라르 우 이킬리브리우 엔트리 아 콘텐상 이네르제치카 이 우 우주 다 이네르지아 키 아르마제노 탕 임페카베우멘치. 마스 데비-시 노타르 키 네스타 테르세이라 살라, 키 에 아보르다다 누 리브루, _우 카미뉴 두 프로제치스타_, 타우 가스투 지 이네르지아 에 미누스쿨루 잉 콤파라상 콩 우 치푸 지 이네르지아 키 세리아 데스페르지사다 시 타이스 데제주스 포셍 비비두스 나 지멘상 피지카. 에스치 에 웅 프린시피우-샤비.
+O adepto deve sempre encontrar o equilíbrio entre a contenção energética e o uso da energia que armazenou tão impecavelmente. Mas deve-se notar que nesta Terceira Sala, que é abordada no livro, _O Caminho do Projetista_, tal gasto de energia é minúsculo em comparação com o tipo de energia que seria desperdiçada se tais desejos fossem vividos na dimensão física. Este é um princípio-chave.
 
 센두 키 웅 아우키미스타 인테리오르 포지 베르 아 이네르지아 지레타멘치, 에 파시우 파라 엘리 사베르 지레타멘치 키 아 무이투 데스페르지시우 잉 투두 우 키 우마 페소아 파스. 이 키 시 엘리스 아페나스 이코노미자셍 웅 포쿠 데시 데스페르지시우, 포데리앙 헤지스트리부이르 에사 페르다 지 이네르지아 이 트란스포르마-라 잉 쿠아우케르 코이자 키 푸데셍 케레르, 이스페시아우멘치 잉 오트라스 지멘송이스 온지 우 아르콘치 낭 에 토두-포데로주, 코무 아 로칼리자상 지멘시오나우 제라우 다 테르세이라 살라, 포르 이젬플루... 이 아인다 테르 마이스 두 키 수피시엔치 파라 홈페르 우스 리미치스 데스치 쿠부 마이스 하시오나우 이 헤스트리치부.
+Sendo que um alquimista interior pode ver a energia diretamente, é fácil para ele saber diretamente que há muito desperdício em tudo o que uma pessoa faz. E que se eles apenas economizassem um pouco desse desperdício, poderiam redistribuir essa perda de energia e transformá-la em qualquer coisa que pudessem querer, especialmente em outras dimensões onde o Arconte não é todo-poderoso, como a localização dimensional geral da Terceira Sala, por exemplo... e ainda ter mais do que suficiente para romper os limites deste cubo mais racional e restritivo.
 
 우지 세우 센치두 인테리오르, 수아 비장, 이 텐치 데스코브리르 아스 프론테이라스 엔트리 세우 베르다데이루 이우, 수아 베르다데이라 인지비두알리다지, 이 아킬루 키 포이 프로제타두 잉 보세 펠루 아르콘치 (우지 _우 카미뉴 두 프로제치스타_ 파라 데이샤르 우 아르콘치 파라 트라스 이 데스코브리르 세우 베르다데이루 이우, 잉 오트라스 팔라브라스).
+Use seu sentido interior, sua visão, e tente descobrir as fronteiras entre seu verdadeiro eu, sua verdadeira individualidade, e aquilo que foi projetado em você pelo Arconte (use _O Caminho do Projetista_ para deixar o Arconte para trás e descobrir seu verdadeiro eu, em outras palavras).
 
 아우 데스코브리르 세우 베르다데이루 이우, 인보우바-시 누 우주 다 테르세이라 살라. 라, 우지 세우스 베르다데이루스 데제주스 코무 웅 프로푸우소르 파라 레바-루 무이투 알렝 지 쿠아우케르 코이자 멘수라베우 이 리미타다 펠라 그라비다지 데스치 문두. 시 보세 콘세기르 파제르 이수, 인탕 아 콘텐상 이 우 가스투 세랑 우마 타레파 파시우 파라 보세.
+Ao descobrir seu verdadeiro eu, envolva-se no uso da Terceira Sala. Lá, use seus verdadeiros desejos como um propulsor para levá-lo muito além de qualquer coisa mensurável e limitada pela gravidade deste mundo. Se você conseguir fazer isso, então a contenção e o gasto serão uma tarefa fácil para você.
 
+---
 ---
 
 **크: 세라 키 아스 페리다스 이네르제치카스 누스 만텡 앙코라두스 아 에스치 플라누 포르키 토르낭 지피시우 아르마제나르 이 헤피나르 아 이네르지아? 오 세라 키 프레시주 셀라르 카다 우마 델라스 파라 미 “데장코라르” 데스치 쿠부? 오 세라 키 심플레즈멘치 프레시주 셀라르 우 수피시엔치 파라 아쿠물라르/헤피나르 웅 세르투 리미아르 지 이네르지아?**
+**Q: Será que as feridas energéticas nos mantêm ancorados a este plano porque tornam difícil armazenar e refinar a energia? Ou será que preciso selar cada uma delas para me “desancorar” deste cubo? Ou será que simplesmente preciso selar o suficiente para acumular/refinar um certo limiar de energia?**
 
 아: 토두스 노스 소무스 웅 포쿠 렌투스, 마스, 잉 무이투스 아스펙투스, 이수 낭 에 노사 쿠우파, 포이스 보세 사비 키 우 아르콘치 에 웅 페주 소브리 토두스 노스 네스타 테하. 그라사스 아 에시 페주, 지피시우멘치 누스 인보우베무스 잉 쿠아우케르 치푸 지 아상 콘시엔치, 이스투 에, 하라멘치 데시지무스 콘시엔테멘치 파제르 아우구, 이 코무 헤주우타두, 노수 이우 데스페르투 에 바스탄치 프라지우. 에시 이우 데스페르투 에 아 파르치 지 노스 키 이우 미 헤페리 코무 "우 판타즈마 나 마키나", 이, 코무 투두 우 마이스, 시 낭 우 우자무스 눙카, 엘리 눙카 포지 크레세르 잉 포데르.
+A: Todos nós somos um pouco lentos, mas, em muitos aspectos, isso não é nossa culpa, pois você sabe que o Arconte é um peso sobre todos nós nesta terra. Graças a esse peso, dificilmente nos envolvemos em qualquer tipo de ação consciente, isto é, raramente decidimos conscientemente fazer algo, e como resultado, nosso eu desperto é bastante frágil. Esse eu desperto é a parte de nós que eu me referi como "o fantasma na máquina", e, como tudo o mais, se não o usamos nunca, ele nunca pode crescer em poder.
 
 쿠리오자멘치, 이 타우베스 낭 아파렌테멘치 헬라시오나두, 에사 프라질리다지 시그니피카 키 이스케세무스 무이투. 프레시자무스 베리피카르 헤페치다스 베지스 아스 코이자스 키 파레시아무스 코녜세르 탕 벵 아페나스 웅 모멘투 안치스: 눙 모멘투 이스타무스 세르투스 지 아우구, 이 누 모멘투 세긴치 소무스 콤플레타멘치 지페렌치스 이 아지무스 지 마네이라 콤플레타멘치 지페렌치, 쿠아지 코무 시 포세무스 우마 페소아 콤플레타멘치 지페렌치 지 웅 모멘투 파라 오트루.
+Curiosamente, e talvez não aparentemente relacionado, essa fragilidade significa que esquecemos muito. Precisamos verificar repetidas vezes as coisas que parecíamos conhecer tão bem apenas um momento antes: num momento estamos certos de algo, e no momento seguinte somos completamente diferentes e agimos de maneira completamente diferente, quase como se fôssemos uma pessoa completamente diferente de um momento para outro.
 
 포르 에사 하장, 파라 잉콘트라르 웅 헤스키시우 지 이스타빌리다지 이 사니다지 잉 노사스 비다스, 토두스 노스 프레시자무스 세르 헤페치다멘치 인포르마두스 지 켕 소무스 이 두 키 데베리아무스 세르 펠루 문두 잉 제라우. 이수 시그니피카 키 프레시자무스 데시 문두 이스테리오르, 에시 문두 키 에 크리아두 펠루 아르콘치, 소무스 아프리지오나두스 포르 엘리, 이 에 노사 우니카 마네이라 지 만테르 아우구 파레시두 콩 아 사니다지, 펠루 메누스 아 사니다지 지 아코르두 콩 에사 프로프리아 아르마질랴. 마스 아 우마 포시빌리다지 지페렌치, 키 에 아 아빌리다지 지 아프렌데르 아 페르세베르 지레타멘치, 우자르 우스 센치두스 인테르누스, 베르. 우마 베스 키 우마 페소아 포사 파제르 이수, 엘라 낭 프레시자 마이스 지 도그마스 파라 지제르 우 키 파제르, 엘라 낭 프레시자 두 문두 이스테리오르 파라 지제르 켕 엘라 에, 엘라 포지 심플레즈멘치 베르 포르 시 메즈마, 이 포지 파제르 이수 아 카다 모멘투, 시그니피칸두 키 엘라 낭 프레시자 마이스 시 렘브라르 포르키 투두 이스타 라 파라 엘라 셈프리 키 시 프레오쿠피 잉 인보우베르-시 네시 치푸 지 비장.
+Por essa razão, para encontrar um resquício de estabilidade e sanidade em nossas vidas, todos nós precisamos ser repetidamente informados de quem somos e do que deveríamos ser pelo mundo em geral. Isso significa que precisamos desse mundo exterior, esse mundo que é criado pelo Arconte, somos aprisionados por ele, e é nossa única maneira de manter algo parecido com a sanidade, pelo menos a sanidade de acordo com essa própria armadilha. Mas há uma possibilidade diferente, que é a habilidade de aprender a perceber diretamente, usar os sentidos internos, ver. Uma vez que uma pessoa possa fazer isso, ela não precisa mais de dogmas para dizer o que fazer, ela não precisa do mundo exterior para dizer quem ela é, ela pode simplesmente ver por si mesma, e pode fazer isso a cada momento, significando que ela não precisa mais se lembrar porque tudo está lá para ela sempre que se preocupe em envolver-se nesse tipo de visão.
 
 수아 헤알리다지, 임보라 포사무스 세르 콘시데라두스 무이투 세멜랸치스 잉 무이투스 아스펙투스, 자 키 소무스 우마누스, 아인다 에 지페렌치 다 미냐. 이우 탐벵 테뉴 웅 폰투 지 리미치 데피니두 키 지비지 미냐 비다 엔트리 우 키 에 우 아프리지오나멘투 두 아르콘치 소브리 밍 이 아 베르다데이라 알레그리아 다 미냐 이지스텐시아 페소아우 코무 웅 인지비두 리브리 이 데스페르투 보세 텡 우 세우, 이, 센두 아싱, 카다 조르나다 인지비두아우 에 아우타멘치 우니카.
+Sua realidade, embora possamos ser considerados muito semelhantes em muitos aspectos, já que somos humanos, ainda é diferente da minha. Eu também tenho um ponto de limite definido que divide minha vida entre o que é o aprisionamento do Arconte sobre mim e a verdadeira alegria da minha existência pessoal como um indivíduo livre e desperto; você tem o seu, e, sendo assim, cada jornada individual é altamente única.
 
 파라 프로그레지르 지 마네이라 페르페이타, 아프렌다 아 데젠보우베르 아 아빌리다지 지 페르세베르 아 이센시아 지 켕 보세 에, 낭 임포르타 온지 시 잉콘트리 (세자 네스타 지멘상 오 잉 쿠아우케르 오트라). 아 멜료르 마네이라 지 파제르 이수 에 텐타르 베르-시 지 우마 페르스펙치바 테르세이라 이 데자페가다 셈프리 키 포시베우, 아우 메즈무 템푸 잉 키 텐타 잉가자르 세우 센치두 인테르누 지 센치르 셈프리 키 프레시자르 지 베리피카상 소브리 아스 코이자스. 이수 시그니피카 키 보세 프레시자 아프렌데르 아 우자르 우 센치두 인테르누 지 센치르, 잉 오포지상 아 프레시자르 지 베리피카상 두 문두 이스테리오르. 토다 아 베르다지 이스타 덴트루 지 보세.
+Para progredir de maneira perfeita, aprenda a desenvolver a habilidade de perceber a essência de quem você é, não importa onde se encontre (seja nesta dimensão ou em qualquer outra). A melhor maneira de fazer isso é tentar ver-se de uma perspectiva terceira e desapegada sempre que possível, ao mesmo tempo em que tenta engajar seu sentido interno de sentir sempre que precisar de verificação sobre as coisas. Isso significa que você precisa aprender a usar o sentido interno de sentir, em oposição a precisar de verificação do mundo exterior. Toda a verdade está dentro de você.
 
 에스타 에 아 우니카 마네이라 지 프로그레지르, 포르키 보세 이스케세라 헤페치다스 베지스, 이 아테 키 포사 베르 이 우자르 에시 치푸 지 페르스펙치바 지 테르세이라 페소아 지 마네이라 인플레시베우, 보세 눙카 세라 켕 보세 헤아우멘치 에, 보세 셈프리 오실라라 엔트리 세르 우마 페소아 이 세르 아우구 콤플레타멘치 지페렌치, 이 우 문두 잉 제라우, 우 문두 두 아르콘치, 고베르나라 세우 데스치누 보세 프레시자라 키 우 문두 잉 제라우 리 지가 켕 보세 에. 마스 시 보세 시 인보우베르 나스 테크니카스 키 아카베이 지 멘시오나르 아키 이 잉 메우스 리브루스 (코무 아 아빌리다지 지 쿠라르 페리다스 이네르제치카스), 콩 우 템푸 코메사라 아 페르세베르 키 이스타 이스케센두 메누스 이 키 세우 포데르 지 아텐상 에 무이투 마이스 아구사두 두 키 안치스. 보세 코메사라 아 페르세베르 키 포지 베르 마이스 론지 (지 마네이라 마이스 이스판시바) 이 키 무도 지 우마 포르마 푼다멘타우, 지 우마 마네이라 임포시베우 지 헤아우멘치 이덴치피카르, 이세투 파라 지제르 타우베스 키 보세 시 신타 마이스 코무 보세 메즈무.
+Esta é a única maneira de progredir, porque você esquecerá repetidas vezes, e até que possa ver e usar esse tipo de perspectiva de terceira pessoa de maneira inflexível, você nunca será quem você realmente é, você sempre oscilará entre ser uma pessoa e ser algo completamente diferente, e o mundo em geral, o mundo do Arconte, governará seu destino; você precisará que o mundo em geral lhe diga quem você é. Mas se você se envolver nas técnicas que acabei de mencionar aqui e em meus livros (como a habilidade de curar feridas energéticas), com o tempo começará a perceber que está esquecendo menos e que seu poder de atenção é muito mais aguçado do que antes. Você começará a perceber que pode ver mais longe (de maneira mais expansiva) e que mudou de uma forma fundamental, de uma maneira impossível de realmente identificar, exceto para dizer talvez que você se sinta mais como você mesmo.
 
 미냐 오피니앙 페소아우 에 키 보세 데베리아 텐타르 셀라르 카다 페리다 키 리 파레사 우마 페리다. 파제르 이수 아주다라 펠루 메누스 프시콜로지카멘치 이 페르미치라 키 보세 바 알렝 데사 헤페치상 인피니타 지 모멘투스 잉 키 이스타 콘스탄테멘치 올랸두 파라 트라스 나 비다, 렘브란두-시 지 아스펙투스 지 수아 수포스타 비다 파사다, 잉 베스 지 올랴르 파라 프렌치 이 세기르 아지안치 이 이볼루이르. 셀리 토다스 아스 페리다스 아테 셰가르 아우 폰투 잉 키 신타 키 포지 세르 보세 메즈무 셍 프레시자르 올랴르 포라 지 시 메즈무 파라 사베르 우 키 에시 이우 에.
+Minha opinião pessoal é que você deveria tentar selar cada ferida que lhe pareça uma ferida. Fazer isso ajudará pelo menos psicologicamente e permitirá que você vá além dessa repetição infinita de momentos em que está constantemente olhando para trás na vida, lembrando-se de aspectos de sua suposta vida passada, em vez de olhar para frente e seguir adiante e evoluir. Sele todas as feridas até chegar ao ponto em que sinta que pode ser você mesmo sem precisar olhar fora de si mesmo para saber o que esse eu é.
 
 시 보세 프레시자 지 웅 리미아르 지 이네르지아 오 시 프레시자 쿠라르 토다스 아스 페리다스, 누 피나우, 에 우마 케스탕 페소아우. 에사 에 우마 페르군타 키 보세 데비 헤스폰데르 아트라베스 다 아상, 자 키 사베라 포르 시 메즈무, 콩 우 템푸 이 세우스 프로프리우스 이스포르수스, 쿠안타 이네르지아 프레시자. 누 인탄투, 보세 포지 펜사르 니수 네시스 테르무스 시 프레시자르 지 아우구마 아주다 아고라, 오브세르반두 우 키 포지 파제르 이 우 키 프레시자 파제르, 우 키 데제자 파제르 아고라. 보세 포지 시 페르군타르:
+Se você precisa de um limiar de energia ou se precisa curar todas as feridas, no final, é uma questão pessoal. Essa é uma pergunta que você deve responder através da ação, já que saberá por si mesmo, com o tempo e seus próprios esforços, quanta energia precisa. No entanto, você pode pensar nisso nesses termos se precisar de alguma ajuda agora, observando o que pode fazer e o que precisa fazer, o que deseja fazer agora. Você pode se perguntar:
 
 - 쿠앙 인플레시베우 에 아 수아 아텐상?
+- Quão inflexível é a sua atenção?
 - 콩 키 프레켄시아 보세 이스케시 지 시 만테르 포카두 나 페르스펙치바 다 테르세이라 페소아?
+- Com que frequência você esquece de se manter focado na perspectiva da terceira pessoa?
 - 쿠앙 봉 보세 에 코무 프로제치스타?
+- Quão bom você é como projetista?
 - 아테 온지 보세 콘세기 인셰르가르?
+- Até onde você consegue enxergar?
 - 보세 콘세기 우자르 세우 센치두 인테르누 지 센치르 지 포르마 콘피아베우?
+- Você consegue usar seu sentido interno de sentir de forma confiável?
 - 쿠안타스 살라스 두 프로제치스타 보세 콘세기우 아트라베사르 아테 아고라?
+- Quantas salas do projetista você conseguiu atravessar até agora?
 - 이트크.
+- etc.
 
 아 헤스포스타 사치스파토리아 파라 투두 이수 에 우마 케스탕 페소아우. 마스, 다 페르스펙치바 지 웅 아우키미스타 인테리오르, 아 우니카 코이자 키 세르비 에 우 포쿠 임플라카베우 이 인플레시베우. 이수 시그니피카 키 보세 데비 시 이스포르사르 알렝 두스 세우스 리미치스 셈프리.
+A resposta satisfatória para tudo isso é uma questão pessoal. Mas, da perspectiva de um alquimista interior, a única coisa que serve é o foco implacável e inflexível. Isso significa que você deve se esforçar além dos seus limites sempre.
 
 이스토 무이투 펠리스 포르 보세!
+Estou muito feliz por você!
 
+---
 ---
 
 **크: 코무 보세 아드키리우 페소아우멘치 토두 에시 코녜시멘투? 온지 보세 이스타 네스타 조르나다 지 헤피나르 아 페드라 필로조파우? 이지스치 아프렌지자두 콘치누 아포스 우 마그눙 오푸스?**
+**Q: Como você adquiriu pessoalmente todo esse conhecimento? Onde você está nesta jornada de refinar a pedra filosofal? Existe aprendizado contínuo após o Magnum Opus?**
 
 아: 셈프리 치비 웅 인테레시 무이투 프로푼두 누 키 아 마이오리아 다스 페소아스 샤마리아 지 오쿠우투 오 파라노르마우. 에시 인테레시 나투라우 포코 미냐 아텐상, 이 에시 포쿠 지 아텐상 이벤투아우멘치 미 페르미치우 데젠보우베르 메우 포데르, 아테 키 이우 푸데시 콘센트라르 에사 아텐상 콩 이스트레마 프레시장 지 마네이라 수스텐타다. 이벤투아우멘치, 푸이 카파스, 우잔두 아스 테크니카스 소브리 아스 쿠아이스 이스크레부, 지 페르세베르 아 이네르지아 지레타멘치. 에시 포쿠 지 아텐상 페르미치 아우 인지비두 홈페르 아 가이올라 트리지멘시오나우 키 리미타 아 페르세프상 이 아 아빌리다지 우마나스. 이수 미 페르미치우 베르 우마 이마젱 마이오르 (우 문두 알렝 다스 세이스 파레지스 두 쿠부), 이 아우 만테르 메우 포쿠 네사 페르세프상 이스판지다, 콘세기 이르 아인다 마이스 론지.
+A: Sempre tive um interesse muito profundo no que a maioria das pessoas chamaria de oculto ou paranormal. Esse interesse natural focou minha atenção, e esse foco de atenção eventualmente me permitiu desenvolver meu poder, até que eu pudesse concentrar essa atenção com extrema precisão de maneira sustentada. Eventualmente, fui capaz, usando as técnicas sobre as quais escrevo, de perceber a energia diretamente. Esse foco de atenção permite ao indivíduo romper a gaiola tridimensional que limita a percepção e a habilidade humanas. Isso me permitiu ver uma imagem maior (o mundo além das seis paredes do cubo), e ao manter meu foco nessa percepção expandida, consegui ir ainda mais longe.
 
 쿠안투 아우 쿠앙 론지 이스토 네사 이스트라다 아우키미카, 데부 지제르 키 팔라르 지 밍 메즈무 에 지피시우. 지레이 키 낭 만테뉴 네뉴마 이스페란사 이모시오나우멘치 데즈가스탄치 지 아우칸사르 웅 오브제치부 피나우 오 지 가냐르 에스타 게하. 심플레즈멘치 포쿠 미냐 아텐상 다 멜료르 마네이라 키 포수 이 데몬스트루 우 니베우 다 미냐 프로피시엔시아 아트라베스 다 이스텐상 두 메우 코녜시멘투, 콤파르칠랸두 에시 코녜시멘투 다 마네이라 마이스 프레시자 이 이마쿨라다 포시베우 파라 밍. 소 웅 '팔란치' 두스 카미뉴스 안치구스, 두스 카미뉴스 이모르타이스, 이 아 이스텐상 다 미냐 아빌리다지 지 팔라르 에사스 베르다지스 에 아 메지다 지 파르치 두 메우 포데르.
+Quanto ao quão longe estou nessa estrada alquímica, devo dizer que falar de mim mesmo é difícil. Direi que não mantenho nenhuma esperança emocionalmente desgastante de alcançar um objetivo final ou de ganhar esta guerra. Simplesmente foco minha atenção da melhor maneira que posso e demonstro o nível da minha proficiência através da extensão do meu conhecimento, compartilhando esse conhecimento da maneira mais precisa e imaculada possível para mim. Sou um 'falante' dos caminhos antigos, dos caminhos imortais, e a extensão da minha habilidade de falar essas verdades é a medida de parte do meu poder.
 
+---
 ---
 
 **크: 소브리 베르 아우라스, 텐테이 우 세우 메토두, 마스 테뉴 아 임프레상 지 키 낭 에 아 아우라 키 베주, 마스 우마 이스페시 지 임프레상 다스 파르치스 마이스 이스쿠라스 두 키 베주. 포르 이젬플루, 포수 콜로카르 우마 망 나 미냐 프렌치 누 이스쿠루 이 엘라 피카 콩 우마 이스페시 지 브루마 아우 헤도르, 마스 쿠안두 메슈 미냐 망, 아 브루마 클라라 피카 라. 오 포수 파제르 이수 콩 쿠아우케르 오브제투, 코무 콩 우마 루바, 포르 이젬플루.**
+**Q: Sobre ver auras, tentei o seu método, mas tenho a impressão de que não é a aura que vejo, mas uma espécie de impressão das partes mais escuras do que vejo. Por exemplo, posso colocar uma mão na minha frente no escuro e ela fica com uma espécie de bruma ao redor, mas quando mexo minha mão, a bruma clara fica lá. Ou posso fazer isso com qualquer objeto, como com uma luva, por exemplo.**
 
 **포지 세르 키 이수 포사 세르 이스플리카두 아페나스 코무 아우구 시엔치피쿠 키 아콘테시 콩 세우스 올류스, 마스 탐벵 포지 세르 키 타우베스 투두 테냐 우마 "아우라"? 아테 메즈무 우스 오브제투스 이나니마두스?**
+**Pode ser que isso possa ser explicado apenas como algo científico que acontece com seus olhos, mas também pode ser que talvez tudo tenha uma "aura"? Até mesmo os objetos inanimados?**
 
 **아고라, 이우 포데리아 잉클루이르 미냐 이마지나상 알리 이 코메사르 아 베르 쿠아우케르 코이자 키 이우 키제시, 코리스 오 포르마스, 마스 코무 포수 테르 세르테자 지 키 낭 에 아페나스 미냐 이마지나상?**
+**Agora, eu poderia incluir minha imaginação ali e começar a ver qualquer coisa que eu quisesse, cores ou formas, mas como posso ter certeza de que não é apenas minha imaginação?**
 
 **베주 무이타 (무이타) 인테르페렌시아 누 이스쿠루 이 에 헤아우멘치 인테레산치. 미 렘브라 비데우스 그라바두스 콩 포카 루스 이 이주 아우투.**
+**Vejo muita (muita) interferência no escuro e é realmente interessante. Me lembra vídeos gravados com pouca luz e ISO alto.**
 
 아: 아크레지투 키 보세 테냐 프로그레지두 마이스 두 키 이마지나. 아슈 키 우 마이오르 오브스타쿨루 누 아프렌지자두 데사스 테크니카스 에 아 아빌리다지 지 베르 에사 브루마 아우리카 이니시아우 키 보세 데스크레비. 인탕, 우 키 이스타 아콘테센두 아키, 코무 보세 사비 펠루 마테리아우 아보르다두 누 리브루 (카피툴루 1 지 _우 마그눙 오푸스_), 에 키 보세 이스타 우잔두 수아 비장 노투르나 두란치 우 지아 오 잉 시투아송이스 지 포카 루스, 이 코무 타우, 우 캄푸 아우리쿠 키 보세 베 포지 세르 낭 아페나스 아 하지아상 지 이네르지아 이미치다 포르 코이자스 비바스 이 낭 비바스, 마스 탐벵 아 쿠안치다지 미누스쿨라 지 루스 헤플레치다 나스 수페르피시스 데사스 코이자스.
+A: Acredito que você tenha progredido mais do que imagina. Acho que o maior obstáculo no aprendizado dessas técnicas é a habilidade de ver essa bruma áurica inicial que você descreve. Então, o que está acontecendo aqui, como você sabe pelo material abordado no livro (Capítulo 1 de _O Magnum Opus_), é que você está usando sua visão noturna durante o dia ou em situações de pouca luz, e como tal, o campo áurico que você vê pode ser; não apenas a radiação de energia emitida por coisas vivas e não vivas, mas também a quantidade minúscula de luz refletida nas superfícies dessas coisas.
 
 수아 데스크리상 지 비데우스 그라바두스 콩 이주 아우투 에 무이투 아프로프리아다, 포르키 에 이자타멘치 이수 키 보세 이스타 파젠두, 자 키 이스타 아우멘탄두 시그니피카치바멘치 아 쿠안치다지 지 루스 키 에 카파스 지 페르세베르... 지 파투, 아 타우 폰투 키 이스타 코메산두 아 카프타르 우스 이스펙트루스 인프라베르멜류 이 우우트라비올레타, 벵 코무 아 루스 헤플레치다 무이투 수치우, 우 키, 코무 보세 포지 이마지나르, 에 우마 반타젱 잉크리베우 쿠안두 보세 이스타 잉 웅 암비엔치 무이투 이스쿠루.
+Sua descrição de vídeos gravados com ISO alto é muito apropriada, porque é exatamente isso que você está fazendo, já que está aumentando significativamente a quantidade de luz que é capaz de perceber... de fato, a tal ponto que está começando a captar os espectros infravermelho e ultravioleta, bem como a luz refletida muito sutil, o que, como você pode imaginar, é uma vantagem incrível quando você está em um ambiente muito escuro.
 
 콘포르미 수아스 아빌리다지스 멜료랑, 에시 아우멘투 나 센시빌리다지 아 루스 포지 크리아르 바리우스 이페이투스 이스트라뉴스, 센두 웅 임포르탄치 (이 키 보세 데비 콘템플라르 다키 파라 프렌치) 아 카파시다지 다 멘치 지리지다 콘시엔테멘치 지 브링카르 이 아우테라르 아우궁스 데시스 페노메누스 비주아이스 키 보세 이스타 코메산두 아 페르세베르. 잉 오트라스 팔라브라스, 보세 이스타 잉콘트란두 아 프론테이라 엔트리 아 루스 크리아다 이스테르나멘치 이 아 루스 키 에 크리아다 지 마네이라 수브제치바 포르 보세. 보세 이스타 잉콘트란두 아 프론테이라 엔트리 아 헤알리다지 인테르나 이 이스테르나 이 아 아빌리다지 지 미스투라르 이 인트렐라사르 아 루스 ‘헤아우’ 이 아 크리아다. 아우구 키 데부 헤사우타르, 코무 파수 잉 메우 리브루, 에 웅 그란지 세그레두 다스 쿠우투라스 노투르나스 키 우자방 에사스 아빌리다지스 파라 마니풀라르 이 크리아르 헤알리다지스 인테이라스. 쿠우투라스 키, 포르 시나우, 수르지랑 이 데자파레세랑, 이 키 포랑 이스케시다스 펠라 이스토리아.
+Conforme suas habilidades melhoram, esse aumento na sensibilidade à luz pode criar vários efeitos estranhos, sendo um importante (e que você deve contemplar daqui para frente) a capacidade da mente dirigida conscientemente de brincar e alterar alguns desses fenômenos visuais que você está começando a perceber. Em outras palavras, você está encontrando a fronteira entre a luz criada externamente e a luz que é criada de maneira subjetiva por você. Você está encontrando a fronteira entre a realidade interna e externa e a habilidade de misturar e entrelaçar a luz ‘real’ e a criada. Algo que devo ressaltar, como faço em meu livro, é um grande segredo das culturas noturnas que usavam essas habilidades para manipular e criar realidades inteiras. Culturas que, por sinal, surgiram e desapareceram, e que foram esquecidas pela história.
 
 마스 보우탄두 아 케스탕 프린시파우, 우 키 보세 프레시자 파제르 다키 잉 지안치 에 콘치누아르 프라치칸두 에사스 테크니카스 파라 키 이벤투아우멘치 코메시 아:
+Mas voltando à questão principal, o que você precisa fazer daqui em diante é continuar praticando essas técnicas para que eventualmente comece a:
 
 1. 노타르 아 그란지 이스텐상 잉 키 보세 에 카파스 지 암플리피카르 수아 비장 이 코무 에사 비장 에 바스탄치 세멜랸치, 잉 무이투스 아스펙투스, 아 아우구 키 보세 포데리아 베르 잉 우마 텔라 플리르, 포르 이젬플루.
+1. Notar a grande extensão em que você é capaz de amplificar sua visão e como essa visão é bastante semelhante, em muitos aspectos, a algo que você poderia ver em uma tela FLIR, por exemplo.
 2. 아우 파제르 우 아시마, 탐벵 노치 키 알렝 다 암플리피카상 두 키 포데리아 세르 샤마두 지 루스 이지스텐치 오 헤플레시바, 셰가라 웅 폰투 잉 키 보세 코메사라 아 베르 바리아송이스 지 코르. 이수 세라 지피시우 지 페르세베르 이니시아우멘치, 마스 우마 베스 키 아콘테사, 이 보세 사이바 코무 포카르 세우스 올류스 파라 베르 에사스 코리스 멜료르, 노타라 키 에사 루스 콜로리다, 에사 아우라 콜로리다, 아지 지 마네이라 웅 포쿠 지페렌치 다 루스 헤플레치다 키 제라우멘치 에 비스타 코무 신자 클라루. 우마 베스 키 에사 코르 세자 페르세프치베우, 이 보세 코메시 아 인텐데르 우 치푸 지 포쿠 키 프레시자, 우스 캄푸스 아우리쿠스 코메사랑 아 시 아브리르 파라 보세. 투두 이수 에 우마 케스탕 지 프라치카, 키 잉 이센시아 에 우마 케스탕 지 포쿠 지 아텐상 이 파시엔시아 수스텐타다스.
+2. Ao fazer o acima, também note que além da amplificação do que poderia ser chamado de luz existente ou reflexiva, chegará um ponto em que você começará a ver variações de cor. Isso será difícil de perceber inicialmente, mas uma vez que aconteça, e você saiba como focar seus olhos para ver essas cores melhor, notará que essa luz colorida, essa aura colorida, age de maneira um pouco diferente da luz refletida que geralmente é vista como cinza claro. Uma vez que essa cor seja perceptível, e você comece a entender o tipo de foco que precisa, os campos áuricos começarão a se abrir para você. Tudo isso é uma questão de prática, que em essência é uma questão de foco; de atenção e paciência sustentadas.
 
+---
 ---
 
 **크: 이우 케리아 페르군타르 시 아 아우구마 마네이라 지 베르 세리스 낭-오르가니쿠스? 에 포시베우 트라제르 아 이네르지아 키 테무스 아르마제나두 누 카우데이랑 파라 우스 노수스 올류스 파라 베-루스?**
+**Q: Eu queria perguntar se há alguma maneira de ver seres não-orgânicos? É possível trazer a energia que temos armazenado no caldeirão para os nossos olhos para vê-los?**
 
 아: 파라 베르 아 비다 낭-오르가니카, 아스 두아스 테크니카스 키 상 인지스펜사베이스 상:
+A: Para ver a vida não-orgânica, as duas técnicas que são indispensáveis são:
 
 - 아 아빌리다지 지 베르 아우라스
+- a habilidade de ver auras
 - 데젠보우베르 우 센치두 인테르누 지 센치르
+- desenvolver o sentido interno de sentir
 
 암바스 아스 쿠아이스 이우 지스쿠투 누 리브루 _우 마그눙 오푸스_.
+Ambas as quais eu discuto no livro _O Magnum Opus_.
 
 보세 코메사 프리메이루 벤두 아우라스, 이스투 에, 텐탄두 페르세베르 데즐로카멘투스 이네르제치쿠스 (코무 멘시오누 나 페르군타 로구 아시마 데스타), 키 포뎅 토마르 아 포르마 지 모비멘투스 이네르제치쿠스 이스트라뉴스, 푸우사송이스 오 아테 아레아스 키 파레셍 낭 테르 쿠아우케르 치푸 지 이네르지아/루스.
+Você começa primeiro vendo auras, isto é, tentando perceber deslocamentos energéticos (como menciono na pergunta logo acima desta), que podem tomar a forma de movimentos energéticos estranhos, pulsações ou até áreas que parecem não ter qualquer tipo de energia/luz.
 
 우마 베스 키 보세 세자 카파스 지 이덴치피카르 에시스 데즐로카멘투스 이네르제치쿠스, 수지루 키 우지 세우 센치두 인테르누 지 센치르 파라 텐타르 페르세베르, 파라 텐타르 베르/센치르 에사스 아레아스, 에시 모비멘투 이스트라뉴.
+Uma vez que você seja capaz de identificar esses deslocamentos energéticos, sugiro que use seu sentido interno de sentir para tentar perceber, para tentar ver/sentir essas áreas, esse movimento estranho.
 
 콩 우 템푸, 이 콩 아 아빌리다지 크레센치, 보세 코메사라 아 베르 클라라멘치 에사스 포르사스, 에사스 포르마스 지 비다 낭-오르가니카스.
+Com o tempo, e com a habilidade crescente, você começará a ver claramente essas forças, essas formas de vida não-orgânicas.
 
 누 이니시우, 세라 아우구 코무 쿠안두 보세 이스타 텐탄두 도미나르 아 아빌리다지 지 베르 아우라스, 잉 키 에 마이스 소브리 아 카파시다지 지 아크레지타르 키 우 키 보세 이스타 벤두 에 헤아우멘치 아우구 헤아우. 마스 콩 우 템푸, 프라치카 이 아빌리다지 크레센치, 보세 세라 카파스 지 베르 마이스 이 마이스 데사스 포르마스 지 비다 마이스 데탈리스. 우잔두 우 센치두 인테르누 지 센치르, 보세 탐벵 포데라 인텐데르 아 인텐상, 테르 웅 치푸 지 코무니카상 제라우 이 데스코브리르 무이투 소브리 아 포르마 지 비다 키 보세 이스타 "벤두". 포수 아크레센타르 키 타우 아빌리다지 (지 베르 에시스 세리스) 포지 세르 "아우테라도라 다 멘치", 인탕 바 데바가르.
+No início, será algo como quando você está tentando dominar a habilidade de ver auras, em que é mais sobre a capacidade de acreditar que o que você está vendo é realmente algo real. Mas com o tempo, prática e habilidade crescente, você será capaz de ver mais e mais dessas formas de vida; mais detalhes. Usando o sentido interno de sentir, você também poderá entender a intenção, ter um tipo de comunicação geral e descobrir muito sobre a forma de vida que você está "vendo". Posso acrescentar que tal habilidade (de ver esses seres) pode ser "alteradora da mente", então vá devagar.
 
 아우 데젠보우베르 에사스 아빌리다지스 (아우라스 이 센치두 인테르누 지 센치르), 보세 프레시자라 콘치누아르 파젠두 세우 트라발류 이네르제치쿠, 콘포르미 데스크리투 잉 _우 마그눙 오푸스_ 탐벵. 아 하장 파라 이수 에 키, 아트라베스 다 카파시다지 지 크레세르 잉 포데르 이네르제치쿠, 에사스 아빌리다지스 시 토르낭 무이투 마이스 파세이스 이 포데로자스. 오 세자, 쿠안투 마이스 포데르 보세 텡, 마이스 파시우 에 헤알리자르 아스 아빌리다지스 멘시오나다스, 이, 포르탄투, 마이스 파시우 에 베르 아 비다 낭-오르가니카.
+Ao desenvolver essas habilidades (auras e sentido interno de sentir), você precisará continuar fazendo seu trabalho energético, conforme descrito em _O Magnum Opus_ também. A razão para isso é que, através da capacidade de crescer em poder energético, essas habilidades se tornam muito mais fáceis e poderosas. Ou seja, quanto mais poder você tem, mais fácil é realizar as habilidades mencionadas, e, portanto, mais fácil é ver a vida não-orgânica.
 
+---
 ---
 
 **크: 데포이스 지 레르 세우스 리브루스 이 헤스포스타스 누 크&아, 페르세비 키 보세 이스타 데젬페냔두 우 파페우 지 우마 페소아 키 이스타 누스 모스트란두 우 카미뉴, 이 케르 키 데스쿠브라무스 포르 노스 메즈무스 우 키 헤아우멘치 이스타 아콘테센두 네스치 헤이누.**
+**Q: Depois de ler seus livros e respostas no Q&A, percebi que você está desempenhando o papel de uma pessoa que está nos mostrando o caminho, e quer que descubramos por nós mesmos o que realmente está acontecendo neste reino.**
 
 **보세 포지 포르네세르 아우궁 마테리아우 지 레이투라 파라 아프렌데르 마이스 소브리 에스치 헤이누?**
+**Você pode fornecer algum material de leitura para aprender mais sobre este reino?**
 
 아: 에 메우 데제주 이 메우 데자피우 아주다르 메우스 이르망스 이 이르망스 아 코녜세르 우 카미뉴, 이우 소 웅 팔란치. 파르치 데시 데자피우 인보우비 아 아빌리다지 지 임푸우시오나르, 이니시아르 웅 모비멘투 인테르누, 키 레바 아 웅 프로세수, 아 웅 카미뉴, 지 이스플로라상 인테리오르 카다 베스 마이스 프로푼다.
+A: É meu desejo e meu desafio ajudar meus irmãos e irmãs a conhecer o caminho, eu sou um falante. Parte desse desafio envolve a habilidade de impulsionar, iniciar um movimento interno, que leva a um processo, a um caminho, de exploração interior cada vez mais profunda.
 
 아 우니카 마네이라 지 파제르 이수 에 아펠라르 파라 에시 데제주 인테르누 덴트루 지 보세 키 페르미치우, 키 페스 보세 부스카르, 리브루스 코무 우 메우. 마스, 데포이스 지 잉콘트라르 메우스 리브루스, 파수 우 메우 멜료르 파라 파제르 보세 페르세베르 키 낭 프레시자 지 마이스 리브루스, 마스 키, 잉 베스 지수, 프레시자 지 마이스 템푸 텐탄두 잉콘트라르 토다스 아스 헤스포스타스 키 부스카 덴트루 지 시 메즈무. 파라 파제르 이수, 파수 우 메우 멜료르 파라 모스트라르 아 페소아스 코무 보세, 콩 세우스 데제주스 이 수아 비장, 키 아스 헤스포스타스 키 보세 부스카 이스탕 덴트루 지 보세, 이 낭 누스 리브루스 잉 시.
+A única maneira de fazer isso é apelar para esse desejo interno dentro de você que permitiu, que fez você buscar, livros como o meu. Mas, depois de encontrar meus livros, faço o meu melhor para fazer você perceber que não precisa de mais livros, mas que, em vez disso, precisa de mais tempo tentando encontrar todas as respostas que busca dentro de si mesmo. Para fazer isso, faço o meu melhor para mostrar a pessoas como você, com seus desejos e sua visão, que as respostas que você busca estão dentro de você, e não nos livros em si.
 
 이우 모스트루 아 테크니카, 이 콩 에사 테크니카 이 포쿠 임플라카베우 지 수아 파르치, 보세 포지 잉콘트라르 수아스 프로프리아스 헤스포스타스. 아 하장 파라 우 리브루 키 보세 이스타 세구란두 에 만테르 에시 포쿠 임플라카베우 네시 헤이누 인테리오르, 파라 키 보세 콘솔리지 카미뉴스 인테리오리스, 키 콩 우 템푸 우 레바랑 아 토다스 아스 헤스포스타스 키 부스카.
+Eu mostro a técnica, e com essa técnica e foco implacável de sua parte, você pode encontrar suas próprias respostas. A razão para o livro que você está segurando é manter esse foco implacável nesse reino interior, para que você consolide caminhos interiores, que com o tempo o levarão a todas as respostas que busca.
 
 파라 이수, 이 인탕, 콘탄투 키 보세 테냐 시두 카파스 지 도미나르 아우구마스 오, 이스페루, 토다스 아스 테크니카스 소브리 아스 쿠아이스 이스크레부, 보세 포지 우자르 쿠아우케르 리브루 인스피라도르 키 고스치 파라 만테르 에시 포쿠 누스 헤이누스 인테리오리스 키 데제자 이스플로라르. 보세 포지 아테 우자르 리브루스 지 판타지아, 픽상 시엔치피카, 픽상 지 쿠아우케르 치푸, 센두 키 아 무이타 베르다지 아 세르 잉콘트라다 아테 메즈무 누 키 포데무스 샤마르 지 미치쿠. 아 샤비 아키 에 우 포쿠, 우 포쿠 임플라카베우 네사스 지멘송이스 인테리오리스 키 보세 데제자 이스플로라르 이 코녜세르.
+Para isso, e então, contanto que você tenha sido capaz de dominar algumas ou, espero, todas as técnicas sobre as quais escrevo, você pode usar qualquer livro inspirador que goste para manter esse foco nos reinos interiores que deseja explorar. Você pode até usar livros de fantasia, ficção científica, ficção de qualquer tipo, sendo que há muita verdade a ser encontrada até mesmo no que podemos chamar de mítico. A chave aqui é o foco, o foco implacável nessas dimensões interiores que você deseja explorar e conhecer.
 
 우마 베스 키 에시 포쿠 이스테자 이스타베우 네사스 포지송이스 인테르나스 포르 템푸 수피시엔치, 이 우잔두 아스 테크니카스 두 센치두 인테르누 지 센치르, 이 아 카파시다지 지 마니풀라르 덴트루 데시스 헤이누스 인테르누스, 코무 아스 테크니카스 멘시오나다스 누 카미뉴 두 프로제치스타, 인탕, 데비두 아 에시 포쿠 인테르누 임플라카베우, 보세 포지 베르다데이라멘치 데스코브리르 마라빌랴스 잉 토두 루가르.
+Uma vez que esse foco esteja estável nessas posições internas por tempo suficiente, e usando as técnicas do sentido interno de sentir, e a capacidade de manipular dentro desses reinos internos, como as técnicas mencionadas no caminho do projetista, então, devido a esse foco interno implacável, você pode verdadeiramente descobrir maravilhas em todo lugar.
 
+---
 ---
 
 **크: 아 아브소르상 지 이네르지아 에 우 메즈무 프로세수 키 아 지제스탕 지 알리멘투스 이 오브텐상 지 이네르지아? 시 싱, 에 포시베우 아반도나르 콤플레타멘치 아 네세시다지 지 코메르 알리멘투스, 코무 아우궁스 메스트리스 요지 포뎅 파제르?**
+**Q: A absorção de energia é o mesmo processo que a digestão de alimentos e obtenção de energia? Se sim, é possível abandonar completamente a necessidade de comer alimentos, como alguns mestres Yogi podem fazer?**
 
 아: 이우 우 아드베르치리아 네스타 아레아 포르키 에 무이투 파시우 수페레스치마르 수아스 아빌리다지스 이 포시베우멘치 아도에세르. 아 누트리상 에 무이투 임포르탄치, 이스페시아우멘치 쿠안두 시 트라타 지 아우투스 니베이스 지 이스포르수 멘타우.
+A: Eu o advertiria nesta área porque é muito fácil superestimar suas habilidades e possivelmente adoecer. A nutrição é muito importante, especialmente quando se trata de altos níveis de esforço mental.
 
 아 아빌리다지 지 파제르 우 키 아우궁스 메스트리스 상 카파지스 지 파제르 포지 레바르 웅 롱구 페리오두 지 템푸 이 이스포르수, 이 오네스타멘치, 이우 지리아 키 세리아 무이투 멜료르 파라 보세 데지카르 에시 템푸 이 이스포르수 파라 시 토르나르 웅 멜료르 프로제치스타, 포르 이젬플루. 토르나르-시 웅 프로제치스타 메스트리 포지 세르 메누스 샤마치부 타우베스, 마스, 나 미냐 오피니앙, 에 웅 우주 무이투 멜료르 두 세우 템푸 이 이네르지아. 아 메누스, 에 클라루, 키 보세 낭 세자 카파스 지 오브테르 우 수스텐투 지 키 프레시자 포르 카우자 지 수아 시투아상 지 비다. 지 파투, 에사스 테크니카스 에랑 이 포뎅 세르 네세사리아스 잉 웅 모멘투 잉 키 콘세기르 수스텐투 수피시엔치 에 "임포시베우", 마스 시 이수 낭 포르 웅 프로블레마, 인탕 우 템푸 이 아 이네르지아 상 멜료르 가스투스 데젠보우벤두 오트라스 아빌리다지스 키 포뎅 세르 마이스 우테이스 파라 보세 아 롱구 프라주.
+A habilidade de fazer o que alguns mestres são capazes de fazer pode levar um longo período de tempo e esforço, e honestamente, eu diria que seria muito melhor para você dedicar esse tempo e esforço para se tornar um melhor projetista, por exemplo. Tornar-se um projetista mestre pode ser menos chamativo talvez, mas, na minha opinião, é um uso muito melhor do seu tempo e energia. A menos, é claro, que você não seja capaz de obter o sustento de que precisa por causa de sua situação de vida. De fato, essas técnicas eram e podem ser necessárias em um momento em que conseguir sustento suficiente é "impossível", mas se isso não for um problema, então o tempo e a energia são melhor gastos desenvolvendo outras habilidades que podem ser mais úteis para você a longo prazo.
 
+---
 ---
 
 **크: 아투아우멘치 이스토 미 헤쿠페란두 다 프로크라스치나상, 마스 우 프로세수 텡 시두 렌투. 우 키 보세 수제리? 신투 우마 포르사 인텐사 키 미 파스 프로크라스치나르 이 케루 세기르 잉 프렌치.**
+**Q: Atualmente estou me recuperando da procrastinação, mas o processo tem sido lento. O que você sugere? Sinto uma força intensa que me faz procrastinar e quero seguir em frente.**
 
 아: 우 키 이우 수지루, 바스탄치 심플레즈멘치, 에 키 보세 포키 수아 아텐상 누 키 데제자 파제르. 이우 지구, 잉 _우 마그눙 오푸스_, 키, 잉 베스 지 텐타르 시 포르사르 아 파제르 아우구, 키 보세, 코무 아우테르나치바, 아페나스 포키 수아 아텐상 나 코이자 키 데제자 파제르.
+A: O que eu sugiro, bastante simplesmente, é que você foque sua atenção no que deseja fazer. Eu digo, em _O Magnum Opus_, que, em vez de tentar se forçar a fazer algo, que você, como alternativa, apenas foque sua atenção na coisa que deseja fazer.
 
 포르 이젬플루, 바무스 수포르 키 보세 케이라 파제르 우마 세리 지 플레숑이스 포르 지아. 잉 베스 지 텐타르 피지카멘치 시 푸샤르 두 키 케르 키 이스테자 파젠두 이 이르 콘트라 아 이네르시아 키 보세 크리오, 우 키 포지 세르 잉크리베우멘치 지피시우, 우 키 이우 수지루 잉 베스 지수 에 키 보세 아페나스 포키 수아 아텐상 누 아투 지 파제르 플레숑이스. 우 키 보세 프레시자 파제르 에 아페나스 콘센트라르 수아 아텐상 잉 시 베르 파젠두 플레숑이스, 잉 플레숑이스 잉 제라우, 잉 투두 헬라시오나두 아 플레숑이스.
+Por exemplo, vamos supor que você queira fazer uma série de flexões por dia. Em vez de tentar fisicamente se puxar do que quer que esteja fazendo e ir contra a inércia que você criou, o que pode ser incrivelmente difícil, o que eu sugiro em vez disso é que você apenas foque sua atenção no ato de fazer flexões. O que você precisa fazer é apenas concentrar sua atenção em se ver fazendo flexões, em flexões em geral, em tudo relacionado a flexões.
 
 우 트루키, 인탕, 에 만테르 우 포쿠 다 수아 아텐상 네스타 지레상 콩 우 마시무 지 콘센트라상 키 푸데르 두란치 웅 페리오두 프롤롱가두, 아테 오브테르 우스 헤주우타두스 데제자두스. 우 키 보세 이스타라 프로쿠란두 에 웅 임푸우수 나투라우, 웅 데제주 나투라우 오 임페투 파라 파제르 에사 코이자 잉 파르치쿨라르.
+O truque, então, é manter o foco da sua atenção nesta direção com o máximo de concentração que puder durante um período prolongado, até obter os resultados desejados. O que você estará procurando é um impulso natural, um desejo natural ou ímpeto para fazer essa coisa em particular.
 
 에시 임페투 수르지라 잉 웅 모멘투 아파렌테멘치 알레아토리우 잉 키 보세 나투라우멘치 시 잉클리나라 아 파제르 아킬루 키 낭 이스타바 잉클리나두 아 파제르 안치스. 쿠안두 에시 임푸우수 나투라우 시 아프레젠타르, 세르치피키-시 지 우자르 아 이네르지아 델리 파라 임푸우시오나-루 파라 아 아상 키 보세 부스카.
+Esse ímpeto surgirá em um momento aparentemente aleatório em que você naturalmente se inclinará a fazer aquilo que não estava inclinado a fazer antes. Quando esse impulso natural se apresentar, certifique-se de usar a energia dele para impulsioná-lo para a ação que você busca.
 
 에스타 에 아 베르다데이라 이 우니카 쿠라 파라 우 키 에 헤페리두 코무 프로크라스치나상.
+Esta é a verdadeira e única cura para o que é referido como procrastinação.
 
+---
 ---
 
 **크: 아 베르상 타오이스타 두 트라발류 지 아우키미아 인테르나, 콘포르미 이우 아 잉콘트레이 아테 아고라, 에 무이투 콤플레샤 이 바제아다 잉 오라스 지 트라발류 센타두, 우 키 미 데자그라다, 이 이우 미 페르군테이 시 아 네세시다지 지 아투알리자르 아 파시아 이 우 시스테마 지 카나이스 코헬라시오나두스 이스타 지 아우구마 포르마 리가다 아 에사 아보르다젱 파르치쿨라르 두 데젠보우비멘투 다 이네르지아 인테르나.**
+**Q: A versão taoista do trabalho de Alquimia Interna, conforme eu a encontrei até agora, é muito complexa e baseada em horas de trabalho sentado, o que me desagrada, e eu me perguntei se a necessidade de atualizar a fáscia e o sistema de canais correlacionados está de alguma forma ligada a essa abordagem particular do desenvolvimento da energia interna.**
 
 **우 마테리아우 지 _우 마그눙 오푸스_ 낭 아폰타 파라 아 네세시다지 지 파제르 타우 트라발류 프렐리미나르, 포이스 풀라 지레투 파라 아 인제스탕, 아쿠물루 이 아르마제나멘투 지 이네르지아. 쿠아우 에 아 수아 페르스펙치바 소브리 이수?**
+**O material de _O Magnum Opus_ não aponta para a necessidade de fazer tal trabalho preliminar, pois pula direto para a ingestão, acúmulo e armazenamento de energia. Qual é a sua perspectiva sobre isso?**
 
 아: 데부 코메사르 아폰탄두 아우구 키 테뉴 세르테자 키 자 에 오브비우 파라 보세, 마스 수포뉴 키 발리 아 페나 헤사우타르, 이 에 키, 임보라 아 아우키미아 인테르나 다 쿠아우 팔루 세자 세멜랸치 아 아보르다젱 타오이스타 잉 아우궁스 페케누스 아스펙투스, 엘라 낭 에 이센시아우멘치 타오이즈무.
+A: Devo começar apontando algo que tenho certeza que já é óbvio para você, mas suponho que vale a pena ressaltar, e é que, embora a alquimia interna da qual falo seja semelhante à abordagem taoista em alguns pequenos aspectos, ela não é essencialmente taoismo.
 
 타우베스 웅 두스 마이오리스 이젬플루스 지수, 수포뉴, 세자 아 인트로두상 다스 트레스 폴라리다지스 덴트루 두 코르푸 두 메우 트라발류, 키, 펠루 메누스 펠루 메우 코녜시멘투, 낭 시 잉콘트라 덴트루 두 시스테마 타오이스타. 마스, 노바멘치, 이우 낭 소 웅 이스페시알리스타 니수. 지 파투, 수포뉴 키 낭 데부 미 수르프렌데르 아우 데스코브리르 우 파투 지 키 우 타오이즈무 포지 테르 팔라두 소브리 아스 트레스 폴라리다지스, 자 키 엘리 (우 타오이즈무) 파레시 세르 웅 시스테마 바스탄치 호부스투.
+Talvez um dos maiores exemplos disso, suponho, seja a introdução das três polaridades dentro do corpo do meu trabalho, que, pelo menos pelo meu conhecimento, não se encontra dentro do sistema taoista. Mas, novamente, eu não sou um especialista nisso. De fato, suponho que não devo me surpreender ao descobrir o fato de que o taoismo pode ter falado sobre as três polaridades, já que ele (o taoismo) parece ser um sistema bastante robusto.
 
 누 인탄투, 우 타오이즈무 낭 에 아우키미아 인테르나, 펠루 메누스 데피니치바멘치 낭 에 아 이마젱 콤플레타. 코무 타우, 이우 텐테이, 다 멜료르 마네이라 키 푸지, 미 아파스타르 지 아우구마스 다스 프레미사스 도그마치카스, 오주 샤마-라스, 두 타오이즈무. 잉 미냐 오피니앙 페소아우, 에사스 프레미사스 수퐁잉 키 웅 그란지 트라발류 지 바지 에 네세사리우, 웅 트라발류 키 아스 베지스 포지 세르 우자두 파라 인트로두지르 이스트루투라스 지 크렌사스 키 포뎅 낭 세르 아플리카베이스, 펠루 메누스 누 센치두 아우키미쿠.
+No entanto, o taoismo não é alquimia interna, pelo menos definitivamente não é a imagem completa. Como tal, eu tentei, da melhor maneira que pude, me afastar de algumas das premissas dogmáticas, ouso chamá-las, do taoismo. Em minha opinião pessoal, essas premissas supõem que um grande trabalho de base é necessário, um trabalho que às vezes pode ser usado para introduzir estruturas de crenças que podem não ser aplicáveis, pelo menos no sentido alquímico.
 
 네시 센치두, 포르 이젬플루, 아슈 바스탄치 베르다데이루 키 아우멘타르 우 "칼리브리" 다 피아상 에 무이투 임포르탄치 (키 에 지 파투 아 하장 지 토두 우 트라발류 프렐리미나르). 아 베르다지 나 수포지상 지 키 에시 프로세수 프레시자 아콘테세르 파라 키 우 인지비두 세자 카파스 지 프로세사르 카다 베스 마이스 이네르지아 아우 롱구 두 템푸. 마스 탐벵 에 미냐 오피니앙 키 에시 아우멘투 누 칼리브리 포지 오코헤르 지 포르마 바스탄치 나투라우 이 키 낭 아 네늉 다누 푼다멘타우 아 세르 카우자두 아우 시스테마 (우 세르-코르푸), 포르키 우 시스테마 낭 바이 (아 메누스 키 드로가스 세장 우자다스 오 오코하 웅 그란지 트라우마 포르 오트라스 하종이스 낭 헬라시오나다스) 인트로두지르 그란지스 쿠안치다지스 지 이네르지아 지 헤펜치. 우 코르푸 에 우마 크리아상 인텔리젠치, 이 시 아 프라치카 포르 세기다 지 마네이라 나투라우 이 레비 (오 세자, 낭 이자제라다), 우 크레시멘투 나투라우 오코헤라, 아싱 코무 우 이제르시시우 피지쿠 아우멘타라 나투라우멘치 아 포르사 피지카. 아싱 코무 누 트레이누 콩 페주스, 보세 세르타멘치 낭 바이 케레르 키 웅 페주 그란지 카이아 소브리 보세, 포이스 우 봉 센수 데비 리 지제르 키 세우 코르푸 포지 낭 이스타르 프론투 파라 타우 페주 아인다.
+Nesse sentido, por exemplo, acho bastante verdadeiro que aumentar o "calibre" da fiação é muito importante (que é de fato a razão de todo o trabalho preliminar). Há verdade na suposição de que esse processo precisa acontecer para que o indivíduo seja capaz de processar cada vez mais energia ao longo do tempo. Mas também é minha opinião que esse aumento no calibre pode ocorrer de forma bastante natural e que não há nenhum dano fundamental a ser causado ao sistema (o ser-corpo), porque o sistema não vai (a menos que drogas sejam usadas ou ocorra um grande trauma por outras razões não relacionadas) introduzir grandes quantidades de energia de repente. O corpo é uma criação inteligente, e se a prática for seguida de maneira natural e leve (ou seja, não exagerada), o crescimento natural ocorrerá, assim como o exercício físico aumentará naturalmente a força física. Assim como no treino com pesos, você certamente não vai querer que um peso grande caia sobre você, pois o bom senso deve lhe dizer que seu corpo pode não estar pronto para tal peso ainda.
 
 우 키 이우 셈프리 아드보구 에 우 헬라샤멘투 콤플레투 두 코르푸 이, 우 마이스 임포르탄치, 만테르 아 링구아 누 세우 다 보카, 코무 데몬스트루 누 리브루, _우 마그눙 오푸스_.
+O que eu sempre advogo é o relaxamento completo do corpo e, o mais importante, manter a língua no céu da boca, como demonstro no livro, _O Magnum Opus_.
 
 텐테이 살리엔타르 셈프리 키 포수 키 우 코르푸 프레시자 헬라샤르, 키 쿠아우케르 텐상 키 시 포르미 덴트루 두 코르푸 프레시자 세르 이비타다, 파라 키 우 트라발류 아콘테사 지 포르마 나투라우. 아크레지투 키 우 키 코스투무 지제르 에 파라 낭 시 이스트레사르, 파라 트라발랴르 지 포르마 나투라우. 데사 마네이라, 보세 시 인보우비 누 트라발류 이네르제치쿠 셍 텐상 (렌타멘치), 셍 도그마, 이 콩 우 템푸 페르미치 키 세우 프로프리우 시스테마 시 헤콘피구리, 파라 아우멘타르 우 칼리브리 나투라우멘치. 이 시 보세 센치르 키 아 우마 그란지 쿠안치다지 지 이네르지아 센두 카날리자다 아트라베스 지 세우스 메리지아누스, 이우 아콘셀류 키 만테냐 아 링구아 나 포지상 아데쿠아다 파라 만테르 우 시르쿠이투 두 코르푸 메리지아누 콤플레타멘치 코넥타두, 아우구 키 이우 콘시데루 프레켄테멘치 네글리젠시아두 포르 무이투스.
+Tentei salientar sempre que posso que o corpo precisa relaxar, que qualquer tensão que se forme dentro do corpo precisa ser evitada, para que o trabalho aconteça de forma natural. Acredito que o que costumo dizer é para não se estressar, para trabalhar de forma natural. Dessa maneira, você se envolve no trabalho energético sem tensão (lentamente), sem dogma, e com o tempo permite que seu próprio sistema se reconfigure, para aumentar o calibre naturalmente. E se você sentir que há uma grande quantidade de energia sendo canalizada através de seus meridianos, eu aconselho que mantenha a língua na posição adequada para manter o circuito do corpo meridiano completamente conectado, algo que eu considero frequentemente negligenciado por muitos.
 
 아반도나르 우 도그마 이스타벨레시두 에 무이투 임포르탄치, 아크레지투, 포르키 포지 아프리지오나르 보세. 보세 포지, 포르 이젬플루, 시 인보우베르 잉 프라치카스 우잔두 테크니카스 키 포상 이스펠랴르 우 요가 이 세우 시스테마 두스 세치 샤크라스, 키 포뎅 시 헬라시오나르 지 아우구마 포르마 콩 세르투스 아스펙투스 다 아우키미아 인테르나, 탕 파시우멘치 쿠안투 보세 포데리아 파제르 우잔두 우 도그마 타오이스타 키 멘시오나. 에 무이투 파시우 피카르 프레주 나 노상 지 키 웅 시스테마 이스타 세르투 잉쿠안투 우 오트루 이스타 이하두. 키 웅 데테르미나두 센트루 지 이네르지아 데비 세르 헤아우 잉쿠안투 우스 오트루스 낭 포뎅 세르 헤아이스, 이, 노바멘치, 아 마이오리아 데시스 데바치스 도그마치쿠스 낭 시 바제이아 나 프라치카 헤아우 오 나 페르세프상 지레타, 마스 나스 이스트루투라스 지 크렌사스 키 웅 그루푸 오 오르가니자상 잉 파르치쿨라르 포사 테르.
+Abandonar o dogma estabelecido é muito importante, acredito, porque pode aprisionar você. Você pode, por exemplo, se envolver em práticas usando técnicas que possam espelhar o Yoga e seu sistema dos sete chakras, que podem se relacionar de alguma forma com certos aspectos da alquimia interna, tão facilmente quanto você poderia fazer usando o dogma taoista que menciona. É muito fácil ficar preso na noção de que um sistema está certo enquanto o outro está errado. Que um determinado centro de energia deve ser real enquanto os outros não podem ser reais, e, novamente, a maioria desses debates dogmáticos não se baseia na prática real ou na percepção direta, mas nas estruturas de crenças que um grupo ou organização em particular possa ter.
 
 우 폰투 피나우, 수포뉴, 에 키, 임보라 이우 포르네사 웅 이즈보수 바지쿠 키 헤플리타 우 타오이즈무 잉 아우궁 그라우, 이스페루 키 메우스 레이토리스 탐벵 시 인보우방 프로푼다멘치 누 아투 지 텐타르 페르세베르 아 이네르지아 지레타멘치, 트라발랴르 콩 엘라 지레타멘치 이, 데사 포르마, 시 인보우방 잉 수아 프로프리아 포르마 지 프라치카 아 롱구 프라주 (지 마네이라 인지비두아우), 우잔두 아 메토돌로지아 키 멜료르 리스 콘비에르. 이, 누 피나우, 크리엥 세우스 프로프리우스 마파스 이 프로세수스 인테르누스 키 리스 페르미탕 이르 무이투 알렝 데사스 오르뎅스 이스타벨레시다스, 센두 키 에시스 마파스 인테르누스 상 인지비두알리스타스, 아우타멘치 페소아이스 이, 포르탄투, 무이투 마이스 포데로주스.
+O ponto final, suponho, é que, embora eu forneça um esboço básico que reflita o taoismo em algum grau, espero que meus leitores também se envolvam profundamente no ato de tentar perceber a energia diretamente, trabalhar com ela diretamente e, dessa forma, se envolvam em sua própria forma de prática a longo prazo (de maneira individual), usando a metodologia que melhor lhes convier. E, no final, criem seus próprios mapas e processos internos que lhes permitam ir muito além dessas ordens estabelecidas, sendo que esses mapas internos são individualistas, altamente pessoais e, portanto, muito mais poderosos.
 
+---
 ---
 
 **크: 코무 보세 베 우 노수 플라네타 오 헤이누? 글로부, 플라누, 오쿠, 콩카부? 오쿠 이 플라누? 보세 비우 아 바헤이라, 우 피르마멘투? 시 이우 푸데시 비주알리자르 온지 헤아우멘치 이스토 누 코즈무스, 코무 이수 낭 아주다리아 잉 미냐스 비아젱스? 아 베르다지 소브리 켕, 우 케 이 온지 이스타무스 에 푼다멘타우 파라 밍. 아 포르마 데스치 헤이누 에 푼다멘타우 파라 보세? 아 포르마 데스치 헤이누 낭 아페타 오트루스 헤이누스?**
+**Q: Como você vê o nosso planeta ou reino? Globo, plano, oco, côncavo? Oco e plano? Você viu a barreira, o firmamento? Se eu pudesse visualizar onde realmente estou no cosmos, como isso não ajudaria em minhas viagens? A verdade sobre quem, o quê e onde estamos é fundamental para mim. A forma deste reino é fundamental para você? A forma deste reino não afeta outros reinos?**
 
 아: 싱, 아 포르마 다스 코이자스 에 임포르탄치 파라 우스 아우키미스타스 인테르누스, 이 에스타 에 아 하장 파라 웅 로구스 페소아우. 우 로구스 에 코무 웅 루가르 이 웅 치푸 지 나비우 키 누스 만텡 세구루스 이 누스 다 이스타빌리다지 쿠안두 프레시자무스, 아 메지다 키 누스 이스판지무스 파라 포라, 우 키, 코무 지구 콘스탄테멘치, 탐벵 에 파라 덴트루.
+A: Sim, a forma das coisas é importante para os alquimistas internos, e esta é a razão para um Logos pessoal. O Logos é como um lugar e um tipo de navio que nos mantém seguros e nos dá estabilidade quando precisamos, à medida que nos expandimos para fora, o que, como digo constantemente, também é para dentro.
 
 쿠안투 아 포르마 다스 코이자스, 이수 프레시자 세르 웅 콘센수 파라 세르 이스타벨레시두, 이 코무 보세 지스, 세라 도그마 시 낭 치베르무스 쿠이다두... 마스 에 포르 이수 키 데베무스 아프렌데르 아 "베르" 포르 노스 메즈무스, 오 이스타레무스 아페나스 아크레지탄두 누 키 누스 지젱 파라 아크레지타르 셍 포데르 페르세베르 지레타멘치 포르 노스 메즈무스. 타우 로구스 도그마치쿠 (크리아두 펠루 도그마) 포지 세르 우마 프리장 지 페주 잉크리베우.
+Quanto à forma das coisas, isso precisa ser um consenso para ser estabelecido, e como você diz, será dogma se não tivermos cuidado... mas é por isso que devemos aprender a "ver" por nós mesmos, ou estaremos apenas acreditando no que nos dizem para acreditar sem poder perceber diretamente por nós mesmos. Tal Logos dogmático (criado pelo dogma) pode ser uma prisão de peso incrível.
 
 아 포르마 에 파라 보세 데스코브리르, 포르탄투, 마스 포수 지제르 키 에스타 테하 낭 에 "아 파르치르 두 메우 베르" 웅 글로부 페르페이투. 아 테하, 지 아코르두 콩 에사 비장, 에 마이스 세멜랸치 아 우마 고타 지 슈바, 카인두 이테르나멘치. 포지 파레세르 웅 글로부 타우베스 지 론지, 마스 이수 에 웅 트루키 다 그라비다지, 이 아우 시 아프로시마르 다 고타, 아 웅 폰투 지피시우 지 데피니르 온지 보세 엔트라 나 고타, 이 아우 파제-루, 보세 아트라베사 우마 멤브라나 키 아브리 우마 플라누라, 인탕, 잉 세르투 센치두, 아 테하 에 탄투 플라나 쿠안투 이스페리카, 마스 네뉴마 다스 두아스. 에, 잉 베스 지수, 바스탄치 심플레즈멘치, 우잔두 테르무스 이 아그루파멘투스 지 이데이아스 우마나스 모데르나스, 우마 볼랴 지 지스토르상 지 포르마 인데피니베우.
+A forma é para você descobrir, portanto, mas posso dizer que esta Terra não é "a partir do meu ver" um globo perfeito. A Terra, de acordo com essa visão, é mais semelhante a uma gota de chuva, caindo eternamente. Pode parecer um globo talvez de longe, mas isso é um truque da gravidade, e ao se aproximar da gota, há um ponto difícil de definir onde você entra na gota, e ao fazê-lo, você atravessa uma membrana que abre uma planura, então, em certo sentido, a Terra é tanto plana quanto esférica, mas nenhuma das duas. É, em vez disso, bastante simplesmente, usando termos e agrupamentos de ideias humanas modernas, uma bolha de distorção de forma indefinível.
 
 아 콘세프상 우마나 지 지스탄시아 에 팔랴, 우스 올류스 낭 콘세겡 베르 아 지스탄시아 무이투 벵, 이지스텡 콘세이투스 헬라시오나두스 아 그라비다지 키 상 지피세이스 지 인텐데르, 이 카다 문두, 카다 플라네타 에 우마 노바 지멘상, 이 아 그라비다지, 키 에 아 인텐시다지 지 토두 아켈리 오트루 문두, 지스토르시 에시 루가르 이 파스 파레세르 이스페리쿠 포르 카우자 다 "텐상 수페르피시아우", 포르 아싱 지제르, 잉쿠안투 에사 "글로부" 카이 펠루 코즈무스.
+A concepção humana de distância é falha, os olhos não conseguem ver a distância muito bem, existem conceitos relacionados à gravidade que são difíceis de entender, e cada mundo, cada planeta é uma nova dimensão, e a gravidade, que é a intensidade de todo aquele outro mundo, distorce esse lugar e faz parecer esférico por causa da "tensão superficial", por assim dizer, enquanto essa "globo" cai pelo cosmos.
 
 비베무스 잉 우마 고타 지 아구아 키 낭 에 플라나 넹 우마 이스페라 페르페이타. 비베무스 잉 우마 콘스탄치 지멘시오나우 이 그라비타시오나우 헬라치바멘치 이스타베우 키 누스 다 웅 라르 페르페이투 파라 이스판지르 파라 포라. 이 파라 셰가르 아 오트라 고타, 데베무스 케브라르 아 "텐상 수페르피시아우" 지 노사 고타 이 인트라르 누 이스파수 아베르투 키 에 만치두 우니두 포르 오트라스 레이스, 센두 키 이지스치 우마 이스페시 지 바쿠 지멘시오나우 엔트리 우마 고타 이 오트라.
+Vivemos em uma gota de água que não é plana nem uma esfera perfeita. Vivemos em uma constante dimensional e gravitacional relativamente estável que nos dá um lar perfeito para expandir para fora. E para chegar a outra gota, devemos quebrar a "tensão superficial" de nossa gota e entrar no espaço aberto que é mantido unido por outras leis, sendo que existe uma espécie de vácuo dimensional entre uma gota e outra.
 
 파라 파제르 이수, 우 카미뉴 다 아우키미아 인테르나 에 이르 파라 덴트루, 아우 인베스 지 텐타르 콘스트루이르 웅 포게치 이 임푸하르 파라 포라. 에시 모비멘투 인테르누, 키 이우 미 헤페리 코무 우 카미뉴 두 프로제치스타, 에 무이투 마이스 포데로주 두 키 쿠아우케르 치푸 지 프로제상 이스테르나 이 코메사 아 우자르 아 카파시다지 이나타 덴트루 다 우마니다지 파라 지스토르세르 우 템푸 이 우 이스파수.
+Para fazer isso, o caminho da alquimia interna é ir para dentro, ao invés de tentar construir um foguete e empurrar para fora. Esse movimento interno, que eu me referi como o caminho do projetista, é muito mais poderoso do que qualquer tipo de projeção externa e começa a usar a capacidade inata dentro da humanidade para distorcer o tempo e o espaço.
 
+---
 ---
 
 **크: 이스투데이 바리우스 시스테마스 지페렌치스 키 헤트라탕 아 포르물라 트리아-프리마 지 마네이라스 지페렌치스 이 이스타바 미 페르군탄두 소브리 타이스 지스크레판시아스?**
+**Q: Estudei vários sistemas diferentes que retratam a fórmula Tria-Prima de maneiras diferentes e estava me perguntando sobre tais discrepâncias?**
 
 아: 미냐스 헤플레숑이스 페소아이스 상, 이 이스페루 키 보세 페르도이 미냐 프랑케자, 키, 잉쿠안투 에사스 지페렌치스 헤프레젠타송이스 다 포르물라 파레셍 세르 아우타멘치 임포르탄치스, 센두 키 에스타 에, 잉 이센시아, 우마 포르물라 무이투 임포르탄치 파라 우스 아우키미스타스, 우 심볼리즈무, 우스 테르무스 이 우 도그마 잉콘트라두스 잉 타우 헤프레젠타상 지베르시피카다 상, 지 우마 마네이라 마이스 푼다멘타우, 데짐포르탄치스. 우 키 케루 지제르 콩 이수 에 키, 시 키제르무스 헤아우멘치 콘템플라르 아 트란즈무타상 페소아우 이 아 푸가 아트라베스 데스타 포르물라, 아 무우치플리시다지 아스 베지스 지 심볼루스 네스타 헤세이타 탕 임포르탄치 포지 레바르 우마 페소아 아우 에후. 아싱, 두 폰투 지 비스타 두 아우키미스타 인테르누, 타이스 코이자스, 토다 에사 인테르프레타상 데사 포르물라, 낭 상, 누 핑 다스 콘타스, 지 임포르탄시아 콤플레타.
+A: Minhas reflexões pessoais são, e espero que você perdoe minha franqueza, que, enquanto essas diferentes representações da fórmula parecem ser altamente importantes, sendo que esta é, em essência, uma fórmula muito importante para os alquimistas, o simbolismo, os termos e o dogma encontrados em tal representação diversificada são, de uma maneira mais fundamental, desimportantes. O que quero dizer com isso é que, se quisermos realmente contemplar a transmutação pessoal e a fuga através desta fórmula, a multiplicidade às vezes de símbolos nesta receita tão importante pode levar uma pessoa ao erro. Assim, do ponto de vista do alquimista interno, tais coisas, toda essa interpretação dessa fórmula, não são, no fim das contas, de importância completa.
 
 우 키 케루 지제르 콩 이수 에 키, 펠루 메누스 다 미냐 포지상 코무 아우키미스타 인테르누, 우 키 시그니피카 키 낭 이스토 인테레사두 잉 트란즈무타르 아우구 잉 웅 카우데이랑 피지쿠, 지가무스, 우 심볼리즈무, 오 세자, 우스 심볼루스 우자두스 파라 헤프레젠타르 에사스 폴라리다지스 다 트리아-프리마, 임보라 아우타멘치 임포르탄치스, 낭 상, 누 피나우, 토타우멘치 헬레반치스 파라 우 트라발류.
+O que quero dizer com isso é que, pelo menos da minha posição como alquimista interno, o que significa que não estou interessado em transmutar algo em um caldeirão FÍSICO, digamos, o simbolismo, ou seja, os símbolos usados para representar essas polaridades da Tria-Prima, embora altamente importantes, não são, no final, totalmente relevantes para o trabalho.
 
 덴트루 두 이스펙트루 두 메우 카우데이랑 인테르누 (잉 오포지상 아 웅 카우데이랑 인테르누 피지쿠), 타이스 헤프레젠타송이스 지 우니다지스 폴라리스, 키 데벵 세르 미스투라다스 지 포르마 포르물라이카 (키 에 헤아우멘치 우 키 에사 포르물라 헤프레젠타), 포뎅 세르 바스탄치 우테이스, 포이스 당 이스트루투라 아 미냐 멘치. 마스, 우마 베스 키 시 아프로푼지 잉 타우 카우데이랑, 우 쿠아우 미 헤피루 코무 아스 살라스 두 프로제치스타, 우 심볼리즈무 우자두 코메사 아 시 토르나르 카다 베스 마이스 이헬레반치 지 세르타 포르마.
+Dentro do espectro do meu caldeirão interno (em oposição a um caldeirão interno físico), tais representações de unidades polares, que devem ser misturadas de forma formulaica (que é realmente o que essa fórmula representa), podem ser bastante úteis, pois dão estrutura à minha mente. Mas, uma vez que se aprofunde em tal caldeirão, o qual me refiro como as salas do projetista, o simbolismo usado começa a se tornar cada vez mais irrelevante de certa forma.
 
 아 코이자 베르다데이라멘치 임포르탄치, 아 메지다 키 시 메르굴랴 프로푼다멘치, 낭 에 우 심볼리즈무 우자두, 임보라 에시스 포상 세르 우테이스 나 이센시아 다 콤비나상, 마스 싱 우스 콩글로메라두스 이네르제치쿠스 키 상 잉콘트라두스 포르 트라스 데시스 심볼루스. 누 메우 카주, 아우 이스크레베르 _우 카미뉴 두 프로제치스타_, 온지 이즈보수 우마 프레미사 제라우 파라 타이스 심볼루스 이 수아스 포지송이스 이네르제치카스, 에시스 심볼루스 우자두스 파라 헤프레젠타르 타이스 콩글로메라두스 지 이네르지아 상 우자두스 이 콜로카두스 알리, 파라 다르 우마 페르스펙치바 제라우 지 코무 타이스 콩글로메라두스 이네르제치쿠스 상 헤아우멘치 우마 포르물라 아 세르 콤비나다. 토두 우 심볼리즈무 이스테리오르 (코무 에사 포르물라 에 헤트라타다) 에, 잉 웅 센치두 이네르제치쿠 푼다멘타우, 이헬레반치.
+A coisa verdadeiramente importante, à medida que se mergulha profundamente, não é o simbolismo usado, embora esses possam ser úteis na essência da combinação, mas sim os conglomerados energéticos que são encontrados por trás desses símbolos. No meu caso, ao escrever _O Caminho do Projetista_, onde esboço uma premissa geral para tais símbolos e suas posições energéticas, esses símbolos usados para representar tais conglomerados de energia são usados e colocados ali, para dar uma perspectiva geral de como tais conglomerados energéticos são realmente uma fórmula a ser combinada. Todo o simbolismo exterior (como essa fórmula é retratada) é, em um sentido energético fundamental, irrelevante.
 
 에 지 수마 임포르탄시아 이르 알렝 데시스 심볼루스 이 아우칸사르 우마 코네샹 지레타 콩 에시스 콩글로메라두스, 콩 에시스 폰투스 폴라리스 아트라베스 두 센치멘투 인테르누 이 다 비장. 우마 베스 키 에사 코네샹 테냐 시두 이스타벨레시다, 샤마르 카다 폰투 포지시오나우 지 우마 코이자 오 지 오트라 토르나-시 잉콘세켄치. 아 페르세프상 이네르제치카 지레타, 포르탄투, 에 아 코이자 마이스 임포르탄치 지 아코르두 콩 미냐 프라치카.
+É de suma importância ir além desses símbolos e alcançar uma conexão direta com esses conglomerados, com esses pontos polares através do sentimento interno e da visão. Uma vez que essa conexão tenha sido estabelecida, chamar cada ponto posicional de uma coisa ou de outra torna-se inconsequente. A percepção energética direta, portanto, é a coisa mais importante de acordo com minha prática.
 
 심볼루스 파라 우스 아우키미스타스 인테르누스 다 미냐 코헨치 상 헤프레젠타송이스 지 프로프리에다지스 이네르제치카스 인테르나스. 시 아 카파시다지 지 페르세베르 아 이네르지아 지레타멘치 낭 포르 포시베우, 에시 심볼리즈무 포지 파시우멘치 시 토르나르 도그마, 이 타우 도그마 셈프리 레바라 보세 아우 에후. 인탕 아 페르세프상 지레타 에 지 마이오르 임포르탄시아, 콩 우스 심볼루스 센두 임포르탄치스 아페나스 누 이니시우 두 트라발류, 아 핑 지 다르 우마 이스트루투라 바지카.
+Símbolos para os alquimistas internos da minha corrente são representações de propriedades energéticas internas. Se a capacidade de perceber a energia diretamente não for possível, esse simbolismo pode facilmente se tornar dogma, e tal dogma sempre levará você ao erro. Então a percepção direta é de maior importância, com os símbolos sendo importantes apenas no início do trabalho, a fim de dar uma estrutura básica.
 
 낭 테뉴 세르테자 시 이스토 아주단두 아 헤조우베르 아스 지스크레판시아스 키 보세 잉콘트로. 마스 지가무스 키, 다 페르스펙치바 키 만테뉴 덴트루 다 코헨치 다 미냐 리냐, 에시스 심볼루스 이 모델루스 낭 상 임포르탄치스 누 피나우 다스 콘타스. 우 키 에 임포르탄치 에 우 콘타투, 우 콘타투 지레투, 콩 아켈라스 프로프리에다지스 헤프레젠타다스 포르 타이스 심볼루스, 모멘투 잉 키 보세 포지 데스코브리르 수아 프로프리아 링구아젱 이 크리아르 세우스 프로프리우스 심볼루스 파라 아 포르물라.
+Não tenho certeza se estou ajudando a resolver as discrepâncias que você encontrou. Mas digamos que, da perspectiva que mantenho dentro da corrente da minha linha, esses símbolos e modelos não são importantes no final das contas. O que é importante é o contato, o contato direto, com aquelas propriedades representadas por tais símbolos, momento em que você pode descobrir sua própria linguagem e criar seus próprios símbolos para a fórmula.
 
+---
 ---
 
 **크: 아 폴라리다지 두 바지우 에 헤프레젠타다 코무 빈두 아포스 아 인스피라상 이 안치스 다 이스피라상. 아베리아 오트루 바지우 엔트리 아 이스피라상 이 아 인스피라상?**
+**Q: A polaridade do Vazio é representada como vindo após a inspiração e antes da expiração. Haveria outro Vazio entre a expiração e a inspiração?**
 
 **쿠아우 에 아 수아 비장 다 지비장 다 킨테센시아, 오 이스피리투, 누스 일레멘투스 지 포구, 아구아, 아르 이 테하, 누 키 시 헤페리 아 아우키미아 인테르나? 보세 베 아우궁 베네피시우 잉 우자르 아우궁스 아스펙투스 두 모델루 두스 쿠아트루 일레멘투스 아우 트라발랴르 콩 아 아우키미아 인테르나?**
+**Qual é a sua visão da divisão da quintessência, ou Espírito, nos elementos de fogo, água, ar e terra, no que se refere à alquimia interna? Você vê algum benefício em usar alguns aspectos do modelo dos quatro elementos ao trabalhar com a alquimia interna?**
 
 아: 싱, 우 바지우 이지스치 엔트리 아스 헤스피라송이스, 엔트리 아스 바치다스, 나스 라쿠나스 누 송.
+A: Sim, o VAZIO existe entre as respirações, entre as batidas, nas lacunas no som.
 
 아 아우키미아 인테르나 포스툴라, 안치스 지 투두, 키 에 우 인테리오르 키 크리아 우 이스테리오르, 우 키 시그니피카 키 토다스 아스 코이자스 벵 지 우마 포르마 셍 포르마, 키 인탕 다 오리젱 아트라베스 다 트란즈무타상 아 토다스 아스 코이자스 마테리아이스. 아 우마니다지 이스트루투라 우 인포르미 아트라베스 지 팔라브라스, 텐탄두 아프로푼다르-시 네사 이센시아 인테르나 아트라베스 두 마페아멘투 콩 팔라브라스 이 심볼루스.
+A alquimia interna postula, antes de tudo, que é o interior que cria o exterior, o que significa que todas as coisas vêm de uma forma sem forma, que então dá origem através da transmutação a todas as coisas materiais. A humanidade estrutura o informe através de palavras, tentando aprofundar-se nessa essência interna através do mapeamento com palavras e símbolos.
 
 시 타이스 심볼루스 포렝 베네피쿠스 파라 보세, 코무 아 지비장 다 킨테센시아, 인탕 우지-우스. 마스 시 에시스 심볼루스 시 토르나렝 웅 임페실류, 인탕 데이시-우스 이르, 포르키 누 피나우 엘리스 상 아페나스 일루장.
+Se tais símbolos forem benéficos para você, como a divisão da quintessência, então use-os. Mas se esses símbolos se tornarem um empecilho, então deixe-os ir, porque no final eles são apenas ilusão.
 
 보세 데비 셈프리 시 이스포르사르 파라 인트라르 잉 콘타투 콩 에사 폰치 인테르나 지레타멘치. 타이스 심볼루스, 코무 우스 키 포뎅 세르 크리아두스 아우 텐타르 인텐데르 코무 우 인포르미 크리아 포르마, 소 상 우테이스 누 이니시우. 우마 베스 키 보세 콘시가 ‘베르’ 우 인포르미, 페르세베르 지레타멘치 에사 이네르지아 인데스크리치베우 잉쿠안투 엘라 플루이 펠루 코즈무스, 토두스 에시스 심볼루스 시 토르낭 잉콘세켄치스.
+Você deve sempre se esforçar para entrar em contato com essa fonte interna diretamente. Tais símbolos, como os que podem ser criados ao tentar entender como o informe cria forma, só são úteis no início. Uma vez que você consiga ‘ver’ o informe, perceber diretamente essa energia indescritível enquanto ela flui pelo cosmos, todos esses símbolos se tornam inconsequentes.
 
 ## 카피툴루 4: 프로제탄두 알렝 다스 세이스 파레지스 두 쿠부
+## CAPÍTULO 4: PROJETANDO ALÉM DAS SEIS PAREDES DO CUBO
 
 **"시 이우 치베시 웅 문두 소 메우, 투두 세리아 웅 아브수르두. 나다 세리아 우 키 에, 포르키 투두 세리아 우 키 낭 에. 이 아우 콘트라리우, 우 키 에, 낭 세리아. 이 우 키 낭 세리아, 세리아. 인텐지?"**
+**"Se eu tivesse um mundo só meu, tudo seria um absurdo. Nada seria o que é, porque tudo seria o que não é. E ao contrário, o que é, não seria. E o que não seria, seria. Entende?"**
 _― 알리시 누 파이스 다스 마라빌랴스, 피우미 지 1951_
+_― ALICE NO PAÍS DAS MARAVILHAS, FILME DE 1951_
 
 나 페르스펙치바 다 페소아 모데르나 메지아 - 키 네스치 카주 포지 시그니피카르 아 인시스텐시아 모데르나 잉 웅 문두 마테리아우 이 하시오나우 키 텡 무이투 포쿠 이스파수 파라 아 이마지나상, 파라 우 미투, 파라 우스 소뉴스, 파라 우 이스피리투 - 우 문두 이스타 셰이우 지 리미타송이스.
+Na perspectiva da pessoa moderna média - que neste caso pode significar a insistência moderna em um mundo material e racional que tem muito pouco espaço para a imaginação, para o mito, para os sonhos, para o espírito - o mundo está cheio de limitações.
 
 파라 페소아스 탕 마테리알리스타스 콩 폰투스 지 비스타 탕 모데르누스, 아스 세이스 파레지스 다 프리장 모데르나 상, 나 마이오리아 다스 베지스, 콤플레타멘치 인비지베이스. 마스 시 이우 페지시 아 쿠아우케르 페소아 파라 올랴르 잉 쿠아우케르 지레상, 낭 임포르타 아 지레상 잉 키 엘라 올랴시, 엘라, 노스, 이벤투아우멘치 잉콘트라리아무스 우마 파레지 페르세프치바. 보세 포데리아 올랴르 파라 시마, 파라 바이슈, 아트라스 지 보세, 아 프렌치, 지 웅 라두 파라 우 오트루, 마스 온지 케르 키 보세 올리, 아베라 웅 테르미누 파라 수아 페르세프상, 지 모두 키 네시 센치두 보세 포데리아 지제르 키 이스타 리미타두 덴트루 지 세이스 파레지스: 웅 쿠부.
+Para pessoas tão materialistas com pontos de vista tão modernos, as seis paredes da prisão moderna são, na maioria das vezes, completamente invisíveis. Mas se eu pedisse a qualquer pessoa para olhar em qualquer direção, não importa a direção em que ela olhasse, ela, nós, eventualmente encontraríamos uma parede perceptiva. Você poderia olhar para cima, para baixo, atrás de você, à frente, de um lado para o outro, mas onde quer que você olhe, haverá um término para sua percepção, de modo que nesse sentido você poderia dizer que está limitado dentro de seis paredes: um cubo.
 
 누 문두 모데르누, 웅 문두 키 텐타 리미타르-시 아 피지칼리다지 이 아스 페르스펙치바스 하시오나이스, 웅 문두 키 낭 텡 이스파수 파라 미투 이 마지아, 타이스 파레지스 포뎅 파레세르 우마 베르다데이라 프리장. 이수 오코히 포르키 타이스 파레지스 낭 상 아페나스 페르세프치바스, 마스 탐벵 이마지나치바스, 인텔렉투아이스, 이스피리투아이스. 우 키 케루 지제르 콩 이수 에 키 아스 세이스 파레지스 낭 리미탕 아페나스 노수스 센치두스 피지쿠스, 엘라스 탐벵 리미탕 노사 이마지나상, 노사 인텔리젠시아, 노수 이스피리투. 타우 비장 지 문두 모데르나 인시스치 키 우 카미뉴 파라 사이르 데사 프리장 에 아트라베스 다 테크놀로지아, 아트라베스 지 토두스 우스 치푸스 지 인스트루멘타상 이 아파렐류스, 코무 텔레스코피우스 이 미크로스코피우스, 키 포뎅 페르미치르 키 우 문두 세자 헤아우멘치 비스투 코헤타멘치, 수포스타멘치 펠라 프리메이라 베스.
+No mundo moderno, um mundo que tenta limitar-se à fisicalidade e às perspectivas racionais, um mundo que não tem espaço para mito e magia, tais paredes podem parecer uma verdadeira prisão. Isso ocorre porque tais paredes não são apenas perceptivas, mas também imaginativas, intelectuais, espirituais. O que quero dizer com isso é que as seis paredes não limitam apenas nossos sentidos físicos, elas também limitam nossa imaginação, nossa inteligência, nosso espírito. Tal visão de mundo moderna insiste que o caminho para sair dessa prisão é através da tecnologia, através de todos os tipos de instrumentação e aparelhos, como telescópios e microscópios, que podem permitir que o mundo seja realmente visto corretamente, supostamente pela primeira vez.
 
 마스 타이스 인스트루멘투스, 임보라 포상 프로포르시오나르 페케나스 비종이스 다스 잉크리베이스 지멘송이스 로구 알렝 다스 세이스 파레지스, 멘텡 파라 노스 지 우마 포르마 세멜랸치 아 키 노수스 센치두스 피지쿠스 누스 잉가낭. 이수 포르키 엘리스 상 인스트루멘투스 크리아두스 파라 누스 페르미치르 페르세베르 아킬루 키 펜사무스 키 데베리아무스 페르세베르, 엘리스 상 모둘라두스 이 칼리브라두스 파라 이스판지르 노사스 페르세프송이스 두 키 펜사무스 키 데베리아무스 세르 카파지스 지 페르세베르. 코무 타우, 상 지 무이타스 마네이라스 우 프레구 피나우 잉 노수스 카이숑이스, 키 토르낭 노사스 필로조피아스 하시오나이스 이 마테리아이스 마이스 세구라스, 마이스 베르다데이라스, 이 포뎅 누스 페르미치르 센치르-누스 세구루스 덴트루 지 노사스 프리종이스, 사벤두 키 포라 델라스 투두 이스타 코무 이스페라바무스 키 이스치베시... 나다 마이스 아 베르 아키, 페소아우!
+Mas tais instrumentos, embora possam proporcionar pequenas visões das incríveis dimensões logo além das seis paredes, mentem para nós de uma forma semelhante à que nossos sentidos físicos nos enganam. Isso porque eles são instrumentos criados para nos permitir perceber aquilo que pensamos que deveríamos perceber, eles são modulados e calibrados para expandir nossas percepções do que pensamos que deveríamos ser capazes de perceber. Como tal, são de muitas maneiras o prego final em nossos caixões, que tornam nossas filosofias racionais e materiais mais seguras, mais verdadeiras, e podem nos permitir sentir-nos seguros dentro de nossas prisões, sabendo que fora delas tudo está como esperávamos que estivesse... nada mais a ver aqui, pessoal!
 
 마스 낭 임포르타 우 쿠앙 포르치 에사 누벵 지 하시오날리다지 텐치, 카다 웅 지 노스, 잉 노수스 모멘투스 지스트라이두스, 사비 이 텡 아우구마 이스페리엔시아 (포르 메노르 이 푸가스 키 세자) 지 이르 알렝 데사스 세이스 파레지스. 이수 아콘테시 두란치 노수스 모멘투스 데스쿠이다두스, 모멘투스 잉 키 아켈라 파르치 하시오나우 지 노스 낭 이스타 프레스탄두 탄타 아텐상, 이 노사 이마지나상 에 리베르타다. 네시스 모멘투스, 잉 노수스 데바네이우스, 노사스 판타지아스, 노수스 소뉴스 잉쿠안투 도르미무스. 라, 잉콘트라무스 우마 하샤두라 나스 파레지스, 이 누스 모멘투스 데스프레오쿠파두스 아트라베사무스 포르 엘라스. 네시스 모멘투스, 포데무스 베르, 센치르, 페르세베르 (시 콘세기르무스 누스 렘브라르 데사스 페르세프송이스 마이스 타르지), 바스투스 이 플레시베이스 헤이누스 인테리오리스, 온지 파르치스 인데피니베이스 지 노스 포뎅 아비타르 잉 이스파수스 키 시 이스텐뎅 포르 지스탄시아스 이노르메스, 이멘수라베이스, 온지 포데무스 누스 데스프렌데르 다 그라비다지 키 누스 리가 아 헤알리다지 지 파우스 이 페드라스 데스치 루가르 우마누 아투아우.
+Mas não importa o quão forte essa nuvem de racionalidade tente, cada um de nós, em nossos momentos distraídos, sabe e tem alguma experiência (por menor e fugaz que seja) de ir além dessas seis paredes. Isso acontece durante nossos momentos descuidados, momentos em que aquela parte racional de nós não está prestando tanta atenção, e nossa imaginação é libertada. Nesses momentos, em nossos devaneios, nossas fantasias, nossos sonhos enquanto dormimos. Lá, encontramos uma rachadura nas paredes, e nos momentos despreocupados atravessamos por elas. Nesses momentos, podemos ver, sentir, perceber (se conseguirmos nos lembrar dessas percepções mais tarde), vastos e flexíveis reinos interiores, onde partes indefiníveis de nós podem habitar em espaços que se estendem por distâncias enormes, imensuráveis, onde podemos nos desprender da gravidade que nos liga à realidade de paus e pedras deste lugar humano atual.
 
 우 트루키 잉그라사두 지 아우궁스 포쿠스, 코무 아켈리스 키 세겡 아 코헨치 다 아우키미아 인테르나, 포르 이젬플루, 에 아프로베이타르 에사 브릴랸치 세우바제리아 키 파레시 이스타르 지스포니베우 아페나스 잉 노수스 모멘투스 지스트라이두스, 이 트라제르 에시스 모멘투스 파라 아 콘시엔시아 아텐타, 이 인탕 우자르 에사 마지카 페쿨리아르 파라 파사르 콘시엔치 이 델리베라다멘치 펠라스 하샤두라스 나스 파레지스, 콘치누안두 아 파제르 이수 아테 키 부라쿠스 지간치스 세장 크리아두스.
+O truque engraçado de alguns poucos, como aqueles que seguem a corrente da alquimia interna, por exemplo, é aproveitar essa brilhante selvageria que parece estar disponível apenas em nossos momentos distraídos, e trazer esses momentos para a consciência atenta, e então usar essa mágica peculiar para passar consciente e deliberadamente pelas rachaduras nas paredes, continuando a fazer isso até que buracos gigantes sejam criados.
 
 에스치 에 우 카미뉴 두 프로제치스타, 이 코메사 심플레즈멘치 아세이탄두 아켈라 로쿠라 토타우 키 지스 키 토다 아켈라 이마지나상, 토두스 에시스 소뉴스, 아켈리 미투 이 아켈라 마라빌랴 인판치우 상 헤아이스! 키 아 헤알리다지 인테르나, 세자 엘라 쿠아우 포르, 에 탕 헤아우 쿠안투 아 이스테르나 이, 포르탄투, 데비 세르 다다 아 아텐상 세리아 키 메레시.
+Este é o caminho do projetista, e começa simplesmente aceitando aquela loucura total que diz que toda aquela imaginação, todos esses sonhos, aquele mito e aquela maravilha infantil são reais! Que a realidade interna, seja ela qual for, é tão real quanto a externa e, portanto, deve ser dada a atenção séria que merece.
 
 웅 프로제치스타 에 아우겡 키 인베르치 우 문두 이, 데사 포르마, 크리아 우마 마지아 임파르, 이 파스 이수 렌타멘치, 지 마네이라 그라두아우, 코메산두 아 아크레지타르 키 아 헤알리다지 인테르나 에 헤아우, 잉쿠안투 아 이스테르나 낭 에 탕 헤아우 쿠안투 펜사무스 세르. 엘리스 코메상 헤쿠잔두-시 아 아세이타르 우 수포스투 파투 지 키 우스 센치두스 피지쿠스 상 아스 우니카스 코이자스 지스포니베이스 파라 노스. 아우스 포쿠스, 콩 우 템푸, 프레스탕 카다 베스 마이스 아텐상 아 에사 헤알리다지 인테르나, 아테 키 셰가 우 모멘투 잉 키 에시스 파투스 하시오나이스, 탕 인하이자두스 나 프시키, 포뎅 세르 콘테스타두스 지 세르타 포르마, 아우 아폰타르 파라 아켈리 주이스 하시오나우 잉 노스 키 노수스 소뉴스 이 데바네이우스 임포르탕. 키, 시 프레스타르무스 아텐상 아 엘리스, 데스코브리레무스 키 엘리스 시 헬라시오낭 콩 우 문두 피지쿠, 키 아 우마 헬라상 엔트리 우 헤이누 수브제치부 인테르누 덴트루 지 노스 이 우 문두 피지쿠 이스테르누 리미타두. 이 키, 시 인텐데르무스 에시스 아스펙투스 인테르누스 이 수포스타멘치 이헤아이스, 수헤아이스 지 노스, 포데무스 이 아프렌데레무스 아 나베가르 무이투 멜료르 덴트루 다 피지칼리다지 리미타다 잉 키 아 마이오리아 다스 페소아스 파레시 이스타르 콤플레타멘치 프레자.
+Um projetista é alguém que inverte o mundo e, dessa forma, cria uma magia ímpar, e faz isso lentamente, de maneira gradual, começando a acreditar que a realidade interna é real, enquanto a externa não é tão real quanto pensamos ser. Eles começam recusando-se a aceitar o suposto fato de que os sentidos físicos são as únicas coisas disponíveis para nós. Aos poucos, com o tempo, prestam cada vez mais atenção a essa realidade interna, até que chega o momento em que esses fatos racionais, tão enraizados na psique, podem ser contestados de certa forma, ao apontar para aquele juiz racional em nós que nossos sonhos e devaneios importam. Que, se prestarmos atenção a eles, descobriremos que eles se relacionam com o mundo físico, que há uma relação entre o reino subjetivo interno dentro de nós e o mundo físico externo limitado. E que, se entendermos esses aspectos internos e supostamente irreais, surreais de nós, podemos e aprenderemos a navegar muito melhor dentro da fisicalidade limitada em que a maioria das pessoas parece estar completamente presa.
 
 코녜세르 우 문두 인테리오르 이 세르 카파스 지 마니풀라-루 낭 에 베네피쿠 아페나스 파라 이스카파르 다 아르마질랴 마테리아우, 마스 탐벵 페르미치 아우 아우키미스타 인테르누 토르나르-시 무이투 마이스 벵-수세지두 잉 토다스 아스 지멘송이스, 잉클루인두 아 마테리아우. 타이스 비아잔치스 인테르누스 포뎅 파제르 이수 포르키 이스탕 지스포스투스 아 아세이타르 아 포시빌리다지 아브수르다 지 키 에시스 데바네이우스, 에시스 심플리스 데바네이우스, 에시스 보스 다 이마지나상 두란치 노수스 모멘투스 지스트라이두스, 지스포니빌리장 루가리스 헤아이스 키 포뎅 인탕 세르 이스플로라두스, 키 포뎅 세르 아덴트라두스 지 마네이라 콩크레타, 키 상, 잉 이센시아, 탕 콩크레타멘치 헤아이스 쿠안투 쿠아우케르 코이자 덴트루 다 헤알리다지 피지카.
+Conhecer o mundo interior e ser capaz de manipulá-lo não é benéfico apenas para escapar da armadilha material, mas também permite ao alquimista interno tornar-se muito mais bem-sucedido em todas as dimensões, incluindo a material. Tais viajantes internos podem fazer isso porque estão dispostos a aceitar a possibilidade absurda de que esses devaneios, esses simples devaneios, esses voos da imaginação durante nossos momentos distraídos, disponibilizam lugares reais que podem então ser explorados, que podem ser adentrados de maneira concreta, que são, em essência, tão concretamente reais quanto qualquer coisa dentro da realidade física.
 
 아우 무다르 우 앙굴루 지 수아스 페르세프송이스, 상 포르사두스 아 인프렌타르 이 코메사르 우마 콘베르사 콩 아켈리 아스펙투 지 시 메즈무스 키 에 엘리스 메즈무스, 아 콘시엔시아 키 이스타 데스페르타 이 인지비두아우 덴트루 델리스, 이 키 포지 비아자르 포르 에시스 헤이누스. 아우 파제르 이수, 이덴치피캉 우마 파르치 지 시 메즈무스 키 아 마이오리아 다스 페소아스 넹 메즈무 콘시데라, 우마 파르치 아 키 미 헤페리 코무 우 판타즈마 나 마키나. 아우 코메사르 아 데피니르 에시 아스펙투 무우치지멘시오나우 지 시 메즈무스, 데스코브렝 키 에 에사 파르치 키 포지 파사르 펠라스 하샤두라스 나스 파레지스, 두란치 에시스 모멘투스 지스트라이두스, 두란치 에시스 심플리스 데바네이우스. 포르 메이우 데사 데스코베르타 이 이덴치피카상, 포뎅 인탕 코메사르 아 아우멘타르 우 포데르 아텐투 데시 아스펙투 덴트루 지 시 메즈무스, 아 파르치 콘시엔치 지 시 메즈무스, 이 아 메지다 키 에사 아텐상 시 토르나 마이스 수스텐타다, 마이스 이스타베우, 상 카파지스, 데사 포르마, 지 코메사르 아 이스판지르 우 타마뉴 지 수아스 가이올라스 리미탄치스 이 데스코브리르 노바스 제오그라피아스 키, 콩 우 템푸, 리스 페르미텡 이스판지르 인테르나멘치 탄투, 키 우 밀라그로주 헤아우멘치 시 토르나 포시베우 파라 엘리스.
+Ao mudar o ângulo de suas percepções, são forçados a enfrentar e começar uma conversa com aquele aspecto de si mesmos que é eles mesmos, a consciência que está desperta e individual dentro deles, e que pode viajar por esses reinos. Ao fazer isso, identificam uma parte de si mesmos que a maioria das pessoas nem mesmo considera, uma parte a que me referi como o fantasma na máquina. Ao começar a definir esse aspecto multidimensional de si mesmos, descobrem que é essa parte que pode passar pelas rachaduras nas paredes, durante esses momentos distraídos, durante esses simples devaneios. Por meio dessa descoberta e identificação, podem então começar a aumentar o poder atento desse aspecto dentro de si mesmos, a parte consciente de si mesmos, e à medida que essa atenção se torna mais sustentada, mais estável, são capazes, dessa forma, de começar a expandir o tamanho de suas gaiolas limitantes e descobrir novas geografias que, com o tempo, lhes permitem expandir internamente tanto, que o milagroso realmente se torna possível para eles.
 
 시 우 마그눙 오푸스 (아 그란지 오브라) 아브리 아 포르타 파라 우 문두 이네르제치쿠 이, 아우 파제-루, 낭 아페나스 포르네시 우마 폰치 지 포데르 파라 우 인지비두, 마스 탐벵 코메사 아 데피니르 우스 리미치스 데시 인지비두, 두 판타즈마 나 마키나, 인탕 우 카미뉴 두 프로제치스타 에 우 키 다 포쿠 이 프로포지투 아 에사 그란지 오브라.
+Se o Magnum Opus (A Grande Obra) abre a porta para o mundo energético e, ao fazê-lo, não apenas fornece uma fonte de poder para o indivíduo, mas também começa a definir os limites desse indivíduo, do fantasma na máquina, então o caminho do projetista é o que dá foco e propósito a essa Grande Obra.
 
 데비두 아스 무이타스 수포지송이스 이호네아스 페이타스 펠루 문두 우마누, 탕 프로푼다멘치 프레주 아 마테리알리다지, 아 마이오리아 다 우마니다지 시 콘시데라 도엔치. 잉 웅 템푸 안테리오르, 낭 무이투 지스탄치, 우 문두 우마누 에라 고베르나두 펠라 헬리지앙, 이 나켈라 에포카, 아스 페소아스 에랑 인포르마다스 지 키 이스타방 도엔치스 지 우마 마네이라 지페렌치, 우마 마네이라 키 엘리스 시 헤페리앙 코무 우 페카두 오리지나우. 마스 아고라, 네스치 문두 모데르누, 아스 페소아스 상 인포르마다스 지 키 이스탕 도엔치스 포르 하종이스 지페렌치스. 지젱-리스 키 리스 파우타 아텐상, 우 키 에 베르다지, 탐벵 리스 지젱 키 소프렝 포르 테렝 우마 멘치 지 마카쿠 프리미치바 키 에르다랑 코무 헤주우타두 지 아우궁 프로세수 이볼루치부, 우 키 낭 에 콤플레타멘치 베르다데이루. 코무 타우, 에 지투 아 엘리스 키 상 이네렌테멘치 비올렌투스 이 심플리스, 이 키 리스 파우타 아텐상 포르키 낭 콘세겡 포카르 콩 포데르 수피시엔치 누 문두 마테리아우 탕 임포르탄치.
+Devido às muitas suposições errôneas feitas pelo mundo humano, tão profundamente preso à materialidade, a maioria da humanidade se considera doente. Em um tempo anterior, não muito distante, o mundo humano era governado pela religião, e naquela época, as pessoas eram informadas de que estavam doentes de uma maneira diferente, uma maneira que eles se referiam como o pecado original. Mas agora, neste mundo moderno, as pessoas são informadas de que estão doentes por razões diferentes. Dizem-lhes que lhes falta atenção, o que é verdade, também lhes dizem que sofrem por terem uma mente de macaco primitiva que herdaram como resultado de algum processo evolutivo, o que não é completamente verdadeiro. Como tal, é dito a eles que são inerentemente violentos e simples, e que lhes falta atenção porque não conseguem focar com poder suficiente no mundo material tão importante.
 
 아스 페소아스 헤아우멘치 카레셍 지 아텐상, 마스 에사 파우타 낭 에 헤주우타두 지 우마 멘치 지 마카쿠 오 포르키 낭 이스탕 지스포스타스 아 포카르 우 수피시엔치 누 문두 마테리아우. 두 폰투 지 비스타 두 아우키미스타 인테르누, 아 우마니다지 이스타 도엔치 포르키 리 파우타 우 포데르 아텐투 파라 포카르 마이스 나켈리스 아스펙투스 인테르누스 지 시 메즈마, 온지 헤지지 세우 베르다데이루 포데르, 온지 이스탕 리브리스 두 아르콘치, 다켈라 포르사 아르콘치 키 아스 파스 아지르 코무 마카쿠스 톨루스. 이 에사 파우타 지 포데르 아텐투 낭 시 데비 아 우마 멘치 지 마카쿠 이네렌테멘치 이볼루치바, 오 아 우마 파우타 지 인테레시 누 수포스투 문두 헤아우, 에, 잉 베스 지수, 우 헤주우타두 지 우마 누벵 오브스트루치바, 아 누벵 두 아르콘치.
+As pessoas realmente carecem de atenção, mas essa falta não é resultado de uma mente de macaco ou porque não estão dispostas a focar o suficiente no mundo material. Do ponto de vista do alquimista interno, a humanidade está doente porque lhe falta o poder atento para focar mais naqueles aspectos internos de si mesma, onde reside seu verdadeiro poder, onde estão livres do Arconte, daquela força Arconte que as faz agir como macacos tolos. E essa falta de poder atento não se deve a uma mente de macaco inerentemente evolutiva, ou a uma falta de interesse no suposto mundo real, é, em vez disso, o resultado de uma nuvem obstrutiva, a nuvem do Arconte.
 
 누스 에 지투 키 이스타무스 토두스 지스트라이두스, 페르지두스 잉 노사스 일루종이스, 노수스 데바네이우스. 토두스 노스 소프레무스 지 트란스토르누 지 데피시트 지 아텐상 이 우마 세리 지 지페렌치스 치푸스 지 프로두투스 파르마세우치쿠스, 준타멘치 콩 우스 데우지스 다 카페이나, 포랑 토두스 우자두스 파라 텐타르 누스 쿠라르 데스치 수포스투 마우 모데르누. 누스 에 지투 키 데베리아무스 포카르 마이스 잉 노사스 비다스 마테리아이스, 노사스 비다스 피지카스, 아 그라비다지 데스치 문두, 아 도르 델리, 파라 키 포사무스 루타르 파라 파제르 마이스 코이자스, 파라 아지시오나르 마이스 페주 아 노스 메즈무스. 누스 에 지투 키 에스치 에 우 우니쿠 카미뉴 파라 수페라르 토두스 우스 말리스, 토다 아 도르, 토다 아 앙구스치아, 잉 노사스 비다스.
+Nos é dito que estamos todos distraídos, perdidos em nossas ilusões, nossos devaneios. Todos nós sofremos de transtorno de déficit de atenção e uma série de diferentes tipos de produtos farmacêuticos, juntamente com os deuses da cafeína, foram todos usados para tentar nos curar deste suposto mal moderno. Nos é dito que deveríamos focar mais em nossas vidas materiais, nossas vidas físicas, a gravidade deste mundo, a dor dele, para que possamos lutar para fazer mais coisas, para adicionar mais peso a nós mesmos. Nos é dito que este é o único caminho para superar todos os males, toda a dor, toda a angústia, em nossas vidas.
 
 마스 에사스 상 메이아스-베르다지스, 키 상 우스 멜료리스 치푸스 지 멘치라스 포르키 상 탕 지피세이스 지 헤푸타르. 아 탄타 마르젱 지 마노브라 넬라스, 키 쿠아우케르 코이자 포지 세르 아다프타다 파라 시 아데쿠아르 아우 멘치로주 아 쿠아우케르 모멘투. 엘라스 상 코무 웅 아톨레이루, 아레이아 모베지사, 키 치 푸샤 파라 바이슈 아 카다 페케누 모비멘투 키 보세 텐타 파제르 파라 이스카파르. 인탕, 아 헤알리다지, 아 베르다데이라 헤알리다지 펠루 메누스 두 폰투 지 비스타 두 아우키미스타 인테르누, 에 키 헤아우멘치 누스 파우타 아텐상, 헤아우멘치 이스타무스 지스트라이두스 펠루 문두, 마스 낭 에 우 문두 인테리오르 키 누스 지스트라이, 잉 베스 지수, 에 우 이스테리오르, 우 하시오나우 키 누스 지스 키 소무스 마키나스 지 카르니 잉 웅 우니베르수 지간치 이 인지페렌치, 토타우멘치 마테리아우. 인탕, 파라 우스 아우키미스타스 인테르누스, 아 아텐상 이스타 헤아우멘치 잉 데피시트, 이 낭 이스타 센두 포카다 아데쿠아다멘치, 아싱 코무 지젱 우스 하시오날리스타스, 마스 파라 우 아우키미스타 인테르누 (이스페시아우멘치 쿠안두 시 토르낭 프로제치스타스 프로피시엔치스), 아 우마니다지 낭 에 아우구 두루, 이테르나멘치 프레주 잉 웅 우니베르수 두루. 노스, 우마누스, 소무스 잉 베스 지수 세리스 마지쿠스 이 아 우니카 코이자 키 헤아우멘치 누스 임페지 지 노수 베르다데이루 포데르 에 에사 일루장/델리리우, 키 누스 만텡 지스트라이두스 이 포카두스 잉 코이자스 키 낭 임포르탕 누 피나우. 소무스 세리스 마지쿠스, 이 우 미누투 잉 키 푸데르무스 아크레지타르 니수 이 인텐데르 코무 노사 마지아 헤아우멘치 푼시오나, 에 우 미누투 잉 키 쿠아우케르 코이자 이 투두 코메사 아 시 토르나르 포시베우 파라 노스. 이 파라 파제르 이수, 데베무스 페르미치르 키 노사 아텐상 포키 마이스, 낭 메누스, 네시스 루가리스 판타지오주스 키 우스 마테리알리스타스 샤망 지 일루장 이 델리리우.
+Mas essas são meias-verdades, que são os melhores tipos de mentiras porque são tão difíceis de refutar. Há tanta margem de manobra nelas, que qualquer coisa pode ser adaptada para se adequar ao mentiroso a qualquer momento. Elas são como um atoleiro, areia movediça, que te puxa para baixo a cada pequeno movimento que você tenta fazer para escapar. Então, a realidade, a verdadeira realidade pelo menos do ponto de vista do alquimista interno, é que realmente nos falta atenção, realmente estamos distraídos pelo mundo, mas não é o mundo interior que nos distrai, em vez disso, é o exterior, o racional que nos diz que somos máquinas de carne em um universo gigante e indiferente, totalmente material. Então, para os alquimistas internos, a atenção está realmente em déficit, e não está sendo focada adequadamente, assim como dizem os racionalistas, mas para o alquimista interno (especialmente quando se tornam projetistas proficientes), a humanidade não é algo duro, eternamente preso em um universo duro. Nós, humanos, somos em vez disso seres mágicos e a única coisa que realmente nos impede de nosso verdadeiro poder é essa ilusão/delírio, que nos mantém distraídos e focados em coisas que não importam no final. Somos seres mágicos, e o minuto em que pudermos acreditar nisso e entender como nossa magia realmente funciona, é o minuto em que qualquer coisa e tudo começa a se tornar possível para nós. E para fazer isso, devemos permitir que nossa atenção foque mais, não menos, nesses lugares fantasiosos que os materialistas chamam de ilusão e delírio.
 
 우 카미뉴 두 프로제치스타 에, 안치스 지 투두, 소브리 헤쿠페라르 우 포데르 키 에 이네렌치 아 토두스 노스. 에 소브리 아반도나르 아 멘치라 키 누스 지스 키 소무스 메라스 마키나스 지 카르니, 이 키 투두 우 키 아콘테시 두란치 에시스 모멘투스 지스트라이두스 에 우마 일루장 오 웅 델리리우. 마스 인탕 우 아우키미스타 인테르누 레바 이수 아지안치, 임프레간두 우 포데르 가뉴 다 그란지 오브라, 노수 마그눙 오푸스, 이 포칸두 에시 포데르, 키 시 헤주미 아우 포데르 다 아텐상, 잉 파제르 콘시엔테멘치 우 키 테무스 페이투 잉콘시엔테멘치 데즈지 우 지아 잉 키 나세무스.
+O caminho do projetista é, antes de tudo, sobre recuperar o poder que é inerente a todos nós. É sobre abandonar a mentira que nos diz que somos meras máquinas de carne, e que tudo o que acontece durante esses momentos distraídos é uma ilusão ou um delírio. Mas então o alquimista interno leva isso adiante, empregando o poder ganho da Grande Obra, nosso Magnum Opus, e focando esse poder, que se resume ao poder da atenção, em fazer conscientemente o que temos feito inconscientemente desde o dia em que nascemos.
 
 우 카미뉴 두 프로제치스타 포지 세르 데피니두 코무 아 아빌리다지 지 코메사르 아 소냐르 아코르다두스 콘시엔테멘치 알렝 다스 세이스 파레지스, 심플레즈멘치 포칸두 노수 포데르 아텐투 나켈라스 비주알리자송이스 수포스타멘치 로카스 이 델리리우스 멘타이스, 아테 키, 아트라베스 데시 이제르시시우 (키 낭 에 탕 파시우 쿠안투 시 포사 이마지나르, 센두 키 누스 파우타 에시 포데르 지 아텐상 아포스 아누스 지 카치베이루), 포사무스 코메사르 아 이르 카다 베스 마이스 푼두, 알렝 데사스 파레지스 다 피지칼리다지.
+O caminho do projetista pode ser definido como a habilidade de começar a sonhar acordados conscientemente além das seis paredes, simplesmente focando nosso poder atento naquelas visualizações supostamente loucas e delírios mentais, até que, através desse exercício (que não é tão fácil quanto se possa imaginar, sendo que nos falta esse poder de atenção após anos de cativeiro), possamos começar a ir cada vez mais fundo, além dessas paredes da fisicalidade.
 
 우 모비멘투 인테르누 두 소냐도르 아코르다두 콘시엔치 콘치누아 아싱, 아테 누스 잉콘트라르무스 탕 론지 지 온지 데베리아무스 이스타르 코무 크리아투라스 푸라멘치 마테리아이스, 키, 아우 누스 비라르무스 이 올랴르무스 파라 트라스, 포데무스 베르 키 포무스 무이투 알렝 두스 데바네이우스 이 아고라 이스타무스 프로푼다멘치 메르굴랴두스 잉 지멘송이스 지 소뉴스, 오트라스 지멘송이스, 오트루스 문두스, 키 상 무이투 지페렌치스 지 쿠아우케르 코이자 포시베우 지 아코르두 콩 아 하시오날리다지... 이 아인다 아싱 에사스 오트라스 지멘송이스 상 탕... 헤아이스!
+O movimento interno do sonhador acordado consciente continua assim, até nos encontrarmos tão longe de onde deveríamos estar como criaturas puramente materiais, que, ao nos virarmos e olharmos para trás, podemos ver que fomos muito além dos devaneios e agora estamos profundamente mergulhados em dimensões de sonhos, outras dimensões, outros mundos, que são muito diferentes de qualquer coisa possível de acordo com a racionalidade... e ainda assim essas outras dimensões são tão... reais!
 
 “우 도르미뇨쿠 데비 데스페르타르,” 이 에시 도르미뇨쿠 에 우 판타즈마 나 마키나. 에 아 파르치 지 노스 키 포지 이스타르 아코르다다, 키 에 인지비두아우, 키 이스타 콘시엔치 쿠안두 포데무스 이스타르 콘시엔치스 포르 웅 템푸, 에 아 파르치 키 누스 레바 아 에시스 오트루스 헤이누스 쿠안두 낭 이스타무스 프레스탄두 아텐상, 이 에 에시 도르미뇨쿠 키 데비 우자르 우 포데르 아드키리두 아트라베스 두 노수 마그눙 오푸스, 에시 포데르 다 아텐상, 파라 비아자르 무이투 알렝 다스 세이스 파레지스, 파라 우스 노부스 헤이누스 알렝 다스 레이스 하시오나이스, 이 인탕 아인다 마이스 론지.
+“O dorminhoco deve despertar,” e esse dorminhoco é o fantasma na máquina. É a parte de nós que pode estar acordada, que é individual, que está consciente quando podemos estar conscientes por um tempo, é a parte que nos leva a esses outros reinos quando não estamos prestando atenção, e é esse dorminhoco que deve usar o poder adquirido através do nosso Magnum Opus, esse poder da atenção, para viajar muito além das seis paredes, para os novos reinos além das leis racionais, e então ainda mais longe.
 
 에사 에 아 마지아 심플리스 두 프로제치스타, 아 샤비 심플리스 키 데비 세르 콩키스타다 아트라베스 두 마그눙 오푸스 (아 그란지 오브라), 키 레바 아 이마지나상 '콘시엔치' 아 잉카라르 우마 데사스 무이타스 파레지스. 이 아우 잉카라르 에사 파레지, 우스 프로제치스타스 포뎅 파제르 우 이하시오나우, 키 에 임푸하르 에사 파레지 파라 트라스 이 인트라르 넬라 지 아우구마 포르마, 트란스포르만두-아 잉 우마 살라 트리지멘시오나우 덴트루 다 멘치. 아 파레지 인탕 파사 지 세르 우마 리미타상 파라 세르 우마 살라 트리지멘시오나우 지 포시빌리다지 인피니타.
+Essa é a magia simples do projetista, a chave simples que deve ser conquistada através do Magnum Opus (A Grande Obra), que leva a imaginação 'consciente' a encarar uma dessas muitas paredes. E ao encarar essa parede, os projetistas podem fazer o irracional, que é empurrar essa parede para trás e entrar nela de alguma forma, transformando-a em uma sala tridimensional dentro da mente. A parede então passa de ser uma limitação para ser uma sala tridimensional de possibilidade infinita.
 
 데사 포르마, 이 콩 우 템푸, 아트라베스 두 포쿠 아구사두 이 수스텐타두 데젠보우비두 아트라베스 다 그란지 오브라, 우스 아우키미스타스 인테르누스, 잉쿠안투 프로제치스타스 프라치칸치스, 포뎅 메르굴랴르 프로푼다멘치 잉 '이스타두스 아우테라두스' 키 인탕 모벵 타우 프로제치스타 파라 노바스 로칼리자송이스 지멘시오나이스 이 페르세프치바스. 우마 베스 키 에사스 노바스 로칼리자송이스 포상 세르 아우칸사다스, 에시스 프라치칸치스 시 토르낭 소냐도리스 세리스 카파지스 지 아반도나르 아 피지칼리다지 두 문두 이 인트라르 잉 노부스 이 콤플레타멘치 헤아이스 오트루스 루가리스. 이 아 메지다 키 방 마이스 푼두 이 마이스 푼두, 엘리스 포뎅 잉콘트라르, 셈프리 잉콘트라랑 시 푸데렝 이르 푼두 우 수피시엔치, 베르다데이루스 이 콤플레투스 오트루스 문두스, 베르다데이루스 오트루스 루가리스, 베르다데이라스 오트라스 코이자스, 키 상 엘리스 프로프리우스 루가리스 콤플레투스 이 세파라두스, 키 푼시오낭 지 마네이라스 지멘시오나이스 지페렌치스 다켈라스 잉콘트라다스 덴트루 다스 세이스 파레지스 다 지멘상 피지카. 타이스 프로제치스타스 인탕 시 토르낭 비아잔치스 누 키 소 포지 세르 데스크리투 코무 지멘송이스 지 소뉴, 루가리스 알리에니제나스 이 오트루스. 마스 타이스 비아잔치스 하피다멘치 데스코브렝 키 에사스 수포스타스 '지멘송이스 두 소뉴' 상 탕 헤아이스, 잉 아우궁스 아스펙투스 무이투 마이스 헤아이스, 두 키 우 문두 피지쿠 두 쿠아우 탐벵 파젱 파르치. 엘리스 인탕 시 토르낭 도이스 세리스, 우마 두알리다지 키 데비 세르 렌타멘치 우니다 아트라베스 두 템푸, 이 아우 파제르 이수, 데스코브렝 우 아우칸시 토타우 다 토탈리다지 지 시 메즈무스.
+Dessa forma, e com o tempo, através do foco aguçado e sustentado desenvolvido através da Grande Obra, os alquimistas internos, enquanto projetistas praticantes, podem mergulhar profundamente em 'estados alterados' que então movem tal projetista para novas localizações dimensionais e perceptivas. Uma vez que essas novas localizações possam ser alcançadas, esses praticantes se tornam sonhadores; seres capazes de abandonar a fisicalidade do mundo e entrar em novos e completamente reais outros lugares. E à medida que vão mais fundo e mais fundo, eles podem encontrar, sempre encontrarão se puderem ir fundo o suficiente, verdadeiros e completos outros mundos, verdadeiros outros lugares, verdadeiras outras coisas, que são eles próprios lugares completos e separados, que funcionam de maneiras dimensionais diferentes daquelas encontradas dentro das seis paredes da dimensão física. Tais projetistas então se tornam viajantes no que só pode ser descrito como dimensões de sonho, lugares alienígenas e outros. Mas tais viajantes rapidamente descobrem que essas supostas 'dimensões do sonho' são tão reais, em alguns aspectos muito mais reais, do que o mundo físico do qual também fazem parte. Eles então se tornam dois seres, uma dualidade que deve ser lentamente unida através do tempo, e ao fazer isso, descobrem o alcance total da totalidade de si mesmos.
 
 아 메지다 키 세우 포데르 크레시, 아 메지다 키 수아 그란지 오브라 누 문두 피지쿠 우스 임푸우시오나 파라 우마 '킨테센시아 다 이셀렌시아', 잉쿠안투 아프렌뎅 아 제렌시아르 아 이네르지아 아우 세우 헤도르, 엘리스 상 인탕 카파지스, 잉 우마 두알리다지 지 이지스텐시아, 탄투 누 문두 피지쿠 쿠안투 네사스 헤알리다지스 미치카스 두 소뉴, 지 이르 카다 베스 마이스 푼두. 아테 키 셰가 웅 폰투 잉 키 아 우니다지 데사 두알리다지 에 아우칸사다, 이 엘리스 낭 프레시장 마이스 이스타르 리가두스 아 피지칼리다지 지 포르마 아우구마. 셰가 웅 모멘투 잉 키 타우 소냐도르 시 토르나 웅 소뉴, 이 네시 폰투, 시 타우 프로제치스타 이스콜례르, 우 문두 피지쿠 포지 세르 데이샤두 파라 트라스 파라 셈프리 이 우 리미치 다스 세이스 파레지스 낭 이지스치 마이스.
+À medida que seu poder cresce, à medida que sua Grande Obra no mundo físico os impulsiona para uma 'quintessência da excelência', enquanto aprendem a gerenciar a energia ao seu redor, eles são então capazes, em uma dualidade de existência, tanto no mundo físico quanto nessas realidades míticas do sonho, de ir cada vez mais fundo. Até que chega um ponto em que a unidade dessa dualidade é alcançada, e eles não precisam mais estar ligados à fisicalidade de forma alguma. Chega um momento em que tal sonhador se torna um sonho, e nesse ponto, se tal projetista escolher, o mundo físico pode ser deixado para trás para sempre e o limite das seis paredes não existe mais.
 
 토두스 노스 소프레무스 지 아우구마 포르마 지 트란스토르누 지 데피시트 지 아텐상, 마스 아 마이오르 베르다지 에 키 노사 베르다데이라 인페르미다지 벵 두 파투 이네르제치쿠 지 키 에사 아텐상 낭 이스타 포카다 나스 코이자스 세르타스. 우 문두 누스 지스 키 데베무스 누스 콘센트라르 잉 코이자스 피지카스, 키 데베무스 누스 프레오쿠파르 콩 카다 페케누 이텡 피지쿠 덴트루 두 문두 마테리아우, 이 키 카다 페케누 데바네이우 지스트라이두 키 테무스 에 우마 도엔사, 우마 지스푼상 이나데쿠아다, 아우구 키 누스 임페지 지 세르무스 오르데나두스 지 아코르두 콩 우 키 엘리스 데피넹 코무 센두 오르데나두. 우스 아우키미스타스 인테르누스 인베르텡 타이스 노송이스 톨라스 이 아수멩 아 포지상 지 키, 임보라 우 문두 피지쿠 세자 임포르탄치, 노수 베르다데이루 트라발류, 우 트라발류 임포르탄치, 아콘테시 네사스 오트라스 지멘송이스 파라 온지 바무스 두란치 노수스 모멘투스 지스트라이두스. 엘리스 인텐뎅 키 아 피지칼리다지 에 임포르탄치 포르키 파르치스 지 노스 이스탕 리가다스 아 엘라, 이 우마 그란지 파르치 다 그란지 오브라 데비 아콘테세르 덴트루 델라. 엘리스 인텐뎅 키, 데비두 아 덴시다지 다 피지칼리다지, 에스치 에 웅 루가르 잉크리베우 파라 노스, 웅 캄푸 지 트레이나멘투. 마스, 아트라베스 지 수아 비장, 엘리스 탐벵 사벵 키 아 우마니다지 낭 에 아페나스 피지칼리다지, 이 시 포세무스 콘시데라르 아페나스 우 타마뉴, 지가무스, 인탕 아 베르다지 이네르제치카 에 키 아스 마이오리스 파르치스 지 노스 이지스텡 잉 지멘송이스 알렝 다 피지칼리다지. 이수 시그니피카 키, 아 메지다 키 아프렌데무스 아 제렌시아르 아 이네르지아 이 우 포데르 네스치 캄푸 지 트레이나멘투 피지쿠, 데베무스 코메사르, 지 마네이라 콘시엔치, 아 포카르 노사 아텐상 콩 프레시장 크레센치 누 키 아콘테시 두란치 에시스 모멘투스 지스트라이두스. 이수 에 지 수마 임포르탄시아 포르키 에 소멘치 네사스 오트라스 지멘송이스 키 잉콘트라레무스 베르다데이라멘치 노사 리베르다지 이 베르다데이루 포데르.
+Todos nós sofremos de alguma forma de transtorno de déficit de atenção, mas a maior verdade é que nossa verdadeira enfermidade vem do fato energético de que essa atenção não está focada nas coisas certas. O mundo nos diz que devemos nos concentrar em coisas físicas, que devemos nos preocupar com cada pequeno item físico dentro do mundo material, e que cada pequeno devaneio distraído que temos é uma doença, uma disfunção inadequada, algo que nos impede de sermos ordenados de acordo com o que eles definem como sendo ordenado. Os alquimistas internos invertem tais noções tolas e assumem a posição de que, embora o mundo físico seja importante, nosso verdadeiro trabalho, o trabalho importante, acontece nessas outras dimensões para onde vamos durante nossos momentos distraídos. Eles entendem que a fisicalidade é importante porque partes de nós estão ligadas a ela, e uma grande parte da Grande Obra deve acontecer dentro dela. Eles entendem que, devido à densidade da fisicalidade, este é um lugar incrível para nós, um campo de treinamento. Mas, através de sua visão, eles também sabem que a humanidade não é apenas fisicalidade, e se fôssemos considerar apenas o tamanho, digamos, então a verdade energética é que as maiores partes de nós existem em dimensões além da fisicalidade. Isso significa que, à medida que aprendemos a gerenciar a energia e o poder neste campo de treinamento físico, devemos começar, de maneira consciente, a focar nossa atenção com precisão crescente no que acontece durante esses momentos distraídos. Isso é de suma importância porque é somente nessas outras dimensões que encontraremos verdadeiramente nossa liberdade e verdadeiro poder.
 
 콘시데란두 키 토두스 노스 소프레무스 지 아우구마 포르마 지 트란스토르누 지 데피시트 지 아텐상, 이 콘시데란두 키 레바 템푸 파라 가냐르 포데르 지 아텐상 수피시엔치 파라 수스텐타르 노수 포쿠 네사스 오트라스 지멘송이스, 데베무스 우자르 토두스 우스 트루케스 지스포니베이스 파라 노스 파라 수스텐타르 에시 포데르 지 아텐상. 이수 에 임포르탄치 포르키 쿠안투 마이스 아텐상 데르무스 아 아우구, 마이오르 세라 아 그라비다지 키 에시 아우구 테라 파라 노스 쿠안투 마이스 헤아우 이수 시 토르나 파라 노스. 이 에 헤아우멘치 우 트루키 두 프로제치스타 토르나르 에사스 오트라스 지멘송이스 탕 헤아이스, 지 파투 마이스 헤아이스, 두 키 아 지멘상 마테리아우.
+Considerando que todos nós sofremos de alguma forma de transtorno de déficit de atenção, e considerando que leva tempo para ganhar poder de atenção suficiente para sustentar nosso foco nessas outras dimensões, devemos usar todos os truques disponíveis para nós para sustentar esse poder de atenção. Isso é importante porque quanto mais atenção dermos a algo, maior será a gravidade que esse algo terá para nós; quanto mais real isso se torna para nós. E é realmente o truque do projetista tornar essas outras dimensões tão reais, de fato mais reais, do que a dimensão material.
 
 아 솔루상 심플리스, 포르탄투, 에 우 쿠안투 지 템푸 보세 데지카 아텐상 아 쿠아우케르 코이자. 펠루 메누스, 이수 에 아우구 심플리스 지 데스크레베르, 마스 포지 세르 아우구 무이투 지피시우 지 헤알리자르. 코무 이우 지시, 우 문두 이스타 콘스탄테멘치 텐탄두 카프타르 노사 아텐상 이 푸샤-라 파라 우 헤이누 마테리아우. 이스타 콘스탄테멘치 누스 지젠두 키 아 마테리아 에 아 우니카 코이자 키 임포르타. 아 바탈랴 두 프로제치스타, 포르탄투, 에 아 바탈랴 파라 텐타르 포카르 우 마시무 지 아텐상 리브리 키 푸데렝 네사스 오트라스 지멘송이스, 이 이수 포지 세르 바스탄치 지피시우 아스 베지스.
+A solução simples, portanto, é o quanto de tempo você dedica atenção a qualquer coisa. Pelo menos, isso é algo simples de descrever, mas pode ser algo muito difícil de realizar. Como eu disse, o mundo está constantemente tentando captar nossa atenção e puxá-la para o reino material. Está constantemente nos dizendo que a matéria é a única coisa que importa. A batalha do projetista, portanto, é a batalha para tentar focar o máximo de atenção livre que puderem nessas outras dimensões, e isso pode ser bastante difícil às vezes.
 
 알렝 다스 테크니카스 키 데스크레부 누 리브루 _우 카미뉴 두 프로제치스타_, 탐벵 이지스치 아 네세시다지 지 타이스 프라치칸치스 낭 페르데렝 우 포쿠 네시스 오트루스 헤이누스. 잉 오트라스 팔라브라스, 타이스 프라치칸치스 이스탕 콘스탄테멘치 루탄두 콘트라 아 그라비다지 두 문두 피지쿠. 에사 그라비다지 파라 콩 키 엘리스 이스케상 토두스 노스 이스케세무스. 포르탄투, 데베무스 우자르 쿠아우케르 코이자 키 푸데르무스, 쿠아우케르 페케누 트루키, 파라 만테르 노수 포쿠 나켈리스 루가리스 온지 노사 베르다데이라 포르사 이 리베르다지 헤지뎅.
+Além das técnicas que descrevo no livro _O Caminho do Projetista_, também existe a necessidade de tais praticantes não perderem o foco nesses outros reinos. Em outras palavras, tais praticantes estão constantemente lutando contra a gravidade do mundo físico. Essa gravidade fará com que eles esqueçam; todos nós esquecemos. Portanto, devemos usar qualquer coisa que pudermos, qualquer pequeno truque, para manter nosso foco naqueles lugares onde nossa verdadeira força e liberdade residem.
 
 웅 데시스 트루케스 에 우자르 우 포데르 다 팔라브라 이스크리타 파라 누스 아주다르 아 눙카 이스케세르. 타이스 팔라브라스 포뎅 인탕 시 토르나르 코무 우마 리냐 오리엔타도라, 키 포지 누스 레바르 지 보우타 아우스 노수스 마이오리스 헤이누스. 아싱, 에사스 팔라브라스 우니다스 나 오르뎅 페르페이타 시 토르낭 우마 샤비, 우마 페케나 포르타 키 포지 누스 기아르, 키 포지 지레시오나르 노사 아텐상 나 지레상 세르타. 누 미니무, 에사스 팔라브라스 포뎅 누스 아주다르 아 알리비아르 노수 파르두, 아주다르-누스 콩 아우구마 다 그란지 그라비다지 데스치 루가르.
+Um desses truques é usar o poder da palavra escrita para nos ajudar a nunca esquecer. Tais palavras podem então se tornar como uma linha orientadora, que pode nos levar de volta aos nossos maiores reinos. Assim, essas palavras unidas na ordem perfeita se tornam uma chave, uma pequena porta que pode nos guiar, que pode direcionar nossa atenção na direção certa. No mínimo, essas palavras podem nos ajudar a aliviar nosso fardo, ajudar-nos com alguma da grande gravidade deste lugar.
 
 인탕, 쿠안두 우 페주 시 토르나르 인톨레라베우, 오 펠루 메누스 웅 포쿠 마이스 인톨레라베우 두 키 보세 고스타리아, 페기 에스치 리브루 이 레이아 잉 오르뎅, 오 이스콜랴 쿠아우케르 파사젱 알레아토리아멘치 이 포키 넬라, 나켈라 샤비 키 포지 아주다르 아 데즈블로케아르 오트루스 루가리스 지멘시오나이스 파라 보세. 네시 모비멘투, 키 에 웅 모비멘투 인테르누 다 포지상 페르세프치바 덴트루 지 보세, 보세 포지 데잘로자르 우마 노바 이네르지아, 이 에사 이네르지아 포지 인탕 세르 우자다 파라 알리비아르 우 페주 데스치 루가르.
+Então, quando o peso se tornar intolerável, ou pelo menos um pouco mais intolerável do que você gostaria, pegue este livro e leia em ordem, ou escolha qualquer passagem aleatoriamente e foque nela, naquela chave que pode ajudar a desbloquear outros lugares dimensionais para você. Nesse movimento, que é um movimento interno da posição perceptiva dentro de você, você pode desalojar uma nova energia, e essa energia pode então ser usada para aliviar o peso deste lugar.
 
 에 미냐 이스페란사 키 에사스 페르군타스 이 헤스포스타스, 에시스 코멘타리우스 알레아토리우스, 페이투스 포르 페소아스, 포르 세리스 우마누스 파산두 펠라 메즈마 조르나다 키 보세, 포상 아주다-루 쿠안두 우 문두 시 토르나르 무이투 페자두 이 아스 파레지스 시 토르나렝 무이투 그로사스. 콩 우 템푸, 아크레지치 잉 밍, 보세 낭 프레시자라 마이스 데시 트루키. 나켈리 모멘투, 에시스 문두스 시 토르나랑 탕 헤아이스 이 수아 콤프렌상 다 바스치당 지스포니베우 파라 보세 세라 탕 탄지베우, 탕 마테리아우, 키 보세 포지 인탕 프레시자르 데사스 팔라브라스 코무 웅 치푸 지 콘포르투, 파라 렘브라-루 지 키 보세 낭 이스타 소지뉴 네사 바스치당, 키 아 오트라스 페소아스 라 포라 비아잔두 콩 보세.
+É minha esperança que essas perguntas e respostas, esses comentários aleatórios, feitos por pessoas, por seres humanos passando pela mesma jornada que você, possam ajudá-lo quando o mundo se tornar muito pesado e as paredes se tornarem muito grossas. Com o tempo, acredite em mim, você não precisará mais desse truque. Naquele momento, esses mundos se tornarão tão reais e sua compreensão da vastidão disponível para você será tão tangível, tão material, que você pode então precisar dessas palavras como um tipo de conforto, para lembrá-lo de que você não está sozinho nessa vastidão, que há outras pessoas lá fora viajando com você.
 
 ### 페르군타스 & 헤스포스타스
+### Perguntas & Respostas
 
 **크: 낭 콘시구 인텐데르 쿠아우 에 아 지페렌사 엔트리 이마지나상 이 프로제상. 포수 이마지나르 아우구 파시우멘치, 마스 낭 콘세기 파사르 다 프리메이라 살라 두 프로제치스타 포르키 낭 테뉴 세르테자 두 키 데부 파제르 아우 임푸하르 아 파레지 지 네보아 파라 트라스. 나 미냐 비장 인테리오르, 탐벵 코녜시다 코무 이마지나상, 에 파시우, 마스 신투 키 낭 에 우 키 보세 데스크레비 잉 세우스 트라발류스.**
+**Q: Não consigo entender qual é a diferença entre imaginação e projeção. Posso imaginar algo facilmente, mas não consegui passar da Primeira Sala do projetista porque não tenho certeza do que devo fazer ao empurrar a parede de névoa para trás. Na minha visão interior, também conhecida como imaginação, é fácil, mas sinto que não é o que você descreve em seus trabalhos.**
 
 **쿠아우 에 아 지페렌사 엔트리 이마지나상 이 프로제상?**
+**Qual é a diferença entre imaginação e projeção?**
 
 **아 프로제상 에 아페나스 이우 이마지난두 아우구 아테 우 폰투 지 시 토르나르 헤아우 파라 아 미냐 페르세프상 피지카? 우 키 데부 파제르 시 미냐 이마지나상 아수미르 이 이우 심플레즈멘치 미 잉가나르 콩 아 이데이아 지 이스타르 파젠두 아 코이자 이 낭 프로그레지르 헤아우멘치?**
+**A projeção é apenas eu imaginando algo até o ponto de se tornar real para a minha percepção física? O que devo fazer se minha imaginação assumir e eu simplesmente me enganar com a ideia de estar fazendo a coisa e não progredir realmente?**
 
 아: 타우베스 세자 마이스 파시우 파라 보세 인텐데르 타이스 코이자스 낭 잉 테르무스 지 이마지나상 이 헤알리다지, 마스 잉 테르무스 지 이스타두스 지 콘시엔시아.
+A: Talvez seja mais fácil para você entender tais coisas não em termos de imaginação e realidade, mas em termos de estados de consciência.
 
 노르마우멘치, 이마지나르 에 데피니두 코무 아우구 키 보세 파스 잉쿠안투 이스타 콘시엔치, 잉쿠안투 프로제타르 (오 이스페리엔시아스 포라 두 코르푸, 코무 오트루 이젬플루) 에 아우구 키 보세 파스/텡 잉쿠안투 이스타 잉 웅 이스타두 아우테라두 지 콘시엔시아. 이, 아우 텐타르 데스코브리르 아 리냐 엔트리 아 심플리스 이마지나상 이 헤아우멘치 파제르 아우구 "헤아우", 텐데무스 아 지제르 키 비주알리자무스 쿠안두 이스타무스 잉 웅 이스타두 콘시엔치, 마스 소 포데무스 테르 우마 이스페리엔시아 포라 두 코르푸 쿠안두 이스타무스 잉 웅 이스타두 아우테라두 지 콘시엔시아. 포르탄투, 아 지페렌사 엔트리 이마지나상 이 헤아우멘치 파제르 아우구 에 심플레즈멘치 데피니다 코무: 아 비주알리자상 에 아우구 키 보세 파스 잉쿠안투 이스타 콘시엔치, 잉쿠안투 우 오트루 (이스페리엔시아 포라 두 코르푸) 에 아우구 키 보세 파스/텡 잉쿠안투 이스타 잉 아우궁 치푸 지 이스타두 아우테라두.
+Normalmente, imaginar é definido como algo que você faz enquanto está consciente, enquanto projetar (ou experiências fora do corpo, como outro exemplo) é algo que você faz/tem enquanto está em um estado alterado de consciência. E, ao tentar descobrir a linha entre a simples imaginação e realmente fazer algo "real", tendemos a dizer que visualizamos quando estamos em um estado consciente, mas só podemos ter uma experiência fora do corpo quando estamos em um estado alterado de consciência. Portanto, a diferença entre imaginação e realmente fazer algo é simplesmente definida como: a visualização é algo que você faz enquanto está consciente, enquanto o outro (experiência fora do corpo) é algo que você faz/tem enquanto está em algum tipo de estado alterado.
 
 누 인탄투, 보세 포지 펜사르 나 이마지나상 코무 아 아상 키 우 레바 다 콘시엔시아 코뭉 아 웅 이스타두 아우테라두 지 콘시엔시아, 이 에 에사 아우테라상 키 토르나 아스 이스페리엔시아스 포라 두 코르푸, 아스 프로제송이스, 포시베이스. 아트라베스 두 포쿠 포르치 이 수스텐타두 잉 타이스 비주알리자송이스, 오코히 우마 아우테라상 나투라우 나 콘시엔시아. 보세 포지 인탕 인텐데르 네시스 테르무스 키 아 심플리스 비주알리자상 레바 아 헤알리다지. 아싱, 보세 포지 코메사르 이마지나치바멘치 임푸한두 우마 비주알리자상 지 파레지 (헤페린두-시 아 테크니카 지 인트라르 나스 살라스 두 프로제치스타), 이 아우 파제-루, 아우테라르 세우 이스타두 지 콘시엔시아 아 폰투 지 아 파레지 시 토르나르 마이스 두 키 아페나스 우마 비주알리자상: 엘라 시 토르나 우마 헤알리다지.
+No entanto, você pode pensar na imaginação como a ação que o leva da consciência comum a um estado alterado de consciência, e é essa alteração que torna as experiências fora do corpo, as projeções, possíveis. Através do foco forte e sustentado em tais visualizações, ocorre uma alteração natural na consciência. Você pode então entender nesses termos que a simples visualização leva à realidade. Assim, você pode começar imaginativamente empurrando uma visualização de parede (referindo-se à técnica de entrar nas salas do projetista), e ao fazê-lo, alterar seu estado de consciência a ponto de a parede se tornar mais do que apenas uma visualização: ela se torna uma realidade.
 
 시 포르 마이스 파시우 파라 보세 인텐데르 데사 포르마, 아 이마지나상 오 비주알리자상 지 임푸하르 에사 파레지 에 우 이니시우 지 웅 모비멘투 인테르누, 웅 모비멘투 콘시엔치, 잉 지레상 아 웅 이스타두 지 콘시엔시아 지페렌치, 키 토르나 아 프로제상 헤아우.
+Se for mais fácil para você entender dessa forma, a imaginação ou visualização de empurrar essa parede é o início de um movimento interno, um movimento consciente, em direção a um estado de consciência diferente, que torna a projeção real.
 
 네시 폰투, 보세 포지, 쿠안두 센치르 키 수아 비주알리자상 우 레보 프로푼다멘치 덴트루 지 시 메즈무, 시 아인다 이스치베르 텐두 지피쿠우다지 잉 아크레지타르 키 우 키 이스타 이스페리멘탄두 에 헤아우 잉 베스 지 아페나스 이마지나상, 헤알리자르 세우스 프로프리우스 테스치스 인지비두아이스, 코무 텐타르 이덴치피카르 오브제투스 잉 웅 로카우 지스탄치 아우 쿠아우 보세 프로제토, 키 보세 포지 인탕 베리피카르 코무 텐두 이스타두 라 쿠안두 프로제토. 아포스 타이스 베리피카송이스 페소아이스, 수아 하시오날리다지 포지 세르 카파스 지 아세이타르 키 아스 비주알리자송이스 상 지 파투 무이투 마이스 두 키 아페나스 이마지나상, 키 아 심플리스 비주알리자상 포지 헤아우멘치 레바-루 아 이스타두스 아우테라두스 지 콘시엔시아.
+Nesse ponto, você pode, quando sentir que sua visualização o levou profundamente dentro de si mesmo, se ainda estiver tendo dificuldade em acreditar que o que está experimentando é real em vez de apenas imaginação, realizar seus próprios testes individuais, como tentar identificar objetos em um local distante ao qual você projetou, que você pode então verificar como tendo estado lá quando projetou. Após tais verificações pessoais, sua racionalidade pode ser capaz de aceitar que as visualizações são de fato muito mais do que apenas imaginação, que a simples visualização pode realmente levá-lo a estados alterados de consciência.
 
 우 포쿠 이나발라베우 에 아 샤비, 이수 에 우 마이스 임포르탄치.
+O foco inabalável é a chave, isso é o mais importante.
 
+---
 ---
 
 **크: 잉 무이투스 지 세우스 이스크리투스, 보세 팔라 두 마르 이스쿠루. 보세 포데리아 일라보라르 소브리 이수?**
+**Q: Em muitos de seus escritos, você fala do Mar Escuro. Você poderia elaborar sobre isso?**
 
 아: 이마지니 키 보세 에 웅 페이시 나단두 잉 웅 오세아누. 데비두 아우 파투 지 보세 세르 웅 페이시, 타우베스 넹 페르세바 키 수아 카자 에 웅 오세아누 이스쿠루 이 인피니투, 웅 마르 이스쿠루. 데비두 아 수아 피지올로지아 제라우, 보세 비비 덴트루 지 우마 세르타 만샤 오 파이샤 두 마르 이스쿠루 키 에 아 수아 카자.
+A: Imagine que você é um peixe nadando em um oceano. Devido ao fato de você ser um peixe, talvez nem perceba que sua casa é um oceano escuro e infinito, um Mar Escuro. Devido à sua fisiologia geral, você vive dentro de uma certa mancha ou faixa do Mar Escuro que é a sua casa.
 
 시 보세 수비르 데마이스, 수아 피지올로지아 낭 페르미치라 키 보세 수포르치 아 메노르 프레상 이 세우스 올류스 포뎅 낭 세르 카파지스 지 수포르타르 아 루스 마이스 브릴랸치. 포르 오트루 라두, 시 보세 메르굴랴르 마이스 프로푼다멘치 두 키 수아 피지올로지아 페르미치, 낭 콘세기라 헤스피라르 이 타우베스 낭 콘시가 인셰르가르 네사스 아구아스 프로푼다스 이 이스쿠라스.
+Se você subir demais, sua fisiologia não permitirá que você suporte a menor pressão e seus olhos podem não ser capazes de suportar a luz mais brilhante. Por outro lado, se você mergulhar mais profundamente do que sua fisiologia permite, não conseguirá respirar e talvez não consiga enxergar nessas águas profundas e escuras.
 
 데비두 아 이스트루투라 제라우 두 세우 세르, 보세 이스타 리미타두 아 아페나스 우마 세르타 헤지앙 지 웅 바스투 오세아누. 두 세우 폰투 지 비스타 코무 웅 페이시 네스치 오세아누, 우 문두 에 아페나스 탕 그란지 이, 펠루 키 보세 포지 페르세베르, 우스 우니쿠스 치푸스 지 포르마스 지 비다 키 이지스텡 상 아켈리스 키 이지스텡 준투 콩 보세 네사 파이샤 파르치쿨라르 두 오세아누, 오 아 비다 이스트라냐 키 아스 베지스 크루자 수아 페케나 세상 두 마르 이스쿠루.
+Devido à estrutura geral do seu ser, você está limitado a apenas uma certa região de um vasto oceano. Do seu ponto de vista como um peixe neste oceano, o mundo é apenas tão grande e, pelo que você pode perceber, os únicos tipos de formas de vida que existem são aqueles que existem junto com você nessa faixa particular do oceano, ou a vida estranha que às vezes cruza sua pequena seção do Mar Escuro.
 
 에 아테 메즈무 우 카주 지 키 세우스 올류스 지 페이시 소 콘세겡 베르 세르타스 코이자스, 아피나우, 엘리스 포랑 프로제타두스 파라 이지스치르 이 프로스페라르 다 마네이라 마이스 심비오치카 포시베우, 아페나스 잉 세르타 프로푼지다지 덴트루 두 마르 이스쿠루. 마스 아 헤알리다지 에 키 잉 토두 에스치 마르 이지스치 우마 그란지 바리에다지 지 포르마스 지 비다 이 아 마이오리아 데사스 포르마스 지 비다, 메즈무 키 이지스탕 준투 콩 보세 잉 세우 페다수 데스치 오세아누, 낭 상 페르세비베이스 포르 보세 데비두 아스 수아스 리미타송이스, 이 누 피나우 보세 소 포지 사베르 우 키 세우스 센치두스 피지쿠스 리 지젱. 세우스 올류스 시 아다프타랑 지 우마 세르타 마네이라, 엘리스 상 페르페이타멘치 아데쿠아두스 파라 우 세우 암비엔치, 마스 아 무이투 마이스 누 세우 암비엔치, 이 보세 소 포지 페르세베르 아테 세르투 폰투.
+É até mesmo o caso de que seus olhos de peixe só conseguem ver certas coisas, afinal, eles foram projetados para existir e prosperar da maneira mais simbiótica possível, apenas em certa profundidade dentro do Mar Escuro. Mas a realidade é que em todo este mar existe uma grande variedade de formas de vida e a maioria dessas formas de vida, mesmo que existam junto com você em seu pedaço deste oceano, não são percebíveis por você devido às suas limitações, e no final você só pode saber o que seus sentidos físicos lhe dizem. Seus olhos se adaptaram de uma certa maneira, eles são perfeitamente adequados para o seu ambiente, mas há muito mais no seu ambiente, e você só pode perceber até certo ponto.
 
 아고라, 지가무스 키 보세 세자 카파스 지 아프렌데르 아 이르 알렝 다 수아 페케나 파이샤 두 오세아누. 키 지 아우구마 포르마 보세 콘시가 아프렌데르 테크니카스 키 리 페르미탕 비아자르 무이투 알렝 다 수아 카자 파르치쿨라르 (수아 파이샤) 덴트루 데스타 인피니투지, 이 데비두 아 에사 아빌리다지, 보세 코메시 아 비아자르 이 베르 아스 무이타스 마라빌랴스 잉콘트라다스 누 헤스탄치 데스치 오세아누.
+Agora, digamos que você seja capaz de aprender a ir além da sua pequena faixa do oceano. Que de alguma forma você consiga aprender técnicas que lhe permitam viajar muito além da sua casa particular (sua faixa) dentro desta infinitude, e devido a essa habilidade, você comece a viajar e ver as muitas maravilhas encontradas no restante deste oceano.
 
 포르 메이우 데사스 비아젱스, 그라사스 아스 테크니카스 키 보세 콘세기우 데젠보우베르, 보세 코메사 아 페르세베르 키 우 루가르 키 에 수아 카자 에 나 베르다지 무이투 페케누. 키 아 우마 인피니투지 잉 쿠아우케르 지레상 키 보세 올리, 이 키 보세 포지 이르 파라 셈프리 잉 쿠아우케르 지레상 셍 자마이스 데스코브리르 웅 핑 파라 에스치 오세아누. 지 파투, 아우 콘트라리우 지 웅 오세아누 코뭉, 에스치 오세아누 키 에 아 수아 카자 낭 텡 푼두 아스 프로푼데자스 콘치누앙 파라 셈프리. 이 탐벵 낭 아 수페르피시 네스치 오세아누, 보세 포지 이르 카다 베스 마이스 아우투, 이 눙카 잉콘트라라 웅 핑 파라 아 인피니투지 아우 세우 헤도르.
+Por meio dessas viagens, graças às técnicas que você conseguiu desenvolver, você começa a perceber que o lugar que é sua casa é na verdade muito pequeno. Que há uma infinitude em qualquer direção que você olhe, e que você pode ir para sempre em qualquer direção sem jamais descobrir um fim para este oceano. De fato, ao contrário de um oceano comum, este oceano que é a sua casa não tem fundo; as profundezas continuam para sempre. E também não há superfície neste oceano, você pode ir cada vez mais alto, e nunca encontrará um fim para a infinitude ao seu redor.
 
 아스 테크니카스 키 보세 데젠보우베우 아고라 리 페르미치랑 베르 키 보세 이스타 헤아우멘치 덴트루 지 웅 오세아누 키 이지스치, 포르탄투, 웅 메이우 누 쿠아우 보세 이지스치, 키 에스치 메이우 우 임푸우시오나 이 리 다 비다.
+As técnicas que você desenvolveu agora lhe permitiram ver que você está realmente dentro de um oceano; que existe, portanto, um meio no qual você existe, que este meio o impulsiona e lhe dá vida.
 
 그라사스 아스 수아스 비아젱스, 그라사스 아스 노바스 테크니카스 키 보세 데젠보우베우, 보세 탐벵 데스코브리 키 에스치 오세아누 잉 키 비비 에 나 베르다지 바스탄치 이스쿠루. 오 세자, 이지스텡 세르투스 폰투스 온지 아 루스 시 콩그레가, 이 덴트루 데시스 폰투스 오 아그루파멘투스, 시 프레페리르, 아 우마 그란지 쿠안치다지 지 비다 이 아치비다지. 마스, 다 토탈리다지 키 보세 포지 테스테무냐르 아테 아고라 잉 수아스 비아젱스, 아 마이오르 파르치 두 오세아누 파레시 세르 바스탄치 이스쿠라, 지 파투, 아 세르타스 파르치스 덴트루 델리 키 상 탕 이스쿠라스 키 파레셍 세르 포사스 네그라스 지 나다.
+Graças às suas viagens, graças às novas técnicas que você desenvolveu, você também descobre que este oceano em que vive é na verdade bastante escuro. Ou seja, existem certos pontos onde a luz se congrega, e dentro desses pontos ou agrupamentos, se preferir, há uma grande quantidade de vida e atividade. Mas, da totalidade que você pôde testemunhar até agora em suas viagens, a maior parte do oceano parece ser bastante escura, de fato, há certas partes dentro dele que são tão escuras que parecem ser poças negras de nada.
 
 텐두 시 토르나두 웅 비아잔치 데스치 오세아누 프레도미난테멘치 이스쿠루, 데스치 마르 이스쿠루, 보세 아스 베지스 시 센치 소브레카헤가두 펠루 타마뉴 이멘수 이 펠라 이스쿠리당 키 이스타 테스테무냔두. 아 바리에다지 지 비다 이 아 인피니투지 키 보세 센치 아스 베지스 페장 소브리 보세, 아싱 코무 아스 프레송이스 지 웅 오세아누 인피니투 포뎅 페자르 소브리 웅 페케누 페이시 나단두 나스 포사스 이스쿠라스 지 웅 마르 지간테스쿠.
+Tendo se tornado um viajante deste oceano predominantemente escuro, deste Mar Escuro, você às vezes se sente sobrecarregado pelo tamanho imenso e pela escuridão que está testemunhando. A variedade de vida e a infinitude que você sente às vezes pesam sobre você, assim como as pressões de um oceano infinito podem pesar sobre um pequeno peixe nadando nas poças escuras de um mar gigantesco.
 
 에스치 에 우 마르 이스쿠루, 우 그란지 마르 이스쿠루. 낭 아 리미치스 파라 엘리. 에 우마 인피니투지 키 시 이스텐지 아우 노수 헤도르 아 카다 모멘투 지 카다 지아. 소무스 세리스, 코무 우스 페이시스, 프로제타두스 파라 비베르 덴트루 지 우마 세르타 파이샤 데스타 인피니투지. 두 노수 폰투 지 비스타, 파레시 키 아 비다 이 아 헤알리다지 상 아페나스 우 키 아콘테시 잉 노사 헤지앙 지 프로푼지다지, 마스 파라 아켈리스 키 콘세겡 아프렌데르 포르마스 지 비아자르 알렝 다 파이샤 키 에 수아 카자 나투라우, 로구 데스코브렝 키 지 파투 비벵 잉 웅 코즈무스 인피니투. 우마 바스치당 탕 그란지 이 아바살라도라, 탕 셰이아 지 마이스 코이자스 두 키 포데리앙 세르 이마지나다스, 탕 이스쿠라 이 탕 페로스, 탕 그란지 이 셰이아 지 비다 치타니카 무이투 알렝 지 쿠아우케르 코이자 키 푸데시 세르 이마지나다 오 메지다, 키 누 피나우 아스 팔라브라스 팔량. 아 하시오날리다지 오 쿠아우케르 치푸 지 신타시 멘타우 제라우멘치 우자다, 아친지 웅 무루 키 낭 콘세기 우우트라파사르.
+Este é o Mar Escuro, o Grande Mar Escuro. Não há limites para ele. É uma infinitude que se estende ao nosso redor a cada momento de cada dia. Somos seres, como os peixes, projetados para viver dentro de uma certa faixa desta infinitude. Do nosso ponto de vista, parece que a vida e a realidade são apenas o que acontece em nossa região de profundidade, mas para aqueles que conseguem aprender formas de viajar além da faixa que é sua casa natural, logo descobrem que de fato vivem em um cosmos infinito. Uma vastidão tão grande e avassaladora, tão cheia de mais coisas do que poderiam ser imaginadas, tão escura e tão feroz, tão grande e cheia de vida titânica muito além de qualquer coisa que pudesse ser imaginada ou medida, que no final as palavras falham. A racionalidade ou qualquer tipo de sintaxe mental geralmente usada, atinge um muro que não consegue ultrapassar.
 
 우 비아잔치 인탕 시 데파라 콩 아페나스 우마 포시빌리다지 아우 텐타르 데스크레베르 에사 이스쿠리당 아우스 오트루스 지 수아 이스페시, 셈프리 사벤두 키 팔랴라 누 피나우. 우 멜료르 키 우 페케누 페이시 포지 파제르 에 우자르 우마 메타포라 이 시 헤페리르 아 그란지 인피니투지 두 투두 우 키 에, 코무 아우구 세멜랸치 아 웅 마르 이스쿠루 잉크리베우멘치 프로푼두.
+O viajante então se depara com apenas uma possibilidade ao tentar descrever essa escuridão aos outros de sua espécie, sempre sabendo que falhará no final. O melhor que o pequeno peixe pode fazer é usar uma metáfora e se referir à grande infinitude do Tudo O Que É, como algo semelhante a um Mar Escuro incrivelmente profundo.
 
+---
 ---
 
 **크: 이스토 미 페르군탄두 시, 쿠안두 아우겡 시 토르나 웅 프로제치스타 아빌리도주, 지가무스, 파사무스 아 테르세이라 살라, 마스 아인다 낭 인트라무스 나 쿠아르타, 세리아 포시베우 트란스포르마르 미냐스 세송이스 지 헤아브소르상 잉 세송이스 지 프로제상? 쿠안두 이우 미 토르나르 웅 프로제치스타 아빌리도주, 세리아 플라우지베우/이피카스 프로제타르-미 지 보우타 아우 메우 모멘투 지 나시멘투 이 코메사르 아 아브소르베르 아 페르다 지 이네르지아 아 파르치르 데시 폰투, 데이샨두 아 메모리아 시 데젠홀라르, 아테 셰가르 아우 모멘투 프레젠치?**
+**Q: Estou me perguntando se, quando alguém se torna um projetista habilidoso, digamos, passamos a Terceira Sala, mas ainda não entramos na Quarta, seria possível transformar minhas sessões de reabsorção em sessões de projeção? Quando eu me tornar um projetista habilidoso, seria plausível/eficaz projetar-me de volta ao meu momento de nascimento e começar a absorver a perda de energia a partir desse ponto, deixando a memória se desenrolar, até chegar ao momento presente?**
 
 **이, 시 이스토 코헤투, 세리아 네세사리우 아도타르 아 페르스펙치바 다 프리메이라 페소아, 오 이우 포데리아 심플레즈멘치 오브세르바르 이 아브소르베르 아 파르치르 다 페르스펙치바 다 테르세이라 페소아?**
+**E, se estou correto, seria necessário adotar a perspectiva da primeira pessoa, ou eu poderia simplesmente observar e absorver a partir da perspectiva da terceira pessoa?**
 
 아: 아크레지투 키 보세 테냐 나투라우멘치 셰가두 아 웅 폰투 잉 키 아스 테크니카스 지스쿠치다스 잉 _우 마그눙 오푸스_ 코인시뎅/우넹-시 콩 _우 카미뉴 두 프로제치스타_, 센두 키 우마 인보우비 아 오트라: 아 아빌리다지 지 프로제타르 포지 아프리모라르 그란데멘치 수아 카파시다지 지 헤아브소르베르 아 페르다 이네르제치카 파사다.
+A: Acredito que você tenha naturalmente chegado a um ponto em que as técnicas discutidas em _O Magnum Opus_ coincidem/unem-se com _O Caminho do Projetista_, sendo que uma envolve a outra: a habilidade de projetar pode aprimorar grandemente sua capacidade de reabsorver a perda energética passada.
 
 마스, 아 메지다 키 보세 시 토르나 웅 프로제치스타 마이스 아빌리도주, 무이타스 다스 케스통이스 키 보세 텡 아고라 세랑 헤스폰지다스 아트라베스 지 수아 프로프리아 이스페리엔시아.
+Mas, à medida que você se torna um projetista mais habilidoso, muitas das questões que você tem agora serão respondidas através de sua própria experiência.
 
 포르 이젬플루, 임보라 세자 헤아우멘치 포시베우 우자르 수아스 테크니카스 지 프로제치스타 파라 보우타르 무이투 아트라스 잉 수아 비다, 에사스 프로제송이스 탐벵 페르미치랑 키 보세 페르세바 우 키 포데리아 세르 헤페리두 코무 이벤투스 지 비다 아우테르나치부스, 키, 임보라 이네시스텐치스 지 아코르두 콩 수아 메모리아 지 이벤투스 파사두스, 아인다 아싱 포뎅 데젬페냐르 웅 파페우 시그니피카치부 잉 수아 시투아상 아투아우. 에시스 이벤투스 아우테르나치부스 탐벵 포뎅 레바르 아우 키 포데리아 세르 헤페리두 코무 이벤투스 지 헹카르나상 시무우타네우스, 이 이수 에 웅 아순투 무이투 콤플레슈 키 이우 데탈류 마이스 누 우우치무 리브루 데스타 트릴로지아, _우 카미뉴 두 데자피아도르 다 모르치_. 마스, 두 폰투 지 비스타 지 웅 아데프투, 아 메지다 키 아반상 펠라스 살라스 두 프로제치스타 이 시 인보우벵 나 헤아브소르상 다스 페리다스 잉 수아 토탈리다지 이네르제치카, 에사스 헤알리다지스 아우테르나치바스 시 토르낭 코녜시다스 파라 엘리스.
+Por exemplo, embora seja realmente possível usar suas técnicas de projetista para voltar muito atrás em sua vida, essas projeções também permitirão que você perceba o que poderia ser referido como eventos de vida alternativos, que, embora inexistentes de acordo com sua memória de eventos passados, ainda assim podem desempenhar um papel significativo em sua situação atual. Esses eventos alternativos também podem levar ao que poderia ser referido como eventos de reencarnação simultâneos, e isso é um assunto muito complexo que eu detalho mais no último livro desta trilogia, _O Caminho do Desafiador da Morte_. Mas, do ponto de vista de um adepto, à medida que avançam pelas salas do projetista e se envolvem na reabsorção das feridas em sua totalidade energética, essas realidades alternativas se tornam conhecidas para eles.
 
 데이시-미 다르 웅 이젬플루, 지가무스 키, 아우 우자르 수아스 테크니카스 지 프로제치스타 파라 비아자르 지 보우타 아 웅 모멘투 무이투 이니시아우 잉 세우 파사두, 보세 코메사 아 헤아브소르베르 이 코메사 아 세기르 우 하스트루 지 수아 비다 아테 우 키 보세 시 헤페리 코무 우 모멘투 프레젠치. 마스, 아우 파제르 이수, 보세 데스코브리 키 파레시 인트라르 잉 웅 루가르 아우테르나치부 세멜랸치 아 웅 소뉴, 포르키, 잉 베스 지 시 토르나르 아 페소아 키 보세 에 아고라, 보세 세기 웅 하스트루 지 이벤투스 키 우 레방 아 이스페리멘타르 우마 비다 오 웅 콘준투 지 이벤투스 콤플레타멘치 지페렌치스 다 '헤알리다지'. 아고라, 보세 포지 아크레지타르 키 수아스 프로제송이스, 임보라 발리다스 잉 세르투 센치두, 낭 상 발리다스 쿠안두 시 트라타 지 헤아브소르상, 포르키, 메즈무 키 보세 테냐 시두 콘시엔테멘치 트란스포르타두 파라 우 키 포데리아 세르 헤페리두 코무 오트라 헤알리다지 지멘시오나우, 에사 헤알리다지 낭 텡 나다 아 베르 콩 우 키 보세 콘시데라 세르 아 이스토리아 팍투아우 이, 포르탄투, 쿠아우케르 아브소르상 키 보세 페스 라, 보세 이마지나, 낭 데비 콘타르.
+Deixe-me dar um exemplo, digamos que, ao usar suas técnicas de projetista para viajar de volta a um momento muito inicial em seu passado, você começa a reabsorver e começa a seguir o rastro de sua vida até o que você se refere como o momento presente. Mas, ao fazer isso, você descobre que parece entrar em um lugar alternativo semelhante a um sonho, porque, em vez de se tornar a pessoa que você é agora, você segue um rastro de eventos que o levam a experimentar uma vida ou um conjunto de eventos completamente diferentes da 'realidade'. Agora, você pode acreditar que suas projeções, embora válidas em certo sentido, não são válidas quando se trata de reabsorção, porque, mesmo que você tenha sido conscientemente transportado para o que poderia ser referido como outra realidade dimensional, essa realidade não tem nada a ver com o que você considera ser a história factual e, portanto, qualquer absorção que você fez lá, você imagina, não deve contar.
 
 벵, 우 파투 에 키 에시스 루가리스 아우테르나치부스 무이타스 베지스 콘탕 포르키 헤프레젠탕 이벤투스 키 헤텡 파르치스 지 노스 메즈무스, 파르치스 지 노사 이네르지아, 이 코무 타우, 아 메지다 키 웅 프로제치스타 크레시 잉 포데르, 엘리스 이스판뎅 무이투 세우스 콘세이투스 지 켕 상, 우 쿠앙 그란지스 헤아우멘치 상 포르 덴트루. 이 포르 카우자 지수, 엘리스 이스판뎅 무이투 탐벵 우스 치푸스 지 파이샤스 지 이네르지아 지스포니베이스 파라 엘리스, 이, 포르탄투, 아 쿠안치다지 지 이네르지아 키 포뎅 아세사르 이 헤아브소르베르... 우 키 인탕 아우멘타 아인다 마이스 우 세우 포데르, 이트크.
+Bem, o fato é que esses lugares alternativos muitas vezes contam porque representam eventos que retêm partes de nós mesmos, partes de nossa energia, e como tal, à medida que um projetista cresce em poder, eles expandem muito seus conceitos de quem são, o quão grandes realmente são por dentro. E por causa disso, eles expandem muito também os tipos de faixas de energia disponíveis para eles, e, portanto, a quantidade de energia que podem acessar e reabsorver... o que então aumenta ainda mais o seu poder, etc.
 
 이스페루 키 보세 포사 인텐데르 우 키 이스토 텐탄두 지제르 아키, 아 우마 그란지 누안시, 마스 에사 누안시 낭 이스타 알렝 지 보세. 이수 아페나스 헤케르 키 보세 크레사 잉 수아스 아빌리다지스 지 프로제치스타, 우 키 이스판지라 나투라우멘치 세우 인텔렉투 이 수아 카파시다지 지 베르 알렝 다스 프론테이라스 지 켕 보세 펜사바 테르 시두 아테 아고라.
+Espero que você possa entender o que estou tentando dizer aqui, há uma grande nuance, mas essa nuance não está além de você. Isso apenas requer que você cresça em suas habilidades de projetista, o que expandirá naturalmente seu intelecto e sua capacidade de ver além das fronteiras de quem você pensava ter sido até agora.
 
 쿠안투 아 무다르 수아스 세송이스 지 우마 세상 지 프로제치스타 파라 헤아브소르상, 시가 세우스 인스친투스 이 인투이송이스 나투라이스 키 리 지젱 파라 우니-루스. 마스 노치 키 보세 프레시자라 아우멘타르 수아 아빌리다지 코무 프로제치스타, 우 키 코인시지라 나투라우멘치 콩 수아 카파시다지 지 아브소르베르 이 콘테르 이네르지아. 웅 아파렌치 파라도슈, 이우 세이, 마스 아 이데이아 지 키 아우구 에 리네아르, 오 키 아 이스텐상 다 수아 비다 에 우 키 세기우 아우궁 쿠르수 지 트라제토리아 지 웅 코메수 아 웅 핑, 에 아 베르다데이라 일루장 잉 토다 아 비다.
+Quanto a mudar suas sessões de uma sessão de projetista para reabsorção, siga seus instintos e intuições naturais que lhe dizem para uni-los. Mas note que você precisará aumentar sua habilidade como projetista, o que coincidirá naturalmente com sua capacidade de absorver e conter energia. Um aparente paradoxo, eu sei, mas a ideia de que algo é linear, ou que a extensão da sua vida é o que seguiu algum curso de trajetória de um começo a um fim, é a verdadeira ilusão em toda a vida.
 
 쿠안투 아 우자르 아 프리메이라 오 아 테르세이라 페소아, 이우 아콘셀랴리아 보세 아 세기르 세우스 센치멘투스 노바멘치. 제라우멘치, 아 테르세이라 페소아 에 멜료르 쿠안두 아우구 에 이모시오나우멘치 지피시우 데마이스, 마스 아 프리메이라 페소아 텡 우 포텐시아우 지 페르미치르 키 보세 신타 마이스 (토다스 아스 누안시스 이스케시다스) 이, 포르탄투, 헤아브소르바 마이스.
+Quanto a usar a primeira ou a terceira pessoa, eu aconselharia você a seguir seus sentimentos novamente. Geralmente, a terceira pessoa é melhor quando algo é emocionalmente difícil demais, mas a primeira pessoa tem o potencial de permitir que você sinta mais (todas as nuances esquecidas) e, portanto, reabsorva mais.
 
+---
 ---
 
 **크: 푸이 인포르마두 포르 웅 기아 안테리오르 키 테뉴 우마 이마지나상 비주아우 수브데젠보우비다. 에스치 메즈무 프로페소르, 이 오트루, 암부스 인시낭 메두 이 카우텔라 소브리 아세사르 아 세군다 아텐상 데비두 아우스 히스쿠스 지 포세상 이네르제치카 오 테르 아 이네르지아 데즈비아다, 우 키 미 파레시 지페렌치 지 아페나스 페르데르 이네르지아 파라 웅 프레다도르 이노르가니쿠 키 시 알리멘타.**
+**Q: Fui informado por um guia anterior que tenho uma imaginação visual subdesenvolvida. Este mesmo professor, e outro, ambos ensinam medo e cautela sobre acessar a segunda atenção devido aos riscos de possessão energética ou ter a energia desviada, o que me parece diferente de apenas perder energia para um predador inorgânico que se alimenta.**
 
 **아 프린시파우 바헤이라 키 테뉴 에 아 잉카파시다지 지 크리아르 임팍투 비주아우 콩 우스 올류스 페샤두스. 웅 쿠아드라두 아줄 프로보 이스타르 알렝 다 미냐 카파시다지 아테 아고라, 메즈무 시 올랸두 파라 웅 안치스 지 페샤르 우스 올류스. 시 보세 푸데르 오페레세르 아우구마 오리엔타상, 아그라데세리아.**
+**A principal barreira que tenho é a incapacidade de criar impacto visual com os olhos fechados. Um quadrado azul provou estar além da minha capacidade até agora, mesmo se olhando para um antes de fechar os olhos. Se você puder oferecer alguma orientação, agradeceria.**
 
 아: 잉 메우스 리브루스, 셈프리 미 이스포르세이 파라 트라발랴르 콩 이네르지아 다 마네이라 마이스 지레타 포시베우, 이 셈프리 포르네세르, 네시 센치두, 테크니카 잉 베스 지 미 콘센트라르 잉 도그마스. 프레피루 미 콘센트라르 잉 프린시피우스 푼다멘타이스.
+A: Em meus livros, sempre me esforcei para trabalhar com energia da maneira mais direta possível, e sempre fornecer, nesse sentido, técnica em vez de me concentrar em dogmas. Prefiro me concentrar em princípios fundamentais.
 
 포르탄투, 다 미냐 페르스펙치바, 쿠안두 페수 키 보세 이마지니 웅 쿠아드라두 아줄, 탐벵 멘시오누 키 아 데펜덴시아 다 비주알리자상 비주아우 낭 에 네세사리아, 지 아코르두 콩 아스 테크니카스 키 지스쿠투.
+Portanto, da minha perspectiva, quando peço que você imagine um quadrado azul, também menciono que a dependência da visualização visual não é necessária, de acordo com as técnicas que discuto.
 
 토만두 우 쿠아드라두 아줄 코무 이젬플루, 잉 베스 지 텐타르 비주알리자르 비주아우멘치 아 이마젱 지 웅 쿠아드라두 아줄, 보세 포지, 포르 이젬플루, 텐타르 '센치르 웅 쿠아드라두' 비주알리자르 아트라베스 두 센치멘투. 콘포르미 보세 시 모비 인테르나멘치, 낭 아 네세시다지 지 베르 나다 시 이스치베르 콩 지피쿠우다지스 네사 아레아 잉 베스 지수, 보세 포지 프로제타르 수아 아텐상 파라 프렌치 이 텐타르 센치르 웅 쿠아드라두. 이마지니 키 보세 이스타 이스텐덴두 우마 파르치 지 시 메즈무 이 이스타 토칸두 우마 이스쿠우투라 잉 포르마 지 쿠아드라두. 콩 우 템푸, 이수 시 토르나라 파시우 파라 보세.
+Tomando o quadrado azul como exemplo, em vez de tentar visualizar visualmente a imagem de um quadrado azul, você pode, por exemplo, tentar 'sentir um quadrado'; visualizar através do sentimento. Conforme você se move internamente, não há necessidade de ver nada se estiver com dificuldades nessa área; em vez disso, você pode projetar sua atenção para frente e tentar sentir um quadrado. Imagine que você está estendendo uma parte de si mesmo e está tocando uma escultura em forma de quadrado. Com o tempo, isso se tornará fácil para você.
 
 쿠안두 센치르 키 에 무이투 봉 니수 이 푸데르 센치르 파시우멘치 에사 이스쿠우투라 인테르나, 케루 키 보세 콘템플리 우 키 우 아줄, 아 코르, 파레세리아. 에 포시베우 키 아 코르 아줄 테냐 우마 센사상?
+Quando sentir que é muito bom nisso e puder sentir facilmente essa escultura interna, quero que você contemple o que o azul, a cor, pareceria. É possível que a cor azul tenha uma sensação?
 
 헤스폰다 아 에사 페르군타 쿠안두 푸데르. 이우 세이 아 미냐 헤스포스타, 이우 코녜수 미냐스 아빌리다지스 펠라 이스페리엔시아. 보세 자 오비우 팔라르 지 시네스테지아?
+Responda a essa pergunta quando puder. Eu sei a minha resposta, eu conheço minhas habilidades pela experiência. Você já ouviu falar de sinestesia?
 
 이스플로리 토다스 에사스 이데이아스 이, 마이스 임포르탄치, 이스플로리 우 키 보세 아샤 키 아 코르 아줄 파레세리아 (테리아 고스투 지?). 데포이스 지 인테르날리자르 에사스 헤스포스타스 이 셰가르 아 우마 콩클루장 페소아우, 텐치 센치르 우 아줄 텐치 센치르 오 사보레아르 웅 쿠아드라두 아줄.
+Explore todas essas ideias e, mais importante, explore o que você acha que a cor azul pareceria (teria gosto de?). Depois de internalizar essas respostas e chegar a uma conclusão pessoal, tente sentir o azul; tente sentir ou saborear um quadrado azul.
 
 낭 포수 팔라르 소브리 우 키 오트라스 이스콜라스 지 펜사멘투 포상 펜사르 소브리 쿠아우케르 코이자. 코무 아피르메이 잉 메우스 리브루스, 미냐 크렌사 페소아우 에 키 투두, 누 피나우, 에 도그마, 이 아 우니카 마네이라 지 잉콘트라르 아 베르다지 헤아우 파라 보세 메즈무 에 이스페리멘타르 지 마네이라 이네르제치카 지레타.
+Não posso falar sobre o que outras escolas de pensamento possam pensar sobre qualquer coisa. Como afirmei em meus livros, minha crença pessoal é que tudo, no final, é dogma, e a única maneira de encontrar a verdade real para você mesmo é experimentar de maneira energética direta.
 
 아싱 센두, '미냐 비장 페소아우' 모스트로-미 키 시 보세 세기르 우마 아보르다젱 시스테마치카 코무 아스 키 모스트루 잉 메우 리브루, _우 카미뉴 두 프로제치스타_, 에사 아보르다젱 오르데나다 낭 페르미치라 키 보세 페르카 이네르지아 오 시 토르니 데펜덴치 지 쿠아우케르 포르마, 포르키 보세 이스타 콘스트루인두 렌타멘치 아스 페하멘타스 지 키 프레시자 파라 마니풀라르 인테르나멘치. 쿠아우케르 페르다 오 데즈비우 토르나-시 이센시아우멘치 우마 이센트리시다지 오 이스콜랴 페소아우, 포르키 낭 아 오트라 마네이라 지 프로세데르 지 아코르두 콩 아 포르마 코무 델리네이 에사스 테크니카스, 이 아 메지다 키 보세 아반사, 토르나-시 콘시엔치 우 수피시엔치 파라 아수미르 아 헤스폰사빌리다지 페소아우 포르 토다스 아스 아송이스 키 헤알리자 잉 세우 트라발류 인테르누.
+Assim sendo, 'minha visão pessoal' mostrou-me que se você seguir uma abordagem sistemática como as que mostro em meu livro, _O Caminho do Projetista_, essa abordagem ordenada não permitirá que você perca energia ou se torne dependente de qualquer forma, porque você está construindo lentamente as ferramentas de que precisa para manipular internamente. Qualquer perda ou desvio torna-se essencialmente uma excentricidade ou escolha pessoal, porque não há outra maneira de proceder de acordo com a forma como delineei essas técnicas, e à medida que você avança, torna-se consciente o suficiente para assumir a responsabilidade pessoal por todas as ações que realiza em seu trabalho interno.
 
 포르 핑, 이우 지리아 키, 잉쿠안투 파라르 우 지알로구 인테르누 에 세르타멘치 우마 파세타 무이투 그란지 다 폴라리다지 바지우, 나 베르다지 아 무이투 마이스 두 키 이수, 이 미냐 오피니앙 페소아우 노바멘치 에 키 에 멜료르 트라발랴르 콩 에사 폴라리다지 지레타멘치 두 키 아페나스 아보르다-라 코무 우마 우니카 테크니카 오 아상. 이 파라 아보르다-라 지레타멘치, 케루 지제르 키 보세 사이아 이 트라발리 콩 엘라, 데스쿠브라 아 누안시 포르 시 메즈무, 데스쿠브라 아스 마네이라스 펠라스 쿠아이스 엘라 포지 모베-루 잉 지레송이스 인수스페이타스. 시가 세우 인스친투 이 텐치 시 리베르타르 두 도그마 오 두 이스페라두.
+Por fim, eu diria que, enquanto parar o diálogo interno é certamente uma faceta muito grande da polaridade VAZIO, na verdade há muito mais do que isso, e minha opinião pessoal novamente é que é melhor trabalhar com essa polaridade diretamente do que apenas abordá-la como uma única técnica ou ação. E para abordá-la diretamente, quero dizer que você saia e trabalhe com ela, descubra a nuance por si mesmo, descubra as maneiras pelas quais ela pode movê-lo em direções insuspeitas. Siga seu instinto e tente se libertar do dogma ou do esperado.
 
 이스페루 키 이수 아주지. 렘브리-시: 아 비장 (우 아투 지 베르 오 이마지나르 키 이스타 벤두 인테르나멘치) 에 우마 일루장 보세 낭 텡 올류스 피지쿠스 잉쿠안투 이스타 덴트루. 지제르 키 보세 센치 우 쿠아드라두, 아 코르 아줄 오 우마 살라 에 탕 발리두 쿠안투 지제르 키 베 웅. 우스 우니쿠스 리미치스 두 키 보세 포지 파제르 인테르나멘치 상 아켈리스 키 보세 임퐁이 아 시 메즈무.
+Espero que isso ajude. Lembre-se: a visão (o ato de ver ou imaginar que está vendo internamente) é uma ilusão; você não tem olhos físicos enquanto está dentro. Dizer que você sente o quadrado, a cor azul ou uma sala é tão válido quanto dizer que vê um. Os únicos limites do que você pode fazer internamente são aqueles que você impõe a si mesmo.
 
+---
 ---
 
 **크: 잉 세우 리브루, 보세 멘시오나 키 시 아 프로제상 지 아우겡 파라 오트라 지멘상 포르 프로푼다 우 수피시엔치, 에사 페소아 포지 사이르 콤플레타멘치 다 헤알리다지 피지카. 우 키 아콘테시 콩 우 코르푸 피지쿠 네시 세나리우? 엘리 에 데스트루이두? 시 싱, 우 프로제치스타 이스타리아 모르투 두 폰투 지 비스타 피지쿠? 코무 이수 아페타리아 수아스 텐타치바스 지 이르 알렝 다 테르세이라 살라 이 셰가르 아 쿠아르타 이 킨타?**
+**Q: Em seu livro, você menciona que se a projeção de alguém para outra dimensão for profunda o suficiente, essa pessoa pode sair completamente da realidade física. O que acontece com o corpo físico nesse cenário? Ele é destruído? Se sim, o projetista estaria morto do ponto de vista físico? Como isso afetaria suas tentativas de ir além da Terceira Sala e chegar à Quarta e Quinta?**
 
 아: 포수 코메사르 지젠두 키, 시 우마 페소아 포르 카파스, 아트라베스 다 아빌리다지 오 인플루엔시아 이스테르나, 지 시 아프로푼다르 무이투 잉 오트라 지멘상, 엘라 심플레즈멘치 사이라 데스치 문두 피지쿠 (파레세라 데자파레세르). 이지스텡 무이투스 세나리우스 지페렌치스 포시베이스 잉 키 우마 페소아 포데리아 모헤르, 마스 탐벵 에 우 카주 (나 마이오리아 다스 베지스, 이우 지리아) 키 타우 페소아 심플레즈멘치 사이리아 피지카멘치 데스타 지멘상, 마스 낭 모헤리아 잉 테르무스 클라시쿠스 콘치누아리아 아 이지스치르 포르 웅 페리오두 바리아베우 지 템푸 잉 오트라 지멘상.
+A: Posso começar dizendo que, se uma pessoa for capaz, através da habilidade ou influência externa, de se aprofundar muito em outra dimensão, ela simplesmente sairá deste mundo físico (parecerá desaparecer). Existem muitos cenários diferentes possíveis em que uma pessoa poderia morrer, mas também é o caso (na maioria das vezes, eu diria) que tal pessoa simplesmente sairia fisicamente desta dimensão, mas não morreria em termos clássicos; continuaria a existir por um período variável de tempo em outra dimensão.
 
 이지스텡 무이투스 이스크리토리스 이 페스키자도리스 키, 아우 롱구 두스 아누스, 팔라랑 소브리 페소아스 키 파레셍 데자파레세르, 키 심플레즈멘치 파레셍 수미르 데스치 플라네타. 잉쿠안투 에 베르다지 키 무이투스 데시스 데자파레시멘투스 포뎅 세르 이스플리카두스 잉 테르무스 피지쿠스, 아우궁스 델리스 헤아우멘치 인보우벵 웅 모비멘투 콤플레투 지 우마 지멘상 파라 오트라. 탐벵 에 우 카주 키, 잉 무이타스 데사스 인스탄시아스, 타우 비아젱 피지카 토타우 지 우마 지멘상 파라 오트라 인보우비 인플루엔시아 이스테르나. 마스 안치스 지 인트라르 니수, 포수 지제르 키, 덴트루 두 그루푸 두스 데자파레시두스, 아 아켈리스 키 심플레즈멘치 시 프로제타랑 인테이라 이 토타우멘치 잉 오트라 지멘상. 지 파투, 보세 포지 잉콘트라르 무이타스 이비덴시아스 키 모스트랑 키 아 무이타스 페소아스 키 파레셍 데자파레세르 셍 데이샤르 하스트루스, 이 잉크리베우멘치 키 아 아테 카주스 지 페소아스 아파렌테멘치 비아잔두 누 템푸 지 포르마 아시덴타우. 무이투스 데시스 아콘테시멘투스, 잉 미냐 오피니앙, 상 헤주우타두 지 페소아스 키 시 잉콘트라랑 이스페리멘탄두 타이스 모비멘투스 아시덴타이스 엔트리 지멘송이스.
+Existem muitos escritores e pesquisadores que, ao longo dos anos, falaram sobre pessoas que parecem desaparecer, que simplesmente parecem sumir deste planeta. Enquanto é verdade que muitos desses desaparecimentos podem ser explicados em termos físicos, alguns deles realmente envolvem um movimento completo de uma dimensão para outra. Também é o caso que, em muitas dessas instâncias, tal viagem física total de uma dimensão para outra envolve influência externa. Mas antes de entrar nisso, posso dizer que, dentro do grupo dos desaparecidos, há aqueles que simplesmente se projetaram inteira e totalmente em outra dimensão. De fato, você pode encontrar muitas evidências que mostram que há muitas pessoas que parecem desaparecer sem deixar rastros, e incrivelmente que há até casos de pessoas aparentemente viajando no tempo de forma acidental. Muitos desses acontecimentos, em minha opinião, são resultado de pessoas que se encontraram experimentando tais movimentos acidentais entre dimensões.
 
 인탕 아 아켈리스 키 상 포르소자멘치 모비두스 파라 오트라스 지멘송이스 포르 포르사스 이스테르나스. 타우 모비멘투 포르사두 제라우멘치 에 헤주우타두 지 '폰투스 지 포데르' 이네르제치쿠스 나투라이스 다 테하 오 헤주우타두 지 포르마스 지 비다 낭 오르가니카스 프레다토리아스 아프리지오난두 페소아스.
+Então há aqueles que são forçosamente movidos para outras dimensões por forças externas. Tal movimento forçado geralmente é resultado de 'pontos de poder' energéticos naturais da Terra ou resultado de formas de vida não orgânicas predatórias aprisionando pessoas.
 
 쿠안투 아 사베르 시 타우 코이자 아페타리아 우 모비멘투 엔트리 오트라스 살라스 벵, 시 포르 아시덴타우, 오 카우자두 포르 아우궁 치푸 지 인플루엔시아 이스테르나, 인탕 에시 모비멘투 엔트리 지멘송이스 에 인펠리즈멘치 마이스 프로바베우 키 세자 파타우 아 롱구 오 쿠르투 프라주. 마스 시 타우 모비멘투 포르 헤주우타두 다 마니풀라상 아빌리도자 지 웅 프로제치스타 메스트리, 지가무스, 인탕 타우 페소아, 콤플레타멘치 데펜덴치 지 세우 니베우 지 이네르지아 이 아빌리다지, 아인다 포지 테르 아 샨시 잉 아우궁스 카주스 지 콘치누아르 데젠보우벤두 수아 아빌리다지 코무 프로제치스타 잉 문두스 무이투 알렝 데스치. 노바멘치, 아 무이타스 누안시스 아키, 이 카다 우마 포지 헤주우타르 잉 지페렌치스 포시빌리다지스.
+Quanto a saber se tal coisa afetaria o movimento entre outras salas; bem, se for acidental, ou causado por algum tipo de influência externa, então esse movimento entre dimensões é infelizmente mais provável que seja fatal a longo ou curto prazo. Mas se tal movimento for resultado da manipulação habilidosa de um projetista mestre, digamos, então tal pessoa, completamente dependente de seu nível de energia e habilidade, ainda pode ter a chance em alguns casos de continuar desenvolvendo sua habilidade como projetista em mundos muito além deste. Novamente, há muitas nuances aqui, e cada uma pode resultar em diferentes possibilidades.
 
+---
 ---
 
 **크: 우마 페르군타 콤플레멘타르 에 에스타: 시 이수 아콘테세시 콩 웅 프라치칸치 아빌리도주, 엘리 세리아 카파스 지 헤토르나르 아우 헤이누 피지쿠? 세우 세르 피지쿠 세리아 우 메즈무 지 안치스, 오 세리아 아우테라두 지 아우구마 포르마 포르 테르 이스타두 잉 오트루 루가르? 이우 프레주무 (잉코헤타멘치, 타우베스) 키 세리아 무이투 데즈가스탄치 이네르제치카멘치 파제르 이수.**
+**Q: Uma pergunta complementar é esta: se isso acontecesse com um praticante habilidoso, ele seria capaz de retornar ao reino físico? Seu ser físico seria o mesmo de antes, ou seria alterado de alguma forma por ter estado em outro lugar? Eu presumo (incorretamente, talvez) que seria muito desgastante energeticamente fazer isso.**
 
 아: 싱, 보세 이스타 아브솔루타멘치 코헤투, 세리아 무이투 데즈가스탄치 이네르제치카멘치, 이 에사 에 아 마이오르 하장 펠라 쿠아우 아 마이오리아 다스 페소아스 심플레즈멘치 낭 보우타, 메즈무 쿠안두 아콘테시 지 세렝 봉스 프로제치스타스. 아 포텐시아우 아우타 그라비다지 지 오트루 루가르 포지 낭 데이샤-루스 이르, 이 타우 그라비다지 인두지라 우마 이스페시 지 암네지아 잉 타우 비아잔치. 에사 그라비다지 오 마사 토르나라 무이투 지피시우 파라 엘리스 아테 메즈무 렘브라르 두 문두 지 온지 비에랑, 이 코무 타우, 인탕 우스 빙쿨라라 아 에사 노바 지멘상 파라 아 쿠아우 비아자랑, 지 모두 키 타우베스 낭 테냥 아 이네르지아 네세사리아 파라 시 리베르타르.
+A: Sim, você está absolutamente correto, seria muito desgastante energeticamente, e essa é a maior razão pela qual a maioria das pessoas simplesmente não volta, mesmo quando acontece de serem bons projetistas. A potencial alta gravidade de outro lugar pode não deixá-los ir, e tal gravidade induzirá uma espécie de amnésia em tal viajante. Essa gravidade ou massa tornará muito difícil para eles até mesmo lembrar do mundo de onde vieram, e como tal, então os vinculará a essa nova dimensão para a qual viajaram, de modo que talvez não tenham a energia necessária para se libertar.
 
 쿠안투 아 코무 엘리스 세리앙 무다두스, 이수 헤아우멘치 데펜지 파라 온지 방. 아 우마 인피니다지 지 지멘송이스 이 카다 우마 에 지페렌치 이 텡 지페렌치스 이페이투스 소브리 우 비아잔치. 두 노수 폰투 지 비스타, 아우궁스 데시스 오트루스 문두스 시 모벵 무이투 하피다멘치, 포르 이젬플루, 잉쿠안투 오트루스 시 모벵 벵 마이스 데바가르. 인탕, 웅 이페이투 이스페시피쿠, 포르 이젬플루, 포지 세르 키 우 비아잔치 키 데자파레시 이 데포이스 보우타 아 에스타 지멘상 포사 테르 인벨례시두, 메즈무 키 낭 테냐 이스타두 아우젠치 포르 무이투 템푸 다 노사 페르스펙치바, 오 비시-베르사, 포지 파레세르 키 낭 인벨례세우 나다, 메즈무 키, 다 노사 페르스펙치바, 테냐 이스타두 아우젠치 포르 무이투 템푸.
+Quanto a como eles seriam mudados, isso realmente depende para onde vão. Há uma infinidade de dimensões e cada uma é diferente e tem diferentes efeitos sobre o viajante. Do nosso ponto de vista, alguns desses outros mundos se movem muito rapidamente, por exemplo, enquanto outros se movem bem mais devagar. Então, um efeito específico, por exemplo, pode ser que o viajante que desaparece e depois volta a esta dimensão possa ter envelhecido, mesmo que não tenha estado ausente por muito tempo da nossa perspectiva, ou vice-versa, pode parecer que não envelheceu nada, mesmo que, da nossa perspectiva, tenha estado ausente por muito tempo.
 
+---
 ---
 
 **크: 이스토 무이투 프레오쿠파두 콩 우 키 이스타 아콘테센두 아우 헤도르 두 문두 오지 잉 지아. 콩 토두스 우스 록동스, 헤스트리송이스 지 모비멘투, 이 우스 프로시무스 아타케스 시베르네치쿠스 이 데즐리가멘투스 지 이네르지아, 아 시투아상 파레시 무이투 솜브리아. 신투 키 낭 아 마이스 템푸 이 키 투두 아카보 안치스 다 토타우 이스크라비자상 이 싱굴라리다지 이미넨치스.**
+**Q: Estou muito preocupado com o que está acontecendo ao redor do mundo hoje em dia. Com todos os lockdowns, restrições de movimento, e os próximos ataques cibernéticos e desligamentos de energia, a situação parece muito sombria. Sinto que não há mais tempo e que tudo acabou antes da total escravização e singularidade iminentes.**
 
 **이우 케리아 테르 마이스 5 아누스.**
+**Eu queria ter mais 5 anos.**
 
 **우스 쿠르수스 _우 마그눙 오푸스_ 이 _우 카미뉴 두 프로제치스타_ 포뎅 아주다르 오 낭? 오, 콘시데란두 미냐 파우타 지 프로그레수, 에 웅 카주 지 무이투 포쿠, 무이투 타르지?**
+**Os cursos _O Magnum Opus_ e _O Caminho do Projetista_ podem ajudar ou não? Ou, considerando minha falta de progresso, é um caso de muito pouco, muito tarde?**
 
 **보세 포지 수제리르 아우구 키 포사 미 아주다르 오 아 쿠아우케르 오트라 페소아 나 미냐 시투아상: 아켈리스 키 낭 상 알레그레멘치 이그노란치스, 마스 키 카레셍 지 쿠아우케르 센치두 지 솔루상 오 지레상 잉 키 데방 시 모베르?**
+**Você pode sugerir algo que possa me ajudar ou a qualquer outra pessoa na minha situação: aqueles que NÃO são alegremente ignorantes, mas que carecem de qualquer sentido de solução ou direção em que devam se mover?**
 
 아: 임보라 아스 코이자스 포상 파레세르 바스탄치 솜브리아스 누 모멘투, 아슈 키 에 셈프리 임포르탄치 페르세베르 키 토다 아 이스토리아 우마나 테비 수아 그란지 도지 지 트라제지아. 우 키 이스토 텐탄두 지제르 에 키 노수스 파이스, 아보스 이 토두스 우스 노수스 안테파사두스 치베랑 키 인프렌타르 우 키 파레시아 세르 우마 헤알리다지 세멜랸치 아우 핑 두스 템푸스. 토두스 인프렌타랑 소프리멘투 이 아니킬라상 지 아우구마 포르마.
+A: Embora as coisas possam parecer bastante sombrias no momento, acho que é sempre importante perceber que toda a história humana teve sua grande dose de tragédia. O que estou tentando dizer é que nossos pais, avós e todos os nossos antepassados tiveram que enfrentar o que parecia ser uma realidade semelhante ao fim dos tempos. Todos enfrentaram sofrimento e aniquilação de alguma forma.
 
 덴트루, 잉 보우타 이 세파라두스 데사스 시르쿤스탄시아스 지피세이스, 탐벵 아 폰투스 이 루가리스 온지 시 잉콘트라 우마 그란지 알레그리아. 우 트루키 에 셈프리 페르세베르 키 그란지 파르치 데사 네가치비다지 낭 이지스치 헤아우멘치 잉 베스 지수, 아 마이오르 파르치 에 프로파간다, 아 게하 메메치카, 키 무이타스 베지스 텡 코무 오브제치부 누스 콘두지르, 누스 코만다르, 잉 우마 세르타 지레상: 콘트롤리.
+Dentro, em volta e separados dessas circunstâncias difíceis, também há pontos e lugares onde se encontra uma grande alegria. O truque é sempre perceber que grande parte dessa negatividade não existe realmente; em vez disso, a maior parte é propaganda, a guerra memética, que muitas vezes tem como objetivo nos conduzir, nos comandar, em uma certa direção: controle.
 
 파라 콤바테르 에사 포르사, 이우 헤코멘다리아 키 보세 시가 아스 테크니카스 누스 리브루스 키 포수이, 포이스 에시스 리브루스 모스트랑 코무 리다르 콩 에사 네가치비다지.
+Para combater essa força, eu recomendaria que você siga as técnicas nos livros que possui, pois esses livros mostram como lidar com essa negatividade.
 
 포르 이젬플루, 누 리브루 _수페란두 우 아르콘치 아트라베스 다 아우키미아_, 이우 포르네수 우마 메토돌로지아 제라우 파라 리다르 콩 투두 이수, 우마 아보르다젱 세멜랸치 아우 타이 시 파라 리다르 콩 우 문두 잉 제라우.
+Por exemplo, no livro _Superando o Arconte através da Alquimia_, eu forneço uma metodologia geral para lidar com tudo isso, uma abordagem semelhante ao Tai Chi para lidar com o mundo em geral.
 
 심플리피칸두, 보세 아브소르비 이수, 이 프로제타 아킬루. 아 이데이아, 인탕, 에 아브소르베르 토다 에사 네가치비다지 이 인탕 프로제타르, 우잔두 에사 네가치비다지 키 아고라 보세 아브소르베우 코무 세우 포데르, 토다스 아스 코이자스 키 보세 데제자 누 문두 이 잉 수아 비다.
+Simplificando, você absorve isso, e projeta aquilo. A ideia, então, é absorver toda essa negatividade e então projetar, usando essa negatividade que agora você absorveu como seu poder, todas as coisas que você deseja no mundo e em sua vida.
 
 에사스 테크니카스 낭 이지젱 키 보세 시 토르니 웅 메스트리 다 노이치 파라 우 지아, 이 지 파투 보세 낭 데비 시 프레오쿠파르 콩 타이스 코이자스. 우 문두 낭 이스타 아카반두, 엘리 에 아페나스 셈프리 아프레젠타두 펠라 누벵 아르콘치 데사 포르마, 아 핑 지 마니풀라르 이 콘트롤라르, 알리멘타르-시.
+Essas técnicas não exigem que você se torne um mestre da noite para o dia, e de fato você não deve se preocupar com tais coisas. O mundo não está acabando, ele é apenas sempre apresentado pela nuvem Arconte dessa forma, a fim de manipular e controlar, alimentar-se.
 
 우 문두 이스타 콘치누아멘치 무단두, 이 콘치누아라 아 무다르 이수 에 웅 파투 다 이지스텐시아 피지카. 마스 테냐 콘피안사 누 파투 지 키 보세 바이 시 아다프타르, 이 키 아 우마니다지 바이 시 아다프타르 이 무다르, 아싱 코무 우마 플로르 포지 잉콘트라르 세우 카미뉴 이 이벤투아우멘치 시 아브리르 아트라베스 두 콩크레투 파라 프로스페라르.
+O mundo está continuamente mudando, e continuará a mudar; isso é um fato da existência física. Mas tenha confiança no fato de que você vai se adaptar, e que a humanidade vai se adaptar e mudar, assim como uma flor pode encontrar seu caminho e eventualmente se abrir através do concreto para prosperar.
 
 우지 아스 테크니카스 키 보세 아고라 코녜시, 콘센트리 수아 아텐상, 수아 아텐상 임플라카베우, 네스치 모두 지 아상 인테르나, 이 안치스 키 보세 페르세바, 피카라 임프레시오나두 콩 우 프로그레수 키 페스.
+Use as técnicas que você agora conhece, concentre sua atenção, sua atenção implacável, neste modo de ação interna, e antes que você perceba, ficará impressionado com o progresso que fez.
 
+---
 ---
 
 **크: 고스타리아 지 테르 수아 오피니앙 소브리 우마 이스페리엔시아 콩 아스 프라치카스 두 세우 우우치무 리브루, _우 카미뉴 두 프로제치스타_, 이스페시아우멘치 콩 아 킨타 살라 두 프로제치스타. 코메세이 아 비아자르 지 포르타우 잉 포르타우 코무 우마 “아우마 셍 본타지”, 셍 프로포지투, 심플레즈멘치 비아잔두 아트라베스 지 문두스 이 지멘송이스.**
+**Q: Gostaria de ter sua opinião sobre uma experiência com as práticas do seu último livro, _O Caminho do Projetista_, especialmente com a Quinta Sala do projetista. Comecei a viajar de portal em portal como uma “alma sem vontade”, sem propósito, simplesmente viajando através de mundos e dimensões.**
 
 **푸이 프리메이라멘치 아 문두스 지 벨레자 잉크리베우, 마스 탐벵 지 실렌시우 잉크리베우... 나 마이오리아 델리스, 낭 아비아 비다. 에랑 문두스 “페이투스 지 실렌시우”, 이 이수 미 데이쇼 콩 우마 센사상 지 파스, 콘시엔시아, 마스 탐벵 멜랑콜리아. 이우 이스타바 쿠아지 “트리스치” 이 마라빌랴두 아우 메즈무 템푸 지안치 데사 인피니투지.**
+**Fui primeiramente a mundos de beleza incrível, mas também de silêncio incrível... na maioria deles, não havia vida. Eram mundos “feitos de silêncio”, e isso me deixou com uma sensação de paz, consciência, mas também melancolia. Eu estava quase “triste” e maravilhado ao mesmo tempo diante dessa infinitude.**
 
 **우 키 보세 아샤 지수? 보세 자 테비 이스페리엔시아스 세멜랸치스?**
+**O que você acha disso? Você já teve experiências semelhantes?**
 
 아: 우 키 보세 프레시자 페르세베르, 아크레지투 이우, 이 이수 에 아우구 키 비라 아트라베스 다 수아 프로프리아 이스페리엔시아 아우 롱구 두 템푸, 이 테뉴 세르테자 지 키 보세 셰가라 라 시 아인다 낭 셰고, 에 키 아트라베사르 아스 살라스 마이스 아반사다스 두 프로제치스타 레바 템푸. 낭 에 아우구 키 포사 세르 페이투 잉 메지스, 마스 에 아우구 키 포지 레바르 아누스 이 타우베스 데카다스.
+A: O que você precisa perceber, acredito eu, e isso é algo que virá através da sua própria experiência ao longo do tempo, e tenho certeza de que você chegará lá se ainda não chegou, é que atravessar as salas mais avançadas do projetista leva tempo. Não é algo que possa ser feito em meses, mas é algo que pode levar anos e talvez décadas.
 
 낭 아 프레사 네시 프로세수, 포르키 메즈무 키 보세 시 토르니 웅 그란지 메스트리 나 아빌리다지 지 트라발랴르 이 시 코무니카르 콩 우 세우 잉콘시엔치, 아 무이투 아 아프렌데르 소브리 아 나투레자 다 수아 프로프리아 헤알리다지, 아 수아 프로프리아 콘스치투이상 인테르나, 이 아 이지스텐시아 두스 문두(스) 키 보세 아주다 아 크리아르.
+Não há pressa nesse processo, porque mesmo que você se torne um grande mestre na habilidade de trabalhar e se comunicar com o seu inconsciente, há muito a aprender sobre a natureza da sua própria realidade, a sua própria constituição interna, e a existência dos mundo(s) que você ajuda a criar.
 
 포르 에사 하장, 보세 포지 노타르 키 두란치 웅 그란지 세그멘투 지 수아 비다, 지가무스, 아우궁스 메지스 오 타우베스 아테 아누스, 보세 포지 이스페리멘타르 에시 치푸 지 멜랑콜리아 이 실렌시우 잉 수아스 이스플로라송이스 인테르나스 다 킨타 살라. 이 에사스 이스페리엔시아스, 포르 시 소, 인시나랑 무이투 소브리 수아 프로프리아 나투레자 페소아우 아 메지다 키 보세 페르세베르, 오 펠루 메누스 코메사르 아 인텐데르, 지 온지 벵 에시 실렌시우 이 에사 멜랑콜리아, 코무 엘리스 시 잉카이샹 나 이스트루투라 지 수아 비다, 이 코무 에시스 센치멘투스 이 아벤투라스 상 헤아우멘치 우스 메타다두스 키 크리앙 토두 우 세우 문두 오 펠루 메누스 우마 파르치 두 세우 문두.
+Por essa razão, você pode notar que durante um grande segmento de sua vida, digamos, alguns meses ou talvez até anos, você pode experimentar esse tipo de melancolia e silêncio em suas explorações internas da Quinta Sala. E essas experiências, por si só, ensinarão muito sobre sua própria natureza pessoal à medida que você perceber, ou pelo menos começar a entender, de onde vêm esse silêncio e essa melancolia, como eles se encaixam na estrutura de sua vida, e como esses sentimentos e aventuras são realmente os metadados que criam todo o seu mundo; ou pelo menos uma parte do seu mundo.
 
 마스 콩 우 템푸, 에사스 이스플로라송이스 포뎅 무다르, 이 보세 포지 시 잉콘트라르 이스페리멘탄두 아스펙투스 마이스 이스쿠루스 (오 마이스 클라루스), 오 포지 아카바르 이스페리멘탄두 웅 치푸 토타우멘치 지페렌치 지 온다 이 이벤투 문지아우. 에 무이투 임포르탄치 키 네스치 모멘투 보세 페르세바 아스 무단사스 인테르나스 이 베자 코무 엘라스 헤플레텡 아스 무단사스 이스테르나스, 이 데스타 포르마 데스쿠브라 아인다 마이스 소브리 수아스 코네숑이스 잉콘시엔치스, 소브리 아 이센시아 다 헤알리다지 두 세르, 이 코무 우 인테리오르 이 우 이스테리오르 낭 상 세파라두스, 마스 키 시 토르나랑 세파라두스 데비두 아스 무이타스 바헤이라스 키 이르게무스, 키 포무스 포르사두스 아 이르게르 노스 메즈무스. 에스타스 상 아스 바헤이라스 키 보세 데비 수페라르 파라 이르 알렝 다 킨타 살라.
+Mas com o tempo, essas explorações podem mudar, e você pode se encontrar experimentando aspectos mais escuros (ou mais claros), ou pode acabar experimentando um tipo totalmente diferente de onda e evento mundial. É muito importante que neste momento você perceba as mudanças internas e veja como elas refletem as mudanças externas, e desta forma descubra ainda mais sobre suas conexões inconscientes, sobre a essência da realidade do ser, e como o interior e o exterior não são separados, mas que se tornaram separados devido às muitas barreiras que erguemos, que fomos forçados a erguer nós mesmos. Estas são as barreiras que você deve superar para ir além da Quinta Sala.
 
+---
 ---
 
 **크:**
+**Q:**
 
 **1.** **에 아세이타베우 시 미냐 아텐상 콘시엔치 페르마네세르 나 파레지 나 마이오르 파르치 두 템푸, 이 소 시 지스트라이르 브레베멘치? 에 비아베우 토카르 무지카 잉쿠안투 미 콘센트루?**
+**1.**  **É aceitável se minha atenção consciente permanecer na parede na maior parte do tempo, e só se distrair brevemente? É viável tocar música enquanto me concentro?**
 
 **2.** **코무 세리아 시 세리스 지 오트라스 지멘송이스 프로제타셍 파라 에스타 헤알리다지?**
+**2.**  **Como seria se seres de outras dimensões projetassem para esta realidade?**
 
 **탐벵 이스토 쿠리오주 소브리 아 모르치 지 오트루스 잉 오트라스 헤알리다지스. 엘리스 탐벵 소프렝 우 메즈무 데스치누 키 노스, 누 센치두 지 키 탐벵 상 수가두스 파라 우 소우 네그루? 오 우 프로세수/시스테마 지 모르치 에 우니쿠 파라 에스타 헤알리다지?**
+**Também estou curioso sobre a morte de outros em outras realidades. Eles também sofrem o mesmo destino que nós, no sentido de que também são sugados para o Sol Negro? Ou o processo/sistema de morte é único para esta realidade?**
 
 **3.** **웅 프로제치스타 포지 이르 아 오트라 헤알리다지 온지 이지스치 아우궁 치푸 지 일리시르 두 코녜시멘투, 이 아우 베베-루 아드키리르 인스탄타네아멘치 아우궁 치푸 지 그란지 코녜시멘투?**
+**3.**  **Um projetista pode ir a outra realidade onde existe algum tipo de elixir do conhecimento, e ao bebê-lo adquirir instantaneamente algum tipo de grande conhecimento?**
 
 아:
+A:
 
 1. 싱, 에 포시베우 콘치누아르 아반산두 파라 아 세군다 살라, 메즈무 키 보세 낭 테냐 콘세기두 일리미나르 토두 우 세우 후이두 멘타우. 마스 보세 포지 데스코브리르 키, 아 메지다 키 아반사 파라 아 세군다 살라 이 알렝, 에시스 펜사멘투스 알레아토리우스 키 아스 베지스 파레셍 이스타르 탕 프로푼다멘치 인하이자두스 잉 보세, 포뎅 헤프레젠타르 데자피우스 인테레산치스 아 메지다 키 보세 프로그리지.
+1.  Sim, é possível continuar avançando para a Segunda Sala, mesmo que você não tenha conseguido eliminar todo o seu ruído mental. Mas você pode descobrir que, à medida que avança para a Segunda Sala e além, esses pensamentos aleatórios que às vezes parecem estar tão profundamente enraizados em você, podem representar desafios interessantes à medida que você progride.
 
 포르 이젬플루, 나 프리메이라 살라, 엘리스 포뎅 아파레세르 아페나스 코무 후이두 알레아토리우 프로제타두 나 수아 파레지, 지가무스. 마스 나 세군다 살라, 엘리스 시 토르나랑 마이스 콩크레투스 이 포뎅 레바-루 잉 오트라스 지레송이스 키 보세 타우베스 낭 케이라 세기르. 아 메지다 키 아반사 펠라스 살라스, 우 포데르 데시스 펜사멘투스 알레아토리우스 아우멘타, 이 엘리스 포뎅 시 토르나르 포르타이스 레지치무스 키 이스탕 셈프리 레반두 보세 아 아우궁 루가르 키 포지 세르 아세이타베우, 마스 탐벵 포지 세르 웅 루가르 지피시우 파라 보세, 이 네시 모멘투 보세 세라 포르사두 아 리다르 콩 엘리스 헤페치다스 베지스, 자 키 에 트란스포르타두 파라 라 지 노부 이 지 노부. 이벤투아우멘치, 보세 프레시자라 잉콘트라르 아 폰치 델리스 이 데테-루스. 아싱, 포지-시 지제르 키 에 무이투 임포르탄치 콘트롤라르 에사스 지스트라송이스 알레아토리아스, 포르키 쿠안투 마이스 보세 아반사 코무 프로제치스타, 마이스 에시스 데자피우스 포뎅 시 토르나르 베르다데이루스 포르타이스 이 프로블레마스. 이, 아 프로포지투, 엘리스 포뎅 모스트라르 아켈라 피수라 잉 수아 아르마두라 키 포지 임페지-루 지 셰가르 온지 보세 헤아우멘치 케르 이르. 이 에시스 탐벵 포뎅 세르 콘시데라두스 웅 치푸 지 데자피우 키, 아우 수페라르, 보세 시 토르나 마이스 포르치. 아 웅 이킬리브리우 잉 투두.
+Por exemplo, na Primeira Sala, eles podem aparecer apenas como ruído aleatório projetado na sua parede, digamos. Mas na Segunda Sala, eles se tornarão mais concretos e podem levá-lo em outras direções que você talvez não queira seguir. À medida que avança pelas salas, o poder desses pensamentos aleatórios aumenta, e eles podem se tornar portais legítimos que estão sempre levando você a algum lugar que pode ser aceitável, mas também pode ser um lugar difícil para você, e nesse momento você será forçado a lidar com eles repetidas vezes, já que é transportado para lá de novo e de novo. Eventualmente, você precisará encontrar a fonte deles e detê-los. Assim, pode-se dizer que é muito importante controlar essas distrações aleatórias, porque quanto mais você avança como projetista, mais esses desafios podem se tornar verdadeiros portais e problemas. E, a propósito, eles podem mostrar aquela fissura em sua armadura que pode impedi-lo de chegar onde você realmente quer ir. E esses também podem ser considerados um tipo de desafio que, ao superar, você se torna mais forte. Há um equilíbrio em tudo.
 
 쿠안투 아 토카르 무지카 잉쿠안투 보세 프로제타, 이수 에 우마 이스콜랴 페소아우, 아페나스 세르치피키-시 지 키 이수 낭 우 지스트라이아 다 수아 타레파.
+Quanto a tocar música enquanto você projeta, isso é uma escolha pessoal, apenas certifique-se de que isso não o distraia da sua tarefa.
 
 2. 아 베르다지 이네르제치카 파라 우스 아우키미스타스 인테르누스 에 키 아 페소아스 지 오트라스 지멘송이스 셈프리 프로제탄두-시 네스타 지멘상. 코무 엘라스 포뎅 비아자르 에 지 수아 아우사다 (카다 인지비두 포지 테르 수아 프로프리아 테크니카) 잉 콘포르미다지 콩 수아 이지스텐시아 지멘시오나우, 마스 포지 아베르 우마 그란지 바리아상 엔트리 코무 에사스 페소아스 포뎅 파레세르, 오 아지르 두 폰투 지 비스타 피지쿠, 쿠안두 엔트랑 네스타 지멘상.
+2.  A verdade energética para os alquimistas internos é que há pessoas de outras dimensões sempre projetando-se nesta dimensão. Como elas podem viajar é de sua alçada (cada indivíduo pode ter sua própria técnica) em conformidade com sua existência dimensional, mas pode haver uma grande variação entre como essas pessoas podem parecer, ou agir do ponto de vista físico, quando entram nesta dimensão.
 
 웅 그란지 누메루 지 이벤투스 파라노르마이스 이스타 헬라시오나두 아 에시스 비아잔치스 트란즈지멘시오나이스. 이 코무 에시스 인지비두스 상 페르세비두스 데펜지 다 아빌리다지 지 타우 프로제치스타/비아잔치 이 다 아빌리다지 오 두스 탈렌투스 나투라이스 다 페소아 키 우스 페르세비. 잉 수아 마이오르 파르치, 이우 지리아 키 아 마이오리아 다스 페소아스 텐지 아 낭 이스타르 시엔치 지 토두 우 트라페구 아우 세우 헤도르, 잉쿠안투 아우구마스 페소아스 포뎅 이스타르 콘시엔치스 잉 아우궁 그라우 이, 파라 에사스 페소아스, 에시스 비아잔치스 지 오트라스 지멘송이스 포뎅 파레세르 판타즈마스, 우스 오멩스 지 프레투 아스 베지스, 세리스 솜브리우스 타우베스, 신젠투스, 페소아스 콩 아파렌시아 코뭉, 마스 지 아우구마 포르마 이스트라냐스, 오 쿠아우케르 누메루 지 오트라스 포시빌리다지스. 토두스 에시스 데벵 세르 콘시데라두스 코무 포시베이스 비아잔치스 트란즈지멘시오나이스, 자 키 낭 아 콘센수 파라 노스, 센두 키 낭 테무스 우마 보아 시엔시아 멘타우 파라 페르세베르 이 클라시피카르 우 트라페구 아우 노수 헤도르 누 모멘투. 이 에 포시베우 키 아우궁스 데시스 비아잔치스 파레상 피지카멘치 헤아이스 아스 베지스, 지 파투, 잉 쿠아우케르 그란지 헤우니앙, 포뎅 아베르 인지비두스 키 낭 상... 우마누스.
+Um grande número de eventos paranormais está relacionado a esses viajantes transdimensionais. E como esses indivíduos são percebidos depende da habilidade de tal projetista/viajante e da habilidade ou dos talentos naturais da pessoa que os percebe. Em sua maior parte, eu diria que a maioria das pessoas tende a não estar ciente de todo o tráfego ao seu redor, enquanto algumas pessoas podem estar conscientes em algum grau e, para essas pessoas, esses viajantes de outras dimensões podem parecer fantasmas, os homens de preto às vezes, seres sombrios talvez, cinzentos, pessoas com aparência comum, mas de alguma forma estranhas, ou qualquer número de outras possibilidades. Todos esses devem ser considerados como possíveis viajantes transdimensionais, já que não há consenso para nós, sendo que não temos uma boa ciência mental para perceber e classificar o tráfego ao nosso redor no momento. E é possível que alguns desses viajantes pareçam fisicamente reais às vezes, de fato, em qualquer grande reunião, podem haver indivíduos que não são... humanos.
 
 쿠안투 아 우우치마 페르군타, 잉 콘포르미다지 콩 에시스 비아잔치스, 싱, 지 파투, 토두스 엘리스 모헹, 토두스 노스 데베무스 세기르 잉 지레상 아우 소우 네그루. 아 두라상 데사 비아젱, 누 인탄투, 에 헬라치바.
+Quanto à última pergunta, em conformidade com esses viajantes, sim, de fato, todos eles morrem, todos nós devemos seguir em direção ao Sol Negro. A duração dessa viagem, no entanto, é relativa.
 
 3. 투두 우 키 페르세베무스, 세자 네스타 지멘상 피지카 오 잉 오트라스, 에 푼다멘타우멘치 웅 심볼루. 오 세자, 아테 우 키 콘시데라무스 세르 아스 코이자스 피지카스 지안치 지 노스, 상 이센시아우멘치 웅 심볼루 지 아우구 키 텡 우마 이지스텐시아 무이투 마이스 프로푼다. 시 보세 시 프로제타르 잉 아우궁 루가르 이 베베르 지 웅 일리시르 두 코녜시멘투, 인탕 이수 에 웅 심볼루 무이투 봉 파라 웅 아콘테시멘투 이네르제치쿠 마이스 프로푼두.
+3.  Tudo o que percebemos, seja nesta dimensão física ou em outras, é fundamentalmente um símbolo. Ou seja, até o que consideramos ser as coisas físicas diante de nós, são essencialmente um símbolo de algo que tem uma existência muito mais profunda. Se você se projetar em algum lugar e beber de um elixir do conhecimento, então isso é um símbolo muito bom para um acontecimento energético mais profundo.
 
 베베르 우 일리시르, 포르탄투, 에 코무 웅 심볼루 지 소뉴 파라 아우구 키 이스타 아콘테센두 잉 웅 니베우 이네르제치쿠 키 에 페르세비두 지 포르마 바스탄치 레지치마 이 코헤타 잉 무이투스 아스펙투스 (두 노수 폰투 지 비스타 우마누). 마스 베베르 우 일리시르 낭 에 우 키 헤아우멘치 이스타 아콘테센두, 이네르제치카멘치 팔란두, 이스페루 키 보세 인텐다 우 키 케루 지제르.
+Beber o elixir, portanto, é como um símbolo de sonho para algo que está acontecendo em um nível energético que é percebido de forma bastante legítima e correta em muitos aspectos (do nosso ponto de vista humano). Mas beber o elixir não é o que realmente está acontecendo, energeticamente falando, espero que você entenda o que quero dizer.
 
 이 싱, 에 포시베우 키 타우 코녜시멘투 세자 트라지두 지 오트루 루가르. 잉 무이투스 아스펙투스, 보세 포데리아 지제르 키 그란지 파르치 두 코녜시멘투 키 아 우마니다지 포수이 벵 지 오트루 루가르. 마스 포지 세르 무이투 지피시우 잉코르포라르 에시 코녜시멘투 네스타 헤알리다지, 포르키 에스타 헤알리다지 에 탕 페자다, 이 에시 페주 파스 콩 키 시 이스케사, 아테 메즈무 이스케세르 키 시 포사 테르 프로바두 지 웅 일리시르 두 코녜시멘투. 우 사베르 잉콘시엔치 에 포시베우, 마스 이수 포지 세르 알레아토리우 이, 포르 에사 하장, 우스 프로제치스타스 텐탕 페르마네세르 콘시엔치스 이 페르미치르 키 우 일리시르 파사 수아 마지카 렌타멘치 아우 롱구 두 템푸, 마스 지 우마 마네이라 마이스 콘시엔치, 키 포지 페르미치르 키 타우 프로제치스타, 키 포데리아무스 아테 샤마르 지 페이치세이루, 가니 노부 포데르 아트라베스 두 코녜시멘투 키 포데리아 인탕 세르 아플리카두 코무 아반수 테크놀로지쿠, 베르다데이라 마지아, 오 우 키 네스타 에라 포데리아 아테 세르 샤마두 지 웅 치푸 지 포데르 파라노르마우.
+E sim, é possível que tal conhecimento seja trazido de outro lugar. Em muitos aspectos, você poderia dizer que grande parte do conhecimento que a humanidade possui vem de outro lugar. Mas pode ser muito difícil incorporar esse conhecimento nesta realidade, porque esta realidade é tão pesada, e esse peso faz com que se esqueça, até mesmo esquecer que se possa ter provado de um elixir do conhecimento. O saber inconsciente é possível, mas isso pode ser aleatório e, por essa razão, os projetistas tentam permanecer conscientes e permitir que o elixir faça sua mágica lentamente ao longo do tempo, mas de uma maneira mais consciente, que pode permitir que tal projetista, que poderíamos até chamar de feiticeiro, ganhe novo poder através do conhecimento que poderia então ser aplicado como avanço tecnológico, verdadeira magia, ou o que nesta era poderia até ser chamado de um tipo de poder paranormal.
 
 ## 카피툴루 5: 알렝 두 시클루 다 비다 이 다 모르치, 이 이스카판두 두 소우 네그루
+## CAPÍTULO 5: ALÉM DO CICLO DA VIDA E DA MORTE, E ESCAPANDO DO SOL NEGRO
 
 **'엘리 이스타 소냔두 아고라,' 지시 트웨들레데이: '이 우 키 보세 아샤 키 엘리 이스타 소냔두?' 알리시 지시 '닝겡 포지 아지비냐르 이수.' '포르 키, 소브리 보세!' 트웨들레데이 이스클라모, 바텐두 파우마스 트리운판테멘치. '이 시 엘리 파라시 지 소냐르 콩 보세, 온지 보세 아샤 키 이스타리아?' '온지 이스토 아고라, 에 클라루,' 지시 알리시. '낭 보세!' 트웨들레데이 헤트루코 콩 데스프레주. '보세 낭 이스타리아 잉 루가르 네늉. 포르 케, 보세 에 아페나스 우마 이스페시 지 코이자 잉 세우 소뉴!' '시 아켈리 헤이 아코르다시,' 아크레센토 트웨들레둥, '보세 시 아파가리아 — 붕! — 코무 우마 벨라!'**
+**'Ele está sonhando agora,' disse Tweedledee: 'e o que você acha que ele está sonhando?' Alice disse 'Ninguém pode adivinhar isso.' 'Por que, sobre VOCÊ!' Tweedledee exclamou, batendo palmas triunfantemente. 'E se ele parasse de sonhar com você, onde você acha que estaria?' 'Onde estou agora, é claro,' disse Alice. 'Não você!' Tweedledee retrucou com desprezo. 'Você não estaria em lugar nenhum. Por quê, você é apenas uma espécie de coisa em seu sonho!' 'Se aquele Rei acordasse,' acrescentou Tweedledum, 'você se apagaria — bum! — como uma vela!'**
 _― 레위스 카호우, 아트라베스 두 이스펠류_
+_― LEWIS CARROLL, ATRAVÉS DO ESPELHO_
 
 쿠아우 에 우 노수 마이오르 데자피우?
+Qual é o nosso maior desafio?
 
 에사 포지 세르 우마 페르군타 지피시우 지 헤스폰데르, 비스투 키 카다 페소아 인지비두아우 포지 테르 수아 프로프리아 헤스포스타, 세우 프로프리우 카미뉴 지 비다 파르치쿨라르. 마스, 두 폰투 지 비스타 지 웅 아우키미스타 인테리오르, 에사 에 우마 페르군타 심플리스, 포르키 아 아페나스 우마 헤스포스타, 이 에사 헤스포스타 에: 우 소우 네그루.
+Essa pode ser uma pergunta difícil de responder, visto que cada pessoa individual pode ter sua própria resposta, seu próprio caminho de vida particular. Mas, do ponto de vista de um alquimista interior, essa é uma pergunta simples, porque há apenas uma resposta, e essa resposta é: O Sol Negro.
 
 파라 아 페소아 코뭉, 센두 키 엘라 이스타 잉 무이투스 아스펙투스 콤플레타멘치 포카다 이스테르나멘치, 타우 데자피우, 타우 아벤투라 판타스치카, 넹 메즈무 에 헤아우. 데비두 아우 파투 지 키 아 페소아 코뭉 콘피아 콤플레타멘치 잉 세우스 센치두스 피지쿠스, 이 네가 우 파투 지 키 이지스치 아우구 알렝 지 타이스 메카니즈무스 페르세프치부스 피지쿠스, 세우 코녜시멘투 두 소우 네그루 이 우 데자피우 지 이스카파르 다 그란지 그라비다지 데사 싱굴라리다지, 에 네불로주 나 멜료르 다스 이포테지스.
+Para a pessoa comum, sendo que ela está em muitos aspectos completamente focada externamente, tal desafio, tal aventura fantástica, nem mesmo é real. Devido ao fato de que a pessoa comum confia completamente em seus sentidos físicos, e nega o fato de que existe algo além de tais mecanismos perceptivos físicos, seu conhecimento do Sol Negro e o desafio de escapar da grande gravidade dessa singularidade, é nebuloso na melhor das hipóteses.
 
 네스치 문두 모데르누, 아 헤알리다지 두 소우 네그루 포지 세르 지타 코무 센두 콤프렌지다 다 마네이라 마이스 바이샤 이 마테리아우 포시베우. 에시 모두 텡 아 베르 콩 아 아세이타상 다 모르치 비올로지카, 다 테르미나상 피지카. 우 문두 하시오나우, 우스 마테리알리스타스, 우스 세치쿠스, 우스 아테우스, 토두스 아크레지탕 나 피날리다지 다 모르치 피지카, 이 포르 에사 하장 포지-시 지제르 키 엘리스 인텐뎅 우스 아스펙투스 마이스 이스테리오리스 두 데자피우 두 소우 네그루. 마스 이수 제라우멘치 에 우 핑 파라 엘리스, 에시 핑 비올로지쿠 에 웅 핑 피나우, 이 아 콘포르투 잉 타우 피날리자상 탕 아후마다 이 오르데나다. 셍 프레오쿠파송이스, 셍 헤스폰사빌리다지 헤아우 알렝 다 카르니, 아후마두 이 파시우 데사 마네이라. 마스 탐벵, 프리우, 테르미나우 이 이스쿠루.
+Neste mundo moderno, a realidade do Sol Negro pode ser dita como sendo compreendida da maneira mais baixa e material possível. Esse modo tem a ver com a aceitação da morte biológica, da terminação física. O mundo racional, os materialistas, os céticos, os ateus, todos acreditam na finalidade da morte física, e por essa razão pode-se dizer que eles entendem os aspectos mais exteriores do desafio do Sol Negro. Mas isso geralmente é o fim para eles, esse fim biológico é um fim final, e há conforto em tal finalização tão arrumada e ordenada. Sem preocupações, sem responsabilidade real além da carne, arrumado e fácil dessa maneira. Mas também, frio, terminal e escuro.
 
 오트루스, 아켈리스 키 포뎅 시 렘브라르 오 아인다 파르치시파르 지 지페렌치스 이스트루투라스 지 크렌사스, 이스트루투라스 지 크렌사스 키 에랑 프레도미난치스 나 에라 안테리오르 쿠안두 아 테올로지아 고베르나바 우 문두, 포뎅 테르 인테르프레타송이스 지페렌치스 두 소우 네그루. 타이스 인지비두스 포뎅 콤프렌데르 우 카미뉴 데스치 데자피우 이 두 소우 네그루 코무 우마 이스페시 지 콘빅상 헬리지오자. 엘리스 포뎅 인텐데르 파르치스 지수 지 우마 마네이라 인헤다다, 지 아코르두 콩 아우구 키 포상 테르 리두, 오 아우궁 치푸 지 테올로지아 나 쿠아우 포상 테르 크레시두 파르치시판두.
+Outros, aqueles que podem se lembrar ou ainda participar de diferentes estruturas de crenças, estruturas de crenças que eram predominantes na era anterior quando a teologia governava o mundo, podem ter interpretações diferentes do Sol Negro. Tais indivíduos podem compreender o caminho deste desafio e do Sol Negro como uma espécie de convicção religiosa. Eles podem entender partes disso de uma maneira enredada, de acordo com algo que possam ter lido, ou algum tipo de teologia na qual possam ter crescido participando.
 
 파라 엘리스, 우 소우 네그루 에 우마 이스토리아 키 데벵 아크레지타르 소멘치 콩 바지 나 페, 우마 이스토리아 지 우마 비다 이테르나 이 웅 주우가멘투 알렝 다 모르치 피지카. 아우궁스 포뎅 아크레지타르 마이스 네스치 미투 두 키 오트루스, 포뎅 테르 마이스 페 두 키 오트루스, 이 포뎅 시 주우가르 콩 바지 나 인텐시다지 데사 페, 데자피안두-시 아우 지제르 키 소멘치 우스 베르다데이라멘치 피에이스 포뎅 수페라르 우 데자피우 다 모르치 비올로지카 이 우 주우가멘투 빈도루. 아 아우구마 베르다지 이네르제치카 인테레산치 니수, 마스 아 잉콤플레투지 지 수아 이스토리아 도그마치카 가란치 키 아 인텐시다지 데스타 페 하라멘치 세자 수피시엔치 파라 파제르 쿠아우케르 치푸 지 지페렌사 잉 수아스 비다스.
+Para eles, o Sol Negro é uma história que devem acreditar somente com base na fé, uma história de uma vida eterna e um julgamento além da morte física. Alguns podem acreditar mais neste mito do que outros, podem ter mais fé do que outros, e podem se julgar com base na intensidade dessa fé, desafiando-se ao dizer que somente os verdadeiramente fiéis podem superar o desafio da morte biológica e o julgamento vindouro. Há alguma verdade energética interessante nisso, mas a incompletude de sua história dogmática garante que a intensidade desta fé raramente seja suficiente para fazer qualquer tipo de diferença em suas vidas.
 
 파라 우 아우키미스타 인테리오르, 낭 포지 아베르 알레고리아, 넹 이스토리아 도그마치카. 아 우니카 포시빌리다지 지 수페라르 아 피날리다지 다 모르치 비올로지카, 이 우스 데자피우스 무이투 마이오리스 아 세렝 잉콘트라두스 누 카미뉴 잉 지레상 아우 소우 네그루, 시그니피카 키 타우 프라치칸치 데비 아프렌데르 아 베르. 엘리스 데벵 아프렌데르 아 베르, 오 데벵 시 토르나르 웅 프로제치스타 포데로주 우 수피시엔치 파라 세르 카파스 지 이르 알렝 지 웅 세르투 리미아르 지멘시오나우, 이 베르 우 소우 네그루 엘리스 메즈무스, 오 펠루 메누스 베르 에사 프로그레상 잉 지레상 아우 소우 네그루.
+Para o alquimista interior, não pode haver alegoria, nem história dogmática. A única possibilidade de superar a finalidade da morte biológica, e os desafios muito maiores a serem encontrados no caminho em direção ao Sol Negro, significa que tal praticante deve aprender a ver. Eles devem aprender a ver, ou devem se tornar um projetista poderoso o suficiente para ser capaz de ir além de um certo limiar dimensional, e ver o Sol Negro eles mesmos, ou pelo menos ver essa progressão em direção ao Sol Negro.
 
 우 코녜시멘투 지 노사 이미넨치 테르미나상 피지카, 모르치 피지카, 포지 세르 지 그란지 아주다 파라 누스 파제르 페르세베르 우 쿠앙 프레시오자 에 아 비다. 우 코녜시멘투 지 노사 모르치 이미넨치 포지 트라제르 포데르 에스트라 아스 노사스 아송이스, 이스페시아우멘치 아우 노수 모비멘투 인테르누 콘시엔치, 이 에 아 우니카 코이자 키 누스 다라 우 포데르 지 이르 알렝 다 그라비다지 데스치 루가르 이 아우메자르 마이스, 루타르 펠라 베르다데이라 이모르탈리다지.
+O conhecimento de nossa iminente terminação física, morte física, pode ser de grande ajuda para nos fazer perceber o quão preciosa é a vida. O conhecimento de nossa morte iminente pode trazer poder extra às nossas ações, especialmente ao nosso movimento interno consciente, e é a única coisa que nos dará o poder de ir além da gravidade deste lugar e almejar mais, lutar pela verdadeira imortalidade.
 
 우마 페소아 코뭉 인프렌탄두 수아 모르탈리다지, 세우 핑 비올로지쿠, 포지 오 도그마치카멘치 아세이타르, 오 세자, 아세이타르 아페나스 콩 바지 나 페, 아 이스토리아 알레고리카 지 우마 비다 아포스 아 모르치, 지 우마 셰가다 테올로지카 아 웅 세우 아포스 우 소프리멘투 다 카르니 네스타 비다, 이 잉콘트라르 콘포르투 니수. 오 엘리스 포뎅 아세이타르, 아페나스 콩 바지 나 페, 아 포지상 하시오날리스타 지 웅 핑 비올로지쿠 아후마두 키 낭 프레시자 시 프레오쿠파르 콩 우 이스피리투, 오 쿠아이스케르 케스통이스 인테르나스, 이 잉콘트라르 콘포르투 니수.
+Uma pessoa comum enfrentando sua mortalidade, seu fim biológico, pode ou dogmaticamente aceitar, ou seja, aceitar apenas com base na fé, a história alegórica de uma vida após a morte, de uma chegada teológica a um céu após o sofrimento da carne nesta vida, e encontrar conforto nisso. Ou eles podem aceitar, apenas com base na fé, a posição racionalista de um fim biológico arrumado que não precisa se preocupar com o espírito, ou quaisquer questões internas, e encontrar conforto nisso.
 
 마스 우 아우키미스타 인테리오르 낭 포지 잉콘트라르 콘포르투 네사스 이스토리아스 바제아다스 나 페 이 데비 루타르 인세산테멘치 파라 잉콘트라르 아 베르다지 소브 우 도그마. 파라 파제르 이수, 엘리스 시 토르낭 비덴치스 이 프로제치스타스, 지 모두 키, 포르 메이우 데사스 테크니카스, 포상 페르세베르 지레타멘치 아 베르다지 이네르제치카 다 이지스텐시아. 지안치 데사 루타 인테르미나베우, 세우 우니쿠 아미구 헤아우, 세우 베르다데이루 알리아두, 에 아 프로프리아 모르치, 포르키 에 아 우니카 코이자 키 우스 렘브라라 다 프레시오지다지 지 카다 모멘투 이 다 베르다데이라 콘세켄시아 지 수아스 아송이스.
+Mas o alquimista interior não pode encontrar conforto nessas histórias baseadas na fé e deve lutar incessantemente para encontrar a verdade sob o dogma. Para fazer isso, eles se tornam videntes e projetistas, de modo que, por meio dessas técnicas, possam perceber diretamente a verdade energética da existência. Diante dessa luta interminável, seu único amigo real, seu verdadeiro aliado, é a própria morte, porque é a única coisa que os lembrará da preciosidade de cada momento e da verdadeira consequência de suas ações.
 
 아포스 우 키 포지 파레세르 우마 루타 인테르미나베우, 에시스 프라치칸치스 이벤투아우멘치 포데랑 페르세베르 우 소우 네그루, 오 펠루 메누스 포데랑 페르세베르 우 키 이스타 포르 비르 아포스 아 모르치 비올로지카. 콩 우 템푸, 엘리스 포뎅 세르 카파지스 지 베르 알렝 다스 일루종이스 다 페, 알렝 다스 일루종이스 다 하시오날리다지 이 지 우마 모르치 푸라멘치 마테리아우, 이 데사 포르마 인셰르가르 아 이스트라다 라비린치카 온지 아스 아우마스 두스 모르투스 포뎅 바가르, 온지 우 판타즈마 나 마키나 콘치누아 수아 조르나다 잉 지레상 아 수아 베르다데이라 피날리다지.
+Após o que pode parecer uma luta interminável, esses praticantes eventualmente poderão perceber o Sol Negro, ou pelo menos poderão perceber o que está por vir após a morte biológica. Com o tempo, eles podem ser capazes de ver além das ilusões da fé, além das ilusões da racionalidade e de uma morte puramente material, e dessa forma enxergar a estrada labiríntica onde as almas dos mortos podem vagar, onde o fantasma na máquina continua sua jornada em direção à sua verdadeira finalidade.
 
 아 우니카 마네이라 지 우 아우키미스타 인테리오르 수페라르 우 도그마 데스치 문두 에 이르 알렝 델리, 트란센데르 아 아르마질랴 두 아르콘치. 이수 포르키 에 우 아르콘치 키 우스 아프리지오나 잉 우마 페케나 프리장, 웅 쿠부, 키 소 포지 페르미치르 키 엘리스 페르세방 우 문두 빙쿨라두 아스 헤그라스 크리아다스 포르 엘리, 헤그라스 임포스타스 펠루스 센치두스 피지쿠스 이 펠라 포스투라 마테리알리스타 지 웅 문두 지스토르시두, 웅 문두 온지 보세 오 아크레지타 키 에 우마 마키나 지 카르니, 아페나스 웅 오브제투 엔트리 무이투스 오트루스, 오 웅 문두 온지 보세 아크레지타 잉 시스테마스 테올로지쿠스 키 페르데랑 세우 베르다데이루 카미뉴, 포르키 자 낭 콘세겡 마이스 베르 베르다데이라멘치 아 지빈다지 키 수포스타멘치 아도랑.
+A única maneira de o alquimista interior superar o dogma deste mundo é ir além dele, transcender a armadilha do Arconte. Isso porque é o Arconte que os aprisiona em uma pequena prisão, um cubo, que só pode permitir que eles percebam o mundo vinculado às regras criadas por ele, regras impostas pelos sentidos físicos e pela postura materialista de um mundo distorcido, um mundo onde você ou acredita que é uma máquina de carne, apenas um objeto entre muitos outros, ou um mundo onde você acredita em sistemas teológicos que perderam seu verdadeiro caminho, porque já não conseguem mais ver verdadeiramente a divindade que supostamente adoram.
 
 우 프리메이루 데자피우 파라 웅 아우키미스타 인테리오르, 포르탄투, 에 아프렌데르 아 수페라르 에시 그란지 페주, 에사 누벵 이스쿠라 두 아르콘치. 지스쿠치 아 나투레자 지 타우 수페라상 아테 아고라, 마스, 지 세르타 포르마, 보세 포데리아 지제르 키 에스치 에 아페나스 우 코메수 다 조르나다. 에시 코메수 피나우 코메사 쿠안두 우 아우키미스타 인테리오르, 코무 웅 프로제치스타 메스트리 이 웅 비덴치, 피나우멘치 에 카파스 지 베르 우 베르다데이루 치라누. 이 에스치 베르다데이루 치라누 소 세라 페르세비두 지레타멘치 쿠안두 엘리스 푸데렝 베르 나 모르치 비올로지카, 알렝 다 모르치 비올로지카, 이 알렝 델라 파라 우 카미뉴 키 시 세기. 라, 엘리스 잉콘트라랑 우마 롱가 이스트라다 키 레바 아 베르다데이라 피날리다지, 아 베르다데이라 모르치, 이 에사 모르치 에 우 아솜브루 두 소우 네그루.
+O primeiro desafio para um alquimista interior, portanto, é aprender a superar esse grande peso, essa nuvem escura do Arconte. Discuti a natureza de tal superação até agora, mas, de certa forma, você poderia dizer que este é apenas o começo da jornada. Esse começo final começa quando o alquimista interior, como um projetista mestre e um vidente, finalmente é capaz de ver o verdadeiro tirano. E este verdadeiro tirano só será percebido diretamente quando eles puderem ver na morte biológica, além da morte biológica, e além dela para o caminho que se segue. Lá, eles encontrarão uma longa estrada que leva à verdadeira finalidade, à verdadeira morte, e essa morte é o assombro do Sol Negro.
 
 쿠안두 웅 아우키미스타 인테리오르 에 카파스 지 파제르 이수, 엘리스 피나우멘치 콘세겡 베르 포르 시 메즈무스 지레타멘치 키 우 아르콘치 낭 에 나다 누 그란지 이스케마 다스 코이자스. 누 모멘투 잉 키 콘세겡 베르 오 페르세베르 지 아우구마 포르마 페케나 아 그란지 그라비다지 두 소우 네그루, 우 아르콘치 카이. 쿠안투 마이스 엘리스 시 콘시엔치장 데사 그란지 그라비다지 두 소우 네그루, 마이스 수아 아텐상 코메사 아 시 콘센트라르 나 헤알리다지 델리, 나 이멘시당 델리, 마이스 우 아르콘치 데자파레시 이 시 토르나 우 나다/노 헬라치바멘치 심플리스 키 셈프리 포이.
+Quando um alquimista interior é capaz de fazer isso, eles finalmente conseguem ver por si mesmos diretamente que o Arconte não é nada no grande esquema das coisas. No momento em que conseguem ver ou perceber de alguma forma pequena a grande gravidade do Sol Negro, o Arconte cai. Quanto mais eles se conscientizam dessa grande gravidade do Sol Negro, mais sua atenção começa a se concentrar na realidade dele, na imensidão dele, mais o Arconte desaparece e se torna o nada/nó relativamente simples que sempre foi.
 
 우 소우 네그루 에 우마 싱굴라리다지 키 시 잉콘트라 누 센트루 두 우니베르수 코녜시두. 에 웅 치푸 지 부라쿠 네그루, 웅 나다, 우마 이네시스텐시아, 지 타우 인텐시다지 키 포지 인스탄타네아멘치 프리바르 쿠아우케르 코이자, 쿠아우케르 코이자 키 포사 프레스타르 아텐상 아 엘리 포르 쿠아우케르 페리오두 프롤롱가두 지 템푸, 지 토다 아 비다.
+O Sol Negro é uma singularidade que se encontra no centro do universo conhecido. É um tipo de buraco negro, um nada, uma inexistência, de tal intensidade que pode instantaneamente privar qualquer coisa, qualquer coisa que possa prestar atenção a ele por qualquer período prolongado de tempo, de toda a vida.
 
 우 소우 네그루 에 아 모르치, 에 아 모르치 피나우. 낭 에 아페나스 아 모르치 비올로지카, 키 에 아페나스 우마 트란시상 파라 우 아우키미스타 인테리오르, 우마 무단사 페르마넨치 지 지멘상. 우 소우 네그루 에 아 베르다데이라 피날리다지, 에 우 핑 다 인지비두알리다지, 에 우 핑 두 판타즈마 나 마키나, 에 우 핑 지 투두 이 쿠아우케르 코이자 키 임포르치 아우 아우키미스타 인테리오르 이 아 쿠아우케르 웅 키 포사 헤아우멘치 베르 우 키 에 아 인지비두알리다지.
+O Sol Negro é a morte, é a morte final. Não é apenas a morte biológica, que é apenas uma transição para o alquimista interior, uma mudança permanente de dimensão. O Sol Negro é a verdadeira finalidade, é o fim da individualidade, é o fim do fantasma na máquina, é o fim de tudo e qualquer coisa que importe ao alquimista interior e a qualquer um que possa realmente ver o que é a individualidade.
 
 우스 데자피우스 이니시아이스 두 아우키미스타 인테리오르 시그니피캉 키 엘리스 데벵 콘센트라르 카다 파르치 지 시 메즈무스 잉 수페라르 우 아르콘치. 에시 프리메이루 데자피우 에 웅 파수 이니시아우 이 크루시아우 키 페르미치 아우 프라치칸치 데젠보우베르 우 포데르 이 아스 테크니카스 네세사리아스 파라 테르 아우구마 샨시 지 데호타르 아켈리 마이오르 치라누, 아켈라 베르다데이라 싱굴라리다지 두 소우 네그루. 에 소멘치 데포이스 키 엘리스 콘세겡 아반사르 우 수피시엔치 알렝 두 아르콘치 이 두스 데자피우스 다 프리장 트리지멘시오나우, 키 페르세벵 키 우 아르콘치, 지 무이타스 마네이라스, 에 세우 그란지 메스트리, 세우 벤페이토르. 에시스 테히베이스 이니미구스 두 코메수, 우 아르콘치 이 아 모르치 피지카, 잉 이센시아 토르낭-시 세우스 그란지스 알리아두스, 세우스 멘토리스, 이 우 키 엘리스 인시낭 이 우 키 엘리스 당 상 코이자스 키 눙카 포뎅 세르 이스케시다스 펠루 아우키미스타 인테리오르 잉쿠안투 콘치누앙 수아 조르나다 파라 인프렌타르 웅 오브스타쿨루, 우마 바헤이라, 알렝 두 이스코푸 우마 싱굴라리다지 지 타우 페주 테르미나우 키 투두 우 키 베이우 안치스 에 나다 지안치 델라.
+Os desafios iniciais do alquimista interior significam que eles devem concentrar cada parte de si mesmos em superar o Arconte. Esse primeiro desafio é um passo inicial e crucial que permite ao praticante desenvolver o poder e as técnicas necessárias para ter alguma chance de derrotar aquele maior tirano, aquela verdadeira singularidade do Sol Negro. É somente depois que eles conseguem avançar o suficiente além do Arconte e dos desafios da prisão tridimensional, que percebem que o Arconte, de muitas maneiras, é seu grande mestre, seu benfeitor. Esses terríveis inimigos do começo, o Arconte e a morte física, em essência tornam-se seus grandes aliados, seus mentores, e o que eles ensinam e o que eles dão são coisas que nunca podem ser esquecidas pelo alquimista interior enquanto continuam sua jornada para enfrentar um obstáculo, uma barreira, além do escopo; uma singularidade de tal peso terminal que tudo o que veio antes é nada diante dela.
 
 이수 아콘테시 포르키 에 우 그란지 페주 두 아르콘치 키 우스 임푸우시오노 임플라카베우멘치 아 이르 알렝 지 타우 아르마질랴, 타우 페주, 이 아우 파제르 이수 엘리스 피나우멘치 상 카파지스 지 가냐르 포데르 수피시엔치 파라 헤지스치르 아 에사 그라비다지 헬라치바 이 이르 알렝 델라, 파라 인프렌타르 이니미구스 아인다 마이스 '페자두스'. 그라사스 아 에시스 데자피우스, 엘리스 포뎅 베르다데이라멘치 베르 알렝 지 토다 일루장, 이, 센두 카파지스 지 데젠보우베르 포데르 수피시엔치 파라 헤지스치르 아 에사 그라비다지, 엘리스 아고라 포뎅 인프렌타르 아 싱굴라리다지 온지 토다 아 그라비다지 에 크리아다, 우 소우 네그루. 셍 우 아르콘치 이수 낭 테리아 시두 포시베우, 이 아테 메즈무 우 그란지 데제주 지 수페라르 우 프로프리우 소우 네그루, 키 에 우마 아우다시아 알렝 지 토다스 아스 프로포르송이스, 에 이 시 토르노 포시베우 포르 카우자 두 데자피우 두 아르콘치 이 두 프레젠치 키, 누 피나우, 우 아르콘치 다 아 카다 웅 지 노스. _아킬루 키 오트로라 에라 푸라 루스, 토르노-시 인펙타두 콩 푸라 이스쿠리당, 이 나 쿠-미스투라 웅 이킬리브리우 포이 이스타벨레시두, 이 아트라베스 데시 이킬리브리우 아 인지비두알리다지 나세우._ 우 아르콘치 누스 다 우 프레젠치 다 인지비두알리다지, 알렝 지수, 우마 인지비두알리다지 콩 아우다시아 수피시엔치 파라 데자피아르 아테 메즈무 아 싱굴라리다지 베르다데이라멘치 테르미나우 두 소우 네그루.
+Isso acontece porque é o grande peso do Arconte que os impulsionou implacavelmente a ir além de tal armadilha, tal peso, e ao fazer isso eles finalmente são capazes de ganhar poder suficiente para resistir a essa gravidade relativa e ir além dela, para enfrentar inimigos ainda mais 'pesados'. Graças a esses desafios, eles podem verdadeiramente ver além de toda ilusão, e, sendo capazes de desenvolver poder suficiente para resistir a essa gravidade, eles agora podem enfrentar a singularidade onde toda a gravidade é criada, o Sol Negro. Sem o Arconte isso não teria sido possível, e até mesmo o grande desejo de superar o próprio Sol Negro, que é uma audácia além de todas as proporções, é e se tornou possível por causa do desafio do Arconte e do presente que, no final, o Arconte dá a cada um de nós. _Aquilo que outrora era pura luz, tornou-se infectado com pura escuridão, e na co-mistura um equilíbrio foi estabelecido, e através desse equilíbrio a individualidade nasceu._ O Arconte nos dá o presente da individualidade, além disso, uma individualidade com audácia suficiente para desafiar até mesmo a singularidade verdadeiramente terminal do Sol Negro.
 
 에스치 에 웅 시스테마 콤플리카두, 우 카미뉴 다 아우키미아 인테리오르. 이수 포르키 에 웅 우니베르수 콤플리카두 이 마치자두. 에 탕 콤플리카두 쿠안투 쿠아우케르 그란지 오세아누, 쿠아우케르 그란지 마르 이스쿠루. 덴트루 지 웅 이코시스테마 탕 바스투, 이지스텡 무이타스 콤플레시다지스, 마스, 누 피나우, 토다스 에사스 헤비라보우타스 이 프로그레송이스, 토다스 에사스 로칼리자송이스 지멘시오나이스, 카다 우마 콩 수아 프로프리아 그라비다지 이 레이스, 토다스 레방 아우 소우 네그루. 토다스 아스 지멘송이스 (세자 잉 수아 이스칼라 템포라우 지멘시오나우 키 포사 파레세르 웅 세군두 오 웅 밀레니우), 카다 우마 이스타 플루인두 잉 지레상 아우 소우 네그루 두란치 웅 세르투 시클루 이 시 아파스탄두 델리 두란치 오트루스. 에 에사 그란지 싱굴라리다지 키 크리아 아스 마레스 두 우니베르수, 두 그란지 마르 이스쿠루, 아 메지다 키 파사 포르 시클루스 지 하지아상 이 아브소르상.
+Este é um sistema complicado, o caminho da alquimia interior. Isso porque é um universo complicado e matizado. É tão complicado quanto qualquer grande oceano, qualquer grande Mar Escuro. Dentro de um ecossistema tão vasto, existem muitas complexidades, mas, no final, todas essas reviravoltas e progressões, todas essas localizações dimensionais, cada uma com sua própria gravidade e leis, todas levam ao Sol Negro. Todas as dimensões (seja em sua escala temporal dimensional que possa parecer um segundo ou um milênio), cada uma está fluindo em direção ao Sol Negro durante um certo ciclo e se afastando dele durante outros. É essa grande singularidade que cria as marés do universo, do grande Mar Escuro, à medida que passa por ciclos de radiação e absorção.
 
 파스 파르치 두 메우 그란지 데자피우 텐타르 델리네아르 아 나투레자 데시 모비멘투 이 모스트라르 코무 미냐 코헨치 지 아우키미아 인테리오르 우자 에사스 마레스. 에 우 카미뉴 지 타우 나베가도르 키 텐테이 메치쿨로자멘치 데스크레베르 잉 토두스 우스 메우스 리브루스. 카다 리브루 아프레젠타 세르투스 데자피우스 파르치쿨라리스, 키 미 헤피루 코무 테크니카스, 키, 시 도미나다스, 포뎅 토르나르 아세시베이스 세르투스 포데리스, 세자 지 페르세프상 오 마니풀라상 이네르제치카. 카다 데자피우, 시 수페라두 콩 수세수, 아브리 노부스 이스파수스, 이스파수스 마이오리스, 포르송이스 마이스 암플라스 두 그란지 마르, 아테 키 아 자울라 두 프라치칸치 시 토르니 그란지 우 수피시엔치 파라 키 엘리스 포상 피나우멘치 코메사르 아 베르, 아 페르세베르, 다스 마네이라스 인지비두아이스 포시베이스 파라 엘리스, 아스 베르다데이라스 보르다스 이스테르나스 두 소우 네그루. 이 에 네스치 폰투 온지 아 모르치 낭 에 아페나스 모르치 파라 엘리스, 마스 토르나-시 우마 코이자 헤아우, 우마 베르다지 이네르제치카 라 포라, 아우구 헤아우 파라 엘리스.
+Faz parte do meu grande desafio tentar delinear a natureza desse movimento e mostrar como minha corrente de alquimia interior usa essas marés. É o caminho de tal navegador que tentei meticulosamente descrever em todos os meus livros. Cada livro apresenta certos desafios particulares, que me refiro como técnicas, que, se dominadas, podem tornar acessíveis certos poderes, seja de percepção ou manipulação energética. Cada desafio, se superado com sucesso, abre novos espaços, espaços maiores, porções mais amplas do grande mar, até que a jaula do praticante se torne grande o suficiente para que eles possam finalmente começar a ver, a perceber, das maneiras individuais possíveis para eles, as verdadeiras bordas externas do Sol Negro. E é neste ponto onde a morte não é apenas morte para eles, mas torna-se uma coisa real, uma verdade energética lá fora, algo real para eles.
 
 지안치 데스치 치라누, 나 콤플레시다지 지 세우 칸투 두 그란지 마르 이스쿠루, 엘리스 인탕 데벵 헤우니르 토두스 우스 무이투스 포데리스 키 가냐랑 잉 수아 롱가 조르나다 이 피나우멘치 인텐데르 키 카다 웅 델리스 아고라 데비 세르 아페르페이소아두 알렝 지 쿠아우케르 코이자 우마나멘치 포시베우, 지 모두 아 인프렌타르 아우구 이니마지나베우, 알렝 다 데스크리상. 아우 인프렌타르 아 모르치 비올로지카, 엘리스 인탕 인텐뎅 키 에 아페나스 우 코메수 지 웅 이벤투 무이투 마이스 롱구. 에 아우구 코무 우 이니시우 두 핑 지 웅 투네우, 에사 프리메이라 모르치, 에사 모르치 비올로지카, 키 레바 아 웅 그란지 부라쿠 네그루, 웅 나다, 키 에 우 베르다데이루 데자피우 두 아우키미스타 인테리오르 키 부스카 아 베르다데이라 이테르니다지.
+Diante deste tirano, na complexidade de seu canto do grande Mar Escuro, eles então devem reunir todos os muitos poderes que ganharam em sua longa jornada e finalmente entender que cada um deles agora deve ser aperfeiçoado além de qualquer coisa humanamente possível, de modo a enfrentar algo inimaginável, além da descrição. Ao enfrentar a morte biológica, eles então entendem que é apenas o começo de um evento muito mais longo. É algo como o início do fim de um túnel, essa primeira morte, essa morte biológica, que leva a um grande buraco negro, um nada, que é o verdadeiro desafio do alquimista interior que busca a verdadeira eternidade.
 
 우 카미뉴 파라 우 소우 네그루 에 인트링카두, 이 무이타스 페르군타스 수르지랑, 세자 보세 카파스 지 베-루 지레타멘치 오 시, 포르 잉쿠안투, 이스타 아페나스 코메산두 아 인텐데르 아 나투레자 데사 싱굴라리다지 소멘치 펠라 페. 에사스 상 아스 케스통이스 키 아보르두 네스치 리브루 피나우 다 트릴로지아 마그눙 오푸스, _우 카미뉴 두 데자피아도르 다 모르치_, 이 아우 헤스폰데-라스, 이스페루 키 보세 세자 카파스 지 테르 우 비즐룸브리 마이스 푸가스 데사 그란지 싱굴라리다지 이, 아싱, 코녜세르 아 헤알리다지 지 투두 우 키 이스타 포르 비르 파라 노스, 카다 웅 지 노스. 이 지구 웅 비즐룸브리 푸가스 포르키 쿠아우케르 포쿠 프롤롱가두 네사 싱굴라리다지 우 아트라이라 파라 엘라. 이 에사 아트라상 잉 카다 파르치쿨라 지 보세, 에사 아트라상 나 토탈리다지 지 보세 잉 카다 폰투 지멘시오나우 온지 보세 헤지지 코무 웅 세르 무우치지멘시오나우, 포지 세르 우 세우 핑 시 보세 낭 포르 쿠이다도주. 소멘치 웅 프라치칸치 잉크리베우멘치 포데로주 포지 헤지스치르 아 파시 두 소우 네그루 포르 무이투 템푸. 포르탄투, 네스치 이니시우, 웅 비즐룸브리 푸가스 에 투두 지 키 보세 프레시자 이 투두 우 키 세라 카파스 지 수포르타르.
+O caminho para o Sol Negro é intrincado, e muitas perguntas surgirão, seja você capaz de vê-lo diretamente ou se, por enquanto, está apenas começando a entender a natureza dessa singularidade somente pela fé. Essas são as questões que abordo neste livro final da trilogia Magnum Opus, _O Caminho do Desafiador da Morte_, e ao respondê-las, espero que você seja capaz de ter o vislumbre mais fugaz dessa grande singularidade e, assim, conhecer a realidade de tudo o que está por vir para nós, cada um de nós. E digo um vislumbre fugaz porque qualquer foco prolongado nessa singularidade o atrairá para ela. E essa atração em cada partícula de você, essa atração na totalidade de você em cada ponto dimensional onde você reside como um ser multidimensional, pode ser o seu fim se você não for cuidadoso. Somente um praticante incrivelmente poderoso pode resistir à face do Sol Negro por muito tempo. Portanto, neste início, um vislumbre fugaz é tudo de que você precisa e tudo o que será capaz de suportar.
 
 마스 네시 비즐룸브리 푸가스, 보세 코녜세라 아 헤알리다지 데스타스 팔라브라스, 이 보세 사베라 포르키 엘라스 세랑 이코아다스 누 프로푼두 코녜시멘투 덴트루 지 보세. 이 파르치스 지 보세 테랑 무이타스 페르군타스, 이 에사스 파르치스 데벵 세르 아보르다다스, 낭 포뎅 이 낭 데벵 세르 이그노라다스. 프레시자무스 잉콘트라르 웅 이킬리브리우, 이 에시 이킬리브리우 코메사 누 이니시우. 에사스 페르군타스 이 헤스포스타스, 포르탄투, 포뎅 아주다르 니수, 이 포뎅 아주다르 아 텐타르 코메사르 아 콘스트루이르 우 치푸 지 콘텐상 네세사리우 파라 수포르타르 아 베르다지 이네르제치카 두 소우 네그루.
+Mas nesse vislumbre fugaz, você conhecerá a realidade destas palavras, e você saberá porque elas serão ecoadas no profundo conhecimento dentro de você. E partes de você terão muitas perguntas, e essas partes devem ser abordadas, não podem e não devem ser ignoradas. Precisamos encontrar um equilíbrio, e esse equilíbrio começa no início. Essas perguntas e respostas, portanto, podem ajudar nisso, e podem ajudar a tentar começar a construir o tipo de contenção necessário para suportar a verdade energética do Sol Negro.
 
 ### 페르군타스 & 헤스포스타스
+### Perguntas & Respostas
 
 **크: 잉 세우 리브루 _우 카미뉴 두 데자피아도르 다 모르치_, 보세 멘시오나 인치다지스 아주단치스 아포스 아 모르치, 우 키 상 에사스?**
+**Q: Em seu livro _O Caminho do Desafiador da Morte_, você menciona entidades ajudantes após a morte, o que são essas?**
 
 아: 에사스 인치다지스 아주단치스 상 콤포스타스 포르 바리아스 폰치스:
+A: Essas entidades ajudantes são compostas por várias fontes:
 
 포뎅 세르 아스펙투스 두 잉콘시엔치 지 우마 페소아, 지 모두 키 웅 아스펙투 두 잉콘시엔치 시 토르니 우마 페르소날리다지 (코무 웅 오멩 오 물례르 사비우) 키 포지 아주다르 우마 페소아 아 인텐데르 세우 노부 암비엔치.
+Podem ser aspectos do inconsciente de uma pessoa, de modo que um aspecto do inconsciente se torne uma personalidade (como um homem ou mulher sábio) que pode ajudar uma pessoa a entender seu novo ambiente.
 
 엘라스 탐벵 포뎅 세르 아스펙투스 다 수페라우마 키 이스탕 세파라두스 두 잉콘시엔치, 마스 아인다 파젱 파르치 다 폰치 마이오르 키 콤퐁이 에시 잉콘시엔치. 포르 이젬플루, 타우 아주단치 네스치 카주 포지 세르 우마 잉카르나상 파랄렐라, 콘포르미 지스쿠치두 누 리브루 _우 카미뉴 두 데자피아도르 다 모르치_, 키 포지 세르 페르미치다 아 아트라베사르 지멘시오나우멘치 파라 아주다르 잉 케스통이스 이스페시피카스. 파라 에사스 오트라스 잉카르나송이스, 이수 포지 파레세르 우마 이스페리엔시아 지 소뉴, 마스, 나 헤알리다지, 이수 낭 에 웅 소뉴 지 포르마 아우구마 잉 웅 센치두 무이투 레지치무 이 에, 잉 베스 지수, 웅 이벤투 헤아우 지 그란지 아주다 파라 아 페소아 네세시타다. 우마 잉카르나상 포르치, 사비아 이 아콜례도라, 포지 아주다르 아 페소아 네세시타다 아 인텐데르 이 잉콘트라르 콘솔루 누 키 아스 베지스 포지 파레세르 코무 이스파수스 알리에니제나스 인사누스, 온지 아 마이오리아 다스 레이스 키 에랑 콘시데라다스 세르타스 낭 시 아플리캉 마이스, 오 잉 시투아송이스 키 포뎅 파레세르 테르미나이스, 마스 키, 나 이센시아, 포뎅 세르 웅 노부 코메수 이, 포르탄투, 타이스 인치다지스 아주단치스 트라젱 이스페란사 이 노바 프로메사, 노바 비다.
+Elas também podem ser aspectos da superalma que estão separados do inconsciente, mas ainda fazem parte da fonte maior que compõe esse inconsciente. Por exemplo, tal ajudante neste caso pode ser uma encarnação paralela, conforme discutido no livro _O Caminho do Desafiador da Morte_, que pode ser permitida a atravessar dimensionalmente para ajudar em questões específicas. Para essas outras encarnações, isso pode parecer uma experiência de sonho, mas, na realidade, isso não é um sonho de forma alguma em um sentido muito legítimo e é, em vez disso, um evento real de grande ajuda para a pessoa necessitada. Uma encarnação forte, sábia e acolhedora, pode ajudar a pessoa necessitada a entender e encontrar consolo no que às vezes pode parecer como espaços alienígenas insanos, onde a maioria das leis que eram consideradas certas não se aplicam mais, ou em situações que podem parecer terminais, mas que, na essência, podem ser um novo começo e, portanto, tais entidades ajudantes trazem esperança e nova promessa, nova vida.
 
 에사스 인치다지스 아주단치스 포뎅 아테 세르 인치다지스 낭 오르가니카스, 콤플레타멘치 낭 헬라시오나다스 아 수페라우마, 키 포뎅 시 프로포르 오 세르 잉카헤가다스 지 아주다르 네스치 센치두, 우 키, 포르 수아 베스, 포지 아주다르 아켈리스 키 네세시탕, 이, 아우 파제-루, 크레셍, 지 모두 키 탄투 우 이스투단치 쿠안투 우 메스트리, 네시 센치두, 이볼루엥. 에시스 세리스 낭 이스탕 비올로지카멘치 비부스, 타우베스 눙카 테냥 이스타두, 마스 포뎅 사베르 무이투 소브리 마니풀라상 지 이네르지아 오 콘트롤리 지 아텐상, 우 키 포뎅 인시나르 오 아주다르 우스 팔레시두스. 엘리스 탐벵 포뎅 포르네세르 콘포르투 아우 모스트라르 아켈리스 키 아인다 이스탕 비올로지카멘치 비부스 키, 잉 무이투스 아스펙투스, 아 테르미나상 비올로지카 낭 에 우 핑.
+Essas entidades ajudantes podem até ser entidades não orgânicas, completamente não relacionadas a superalma, que podem se propor ou ser encarregadas de ajudar neste sentido, o que, por sua vez, pode ajudar aqueles que necessitam, e, ao fazê-lo, crescem, de modo que tanto o estudante quanto o mestre, nesse sentido, evoluem. Esses seres não estão biologicamente vivos, talvez nunca tenham estado, mas podem saber muito sobre manipulação de energia ou controle de atenção, o que podem ensinar ou ajudar os falecidos. Eles também podem fornecer conforto ao mostrar àqueles que ainda estão biologicamente vivos que, em muitos aspectos, a terminação biológica não é o fim.
 
 무이타스 데사스 인치다지스 아주단치스 포뎅, 포르탄투, 세르 세리스 우마누스 피지카멘치 비부스, 키 두란치 우 소누 포뎅 (아스 베지스 아테 잉콘시엔테멘치) 아주다르 이스피리투스 잉 트란시상 이 인지비두스 네세시타두스 아트라베스 지 세우스 소뉴스. 네시 카주, 에시스 아주단치스 피지카멘치 비부스 제라우멘치 상 페소아스 키 텡 우마 그란지 카파시다지 나투라우 오 데젠보우비다, 이 아우 아주다르 우스 오트루스, 아주당 아 시 메즈무스, 코무 멘시오나두 아시마. 에사스 페소아스 포뎅 아테 이스타르 아주단두 오트라스 잉카르나송이스 파랄렐라스, 지 모두 키 우마 잉카르나상 아주다 아 오트라, 이 투두 이수 아콘테시 셍 키 우 콘시엔치 자마이스 이스테자 시엔치 두 키 이스탕 파젠두 잉 지페렌치스 캄푸스 지멘시오나이스.
+Muitas dessas entidades ajudantes podem, portanto, ser seres humanos fisicamente vivos, que durante o sono podem (às vezes até inconscientemente) ajudar espíritos em transição e indivíduos necessitados através de seus sonhos. Nesse caso, esses ajudantes fisicamente vivos geralmente são pessoas que têm uma grande capacidade natural ou desenvolvida, e ao ajudar os outros, ajudam a si mesmos, como mencionado acima. Essas pessoas podem até estar ajudando outras encarnações paralelas, de modo que uma encarnação ajuda a outra, e tudo isso acontece sem que o consciente jamais esteja ciente do que estão fazendo em diferentes campos dimensionais.
 
 아 우마 그란지 우니다지 이 웅 치푸 이킬리브라두 지 이콜로지아 잉 투두 이수. 아 아주다, 잉 오트라스 팔라브라스, 이 엘라 포지 비르 지 바리아스 폰치스.
+Há uma grande unidade e um tipo equilibrado de ecologia em tudo isso. Há ajuda, em outras palavras, e ela pode vir de várias fontes.
 
+---
 ---
 
 **크: 치비 아타케스 지 파니쿠 데즈지 키 에라 크리안사, 포이스 에라 우마 크리안사 무이투 센시베우, 이 에시스 아타케스 제라우멘치 인보우비앙 에사 센사상 지 지솔루상 두 "이우". 미냐 페르군타 에: 보세 텡 아우구마 이데이아 지 코무 치라르 프로베이투 데시스 모멘투스 오 코무 제렌시아-루스?**
+**Q: Tive ataques de pânico desde que era criança, pois era uma criança muito sensível, e esses ataques geralmente envolviam essa sensação de dissolução do "eu". Minha pergunta é: você tem alguma ideia de como tirar proveito desses momentos ou como gerenciá-los?**
 
 아: 벵, 낭 포수 지제르 아우스 오트루스 우 키 파제르, 마스 포수 데스크레베르 우 키 웅 아우키미스타 인테리오르 파스, 이 우 키 엘리스 파젱 에 아브소르베르 이 콘테르, 코무 데스크레부 누 프리메이루 리브루 다 트릴로지아, _우 마그눙 오푸스_. 데사 포르마, 엘리스 트란스포르망 토다 아켈라 이네르지아 키 센텡 세르 이누치우, 아켈리 파니쿠 이 테호르 인테리오르, 이 아 아브소르벵 이 트란즈무탕 잉 이네르지아, 우잔두-아 코무 웅 프로펠렌치, 키 포지 세르 우자두 파라 아프리모라르 수아 카파시다지 지 포카르 나킬루 키 데제장, 코무 세렝 멜료리스 프로제치스타스. 타우 프로펠렌치 포지 란사르 웅 프로제치스타 무이투 론지, 지 파투.
+A: Bem, não posso dizer aos outros o que fazer, mas posso descrever o que um alquimista interior faz, e o que eles fazem é absorver e conter, como descrevo no primeiro livro da trilogia, _O Magnum Opus_. Dessa forma, eles transformam toda aquela energia que sentem ser inútil, aquele pânico e terror interior, e a absorvem e transmutam em energia, usando-a como um propelente, que pode ser usado para aprimorar sua capacidade de focar naquilo que desejam, como serem melhores projetistas. Tal propelente pode lançar um projetista muito longe, de fato.
 
 에사 센사상 지 데질루장 지 시 메즈무 포지 세르 웅 코녜시멘투 인투이치부 두 카미뉴 잉 지레상 아우 소우 네그루. 상 아스펙투스 인테리오리스 지 보세 키 포뎅 세르 카파지스 지 베르 덴트루 델리, 이 지 우마 포르마 오 지 오트라 페르세베르 지레타멘치, 아킬루 키 에 아 베르다지 이네르제치카 두 소우 네그루. 우지 에시 포데르 파라 수페라르 우 데자피우 두 카미뉴 데스치 루가르, 이 콩 우 템푸 보세 포지 아테 테르 포데르 수피시엔치 파라 인프렌타르 지레타멘치 에사 싱굴라리다지 피나우.
+Essa sensação de desilusão de si mesmo pode ser um conhecimento intuitivo do caminho em direção ao Sol Negro. São aspectos interiores de você que podem ser capazes de ver dentro dele, e de uma forma ou de outra perceber diretamente, aquilo que é a verdade energética do Sol Negro. Use esse poder para superar o desafio do caminho deste lugar, e com o tempo você pode até ter poder suficiente para enfrentar diretamente essa singularidade final.
 
+---
 ---
 
 **크: 토두 에시 “시스테마” 지 크리아르 비다 이 데스트루이르 인지비두알리다지, 헤우닌두-시 잉 웅 토두, 펠라 수페라우마, 코무 보세 데스크레베우 잉 세우 리브루, 코무 이수 이스플리카 우 크레시멘투 다 포풀라상 두 플라네타? 지 온지 벵 아 이네르지아 아지시오나우, 아스 아우마스 아지시오나이스, 포르 아싱 지제르, 아 이네르지아 아지시오나우 이 우 마테리아우 지 콘스트루상 파라 파사르 지 2 파라 8 빌룡이스 지 페소아스 잉 웅 페리오두 지 템푸 헬라치바멘치 쿠르투? 아 메즈마 페르군타 발리 파라 아켈리스 키 아크레지탕 잉 헹카르나상: 시 소무스 “아스 메즈마스 아우마스 오 파르치스” 헹카르난두 헤페치다멘치 코무 시클루, 코무 이수 이스플리카 우 하피두 크레시멘투 포풀라시오나우? 지 온지 벵 우 “마테리아우 지 아우마 아지시오나우”?**
+**Q: Todo esse “sistema” de criar vida e destruir individualidade, reunindo-se em um todo, pela superalma, como você descreveu em seu livro, como isso explica o crescimento da população do planeta? De onde vem a energia adicional, as almas adicionais, por assim dizer, a energia adicional e o material de construção para passar de 2 para 8 bilhões de pessoas em um período de tempo relativamente curto? A mesma pergunta vale para aqueles que acreditam em reencarnação: se somos “as mesmas almas ou partes” reencarnando repetidamente como ciclo, como isso explica o rápido crescimento populacional? De onde vem o “material de alma adicional”?**
 
 아: 포수 인텐데르 수아 콘푸장, 마스 헤아우멘치 토다스 에사스 케스통이스 수르젱 쿠안두 카이무스 나 아르마질랴 지 아크레지타르 도그마치카멘치 누 키 우 스타투스 쿠 하시오나우 우마누 이스타 지젠두. 우마 베스 키 우스 아우키미스타스 인테리오리스 파젱 수아 프로프리아 비장, 엘리스 사벵 키 우 문두 포지 파레세르 웅 오브제투 지간치 셰이우 지 오브제투스 페케누스, 마스 낭 에.
+A: Posso entender sua confusão, mas realmente todas essas questões surgem quando caímos na armadilha de acreditar dogmaticamente no que o status quo racional humano está dizendo. Uma vez que os alquimistas interiores fazem sua própria visão, eles sabem que o mundo pode parecer um objeto gigante cheio de objetos pequenos, mas não é.
 
 이수 에 임포르탄치 포르키 타이스 레이스 '오브제치바스' 두 문두 아피르망 키, 임보라 헤아우멘치 무이투 그란지, 우 우니베르수 아인다 에 피니투, 이 투두 에 고베르나두 펠라 인트로피아. 이수 시그니피카 키 우 문두 키 아 우마니다지 페르세비 아트라베스 지 세우스 센치두스 피지쿠스 이스타 페샤두 (웅 시스테마 페샤두) 이 이스타 잉 콘스탄치 이스타두 지 데자셀레라상, 우마 이스페시 지 데카덴시아. 이수 에 파우수 두 폰투 지 비스타 두스 아우키미스타스 인테리오리스.
+Isso é importante porque tais leis 'objetivas' do mundo afirmam que, embora realmente muito grande, o universo ainda é finito, e tudo é governado pela entropia. Isso significa que o mundo que a humanidade percebe através de seus sentidos físicos está fechado (um sistema fechado) e está em constante estado de desaceleração, uma espécie de decadência. Isso é falso do ponto de vista dos alquimistas interiores.
 
 파라 엘리스, 우 문두 이스타 센두 콘스탄테멘치 헤노바두 이 에 인피니투 잉 이스코푸. 낭 아 핑 파라 이수, 세자 이네르제치카멘치 오 이스파시아우멘치. 코무 타우, 우 키 포데무스 페르세베르 코무 웅 사우투 지간테스쿠 누 크레시멘투 낭 에 나다 파라 우마 지멘상 아베르타 셍 핑 테크니쿠.
+Para eles, o mundo está sendo constantemente renovado e é infinito em escopo. Não há fim para isso, seja energeticamente ou espacialmente. Como tal, o que podemos perceber como um salto gigantesco no crescimento não é nada para uma dimensão aberta sem fim técnico.
 
 쿠안투 아 헹카르나상, 벵, 센두 키 우 템푸 에 시무우타네우, 아 헹카르나상 이스타, 잉 웅 센치두 클라시쿠, 이하다, 코무 이우 이즈보수 누 리브루. 이 네시 센치두, 우스 8 빌룡이스 키 이스탕 아키 아고라 셈프리 이스치베랑 아키. 마스 온지 이스타방 엘리스, 보세 포지 페르군타르? 이 파라 이수, 보세 데비 이스플로라르 우 템푸... 우 키 에 우 템푸? 우 키 세파라 에스치 템푸 지 웅 템푸 파사두 오 푸투루?
+Quanto à reencarnação, bem, sendo que o tempo é simultâneo, a reencarnação está, em um sentido clássico, errada, como eu esboço no livro. E nesse sentido, os 8 bilhões que estão aqui agora sempre estiveram aqui. Mas onde estavam eles, você pode perguntar? E para isso, você deve explorar o tempo... o que é o tempo? O que separa este tempo de um tempo passado ou futuro?
 
 ‘베르’ 에 페르세베르 알렝 데스타 지멘상 프레젠치 나 바스치당 두 템푸, 이 쿠안두 보세 포지 파제르 이수, 아스 지멘송이스, 아스 파레지스, 데자파레셍. 이 쿠안두 이수 아콘테시, 보세 포지 ‘베르’ 키 낭 아 리미타상. 아 수페라우마 낭 시 이즈고타 잉 아스펙투스 지 시 메즈마, 셈프리 오비 이 셈프리 아베라 8 빌룡이스, 이 파라 이수, 데이시-미 콘타르 웅 세그레두, 잉 웅 세르투 템푸 푸투루, 키 에 오트라 지멘상 (오트루 템푸), 아베라 마이스. 이 아싱, 타우 크레시멘투 낭 소 에 포시베우, 코무 자 아콘테세우, 센두 키, 코무 이우 지시, 토두 우 템푸 에 아고라.
+‘Ver’ é perceber além desta dimensão presente na vastidão do tempo, e quando você pode fazer isso, as dimensões, as paredes, desaparecem. E quando isso acontece, você pode ‘ver’ que não há limitação. A superalma não se esgota em aspectos de si mesma, sempre houve e sempre haverá 8 bilhões, e para isso, deixe-me contar um segredo, em um certo tempo futuro, que é outra dimensão (outro tempo), haverá mais. E assim, tal crescimento não só é possível, como já aconteceu, sendo que, como eu disse, todo o tempo é agora.
 
 우 마테리아우 에스트라 다 아우마 벵 다 폰치, 키 에 이센시아우멘치 아(스) 수페라우마(스). 이 자 이스타 아키, 보세 심플레즈멘치 낭 콘세기 베르 시 우자르 아페나스 세우스 올류스 피지쿠스. 세구리 수아스 망스 아 수아 프렌치 잉 포르마 지 콘샤, 올리 파라 에시 이스파수 콩카부 키 파레시 낭 콘테르 나다 지 아코르두 콩 세우스 올류스 피지쿠스. 덴트루 데시 이스파수 바지우, 그라사스 아 페르세프상 두스 센치두스 인테르누스, 웅 아우키미스타 인테리오르 포지 베르 우 인피니투, 웅 인피니투 키 콘텡 잉 시 토두 우 포데르 이 마테리아우 키 세라 네세사리우 파라 크리아르 투두 이 쿠아우케르 코이자 키 콤포라 우 푸투루 이 키 콤포스 우 파사두.
+O material extra da alma vem da fonte, que é essencialmente a(s) superalma(s). E já está aqui, você simplesmente não consegue ver se usar apenas seus olhos físicos. Segure suas mãos à sua frente em forma de concha, olhe para esse espaço côncavo que parece não conter nada de acordo com seus olhos físicos. Dentro desse espaço vazio, graças à percepção dos sentidos internos, um alquimista interior pode ver o infinito, um infinito que contém em si todo o poder e material que será necessário para criar tudo e qualquer coisa que comporá o futuro e que compôs o passado.
 
+---
 ---
 
 **크: 잉 바리우스 리브루스 헬라시오나두스 아 오쿠우치즈무 이 요가, 엘리스 멘시오낭 아 포시빌리다지 지 인트라르 잉 웅 노부 코르푸 우마누 아포스 아 모르치, 세자 웅 헤셍-나시두 프레-아한자두 오 아우겡 키 모헤우, 마스 쿠주 코르푸 아인다 이스타 잉 콘지상 아비타베우. 이수 에 우마 포시빌리다지 펠루 키 보세 비우?**
+**Q: Em vários livros relacionados à ocultismo e yoga, eles mencionam a possibilidade de entrar em um novo corpo humano após a morte, seja um recém-nascido pré-arranjado ou alguém que morreu, mas cujo corpo ainda está em condição habitável. Isso é uma possibilidade pelo que você viu?**
 
 아: 싱, 에 포시베우 지 아코르두 콩 아 비장 다 아우키미아 인테리오르, 마스 에 웅 아순투 콤플리카두 이 소 세리아 테오리카멘치 포시베우 파라 아우겡 콩 쿠안치다지스 잉크리베이스 지 포데르.
+A: Sim, é possível de acordo com a visão da alquimia interior, mas é um assunto complicado e só seria teoricamente possível para alguém com quantidades incríveis de poder.
 
 프리메이라멘치, 낭 에 아우구 키 아콘테세리아 이메지아타멘치, 마스 인보우베리아 우마 인바장 이 이스푸우상 렌타스 이 메토지카스 키 포데리앙 레바르 아테 데카다스 두 폰투 지 비스타 우마누. 탐벵 에 아우구 키 소 포데리아 세르 헤알리자두 포르 웅 아데프투 잉크리베우멘치 포데로주. 타우 아데프투 테리아 웅 콘트롤리 마시부 소브리 세우 코르푸 판타즈마 이, 코무 타우, 프로바베우멘치 세리아 카파스 지 마니풀라르 아 지멘상 피지카 콩 그란지 플루이데스 네시 폰투. 잉 오트라스 팔라브라스, 두 폰투 지 비스타 두스 아우키미스타스 인테리오리스, 이스페시아우멘치 포르키 이수 인보우비 우 키 포데리아 세르 데노미나두 아송이스 아우타멘치 네파스타스, 이지지리아 웅 아데프투 키 치베시 시 아프로푼다두 이스트레마멘치 (이 낭 마이스 두 키 이수) 누 도미니우 다 테르세이라 살라 두 프로제치스타, 이 키 포시 카파스 지 크리아르 웅 코르푸 판타즈마 지 노타베우 코에장 이 포데르.
+Primeiramente, não é algo que aconteceria imediatamente, mas envolveria uma invasão e expulsão lentas e metódicas que poderiam levar até décadas do ponto de vista humano. Também é algo que só poderia ser realizado por um adepto incrivelmente poderoso. Tal adepto teria um controle massivo sobre seu corpo fantasma e, como tal, provavelmente seria capaz de manipular a dimensão física com grande fluidez nesse ponto. Em outras palavras, do ponto de vista dos alquimistas interiores, especialmente porque isso envolve o que poderia ser denominado ações altamente nefastas, exigiria um adepto que tivesse se aprofundado extremamente (e não mais do que isso) no domínio da Terceira Sala do projetista, e que fosse capaz de criar um corpo fantasma de notável coesão e poder.
 
 우칠리잔두 에시 코르푸 판타즈마 코에주, 엘리스 시 오쿠파리앙 지 수브스치투이르 무이타스 다스 코네숑이스 이네르제치카스 이스타벨레시다스 엔트리 우 코르푸 판타즈마 두 아우부 이 우 코르푸 피지쿠 키 우 크리오 잉 프리메이루 루가르. 임보라 이수 포사 세르 페이투 하피다멘치 포르 웅 인지비두 무이투 포데로주, 프로바베우멘치 레바리아 무이투 템푸, 자 키 시그니피카리아, 잉 이센시아, 우마 콤플레타 일리미나상 지 그란지 파르치 두 데젠보우비멘투 이네르제치쿠 키 우 인지비두 아우부 포사 테르 페이투 두란치 아 비다 피지카. 이 메즈무 키 투두 이수 세자 포시베우, 아인다 아베라 우마 이스페시 지 메스클라 지 이네르지아 키 지 세르타 포르마 아인다 무다라 우 코르푸 판타즈마 인바조르. 이수 에 무이투 콤플리카두 지 데스크레베르, 마스 싱, 테오리카멘치 에 포시베우, 마스 지 아코르두 콩 아 아우키미아 인테리오르 지 쿠아우케르 마네이라, 토다 에사 이네르지아 세리아 멜료르 우칠리자다 파라 이르 알렝 다 테르세이라 살라 두 프로제치스타 이 아우칸사르 아 베르다데이라 이모르탈리다지, 아우 콘트라리우 다 이스텐상 파르시아우 다 비다 비올로지카 포르 메이우스 쿠스토주스.
+Utilizando esse corpo fantasma coeso, eles se ocupariam de substituir muitas das conexões energéticas estabelecidas entre o corpo fantasma do alvo e o corpo físico que o criou em primeiro lugar. Embora isso possa ser feito rapidamente por um indivíduo muito poderoso, provavelmente levaria muito tempo, já que significaria, em essência, uma completa eliminação de grande parte do desenvolvimento energético que o indivíduo alvo possa ter feito durante a vida física. E mesmo que tudo isso seja possível, ainda haverá uma espécie de mescla de energia que de certa forma ainda mudará o corpo fantasma invasor. Isso é muito complicado de descrever, mas sim, teoricamente é possível, mas de acordo com a alquimia interior de qualquer maneira, toda essa energia seria melhor utilizada para ir além da Terceira Sala do projetista e alcançar a verdadeira imortalidade, ao contrário da extensão parcial da vida biológica por meios custosos.
 
+---
 ---
 
 **크: 보세 데스크레비 웅 치푸 지 아우키미스타 키 샤모 지 아우키미스타스/프라치칸치스 오브스쿠루스. 코무 자 리 소브리 무이타스 오르뎅스 지 밤피루스 이 오르가니자송이스/오르뎅스 두 카미뉴 다 망 이스케르다, 포르 아싱 지제르, 이 수아스 프라치카스, 수포뉴 키 보세 시 헤피라 아 엘리스? 엘리스 치랑 아 포르사 비타우 다스 페소아스, 당-나 아우스 세우스 "데우지스 밤피루스" 오 세리스 콩 켕 "시 콤프로메테랑" 오 피제랑 웅 팍투, 이 잉 트로카 헤세벵 이센시아 델리스, 키 아우 롱구 두 템푸 수포스타멘치 우스 트란스포르마 잉 세리스 오 데우지스 이모르타이스 세멜랸치스. 수포뉴 키 에사스 헬라송이스 심비오치카스 세장 세르타멘치 우테이스 지 우마 마네이라 오 지 오트라, 마스 누 피나우 프로바베우멘치 탐벵 프레주지시아이스 파라 우 프라치칸치, 마스 에 포시베우, 아피나우, 이스카파르 두 소우 네그루 우잔두 에시스 메토두스 오 이수 탐벵 에 우마 메이아-베르다지 두 아르콘치 이 지 세우 이제르시투?**
+**Q: Você descreve um tipo de alquimista que chamou de alquimistas/praticantes obscuros. Como já li sobre muitas ordens de vampiros e organizações/ordens do Caminho da Mão Esquerda, por assim dizer, e suas práticas, suponho que você se refira a eles? Eles tiram a força vital das pessoas, dão-na aos seus "deuses vampiros" ou seres com quem "se comprometeram" ou fizeram um pacto, e em troca recebem essência deles, que ao longo do tempo supostamente os transforma em seres ou deuses imortais semelhantes. Suponho que essas relações simbióticas sejam certamente úteis de uma maneira ou de outra, mas no final provavelmente também prejudiciais para o praticante, mas é possível, afinal, escapar do Sol Negro usando esses métodos ou isso também é uma meia-verdade do Arconte e de seu Exército?**
 
 아: 에스타 에 우마 케스탕 지피시우 지 헤스폰데르 지 마네이라 심플리스, 오 콩 우마 헤스포스타 두 치푸 싱 오 낭. 마스, 시 포데무스 지제르 키 우스 세리스 낭 오르가니쿠스 콩 우스 쿠아이스 에시스 치푸스 지 페소아스 시 알리냥 모헹, 이 엘리스 세르타멘치 모헹, 인탕 에 우 카주 키 에시스 인지비두스 파르치쿨라리스 키 시 알리냥 콩 타이스 세리스 탐벵 데벵 모헤르.
+A: Esta é uma questão difícil de responder de maneira simples, ou com uma resposta do tipo sim ou não. Mas, se podemos dizer que os seres não orgânicos com os quais esses tipos de pessoas se alinham morrem, e eles certamente morrem, então é o caso que esses indivíduos particulares que se alinham com tais seres também devem morrer.
 
 팔란두 지 마네이라 제라우, 에사스 헬라송이스 제라우멘치 인보우벵 낭 탄투 아 비다 이테르나, 마스 웅 치푸 지 비다 프롤롱가다 키, 두 폰투 지 비스타 우마누, 포지 파레세르 쿠아지 이테르나, 세르타멘치 두란두 무이투스 밀랴리스 지 아누스 잉 시르쿤스탄시아스 파르치쿨라리스.
+Falando de maneira geral, essas relações geralmente envolvem não tanto a vida eterna, mas um tipo de vida prolongada que, do ponto de vista humano, pode parecer quase eterna, certamente durando muitos milhares de anos em circunstâncias particulares.
 
 에사스 시르쿤스탄시아스 텡 아 베르 콩 우 니베우 지 포데르 두 인지비두, 이스투 에, 우 콤프리멘투 다 비다 이 우 포데르 지 타이스 페소아스 에 지레타멘치 프로포르시오나우 아우 치푸 지 포데르 키 아 페소아 아드키리우 포르 쿠아우케르 메이우 잉쿠안투 비올로지카멘치 비바 네스치 카주. 마스, 잉 수아 마이오르 파르치, 이 에스타 에 아페나스 아 미냐 오피니앙, 아크레지투 키 토다스 에사스 알리안사스 텐뎅 아 세르 웅 조구 이스트라테지쿠 인피니투, 온지 타이스 인치다지스 파젱 우 세우 멜료르 파라, 누 피나우, 치라르 프로베이투 다켈리스 키 시 알리냥 콩 엘리스.
+Essas circunstâncias têm a ver com o nível de poder do indivíduo, isto é, o comprimento da vida e o poder de tais pessoas é diretamente proporcional ao tipo de poder que a pessoa adquiriu por qualquer meio enquanto biologicamente viva neste caso. Mas, em sua maior parte, e esta é apenas a minha opinião, acredito que todas essas alianças tendem a ser um jogo estratégico infinito, onde tais entidades fazem o seu melhor para, no final, tirar proveito daqueles que se alinham com eles.
 
 아고라, 에 우 카주 키 무이타스 데사스 페소아스, 시 보세 포지 샤마-라스 지 페소아스 우마 베스 키 데젠보우벵 포데르 수피시엔치, 키 시 알리냥 콩 에사스 인치다지스 낭 오르가니카스, 텐뎅 아 테르 우마 아치투지 무이투 마르시아우, 이 잉 제라우 엘라스 데스프루탕 프로푼다멘치 다 바탈랴 인테르미나베우, 키 타이스 알리안사스 트라젱 콘시구 엘라스 시 센텡 마이스 비바스 포르 카우자 델라스. 인탕, 파라 아우궁스 포쿠스 셀레시오나두스, 에사스 상 아벤투라스 인테르미나베이스 두 치푸 마이스 프레다토리우, 우마 헤비라보우타 오 앙굴루 아지시오나우 누스 이누메루스 앙굴루스 이스트라뉴스 잉콘트라두스 나 부스카 인피니타 두 키 샤무 지 테르세이라 살라 두 프로제치스타.
+Agora, é o caso que muitas dessas pessoas, se você pode chamá-las de pessoas uma vez que desenvolvem poder suficiente, que se alinham com essas entidades não orgânicas, tendem a ter uma atitude muito marcial, e em geral elas desfrutam profundamente da batalha interminável, que tais alianças trazem consigo; elas se sentem mais vivas por causa delas. Então, para alguns poucos selecionados, essas são aventuras intermináveis do tipo mais predatório, uma reviravolta ou ângulo adicional nos inúmeros ângulos estranhos encontrados na busca infinita do que chamo de Terceira Sala do projetista.
 
 포데리앙 타이스 아우키미스타스, 코무 포데무스 샤마-루스, 아우키미스타스 솜브리우스, 비베르 베르다데이라멘치 파라 셈프리 다 마네이라 키 미냐 코헨치 지 아우키미아 인테리오르 데제자 비베르 파라 셈프리? 벵, 수포뉴 키 투두 세자 포시베우, 마스 타이스 아우키미스타스 솜브리우스 프레시자리앙 루타르 우마 바탈랴 두플라 잉 키 이스탕 잉가자두스 잉 텐타르 크루자르 아스 무이타스 살라스 키 리스 헤스탕 파라 크루자르, 잉쿠안투 아우 메즈무 템푸 루탕 인세산테멘치 콘트라 아스 포르사스 콩 아스 쿠아이스 치냥 알리안사스 안테리오리스, 포르사스 키 프로바베우멘치 이스탕 파젠두 지 투두 파라 카프투라르 에시스 아우키미스타스 솜브리우스 이 토마르 토다 아 이네르지아 키 센텡 키 리스 에 데비다... 우 키 에 투두.
+Poderiam tais alquimistas, como podemos chamá-los, alquimistas sombrios, viver verdadeiramente para sempre da maneira que minha corrente de alquimia interior deseja viver para sempre? Bem, suponho que tudo seja possível, mas tais alquimistas sombrios precisariam lutar uma batalha dupla em que estão engajados em tentar cruzar as muitas salas que lhes restam para cruzar, enquanto ao mesmo tempo lutam incessantemente contra as forças com as quais tinham alianças anteriores, forças que provavelmente estão fazendo de tudo para capturar esses alquimistas sombrios e tomar toda a energia que sentem que lhes é devida... o que é tudo.
 
+---
 ---
 
 **크:**
+**Q:**
 
 **1.** **웅 아우키미스타 에 제라우멘치 콘시데라두 웅 프라치칸치 무이투 솔리타리우. 헤아우멘치 프레시자 세르 아싱? 이스타르 소지뉴 펠라 이테르니다지 낭 파레시 무이투 지베르치두. 보세 낭 포지 테르 아미구스 키 탐벵 상 아우키미스타스 이 키 포상 아주다르 잉 데피시엔시아스?**
+**1.**  **Um alquimista é geralmente considerado um praticante muito solitário. Realmente precisa ser assim? Estar sozinho pela eternidade não parece muito divertido. Você não pode ter amigos que também são alquimistas e que possam ajudar em deficiências?**
 
 **2.** **아 콘텐상 이모시오나우 에 웅 아순투 키 아인다 이스토 텐탄두 인텐데르. 우 아우키미스타 부스카 낭 센치르 마이스 네뉴마 이모상, 이세투 우 아가피? 오 엘리스 포뎅 센치르 아스 이모송이스, 이 심플레즈멘치 낭 아지르 오 모스트라-라스?**
+**2.**  **A contenção emocional é um assunto que ainda estou tentando entender. O alquimista busca não sentir mais nenhuma emoção, exceto o ágape? Ou eles podem sentir as emoções, e simplesmente não agir ou mostrá-las?**
 
 **3.** **아 이다지 데젬페냐 아우궁 파페우 누 수세수 지 웅 아우키미스타? 이우 펜사리아 키 싱, 포이스 쿠안투 마이스 아우겡 비비 노르마우멘치, 마이스 데스페르지사 이네르지아 잉 코이자스 우마나스.**
+**3.**  **A idade desempenha algum papel no sucesso de um alquimista? Eu pensaria que sim, pois quanto mais alguém vive normalmente, mais desperdiça energia em coisas humanas.**
 
 **4.** **아 켕 웅 아우키미스타 포지 프로쿠라르 아주다? 아우 인프렌타르 우스 무이투스 데자피우스 두 문두 마이오르, 이지스치 아우겡 키 포사 헤아우멘치 아주다-루스? 우스 데자피우스 상 코녜시두스 포르 세렝 이스트레마멘치 인지비두아이스, 인탕 코무 웅 아우키미스타 포데리아 오브테르 아주다? 우 잉콘시엔치, 타우베스?**
+**4.**  **A quem um alquimista pode procurar ajuda? Ao enfrentar os muitos desafios do mundo maior, existe alguém que possa realmente ajudá-los? Os desafios são conhecidos por serem extremamente individuais, então como um alquimista poderia obter ajuda? O inconsciente, talvez?**
 
 아:
+A:
 
 1. 이우 코메사리아 에스타 헤스포스타 지젠두 키 웅 아우키미스타 인테리오르 이스타 소지뉴, 마스 낭 에 솔리타리우 오 이졸라두. 이 아 하장 파라 이수 (에스타 페르스펙치바 지 프라치칸치 솔리타리우) 텡 무이투 마이스 아 베르 콩 아 포르마 코무 엘리스 트라발량 콩 아 이네르지아 이 소브레비벤시아. 잉 템푸스 콘투르바두스, 우 트라발류 잉 그루푸 파라 우 아우키미스타 인테리오르 에 페리고주, 바스타 올랴르 파라 아 이스토리아 파라 베르 우 키 케루 지제르, 이 넹 메즈무 오자리아 멘시오나르 우스 프로블레마스 데스치스 템푸스 모데르누스.
+1.  Eu começaria esta resposta dizendo que um alquimista interior está sozinho, mas não é solitário ou isolado. E a razão para isso (esta perspectiva de praticante solitário) tem muito mais a ver com a forma como eles trabalham com a energia e sobrevivência. Em tempos conturbados, o trabalho em grupo para o alquimista interior é perigoso, basta olhar para a história para ver o que quero dizer, e nem mesmo ousaria mencionar os problemas destes tempos modernos.
 
 카다 인지비두, 누 인탄투, 데비 세기르 세우 프로프리우 카미뉴 파르치쿨라르. 에 포시베우 파라 카다 인지비두 프라치카르 아 수아 마네이라 이 잉 세우 프로프리우 이스칠루. 카다 페소아 에 웅 인지비두 이 리브리 파라 이스콜례르 우 카미뉴 키 데비 세기르. 파라 웅 아우키미스타 인테리오르, 포렝, 두 메우 폰투 지 비스타 아투아우, 우 이스칠루 지 프라치칸치 솔리타리우, 지가무스 아싱, 프로보-시 콩 우 템푸. 마스 낭 아 하장 파라 보세 낭 코메사르 우 세우 이스투두 다 아우키미아 인테리오르 지 우마 마네이라 콤플레타멘치 지페렌치.
+Cada indivíduo, no entanto, deve seguir seu próprio caminho particular. É possível para cada indivíduo praticar à sua maneira e em seu próprio estilo. Cada pessoa é um indivíduo e livre para escolher o caminho que deve seguir. Para um alquimista interior, porém, do meu ponto de vista atual, o estilo de praticante solitário, digamos assim, provou-se com o tempo. Mas não há razão para você não começar o seu estudo da alquimia interior de uma maneira completamente diferente.
 
 노치, 인트레탄투, 키 이우 파수 헤페렌시아 아 "미냐 코헨치". 이수 헤아우멘치 시그니피카 키, 잉 웅 세르투 니베우, 아포스 우마 세르타 프로피시엔시아 세르 아우칸사다, 카마라다젱스 이 아미자지스 상 포시베이스 이 아콘테셍. 이 에사스 알리안사스 이 아미자지스 수페랑 잉 무이투 쿠아우케르 코이자 포시베우 나 지멘상 푸라멘치 마테리아우.
+Note, entretanto, que eu faço referência a "minha corrente". Isso realmente significa que, em um certo nível, após uma certa proficiência ser alcançada, camaradagens e amizades são possíveis e acontecem. E essas alianças e amizades superam em muito qualquer coisa possível na dimensão puramente material.
 
 2. 낭 에 키 엘리스 부스켕 센치르 나다 알렝 지 아가피. 이수 에 웅 탄투 콤플리카두, 포이스 텡 아 베르 콩 우 템푸 리네아르, 우 키 낭 파레시 세르 아우구 키 시 헬라시오나리아 콩 이수, 마스 시 헬라시오나. 코무 이수 시 헬라시오나 에 키 낭 에 키 웅 아우키미스타 부스키 낭 센치르 네뉴마 이모상, 이세투 우 아가피, 마스 키 아 콘텐상 이네르제치카 레바 아 웅 루가르 온지 웅 아우키미스타 인테리오르, 잉 수아 마이오르 파르치, 소 센치 우마 리베르다지 주빌로자 (우마 레베자 알렝 두 센치멘투) 키 포데리아 세르 멜료르 데노미나다 아가피. 아 우마 누안시 아이 키 에 무이투 임포르탄치, 이 에 아우구 쿠아지 임포시베우 지 인텐데르 아 메누스 키 보세 코메시 아 페르세베르 아 이네르지아 지레타멘치. 오트라 마네이라 지 지제르 이수 세리아 지제르 키 우 아우키미스타 인테리오르 낭 이스타 시 이스포르산두 파라 파제르 아우구, 마스 이스타 시 이스포르산두 파라 세르 아우구... 키 엘리 자 에.
+2.  Não é que eles busquem sentir nada além de ágape. Isso é um tanto complicado, pois tem a ver com o tempo linear, o que não parece ser algo que se relacionaria com isso, mas se relaciona. Como isso se relaciona é que não é que um alquimista busque não sentir nenhuma emoção, exceto o ágape, mas que a contenção energética leva a um lugar onde um alquimista interior, em sua maior parte, só sente uma liberdade jubilosa (uma leveza além do sentimento) que poderia ser melhor denominada ágape. Há uma nuance aí que é muito importante, e é algo quase impossível de entender a menos que você comece a perceber a energia diretamente. Outra maneira de dizer isso seria dizer que o alquimista interior não está se esforçando para fazer algo, mas está se esforçando para ser algo... que ele já é.
 
 3. 아 이다지 데젬페냐 웅 파페우, 나 메지다 잉 키 아 콤플레시다지 다 이네르지아 헤케르 이스페리엔시아, 마스 아 이다지 파라 웅 아우키미스타 인테리오르 낭 에 아 메즈마 키 아 데피니상 지 이다지 두 세르 우마누 메지우. 이수 포르키, 코무 이우 지시 (잉 아우궁스 두스 메우스 비데우스 이 마테리아우 이스크리투 소브리 프로제상), 아 쿠안치다지 지 이스페리엔시아 키 웅 아우키미스타 인테리오르 포지 파사르 잉 오트라스 조나스 지멘시오나이스, 온지 우 템푸 텡 인텐시다지스 지페렌치스, 시그니피카 키 우 키 웅 아우키미스타 이스타 부스칸두 낭 에 아우구 키 포사 세르 데피니두 펠루 데젠보우비멘투 다 이다지 피지카, 마스 싱 펠루 데젠보우비멘투 지 우마 인텐시다지 수페리오르. 포르탄투, 에 포시베우 키 웅 아우키미스타 피지카멘치 무이투 조벵 세자 무이투 벨류, 이 웅 아우키미스타 피지카멘치 무이투 벨류 세자 무이투 조벵 데비두 아우 세우 도미니우 소브리 아 콘텐상 이네르제치카. 우 키 이스토 텐탄두 지제르, 수포뉴, 에 키, 잉 세르투 센치두, 아 이다지 비올로지카 낭 임포르타, 임보라, 코무 보세 아폰토 코헤타멘치, 아 이다지 비올로지카 임포르치 아테 키 우 아우키미스타 인테리오르 아친자 웅 세르투 니베우 이네르제치쿠. 마스, 우마 베스 키 에시 니베우 이네르제치쿠 세자 우우트라파사두, 아 이다지 비올로지카 시 토르나 잉콘세켄치.
+3.  A idade desempenha um papel, na medida em que a complexidade da energia requer experiência, mas a idade para um alquimista interior não é a mesma que a definição de idade do ser humano médio. Isso porque, como eu disse (em alguns dos meus vídeos e material escrito sobre projeção), a quantidade de experiência que um alquimista interior pode passar em outras zonas dimensionais, onde o tempo tem intensidades diferentes, significa que o que um alquimista está buscando não é algo que possa ser definido pelo desenvolvimento da idade física, mas sim pelo desenvolvimento de uma intensidade superior. Portanto, é possível que um alquimista fisicamente muito jovem seja muito velho, e um alquimista fisicamente muito velho seja muito jovem devido ao seu domínio sobre a contenção energética. O que estou tentando dizer, suponho, é que, em certo sentido, a idade biológica não importa, embora, como você apontou corretamente, a idade biológica importe até que o alquimista interior atinja um certo nível energético. Mas, uma vez que esse nível energético seja ultrapassado, a idade biológica se torna inconsequente.
 
 4. 센두 키 웅 아우키미스타 낭 이스타 인테레사두 잉 도그마스, 오 세자, 낭 이스타 인테레사두 잉 인포르마송이스 지 세군다 망, 마스 잉 페르세베르 아 이네르지아 지레타멘치, 인탕, 파라 엘리스, 낭 아 아주다 잉 시 지 코이자스 오 인지비두스 포라 지 시 메즈무스, 이지스치 아페나스 페르세프상 지레타. 마스, 시 보세 케르 지제르 웅 치푸 지 콤파녜이리즈무 잉 우마 롱가 조르나다, 인탕 아 포시빌리다지스, 아 아미자지스 이 알리안사스, 아싱 코무 이우 지구 키 테뉴 우마 알리안사, 우마 코헨치. 우마 포시빌리다지 키 멘시오네이, 에 아 크리아상 지 웅 세르비토르 콤파녜이루, 키 포지 크레세르 잉 그란지 콤플레시다지 이 포지 프로포르시오나르 웅 바스치앙 지 아미자지 이 콤파녜이리즈무 덴트루 두 로구스 두 아우키미스타 인테리오르.
+4.  Sendo que um alquimista não está interessado em dogmas, ou seja, não está interessado em informações de segunda mão, mas em perceber a energia diretamente, então, para eles, não há ajuda em si de coisas ou indivíduos fora de si mesmos, existe apenas percepção direta. Mas, se você quer dizer um tipo de companheirismo em uma longa jornada, então há possibilidades, há amizades e alianças, assim como eu digo que tenho uma aliança, uma corrente. Uma possibilidade que mencionei, é a criação de um servitor companheiro, que pode crescer em grande complexidade e pode proporcionar um bastião de amizade e companheirismo dentro do Logos do alquimista interior.
 
 누 피나우, 이우 우 아드베르치리아 아 텐타르 낭 베르 우 문두 아페나스 아 파르치르 두 세우 로카우 아투아우 이스파수-템푸, 포르키, 우마 베스 키 우 이스파수 이 우 템푸 시 토르넹 플루이두스, 우스 센치멘투스, 포르 아싱 지제르, 키 타우 플루이데스 제라 상 콤플레타멘치 지페렌치스 두스 센치멘투스 키 아고라 포뎅 파레세르 탕 네세사리우스 이, 누 인탄투, 탕 리미탄치스 파라 보세.
+No final, eu o advertiria a tentar não ver o mundo apenas a partir do seu local atual espaço-tempo, porque, uma vez que o espaço e o tempo se tornem fluidos, os sentimentos, por assim dizer, que tal fluidez gera são completamente diferentes dos sentimentos que agora podem parecer tão necessários e, no entanto, tão limitantes para você.
 
+---
 ---
 
 **프:**
+**P:**
 
 **1.** **쿠앙 지피시우 에 (이우 페르세부 키 "지피시우" 에 웅 테르무 헬라치부) 아친지르 우 리미아르 온지 아스 이스페리엔시아스 지 프로제상 지 아우겡 시 토르낭 탕 헤아이스 쿠안투 우 키 이스페리멘타무스 코무 헤아우 잉 노사스 비다스 지아리아스? 이수 텡 마이스 아 베르 콩 프라치카 이 이스페리엔시아 오 에 아페나스 소브리 아쿠물라르 이네르지아 페소아우 수피시엔치? 쿠안두 아콘테시, 아콘테시 지 우마 소 베스 오 에 그라두아우?**
+**1.**  **Quão difícil é (eu percebo que "difícil" é um termo relativo) atingir o limiar onde as experiências de projeção de alguém se tornam tão reais quanto o que experimentamos como real em nossas vidas diárias? Isso tem mais a ver com prática e experiência ou é apenas sobre acumular energia pessoal suficiente? Quando acontece, acontece de uma só vez ou é gradual?**
 
 **메우 프로프리우 센수 인테르누 지 센치멘투 파레시 인지카르 키 아 아우구 키 파레시 우마 인테르페렌시아 이스테르나 쿠안두 소뉴, 헤스트린진두 메우스 모비멘투스 이 미 임페진두 지 미 토르나르 루시두 이 데젠보우베르 미냐스 아빌리다지스 라 포라. 에 아르콘치? 우마 베스 키 아 이스페리엔시아 이 우 로카우 아포스 아 모르치 상 바지카멘치 우스 메즈무스 키 소냐르 (낭 에 이자타멘치 우 메즈무, 에?), 우마 페소아 포데리아 이스페리멘타르 아 메즈마 인테르페렌시아 누 이스타두 아포스 아 모르치? 오 소 이스페리멘타레무스 에사 인테르페렌시아 시 아크레지타르무스 키 아 이스페리멘타레무스?**
+**Meu próprio senso interno de sentimento parece indicar que há algo que parece uma interferência externa quando sonho, restringindo meus movimentos e me impedindo de me tornar lúcido e desenvolver minhas habilidades lá fora. É Arconte? Uma vez que a experiência e o local após a morte são basicamente os mesmos que sonhar (não é exatamente o mesmo, é?), uma pessoa poderia experimentar a mesma interferência no estado após a morte? Ou só experimentaremos essa interferência se acreditarmos que a experimentaremos?**
 
 **2.** **크레마상 오 세푸우타멘투? 웅 오 오트루 에 프레페리두 포르 웅 데자피아도르 다 모르치? 이우 이스타바 펜산두 잉 코이자스 코무 _지아 지 루스 무에르투스_ 이 아스 오페렌다스 지 코미다 (이네르지아) 페이타스 아스 페소아스 키 모헤랑 (코무 우 히투아우 부지스타 지 오페렌다스 아우스 판타즈마스 파민투스) 이 시 우스 이지프시우스 무미피카방 코르푸스 파라 콘치누아르 헤세벤두 이네르지아, 이 시 아우구 지수 에라 헬레반치 파라 웅 데자피아도르 다 모르치.**
+**2.**  **Cremação ou sepultamento? Um ou outro é preferido por um desafiador da morte? Eu estava pensando em coisas como _Día de los Muertos_ e as oferendas de comida (energia) feitas às pessoas que morreram (como o ritual budista de oferendas aos fantasmas famintos) e se os egípcios mumificavam corpos para continuar recebendo energia, e se algo disso era relevante para um desafiador da morte.**
 
 **3.** **이우 이스타바 미 페르군탄두 시 보세 포데리아 데스크레베르 웅 이젬플루 지 웅 아스펙투 지 페르소날리다지 키 우마 페소아 (우마 페르소날리다지 인테이라) 포사 테르? 웅 우니쿠 아스펙투 다 페르소날리다지 에 콤플레슈 우 수피시엔치 파라 파레세르 수아 프로프리아 페르소날리다지? 오 에 마이스 우니지멘시오나우?**
+**3.**  **Eu estava me perguntando se você poderia descrever um exemplo de um aspecto de personalidade que uma pessoa (uma personalidade inteira) possa ter? Um único aspecto da personalidade é complexo o suficiente para parecer sua própria personalidade? Ou é mais unidimensional?**
 
 **4.** **키 치푸 지 프레다상 우스 데자피아도리스 다 모르치 이스탕 수제이투스 시 콘세기렝 시 리베르타르 다 자울라 두 우니코르니우, 이 이수 에 지페렌치 두스 세리스 프레다도리스 낭 오르가니쿠스 이 프레다도리스 낭 제라도리스 지 이네르지아 콩 우스 쿠아이스 리다무스 누 이스타두 프레-모르치? 이우 헤아우멘치 아무 코무 보세 데스크레베우 우 심볼리즈무 두 타페치 지 우니코르니우, 이 이우 이스타바 페르세벤두 나 오브라 지 아르치 키 수아 콜레이라 이스타 파르시아우멘치 데자보토아다, 우 키 시 잉카이샤 콩 에사 데스크리상 지 키 아 리베르다지 에 우마 포시빌리다지 헤아우.**
+**4.**  **Que tipo de predação os desafiadores da morte estão sujeitos se conseguirem se libertar da jaula do unicórnio, e isso é diferente dos Seres Predadores Não Orgânicos e Predadores Não Geradores de Energia com os quais lidamos no estado pré-morte? Eu realmente amo como você descreveu o simbolismo do tapete de unicórnio, e eu estava percebendo na obra de arte que sua coleira está parcialmente desabotoada, o que se encaixa com essa descrição de que a liberdade é uma possibilidade real.**
 
 흐:
+R:
 
 1. 세르타멘치 낭 이스토 텐탄두 리 임포르 마이스 웅 두스 메우스 리브루스, 마스 아슈 키 보세 프로바베우멘치 시 베네피시아리아 무이투 두 메우 리브루, _이스페리엔시아스 포라 두 코르푸, 하피다멘치 이 나투라우멘치_, 카주 아인다 낭 우 테냐. 지구 이수 포르키 네시 리브루 이우 메르굴류 무이투 마이스 프로푼다멘치 잉 세르타스 지레송이스 지 프로제상, 키 이센시아우멘치 에 우마 포르마 지 비아젱 아스트라우 오 이스페리엔시아 포라 두 코르푸 아우타멘치 이스페시알리자다, 이 에시 앙굴루 지페렌치 포지 아주다-루. 탐벵 멘시오누 에시 리브루 포르키 알리, 이우 지구 키 아스 테크니카스 데스크리타스 잉 프로제상 세르벵 아 무이투스 프로포지투스, 웅 델리스 에 아 카파시다지 두 프라치칸치 지 인트라르 잉 지페렌치스 이스타두스 멘타이스. 우 키 케루 지제르 콩 이수 에 키, 아 메지다 키 우 프라치칸치 시 콘센트라 프로푼다멘치 이 코메사 아 파르치시파르 다스 테크니카스 멘시오나다스 누스 메우스 리브루스, 엘리스 탐벵 코메상 아 트라발랴르 콩 우스 아스펙투스 두 바지우 잉 시 메즈무스 이 나투라우멘치 코메상 아 인트라르 잉 지페렌치스 "이스타두스 지 트란시". 보세 포지 펜사르 니수 코무 우마 이스페시 지 이프노치즈무, 온지 이지스텡 지페렌치스 이스타두스 키 포뎅 세르 아우칸사두스 아 메지다 키 우마 페소아 에 이프노치자다 오 프라치카 아우투-이프노지. 우 폰투 에 키, 아 메지다 키 에시스 이스타두스 지 트란시 시 아프로푼당, 아 카파시다지 지 이스페리멘타르 이벤투스 이페르-헤아이스 시 토르나 마이스 이 마이스 파시우. 이 에사 아빌리다지, 코무 이우 멘시오네이, 이스타 지레타멘치 헬라시오나다 아우 트라발류 콩 아 이네르지아 이스페시아우멘치 콘텐상 이네르제치카, 아브소르상, 이 우 모비멘투 다 이네르지아, 코무 이우 멘시오네이 잉 _우 마그눙 오푸스_: 우스 이스타두스 지 트란시 피캉 마이스 파세이스 콩 마이오르 포데르.
+1.  Certamente não estou tentando lhe impor mais um dos meus livros, mas acho que você provavelmente se beneficiaria muito do meu livro, _Experiências Fora do Corpo, Rapidamente e Naturalmente_, caso ainda não o tenha. Digo isso porque nesse livro eu mergulho muito mais profundamente em certas direções de projeção, que essencialmente é uma forma de viagem astral ou experiência fora do corpo altamente especializada, e esse ângulo diferente pode ajudá-lo. Também menciono esse livro porque ali, eu digo que as técnicas descritas em projeção servem a muitos propósitos, um deles é a capacidade do praticante de entrar em diferentes estados mentais. O que quero dizer com isso é que, à medida que o praticante se concentra profundamente e começa a participar das técnicas mencionadas nos meus livros, eles também começam a trabalhar com os aspectos do VAZIO em si mesmos e naturalmente começam a entrar em diferentes "estados de transe". Você pode pensar nisso como uma espécie de hipnotismo, onde existem diferentes estados que podem ser alcançados à medida que uma pessoa é hipnotizada ou pratica auto-hipnose. O ponto é que, à medida que esses estados de transe se aprofundam, a capacidade de experimentar eventos hiper-reais se torna mais e mais fácil. E essa habilidade, como eu mencionei, está diretamente relacionada ao trabalho com a energia; especialmente contenção energética, absorção, e o movimento da energia, como eu mencionei em _O Magnum Opus_: os estados de transe ficam mais fáceis com maior poder.
 
 싱, 우 아르콘치 헤아우멘치 토르나 무이투 지피시우 사이르 두 수포스투 이스타두 멘타우 '노르마우' 우마누, 키 포지 세르 헤페리두 코무 우 이스타두 베타, 마스 아 메지다 키 트라발랴무스 콩 아 이네르지아 이 노수 포쿠 크레시, 토르나-시 마이스 파시우 인트라르 누스 이스타두스 아우파, 테타, 데우타, 이 아인다 마이스 프로푼두스.
+Sim, o Arconte realmente torna muito difícil sair do suposto estado mental 'normal' humano, que pode ser referido como o estado beta, mas à medida que trabalhamos com a energia e nosso foco cresce, torna-se mais fácil entrar nos estados alfa, teta, delta, e ainda mais profundos.
 
 네시 센치두, 인탕, 이우 헤아우멘치 아크레지투 (세이 코무 웅 파투 이네르제치쿠) 키 우 키 보세 이스타 센친두 콩 우 세우 센수 인테르누 지 센치멘투 에 바스탄치 아프로프리아두, 포이스 이지스치 지 파투 우마 이스페시 지 포르사 키 이스타 누스 임페진두 지 노사 카파시다지 지 프로제타르 이 데이샤르 지 라두 아 오브제치비다지 다 헤알리다지 트리지멘시오나우. 이수, 에 클라루, 에 아 누벵 두 아르콘치, 이 에 탕 지피시우 쿠안투 텐타르 도마르 에시 이우-콘시엔치 키 멘시오누 잉 메우스 리브루스. 마스 콩 우 템푸 이 우 포쿠, 보세 포지 트란스포르마르 에시 이우-콘시엔치 잉 세우 알리아두, 이 쿠안두 우 피제르, 우스 리미아리스 두 이스타두 지 트란시 키 멘시오누 아시마 시 토르낭 마이스 이 마이스 파세이스 지 케브라르.
+Nesse sentido, então, eu realmente acredito (sei como um fato energético) que o que você está sentindo com o seu senso interno de sentimento é bastante apropriado, pois existe de fato uma espécie de força que está nos impedindo de nossa capacidade de projetar e deixar de lado a objetividade da realidade tridimensional. Isso, é claro, é a nuvem do Arconte, e é tão difícil quanto tentar domar esse eu-consciente que menciono em meus livros. Mas com o tempo e o foco, você pode transformar esse eu-consciente em seu aliado, e quando o fizer, os limiares do estado de transe que menciono acima se tornam mais e mais fáceis de quebrar.
 
 2. 쿠안투 아 크레마상 오 세푸우타멘투, 에스타 에 나 베르다지 우마 케스탕 바스탄치 콤플레샤 키 이우 낭 아슈 키 포사 헤스폰데르 심플레즈멘치 아키. 잉 _우 카미뉴 두 데자피아도르 다 모르치_, 멘시오네이 키 웅 세르투 치푸 지 프라치칸치 고스타 지 우자르 우마 이스페시 지 ‘앙코라’ 파라 세르 카파스 지 만테르 웅 포쿠 마이스 파시우 네스타 지멘상, 키 인탕 텐탕 이스플로라르. 우 우주 다 무미피카상 에 웅 메토두 키 타이스 프라치칸치스 우자랑 이 우장, 파라 텐타르 만테르 타우 앙코라. 웅 아우키미스타 인테리오르, 포렝, 시 이스포르사리아 파라 낭 테르 넹 우마 무미아 넹 신자스, 마스 파라 시 리베르타르 콤플레타멘치.
+2.  Quanto à cremação ou sepultamento, esta é na verdade uma questão bastante complexa que eu não acho que possa responder simplesmente aqui. Em _O Caminho do Desafiador da Morte_, mencionei que um certo tipo de praticante gosta de usar uma espécie de ‘âncora’ para ser capaz de manter um foco mais fácil nesta dimensão, que então tentam explorar. O uso da mumificação é um método que tais praticantes usaram e usam, para tentar manter tal âncora. Um alquimista interior, porém, se esforçaria para não ter nem uma múmia nem cinzas, mas para se libertar completamente.
 
 3. 데스크레베르 웅 아스펙투 지 페르소날리다지 에 아우구 지피시우, 포이스 아스 데피니송이스 네시 센치두 이지젱 리미치스 키 무이타스 베지스 낭 이지스텡. 아 멜료르 마네이라 지 인텐데르 타이스 아스펙투스 지 페르소날리다지 이 쿠앙 인데펜덴치스 엘리스 포뎅 시 토르나르 에 이스투다르 아 아치비다지 이스키조프레니카. 아슈 키 시 보세 이스투다르 웅 포쿠 우 모델루 지 시스테마스 지 파밀리아 인테르나 이 아 이스키조프레니아, 테라 우마 보아 이데이아 두스 아스펙투스 지 페르소날리다지.
+3.  Descrever um aspecto de personalidade é algo difícil, pois as definições nesse sentido exigem limites que muitas vezes não existem. A melhor maneira de entender tais aspectos de personalidade e quão independentes eles podem se tornar é estudar a atividade esquizofrênica. Acho que se você estudar um pouco o Modelo de Sistemas de Família Interna e a esquizofrenia, terá uma boa ideia dos aspectos de personalidade.
 
 4. 쿠안투 아우 치푸 지 프레다도리스 키 시 포지 인프렌타르 알렝 데스타 지멘상 피지카, 아 바리에다지 에 바스탄치 암플라. 아크레지투 키, 아 메지다 키 수아스 아빌리다지스 코무 프로제치스타 크레셍 이 보세 콘세기 시 아파스타르 카다 베스 마이스 다 지멘상 아르콘치, 코메사라 아 베르 아 바리에다지 두 키 이우 수포뉴 키 세리아 멜료르 데노미나두 코무 비다 알리에니제나, 키 잉클루이 탄투 프레다도리스 쿠안투 알리아두스. 우 우니베르수 에 웅 루가르 마시부, 인데펜덴테멘치 다 지멘상 키 보세 이스콜랴 오브세르바-루. 우 아르콘치 에 아페나스 아 폰타 두 이세베르그, 마스 우마 베스 키 데젠보우베무스 우 포데르 지 누스 리베르타르 데스타 지멘상 잉크리베우멘치 페자다, 이스타무스 무이투 멜료르 프레파라두스 파라 리다르 콩 우 키 포사 비르 잉 노수 카미뉴. 지 파투, 에사 그라비다지 에 우마 오포르투니다지 지 아프렌지자두 잉크리베우 키 포지 누스 아주다르 아 리다르 콩 우 키 이스타 포르 비르.
+4.  Quanto ao tipo de predadores que se pode enfrentar além desta dimensão física, a variedade é bastante ampla. Acredito que, à medida que suas habilidades como projetista crescem e você consegue se afastar cada vez mais da dimensão Arconte, começará a ver a variedade do que eu suponho que seria melhor denominado como vida alienígena, que inclui tanto predadores quanto aliados. O universo é um lugar massivo, independentemente da dimensão que você escolha observá-lo. O Arconte é apenas a ponta do iceberg, mas uma vez que desenvolvemos o poder de nos libertar desta dimensão incrivelmente pesada, estamos muito melhor preparados para lidar com o que possa vir em nosso caminho. De fato, essa gravidade é uma oportunidade de aprendizado incrível que pode nos ajudar a lidar com o que está por vir.
 
 싱, 우 심볼리즈무 누스 타페치스 멘시오나두스 잉 _우 카미뉴 두 데자피아도르 다 모르치_ 에 잉크리베우멘치 콤플레슈 이 벨루, 이 아슈 키 마우 토케이 나 벨레자 (이 누 코녜시멘투) 콘치두스 넬리스, 시 아우겡 푸데르 베-루스 콩 우 콘준투 세르투 지 올류스.
+Sim, o simbolismo nos tapetes mencionados em _O Caminho do Desafiador da Morte_ é incrivelmente complexo e belo, e acho que mal toquei na beleza (e no conhecimento) contidos neles, se alguém puder vê-los com o conjunto certo de olhos.
 
+---
 ---
 
 **프: 시 아 파르치 "이우" 인지비두아우 다 페르소날리다지 콩 토다스 아스 수아스 메모리아스, 이덴치다지, 프로그라마상 멘타우, 이트크., 포르 지소우비다 이 데이샤르 지 이지스치르, 인탕 우 키 에 우 시클루 지 비다 이 모르치? 이 우 키 시그니피카 홈페르 콩 엘리 시 낭 오베르 웅 오브세르바도르 콘시엔치 파라 세케르 헤코녜세르 우마 이테라상 지 타우 시클루?**
+**P: Se a parte "eu" individual da personalidade com todas as suas memórias, identidade, programação mental, etc., for dissolvida e deixar de existir, então o que é o ciclo de vida e morte? E o que significa romper com ele se não houver um observador consciente para sequer reconhecer uma iteração de tal ciclo?**
 
 흐: 우 오브세르바도르 콘시엔치, 키 에 우 '우니쿠' 오브세르바도르 콘시엔치 두 시클루 지 비다 이 모르치, 에 웅 비덴치. 아 페소아 코뭉 아페나스 비벤시아 우마 비다 헬라치바멘치 쿠르타 이 우마 모르치 헬라치바멘치 쿠르타, 포이스 수아 콘시엔시아 데스페르타 파라 시 메즈마 잉 아우궁 모멘투 지 수아 비다 (노바멘치 잉 웅 그라우 헬라치부) 이 인탕 모히. 지구 데스페르타 잉 웅 그라우 포르키 아 페소아 코뭉 탐벵 이스케시 (무이투) 이 수아 아텐상 에 타우 키 에 지피시우 지제르 키 엘라 이스타 베르다데이라멘치 콘시엔치 나 마이오르 파르치 두 템푸... 아 마이오리아 지 노스 이스타 페르지다 잉 우마 이스페시 지 데바네이우 인테르미나베우.
+R: O observador consciente, que é o 'único' observador consciente do ciclo de vida e morte, é um vidente. A pessoa comum apenas vivencia uma vida relativamente curta e uma morte relativamente curta, pois sua consciência desperta para si mesma em algum momento de sua vida (novamente em um grau relativo) e então morre. Digo desperta em um grau porque a pessoa comum também esquece (muito) e sua atenção é tal que é difícil dizer que ela está verdadeiramente consciente na maior parte do tempo... a maioria de nós está perdida em uma espécie de devaneio interminável.
 
 인탕, 파라 아 페소아 코뭉, 우 시클루 지 비다 이 모르치 에 레르 오 아시스치르 아우구 (트브, 리브루스, 이트크.) 키 지스 키 보세 나시, 인벨례시 이 데포이스 모히. 우 키 엘리스 헤아우멘치 이스페리엔시앙 에 프린시파우멘치 우마 콤프렌상 오파카 두 프로세수 지 인벨례시멘투, 도르, 알레그리아, 메모리아스 이스케시다스 이 우마 앙구스치아 키 리스 지스 키 지 아우구마 포르마 자 이스치베랑 아키 안치스 이 키 포데리아 아베르 마이스 두 키 에스타 비다, 잉쿠안투 시 올량 누 이스펠류 이 오브세르방 렌타멘치 우마 무단사. 쿠안두 모헹, 포뎅 이스페리멘타르 아우구마 이덴치다지 콘시엔치, 마스 이수 로구 시 페르지 아 메지다 키 시 지시팡. 소멘치 우 비덴치 베, 이 소멘치 우마 페소아 지 포데르 시 렘브라, 우 키 헤아우멘치 시그니피카 키 엘라 베.
+Então, para a pessoa comum, o ciclo de vida e morte é ler ou assistir algo (TV, livros, etc.) que diz que você nasce, envelhece e depois morre. O que eles realmente experienciam é principalmente uma compreensão opaca do processo de envelhecimento, dor, alegria, memórias esquecidas e uma angústia que lhes diz que de alguma forma já estiveram aqui antes e que poderia haver mais do que esta vida, enquanto se olham no espelho e observam lentamente uma mudança. Quando morrem, podem experimentar alguma identidade consciente, mas isso logo se perde à medida que se dissipam. Somente o vidente vê, e somente uma pessoa de poder se lembra, o que realmente significa que ela vê.
 
 웅 비덴치 텡 우 포텐시아우 지 콘치누아르 아포스 아 모르치 포르 웅 템푸 이, 시 포르 포데로주 우 수피시엔치, 아테 메즈무 시 리베르타르 데스치 시클루. 이수 시그니피카 키 수아 콘시엔시아 인지비두아우 포지 콘치누아르 이, 콩 포데르 이 아빌리다지 수피시엔치스, 포지 콘치누아르 파라 셈프리, 두 폰투 지 비스타 우마누.
+Um vidente tem o potencial de continuar após a morte por um tempo e, se for poderoso o suficiente, até mesmo se libertar deste ciclo. Isso significa que sua consciência individual pode continuar e, com poder e habilidade suficientes, pode continuar para sempre, do ponto de vista humano.
 
 우 시클루 지 비다 이 모르치 낭 에 우마 헤알리다지 파라 아 페소아 코뭉 엘리스 아페나스 비벵, 이스케셍 아 마이오르 파르치 이 소냥 아코르다두스 콩 우 헤스투, 데포이스 모헹. 에 아 수페라우마 키 파스 우 시클루 지 비다 이 모르치 이 우 코녜시, 우 이스타 파젠두 이 이스타 파르치시판두 델리, 낭 아 페소아 코뭉. 파라 아 페소아 코뭉, 아 프리장 두 시클루 지 비다 이 모르치 시그니피카 키 세우 잉콘시엔치 바이 알리멘타-루스 (모스트라르-리스), 아우 롱구 다 비다 키 비벵/포수엥, 이스트라냐스 쿠아지 메모리아스, 소뉴스 쿠아지 이스케시두스 이 무이타스 데사스 이스페리엔시아스 (지 토두스 우스 아스펙투스 지 페르소날리다지 크리아두스 펠라 수페라우마 키 상 헤시클라두스 비다 아포스 비다 아 메지다 키 시 코무니캉 아트라베스 두 잉콘시엔치). 타이스 메모리아스, 콩 우 템푸, 포뎅 시 토르나르 웅 토르멘투 파라 에사 페소아 시 치베렝 소르치 (오 아자르, 타우베스) 이 코메사렝 아 인텐데르 키 아켈리스 아스펙투스 키 우스 파젱 우 키 상, 텡 시두 헤시클라두스 아트라베스 다 비다 이 다 모르치 헤페치다스 베지스 (우 키 아우궁스 샤망 지 헹카르나상).
+O ciclo de vida e morte não é uma realidade para a pessoa comum; eles apenas vivem, esquecem a maior parte e sonham acordados com o resto, depois morrem. É a superalma que faz o ciclo de vida e morte e o conhece, o está fazendo e está participando dele, não a pessoa comum. Para a pessoa comum, a prisão do ciclo de vida e morte significa que seu inconsciente vai alimentá-los (mostrar-lhes), ao longo da vida que vivem/possuem, estranhas quase memórias, sonhos quase esquecidos e muitas dessas experiências (de todos os aspectos de personalidade criados pela superalma que são reciclados vida após vida à medida que se comunicam através do inconsciente). Tais memórias, com o tempo, podem se tornar um tormento para essa pessoa se tiverem sorte (ou azar, talvez) e começarem a entender que aqueles aspectos que os fazem o que são, têm sido reciclados através da vida e da morte repetidas vezes (o que alguns chamam de reencarnação).
 
 우 시클루 지 비다 이 모르치, 잉 오트라스 팔라브라스, 에 비벤시아두 펠루스 아스펙투스 다 페르소날리다지 키 포뎅 파레세르 인지비두아이스, 마스 낭 상. 엘리스 소 시 토르낭 인지비두아이스 누 폰투 지 코에장 누 나시멘투 피지쿠... 에시스 아스펙투스 비벵 이 모헹, 이 에 이수 키 ‘잉콘시엔테멘치’ 비벤시아 아 비다 이 아 모르치 헤페치다스 베지스, 우 키 헤아우멘치 시그니피카 키 엘리스 눙카 우스 이스페리멘탕 지 포르마 아우구마 잉 세르투 센치두 지 콘시엔시아.
+O ciclo de vida e morte, em outras palavras, é vivenciado pelos aspectos da personalidade que podem parecer individuais, mas não são. Eles só se tornam individuais no ponto de coesão no nascimento físico... esses aspectos vivem e morrem, e é isso que ‘inconscientemente’ vivencia a vida e a morte repetidas vezes, o que realmente significa que eles nunca os experimentam de forma alguma em certo sentido de consciência.
 
 - 파라 아 페소아 코뭉, 에시 시클루 시그니피카 헤페치상 인피니타 이 소프리멘투 (우 키 포뎅 센치르 잉 수아 아우마 코무 우마 앙구스치아 잉콘시엔치, 코무 멘시오네이, 이 아우궁스 아테 포뎅 오브테르 메모리아스 콤플레타스 오 이스페리엔시아스 헤지두아이스 잉 수아 비다 아투아우, 우 키 포뎅 샤마르 지 비다 파사다, 웅 소뉴 이스트라뉴 오 마우 카르마) 이 우마 센사상 지 이스타렝 프레주스... 마스 에 소 이수. 엘리스 이스탕 데스치나두스 아 비베르 웅 로프 인테르미나베우 지 이지스텐시아 아르케치피카.
+- Para a pessoa comum, esse ciclo significa repetição infinita e sofrimento (o que podem sentir em sua alma como uma angústia inconsciente, como mencionei, e alguns até podem obter memórias completas ou experiências residuais em sua vida atual, o que podem chamar de vida passada, um sonho estranho ou mau karma) e uma sensação de estarem presos... mas é só isso. Eles estão destinados a viver um loop interminável de existência arquetípica.
 - 파라 우 비덴치, 에시 시클루 에 우마 베르다데이라 데스코베르타, 웅 파투 이네르제치쿠, 키 콩 우 템푸, 시 발레렝 아 페나, 시그니피카 키 텡 우마 베르다데이라 바탈랴, 웅 데자피우 피나우.
+- Para o vidente, esse ciclo é uma verdadeira descoberta, um fato energético, que com o tempo, se valerem a pena, significa que têm uma verdadeira batalha, um desafio final.
 - 파라 아 수페라우마, 시그니피카 마이스 비다, 마이스 이스페리엔시아 아 메지다 키 헤시클라 파르치스 키 포랑 보세 콩 오트라스 파르치스 키 낭 상 보세 (마스 키 상 파르치스 델라 잉 오트라 비다) 헤페치다스 베지스 잉 이테라송이스 키, 파라 엘라, 시그니피캉 마이스 이스판상.
+- Para a superalma, significa mais vida, mais experiência à medida que recicla partes que foram você com outras partes que não são você (mas que são partes dela em outra vida) repetidas vezes em iterações que, para ela, significam mais expansão.
 
 ...마스 파라 보세 포지 시그니피카르, 시 콘세기르 렘브라르 지 세르타스 인스탄시아스 키 이스탕 인테하다스 프로푼다멘치 나 파르치 잉콘시엔치 (레이아 _우 리브루 베르멜류_ 지 카루 중그 파라 테르 우마 이데이아 두 키 케루 지제르 콩 잉콘시엔치 아키) 지 시 메즈무, 헤페치상 인피니타 지 아르케치푸스 지 비다 시밀라리스 이 우마 센사상 지 이스타르 프레주 잉 웅 아르쿠 지 이스토리아 아싱. 포르탄투, 파라 아 페소아 코뭉, 포르 키 텐타르 이 켕 시 임포르타, 마스 파라 우 비덴치 이 아켈리스 키 낭 수포르탕 에사 앙구스치아 이 케렝 사베르 마이스 이 베르, 이 루타르, 인탕 아 무이투 우 키 파제르!
+...mas para você pode significar, se conseguir lembrar de certas instâncias que estão enterradas profundamente na parte inconsciente (leia _O Livro Vermelho_ de Carl Jung para ter uma ideia do que quero dizer com inconsciente aqui) de si mesmo, repetição infinita de arquétipos de vida similares e uma sensação de estar preso em um arco de história assim. Portanto, para a pessoa comum, por que tentar e quem se importa, mas para o vidente e aqueles que não suportam essa angústia e querem saber mais e ver, e lutar, então há muito o que fazer!
 
 이우 텐투 데이샤르 이수 우 마이스 클라루 포시베우 나 트릴로지아 지 리브루스 두 쿠르수, 마스 이스페루 키 이수 아주지 아 이스클라레세르 아우구마스 코이자스. 누 피나우 다스 콘타스, 신투 키 아프렌데르 아 시 베르, 우잔두 아스 테크니카스 데스크리타스 네시스 리브루스 지 쿠르수, 페르미치라 키 보세 시 페르세바 지레타멘치 콩 우 템푸, 우 키 인탕 우우트라파사라 아스 팔라브라스. 아스 팔라브라스 셈프리 팔량, 이 보세 낭 데비 아크레지타르 잉 밍 셍 케스치오나르. 이스포르시-시 파라 아프렌데르 아 베르 이 페르세베르 지레타멘치 보세 메즈무.
+Eu tento deixar isso o mais claro possível na trilogia de livros do curso, mas espero que isso ajude a esclarecer algumas coisas. No final das contas, sinto que aprender a se ver, usando as técnicas descritas nesses livros de curso, permitirá que você se perceba diretamente com o tempo, o que então ultrapassará as palavras. As palavras sempre falham, e você não deve acreditar em mim sem questionar. Esforce-se para aprender a ver e perceber diretamente você mesmo.
 
+---
 ---
 
 **프: 코무 보세 아우멘타 아 이네르지아 두 바지우 파라 인트라르 마이스 프로푼다멘치 잉 트란시 오 파라 아도르메세르 마이스 하피다멘치? 인펠리즈멘치, 파제르 콩 키 우 세우 코르푸 프로두자 멜라토니나 포르 시 소 헤아우멘치 낭 에 수피시엔치, 아크레지투, 이 아슈 키 무이타스 베지스 미 파우타 아 쿠안치다지 네세사리아 지 바지우 파라 콘치누아르 프라치칸두 이 프로제탄두 코헤타멘치. 아스 베지스, 우 바지우 파레시 세르 콘수미두 무이투 하피다멘치 이 인탕 이스토 아코르다두 노바멘치 이 낭 콘시구 인트라르 잉 트란시 이 탐벵 낭 콘시구 아도르메세르, 인탕 이스토 프레주 잉 웅 이스타두 지 비질리아 이누치우.**
+**P: Como você aumenta a energia do VAZIO para entrar mais profundamente em transe ou para adormecer mais rapidamente? Infelizmente, fazer com que o seu corpo produza melatonina por si só realmente não é suficiente, acredito, e acho que muitas vezes me falta a quantidade necessária de VAZIO para continuar praticando e projetando corretamente. Às vezes, o vazio parece ser consumido muito rapidamente e então estou acordado novamente e não consigo entrar em transe e também não consigo adormecer, então estou preso em um estado de vigília inútil.**
 
 아: 에스타 에 아 케스탕 다스 케스통이스 파라 우스 아우키미스타스 인테르누스 이 파라 토두스 우스 페이치세이루스 (봉스 오 마우스, 두 폰투 지 비스타 우마누) 키 아비탕 에스타 아레아 제라우: 코무 콘세기르 마이스 이스페시아리아?
+A: Esta é a questão das questões para os alquimistas internos e para todos os feiticeiros (bons ou maus, do ponto de vista humano) que habitam esta área geral: como conseguir mais especiaria?
 
 오비 이스트라테지아스 콘시데라베이스 우칠리자다스 이, 코무 보세 포지 수스페이타르, 아테 우 우주 지 세르투스 키미쿠스, 우 키, 누 피나우, 시 토르나 웅 카주 무이투 페리고주, 다두 키 우스 우주아리우스 포뎅 테르 무이타스 콤플리카송이스 피지올로지카스.
+Houve estratégias consideráveis utilizadas e, como você pode suspeitar, até o uso de certos químicos, o que, no final, se torna um caso muito perigoso, dado que os usuários podem ter muitas complicações fisiológicas.
 
 나 비아 다 아우키미아 인테르나, 코무 멘시오누 누 우우치무 리브루 두 쿠르수, _우 카미뉴 두 데자피아도르 다 모르치_, 우마 헤스포스타 에 홈페르 아 파레지 두 소누 이 토르나르-시 웅 소뉴 비부. 메즈무 아켈리스 키 지젱 테르 인소니아 도르멩 무이투 마이스 두 키 이마지낭, 오 세자, 아 코실루스 미크로스코피쿠스, 이 엘리스 도르멩 마이스 아 노이치 잉쿠안투 시 헤비랑 두 키 포상 펜사르. 엘리스 포뎅 도르미르 메누스 두 키 아 마이오리아, 마스 아인다 도르멩 무이투 마이스 두 키 수스페이탕, 잉 오트라스 팔라브라스.
+Na via da alquimia interna, como menciono no último livro do curso, _O Caminho do Desafiador da Morte_, uma resposta é romper a parede do sono e tornar-se um sonho vivo. Mesmo aqueles que dizem ter insônia dormem muito mais do que imaginam, ou seja, há cochilos microscópicos, e eles dormem mais à noite enquanto se reviram do que possam pensar. Eles podem dormir menos do que a maioria, mas ainda dormem muito mais do que suspeitam, em outras palavras.
 
 웅 아우키미스타 인테르누 낭 아페나스 도미나 (아우 롱구 지 우마 비다 지 트라발류) 아 아빌리다지 지 페르마네세르 콘시엔치 인데피니다멘치, 마스 탐벵 에 카파스 지 우자르 토다 아 이스페시아리아 아쿠물라다 키 시 아쿠물라 아트라베스 데스치 프로세수 지 비질리아 인피니타. 엘리스 탐벵 데스코브리랑, 아트라베스 지 수아 그란지 지시플리나, 키 우 포쿠 무이투 포르치 지 아텐상 크리아 마이스 이스페시아리아 두 키 우 우주아우, 오 세자, 그란지 지시플리나 (키 파라 엘리스 에 우 포쿠 임플라카베우 지 아텐상) 이센시아우멘치 크리아 바스타스 쿠안치다지스 데사 이스페시아리아 키 엘리스 탄투 네세시탕 이 데제장. 포르탄투, 우 아투 지 콘텐상 이네르제치카 이 포쿠 임플라카베우 시 토르나 웅 로프 인피니투, 지 모두 키, 두란치 에시스 모멘투스 잉 키, 코무 보세 지스, 보세 아 우자 이 아이 보세 피카 프레주 잉 웅 이스타두 지 비질리아 수포스타멘치 이누치우, 보세 낭 이스타 잉 웅 이스타두 이누치우, 보세 이스타 나 포지상 페르페이타 파라 포카르 수아 아텐상 임플라카베우 콩 마이스 인텐시다지, 우 키 인탕 크리아라 마이스 이스페시아리아.
+Um alquimista interno não apenas domina (ao longo de uma vida de trabalho) a habilidade de permanecer consciente indefinidamente, mas também é capaz de usar TODA a especiaria acumulada que se acumula através deste processo de vigília infinita. Eles também descobriram, através de sua grande disciplina, que o foco muito forte de atenção cria mais especiaria do que o usual, ou seja, grande disciplina (que para eles é o foco implacável de atenção) essencialmente cria vastas quantidades dessa especiaria que eles tanto necessitam e desejam. Portanto, o ato de contenção energética e foco implacável se torna um loop infinito, de modo que, durante esses momentos em que, como você diz, você a usa e aí você fica preso em um estado de vigília supostamente inútil, você não está em um estado inútil, você está na posição perfeita para focar sua atenção implacável com mais intensidade, o que então criará mais especiaria.
 
 에스치 에 웅 카미뉴, 우 카미뉴 다 아우키미아 인테르나, 이지스텡 오트루스, 마스 타이스 카미뉴스 시 토르낭 우 히투아우, 우 사크리피시우, 아 테크놀로지아 (마지아), 이트크., 지 오트라스 오르뎅스 키, 누 피나우, 펠루 메누스 두 폰투 지 비스타 두 아우키미스타 인테르누, 레방 아 루가리스/이스파수스/지멘송이스 인사누스.
+Este é um caminho, o caminho da alquimia interna, existem outros, mas tais caminhos se tornam o ritual, o sacrifício, a tecnologia (magia), etc., de outras ordens que, no final, pelo menos do ponto de vista do alquimista interno, levam a lugares/espaços/dimensões insanos.
 
 데이슈 보세 콩 이수: 쿠안투 마이스 인텐수 우 템푸 아코르다두, 마이스 인텐수 우 소누 (이네르지아 두 바지우).
+Deixo você com isso: quanto mais intenso o tempo acordado, mais intenso o sono (energia do VAZIO).
 
+---
 ---
 
 **프:**
+**P:**
 
 **1.** **미냐 프리메이라 페르군타 에 소브리 아 세군다 살라 두 프로제치스타. 쿠안두 보세 프로쿠라 키 웅 포르타우 아파레사, 엘리 데비 세르 웅 펜사멘투 알레아토리우 키 보세 잉콘트라, 오 포지 세르 아우구 콘시엔테멘치 크리아두?**
+**1.** **Minha primeira pergunta é sobre a Segunda Sala do projetista. Quando você procura que um portal apareça, ele deve ser um pensamento aleatório que você encontra, ou pode ser algo conscientemente criado?**
 
 **에 아세이타베우 시 이우 이마지나르 아우구 이스페시피쿠 키 이우 케루 파라 우 포르타우 이 미 콘센트라르 니수? 포르 이젬플루, 이우 셈프리 크리아리아 우마 바녜이라 파라 우 포르타우, 오 우마 세나 누 메우 파르키 로카우 아싱 키 이스토 나 프리메이라 살라, 셍 프로쿠라르 아우구 알레아토리우. 에시 치푸 지 콘트롤리 에 아세이타베우 오 엘리 아후이나 우 이제르시시우? 데비 세르 아우구 알레아토리우 키 아파레시 포르 시 소? 이우 인텐지 키 보세 탐벵 포지 우자르 메모리아스 파라 우스 포르타이스, 우 키 시그니피카 키 보세 포지 크리아르 우 포르타우 보세 메즈무, 마스 소 케루 테르 세르테자.**
+**É aceitável se eu imaginar algo específico que eu quero para o portal e me concentrar nisso? Por exemplo, eu sempre criaria uma banheira para o portal, ou uma cena no meu parque local assim que estou na Primeira Sala, sem procurar algo aleatório. Esse tipo de controle é aceitável ou ele arruína o exercício? Deve ser algo aleatório que aparece por si só? Eu entendi que você também pode usar memórias para os portais, o que significa que você pode criar o portal você mesmo, mas só quero ter certeza.**
 
 **2.** **아 세군다 페르군타 에 소브리 아스 루지스 키 보세 베 잉쿠안투 메지타. 아 무이타스 파이스카스, 코리스, 포르마스 이 피셰우스 키 프로바베우멘치 카다 웅 지 노스 베 나 메지타상, 이 쿠안투 마이스 인트라무스 잉 트란시, 마이스 파레시 아베르. 이수 에 아우구 헬라시오나두 아우스 올류스 피지쿠스, 에 아 이네르지아 누 세우 테르세이루 올류, 오 타우베스 아우구 헬라시오나두 아 킨타 살라? 에 포시베우 키 이수 세자 우마 파르치 다 수페라우마 오 두 잉콘시엔치 시 모스트란두?**
+**2.** **A segunda pergunta é sobre as luzes que você vê enquanto medita. Há muitas faíscas, cores, formas e pixels que provavelmente cada um de nós vê na meditação, e quanto mais entramos em transe, mais parece haver. Isso é algo relacionado aos olhos físicos, é a energia no seu terceiro olho, ou talvez algo relacionado à Quinta Sala? É possível que isso seja uma parte da superalma ou do inconsciente se mostrando?**
 
 아:
+A:
 
 1. 보세 세르타멘치 포지 크리아르 웅 포르타우 콘시엔테멘치, 마스 콩 우 템푸 데비 코메사르 아 베르 아 지페렌사 엔트리 웅 키 에 콘시엔테멘치 크리아두 이 웅 키 아파레시 포르 아시덴치 아파렌치. 아 그란지 지페렌사 아 노타르, 이 우 키 보세 데비 세르 카파스 지 이덴치피카르 포르 시 메즈무 콩 우 템푸, 에 키 우 포르타우 크리아두 잉콘시엔테멘치 코메사라 아 아주다-루 아 크리아르 우마 폰치 크레센치 엔트리 세우 잉콘시엔치 이 세우 "판타즈마 나 마키나". 우 키 케루 지제르 콩 이수 에 키 우 크리아두 잉콘시엔테멘치 에 우 카미뉴 아 세기르 두 "판타즈마 셍 데제주스", 인탕 아 지페렌사 엔트리 우 포르타우 크리아두 콘시엔테멘치 이 우 크리아두 잉콘시엔테멘치 에 우마 폰치 엔트리 아 테르세이라 이 아 킨타 살라, 콩 아 쿠아르타 살라 누 메이우.
+1.  Você certamente pode criar um portal conscientemente, mas com o tempo deve começar a ver a diferença entre um que é conscientemente criado e um que aparece por acidente aparente. A grande diferença a notar, e o que você deve ser capaz de identificar por si mesmo com o tempo, é que o portal criado inconscientemente começará a ajudá-lo a criar uma ponte crescente entre seu inconsciente e seu "fantasma na máquina". O que quero dizer com isso é que o criado inconscientemente é o caminho a seguir do "fantasma sem desejos", então a diferença entre o portal criado conscientemente e o criado inconscientemente é uma ponte entre a terceira e a Quinta Sala, com a Quarta Sala no meio.
 
 2. 아스 루지스 키 보세 포지 베르 잉쿠안투 프로제타 인테르나멘치 상 우마 코이자 무이투 인지비두아우, 이 노바멘치 이수 에 아우구 키 보세 프레시자 데스코브리르 포르 시 메즈무, 포르키 파라 카다 인지비두, 엘라스 포뎅 시그니피카르 코이자스 지페렌치스. 지 모두 제라우, 토다스 에사스 루지스 인테르나스 헤프레젠탕 모비멘투스 이네르제치쿠스 펠루 코르푸 오, 아스 베지스, 포뎅 아테 헤프레젠타르 아 비장 두 미크로스코피쿠 오 두 마크로스코피쿠 아트라베스 두 우주 두스 센치두스 인테르누스. 우 람페주 알레아토리우 지 루스 키 파레시 이스플로지르 지안치 지 보세, 포르 이젬플루, 포지 헤프레젠타르 웅 포르치 푸우수 지 이네르지아 키 이스타 시르쿨란두 아트라베스 지 세우스 메리지아누스, 콘포르미 보세 무다 우스 이스타두스 지 콘시엔시아, 잉쿠안투 아 루스 마이스 수스텐타다 키 보세 베 아스 베지스 포지 헤프레젠타르 우 이니시우 지 웅 투네우 크리아두 잉콘시엔테멘치 (포르타우) 키 우 잉콘시엔치 이스타 텐탄두 크리아르, 오 포지 헤프레젠타르 우마 콘플루엔시아 이스파수-템포라우 헤아우 나 아레아 제라우 온지 보세 모라, 키 보세 이스타 인탕 벤두. 잉 쿠아우케르 카주, 타우 콘플루엔시아 포데리아 세르 우자다 파라 레바-루 무이투 론지 잉 수아스 프로제송이스. 마스, 누 피나우, 투두 이수 에 이스페쿨라상 다 미냐 파르치, 센두 키, 코무 자 지시, 타이스 루지스 인테르나스 상 무이투 인지비두아이스, 이 보세 프레시자 이스플로라-라스 다 메즈마 마네이라 키 프레시자 이스플로라르 우스 포르타이스 크리아두스 콘시엔테멘치 이 우스 포르타이스 두 "판타즈마 셍 데제주스".
+2.  As luzes que você pode ver enquanto projeta internamente são uma coisa muito individual, e novamente isso é algo que você precisa descobrir por si mesmo, porque para cada indivíduo, elas podem significar coisas diferentes. De modo geral, todas essas luzes internas representam movimentos energéticos pelo corpo ou, às vezes, podem até representar a visão do microscópico ou do macroscópico através do uso dos sentidos internos. O lampejo aleatório de luz que parece explodir diante de você, por exemplo, pode representar um forte pulso de energia que está circulando através de seus meridianos, conforme você muda os estados de consciência, enquanto a luz mais sustentada que você vê às vezes pode representar o início de um túnel criado inconscientemente (portal) que o inconsciente está tentando criar, ou pode representar uma confluência espaço-temporal real na área geral onde você mora, que você está então vendo. Em qualquer caso, tal confluência poderia ser usada para levá-lo muito longe em suas projeções. Mas, no final, tudo isso é especulação da minha parte, sendo que, como já disse, tais luzes internas são muito individuais, e você precisa explorá-las da mesma maneira que precisa explorar os portais criados conscientemente e os portais do "fantasma sem desejos".
 
+---
 ---
 
 **프: 잉 _우 카미뉴 두 데자피아도르 다 모르치_, 보세 아프레젠타 아 이스페리엔시아 포라 두 코르푸 나 세스타 살라. 보세 헤아우멘치 콜로카 세우 판타즈마 누스 플라누스 이스테르누스? 이우 펜세이 키 낭 아비아 지페렌사 엔트리 인테르누 이 이스테르누. 보세 포지 이스플리카르 쿠아우 에 아 지페렌사 엔트리 이우 비주알리자르 이스타르 나 카자 다 미냐 아보 이 사이르 두 코르푸 이 데포이스 이르 라? 이우 헤아우멘치 낭 인텐두 아 지페렌사 엔트리 포라 이 덴트루 이 온지 이스탕 우 프리메이루, 세군두 이 토두스 우스 오트루스 문두스. 코무 시 수퐁이 키 이지스치 아페나스 우 폰투 두 아고라, 펜세이 키 에라 투두 아 메즈마 코이자. 펜세이 키 아 비주알리자상 자 포시 아우구 코무 우마 이프크, 온지, 쿠안두 보세 시 비주알리자 잉 오트루 루가르, 보세 지 파투 이스타 잉 오트루 루가르? 아 이프크 낭 에 아페나스 우마 비주알리자상 무이투 포데로자?**
+**P: Em _O Caminho do Desafiador da Morte_, você apresenta a experiência fora do corpo na Sexta Sala. Você realmente coloca seu fantasma nos planos externos? Eu pensei que não havia diferença entre interno e externo. Você pode explicar qual é a diferença entre eu visualizar estar na casa da minha avó e sair do corpo e depois ir lá? Eu realmente não entendo a diferença entre fora e dentro e onde estão o primeiro, segundo e todos os outros mundos. Como se supõe que existe apenas o ponto do agora, pensei que era tudo a mesma coisa. Pensei que a visualização já fosse algo como uma EFC, onde, quando você se visualiza em outro lugar, você de fato está em outro lugar? A EFC não é apenas uma visualização muito poderosa?**
 
 아: 심플레즈멘치, 싱. 파라 우 아우키미스타 인테리오르, 낭 아 지페렌사 엔트리 우 이스테리오르 이 우 인테리오르, 이 토두 템푸 이 이스파수 상 아고라. 마스 우 템푸 (이, 포르탄투, 이스파수, 코무 웅 로카우 지페렌치) 네스타 조나 지멘시오나우, 포지 세르 지페렌시아두 펠라 인텐시다지. 인탕, 우 폰투-샤비 아키 에 아 인텐시다지, 이 아 인텐시다지 에 우마 케스탕 지 포쿠:
+A: Simplesmente, sim. Para o alquimista interior, não há diferença entre o exterior e o interior, e todo tempo e espaço são agora. Mas o tempo (e, portanto, espaço, como um local diferente) nesta zona dimensional, pode ser diferenciado pela intensidade. Então, o ponto-chave aqui é a intensidade, e a intensidade é uma questão de foco:
 
 마이스 포쿠 = 마이스 인텐시다지
+mais foco = mais intensidade
 
 이 웅 포쿠 마이오르 에 아드키리두 아트라베스 지 마이오르 포데르, 콘포르미 데스크리투 누 리브루 두 쿠르수 _우 마그눙 오푸스_. 포르탄투, 쿠안두 우 포쿠 에 인텐수 우 수피시엔치, 낭 아 지페렌사 엔트리 아 비주알리자상 이 우 수포스투 헤아우, 이 네시 폰투 보세 이스타 텐두 우마 이프크, 이 알렝 지수, 우 키 보세 베 (이 타우베스 아테 우 키 보세 파스) 세라 헤아우 잉 암부스 우스 루가리스 시무우타네아멘치!
+E um foco maior é adquirido através de maior poder, conforme descrito no livro do curso _O Magnum Opus_. Portanto, quando o foco é intenso o suficiente, não há diferença entre a visualização e o suposto real, e nesse ponto você está tendo uma EFC, e além disso, o que você vê (e talvez até o que você faz) será real em ambos os lugares simultaneamente!
 
 아싱, 쿠안두 에시 치푸 지 인텐시다지 지 포쿠 에 아우칸사두, 낭 아 지페렌사 엔트리 우 아키 이 우 알리. 시 보세 아친지르 인텐시다지 수피시엔치, 포데라 베르 우마 코이자 세르타 나켈리 오트루 루가르, 이 데포이스, 시 키제르, 포데라 베리피카르 우 키 비우 파라 노타르 시 이스타바 오 이스타 헤아우멘치 라 누 키 아스 페소아스 샤망 지 문두 헤아우. 보세 포지 테스타르 수아 아빌리다지 지 베르 우 키 에 오 우 키 아콘테세우 잉 우마 이프크, 헤지스트란두 이 텐탄두 베리피카르 에사스 인포르마송이스 데포이스, 시 이수 포르 임포르탄치 파라 보세. 마스 두 폰투 지 비스타 두 아우키미스타 인테리오르, 쿠안두 아 인텐시다지 에 타우 키 우 키 보세 베, 센치, 사보레이아, 셰이라, 오비, 에 인텐사멘치 헤아우, 베르다데이라멘치 헤아우 이 이스타베우 파라 보세, 인탕 파라 토두스 우스 이페이투스, 에 헤아우, 센두 키 네시 폰투 웅 이페이투 지 파르치쿨라스 제메아스 (이마라냐멘투 쿠안치쿠) 포이 이스타벨레시두.
+Assim, quando esse tipo de intensidade de foco é alcançado, não há diferença entre o aqui e o ali. Se você atingir intensidade suficiente, poderá ver uma coisa certa naquele outro lugar, e depois, se quiser, poderá verificar o que viu para notar se estava ou está realmente lá no que as pessoas chamam de mundo real. Você pode testar sua habilidade de ver o que é ou o que aconteceu em uma EFC, registrando e tentando verificar essas informações depois, se isso for importante para você. Mas do ponto de vista do alquimista interior, quando a intensidade é tal que o que você vê, sente, saboreia, cheira, ouve, é intensamente real, verdadeiramente real e estável para você, então para todos os efeitos, É real, sendo que nesse ponto um efeito de partículas gêmeas (emaranhamento quântico) foi estabelecido.
 
+---
 ---
 
 **프: 이스토 인텐덴두 코헤타멘치 키, 쿠안두 보세 페가 우 이스프레수 다 메이아-노이치, 세우 잉콘시엔치 탐벵 크리아 살라스 헤플리카스, 콩 아스 쿠아이스 보세 시 싱크로니자 아트라베스 지 포르타이스? 오 상 문두스 콤플레타멘치 오리지나이스 이네렌치스 아 수아 프시키? 아 우니카 마네이라 지 인테라지르 콩 우 키 이스타 "라 포라" 에 아트라베스 지 우마 싱크로니자상 인텐사? 이 아 아우구 헤아우멘치 라 포라? 시 토두스 아페나스 싱크로니장 수아스 헤플리카스 콩 토다스 아스 지멘송이스 이 로카이스, 인탕 우 키 이 온지 엘리스 이스탕?**
+**P: Estou entendendo corretamente que, quando você pega o expresso da meia-noite, seu inconsciente também cria salas réplicas, com as quais você se sincroniza através de portais? Ou são mundos completamente originais inerentes à sua psique? A única maneira de interagir com o que está "lá fora" é através de uma sincronização intensa? E há algo realmente lá fora? Se todos apenas sincronizam suas réplicas com todas as dimensões e locais, então o que e onde eles estão?**
 
 아: 싱, 이지스치 웅 라 포라, 마스 우 라 포라 키 보세 포지 이스페라르 낭 에 우 라 포라 키 에, 펠루 메누스 낭 우 라 포라 하시오나우멘치 이스페라두. 이 에시 라 포라 낭 이스타 포라 두 인지비두, 엘리 에, 아우 인베스 지수, 우 인지비두, 이 아인다 아싱 낭 에, 인탕 에 이스테리오르 이 낭 에... 코무 치피카멘치 파라도샤우, 코무 토다 베르다데이라 페이치사리아.
+A: Sim, existe um Lá Fora, mas o lá fora que você pode esperar não é o lá fora que é, pelo menos não o lá fora racionalmente esperado. E esse lá fora não está fora do indivíduo, ele é, ao invés disso, o indivíduo, e ainda assim não é, então é exterior e não é... como tipicamente paradoxal, como toda verdadeira feitiçaria.
 
 인탕, 보세 펜사 키 프레시자 지 웅 "라 포라" 포르키 세우스 센치두스 피지쿠스 크리아랑 웅 파라 보세, 지젠두 키 보세 에 웅 오브제투 세파라두 잉 웅 문두 셰이우 지 오브제투스, 이 아고라 보세 이스페라 키, 파라 우 헤스투 다 헤알리다지, 시 우마 헤알리다지 알렝 데스타 이지스치르, 에사 헤알리다지 키 보세 이스페라 데비 세르 포르네시다 다 마네이라 "라 포라" 키 보세 이스페라. 벵, 에사 헤알리다지 이지스치, 마스 에시 "라 포라" 이지스치 지 마네이라스 알렝 두스 센치두스 피지쿠스. 에시 "라 포라" 에, 잉 베스 지수, 웅 루가르 하시오나우멘치 인로케세도르 온지 아 지페렌사 엔트리 우 "라 포라" 이 우 "아키 덴트루" 낭 포지 세르 주우가다 아데쿠아다멘치 아트라베스 다스 카테고리아스 키 보세 크리오 파라 시 메즈무 아테 에스치 폰투. 우 키 이수 시그니피카 에 키 보세 프레시자 크리아르 웅 노부 로구스 페르세프치부 이스트루투라우, 웅 키 레비 잉 콘타 아 헤알리다지 다 포시빌리다지 지 이지스텐시아 잉 무우치플루스 로카이스, 아 바리아상 이 아 인테라상 다스 인텐시다지스 이, 심플레즈멘치, 우마 콤프렌상 두 템푸 키 에 무이투 마이스 소피스치카다 두 키 쿠아우케르 코이자 아투아우멘치 이마지나베우 펠라 멘치 우마나 메지아.
+Então, você pensa que precisa de um "lá fora" porque seus sentidos físicos criaram um para você, dizendo que você é um objeto separado em um mundo cheio de objetos, e agora você espera que, para o resto da realidade, se uma realidade além desta existir, essa realidade que você espera deve ser fornecida da maneira "lá fora" que você espera. Bem, essa realidade existe, mas esse "lá fora" existe de maneiras além dos sentidos físicos. Esse "lá fora" é, em vez disso, um lugar racionalmente enlouquecedor onde a diferença entre o "lá fora" e o "aqui dentro" não pode ser julgada adequadamente através das categorias que você criou para si mesmo até este ponto. O que isso significa é que você precisa criar um novo Logos perceptivo estrutural, um que leve em conta a realidade da possibilidade de existência em múltiplos locais, a variação e a interação das intensidades e, simplesmente, uma compreensão do tempo que é muito mais sofisticada do que qualquer coisa atualmente imaginável pela mente humana média.
 
 우 "라 포라" 에 우마 콘스트루상 하시오나우 이, 포르탄투, 아 베르다데이라 헤알리다지 다 마네이라 키 아 멘치 하시오나우 이스페라 에 우마 콘스트루상 키, 인펠리즈멘치, 에 파우사. 이 아인다 아싱, 타우 누클레우 수브자센치 이지스치, 마스 낭 이스타 "라 포라" 코무 아 멘치 하시오나우 이마지나 키 세자. 이스타 아우 메즈무 템푸 "라 포라" 이 "아키 덴트루", 이 에사 낭 에 우마 베르다지 이네르제치카 파시우멘치 데스크리치베우.
+O "lá fora" é uma construção racional e, portanto, a verdadeira realidade da maneira que a mente racional espera é uma construção que, infelizmente, é falsa. E ainda assim, tal núcleo subjacente existe, mas não está "lá fora" como a mente racional imagina que seja. Está ao mesmo tempo "lá fora" e "aqui dentro", e essa não é uma verdade energética facilmente descritível.
 
 온지 이스타 투두 이수? 이스타 잉 토두 루가르 이 잉 루가르 네늉, 이 이수 파레시 우마 헤스포스타 트리비아우 이 톨라, 마스 낭 에. 소 파레시 톨루 포르키 아우궁스 포뎅 콘피아르 데마이스 누스 센치두스 피지쿠스. 이우 헤코멘데이 우 리브루 _아 일루장 두 우주아리우_ 지 토르 느헤트란데르스, 에스치 리브루 포지 헤벨라르 아우구마 일루장 다 헤알리다지 아투아우멘치 아세이타.
+Onde está tudo isso? Está em todo lugar e em lugar nenhum, e isso parece uma resposta trivial e tola, mas não é. Só parece tolo porque alguns podem confiar demais nos sentidos físicos. Eu recomendei o livro _A Ilusão do Usuário_ de Tor Nørretranders, este livro pode revelar alguma ilusão da realidade atualmente aceita.
 
+---
 ---
 
 **프: 이르윙 스시로진제르 지시: “우 누메루 토타우 지 멘치스 누 우니베르수 에 웅. 나 베르다지, 아 콘시엔시아 에 우마 싱굴라리다지 잉 파지 덴트루 지 토두스 우스 세리스.” 코무 이수 시 헬라시오나 콩 아 아우키미아 인테리오르?**
+**P: Erwin Schrödinger disse: “O número total de mentes no universo é um. Na verdade, a consciência é uma singularidade em fase dentro de todos os seres.” Como isso se relaciona com a alquimia interior?**
 
 아: 싱, 에사 에 우마 보아 데스크리상 다 크렌사 클라시카 나 멘치 우니카, 이 덴트루 지 타우 데피니상 시 포지 인텐데르 포르 키 이지스텡 세르투스 그루푸스, 세르타스 테올로지아스, 포르 아싱 지제르, 키 데펜뎅 웅 헤토르누 아 에사 멘치 우니카 이, 네시 헤토르누, 웅 이스케시멘투, 아우 쿠아우 엘리스 시 헤페렝 코무 웅 치푸 지 세우, 웅 니르바나.
+A: Sim, essa é uma boa descrição da crença clássica na mente única, e dentro de tal definição se pode entender por que existem certos grupos, certas teologias, por assim dizer, que defendem um retorno a essa mente única e, nesse retorno, um esquecimento, ao qual eles se referem como um tipo de céu, um Nirvana.
 
 우스 아우키미스타스 인테리오리스 낭 이스탕 인테레사두스 잉 타우 헤토르누, 이 알렝 지수, 엘리스 상 카파지스, 아트라베스 지 수아 아빌리다지 지 페르세베르 지레타멘치, 지 베르 키 아 우마 그란지 콤플레시다지 네사 멘치 우니카 펠라 쿠아우 타이스 인지비두스 루탕. 이우 텐테이 데스크레베르 에사 콤플레시다지 다 멜료르 포르마 키 푸지 누 리브루 _우 카미뉴 두 데자피아도르 다 모르치_, 헤벨란두 아 나투레자 다 수페라우마, 이 무우치플라스 아우마스 수페리오리스 아세산두 지페렌치스 코르데나다스 이스파수-템포라이스 네스타 파이샤 지멘시오나우 파르치쿨라르. 아피르메이 네시 리브루 키 엘리스 파젱 이수 파라 크레세르 이 이스판지르 아 시 메즈무스, 우 키 에 '우 만다투 두 세우'. 우 만다투 두 세우 에 우 만다투 두 투두-우-키-이지스치, 아 멘치 우니카 키 우니 아 헤알리다지, 아 멘치 우니카 키 이우 신투 키 스시로진제르 이스타바 텐탄두 데스크레베르 나 시타상 아시마.
+Os alquimistas interiores não estão interessados em tal retorno, e além disso, eles são capazes, através de sua habilidade de perceber diretamente, de ver que há uma grande complexidade nessa mente única pela qual tais indivíduos lutam. Eu tentei descrever essa complexidade da melhor forma que pude no livro _O Caminho do Desafiador da Morte_, revelando a natureza da superalma, e múltiplas almas superiores acessando diferentes coordenadas espaço-temporais nesta faixa dimensional particular. Afirmei nesse livro que eles fazem isso para crescer e expandir a si mesmos, o que é 'o mandato do céu'. O mandato do céu é o mandato do Tudo-O-Que-Existe, a mente única que une a realidade, a mente única que eu sinto que Schrödinger estava tentando descrever na citação acima.
 
 포르 에사 하장, 테뉴 시두 무이투 쿠이다도주 나 포르마 코무 텐투 데스크레베르 아스 무이타스 콘트라지송이스 엔트리 우 "라 포라" 이 우 "아키 덴트루", 엔트리 아 일루장 두 템푸 리네아르 이 아 헤알리다지 이네르제치카 지 토두 우 템푸 이지스친두 아고라 네스치 폰투 두 모멘투. 이 에 포르 이수 키 인파치주 아 카파시다지 두 인지비두 지 "베르" 타이스 이스페리엔시아스 지레타멘치, 잉 베스 지 텐타르 콘피아르 아페나스 잉 팔라브라스. 파수 이수 포르키 에 아 데펜덴시아 다스 팔라브라스 이 다 포스투라 하시오나우 키 엘라스 임퐁잉 키 포지 크리아르 리미타상 이 도그마, 키 인탕 포지 레바르 우 인지비두 아 아크레지타르 키 우 "만다투 두 세우" 에 소브리 지 아우구마 포르마 헤토르나르 아 우마 이스페시 지 멘치 우니카 잉 오포지상 아 이스판상 이 아우 플로레시멘투 두 인지비두 잉 웅 인텔렉투, 우마 콩글로메라상 이네르제치카, 키 콩 우 템푸 포지 코녜세르 아 멘치 우니카 지레타멘치, 파제르 파르치 다 멘치 우니카, 마스 아우 메즈무 템푸 베르 알렝 델라, 벤두 아트라베스 델라 (아트라베산두-아) 탐벵.
+Por essa razão, tenho sido muito cuidadoso na forma como tento descrever as muitas contradições entre o "lá fora" e o "aqui dentro", entre a ilusão do tempo linear e a realidade energética de todo o tempo existindo agora neste ponto do momento. E é por isso que enfatizo a capacidade do indivíduo de "ver" tais experiências diretamente, em vez de tentar confiar apenas em palavras. Faço isso porque é a dependência das palavras e da postura racional que elas impõem que pode criar limitação e dogma, que então pode levar o indivíduo a acreditar que o "mandato do céu" é sobre de alguma forma retornar a uma espécie de mente única em oposição à expansão e ao florescimento do indivíduo em um intelecto, uma conglomeração energética, que com o tempo pode conhecer a mente única diretamente, fazer parte da mente única, mas ao mesmo tempo ver além dela, vendo através dela (atravessando-a) também.
 
 에스타 우우치마 아피르마상 누 파라그라푸 아시마 에 웅 폰투 샤비 파라 인텐데르 아 지페렌사 엔트리 우 라 포라 이 우 아키 덴트루, 엔트리 우 오브제치부 이 우 수브제치부, 엔트리 우 템푸 리네아르 이 토두 우 템푸.
+Esta última afirmação no parágrafo acima é um ponto chave para entender a diferença entre o lá fora e o aqui dentro, entre o objetivo e o subjetivo, entre o tempo linear e todo o tempo.
 
+---
 ---
 
 **프: 우 프라치칸치 트란센지 아 두알리다지 프라제르 베르수스 도르 잉 아우궁 모멘투?**
+**P: O praticante transcende a dualidade prazer versus dor em algum momento?**
 
 아: 에스타 에 우마 페르군타 지피시우 지 헤스폰데르, 콘시데란두 키, 포르 이젬플루, 웅 세르투 인지비두 포지 세르 카파스 지 파라르 아 도르 피지카 우잔두 테크니카스 코무 아 인제스탕 지 드로가스, 이프노치즈무, 이 심플레즈멘치 우 푸루 프라제르 다 도르 잉 시.
+A: Esta é uma pergunta difícil de responder, considerando que, por exemplo, um certo indivíduo pode ser capaz de parar a dor física usando técnicas como a ingestão de drogas, hipnotismo, e simplesmente o puro prazer da dor em si.
 
 마스, 시 인텐지 아 페르군타 코헤타멘치, 아 헤스포스타 세리아 키, 아싱 키 우마 페소아 코메사 아 시 아파스타르 다 테르세이라 살라 두 프로제치스타, 우 키 시그니피카 키 엘라 이스타라 시 지스탄시안두 다 헤알리다지 트리지멘시오나우 이 다스 오브세송이스 두 세르 트리지멘시오나우, 인탕, 우마 베스 키 아 테르세이라 살라 세자 마이스 이 마이스 데이샤다 파라 트라스, 아 두알리다지 프라제르 이 도르 탐벵 에 데이샤다 파라 트라스 네시 그라우.
+Mas, se entendi a pergunta corretamente, a resposta seria que, assim que uma pessoa começa a se afastar da Terceira Sala do projetista, o que significa que ela estará se distanciando da realidade tridimensional e das obsessões do ser tridimensional, então, uma vez que a Terceira Sala seja mais e mais deixada para trás, a dualidade prazer e dor também é deixada para trás nesse grau.
 
+---
 ---
 
 **프: 시 아 아쿠물라상 지 이네르지아 에 포시베우 파라 프롤롱가르 아 비다 비올로지카, 인탕 에시 테마 에 푼다멘타우 파라 우 수세수 지 아트라베사르 아스 싱쿠 살라스. 코무 보세 가란치 키 아 에시 템푸 네세사리우? 코무 보세 프롤롱가 아 비다 비올로지카 파라 테르 수세수 잉 아트라베사르 아스 싱쿠 살라스?**
+**P: Se a acumulação de energia é possível para prolongar a vida biológica, então esse tema é fundamental para o sucesso de atravessar as cinco salas. Como você garante que há esse tempo necessário? Como você prolonga a vida biológica para ter sucesso em atravessar as cinco salas?**
 
 아: 에 포르 이수 키 우마 그란지 엔파지 누스 이스크리투스 두스 아우키미스타스 두 파사두 셈프리 시 콘센트로 잉 코무 엘리스 우자랑 세우 포데르 (수아 페드라 필로조파우) 파라 아드키리르 히케자 이 이모르탈리다지. 우 키 이수 시그니피카 에 키 타이스 아우키미스타스 이스탕 지젠두 키 파르치 두 포데르 아쿠물라두, 우 포데르 키 엘리스 콘센트라랑 잉 수아 페드라 필로조파우, 데비 세르 우자두 아스 베지스 파라 아드키리르 히케자 이 론제비다지. 잉쿠안투 이스타무스 프레주스 네스치 쿠부 트리지멘시오나우, 노스 데베무스, 노스 테무스 키, 세데르 파르치 지 노사 이네르지아 아페나스 파라 소브레비베르 아키. 인탕, 에스치 에 웅 카미뉴.
+A: É por isso que uma grande ênfase nos escritos dos alquimistas do passado sempre se concentrou em como eles usaram seu poder (sua pedra filosofal) para adquirir riqueza e imortalidade. O que isso significa é que tais alquimistas estão dizendo que parte do poder acumulado, o poder que eles concentraram em sua pedra filosofal, deve ser usado às vezes para adquirir riqueza e longevidade. Enquanto estamos presos neste cubo tridimensional, nós devemos, nós temos que, ceder parte de nossa energia apenas para sobreviver aqui. Então, este é um caminho.
 
 마스 눙카 이스케사 키 에시스 메즈무스 아우키미스타스 탐벵 포뎅, 콩 우 템푸, 코메사르 아 데자피아르 아스 레이스 두 이스파수 이 두 템푸 코무 프로제치스타스, 인탕 웅 메스트리 다 테르세이라 살라 포지 헤알리자르 그란지스 마라빌랴스 잉 웅 쿠르투 페리오두 지 템푸 잉 아누스 피지쿠스, 이 시 푸데렝 수페라르 수아 오브세상 콩 아 카르니, 포르 아싱 지제르, 포데리앙 우자르 에시 템푸 에스트라 지 마네이라 바스탄치 콘스트루치바 파라 잉콘트라르 마네이라스 지 트란센데르 피지카멘치 에스타 지멘상.
+Mas nunca esqueça que esses mesmos alquimistas também podem, com o tempo, começar a desafiar as leis do espaço e do tempo como projetistas, então um mestre da Terceira Sala pode realizar grandes maravilhas em um curto período de tempo em anos físicos, e se puderem superar sua obsessão com a carne, por assim dizer, poderiam usar esse tempo extra de maneira bastante construtiva para encontrar maneiras de transcender fisicamente esta dimensão.
 
 콩 우 템푸, 키 에 헬라치부, 이스페시아우멘치 파라 웅 아우키미스타 인테리오르 키 시 토르나 웅 프로제치스타 메스트리, 우 템푸 비올로지쿠 토르나-시 잉콘세켄치.
+Com o tempo, que é relativo, especialmente para um alquimista interior que se torna um projetista mestre, o tempo biológico torna-se inconsequente.
 
+---
 ---
 
 **프: 보세 포데리아 인트라르 잉 마이스 데탈리스 소브리 코무 이스텐데르 아 비다 비올로지카 콩 아 이네르지아 아쿠물라다 펠루 아우키미스타?**
+**P: Você poderia entrar em mais detalhes sobre como estender a vida biológica com a energia acumulada pelo alquimista?**
 
 아: 누 카피툴루 7 지 _우 마그눙 오푸스_, 멘시오네이 우마 테크니카 샤마다 "우자르 아 페드라 잉 콤비나상 콩 포르마스 지 펜사멘투". 라, 아폰투 지 마네이라 제라우 코무 아스 포르마스 지 펜사멘투, 잉 파르치쿨라르, 포뎅 세르 우자다스 파라 아드키리르 코이자스 피지카스 이 가냐르 히케자. 타이스 테크니카스, 이 베르송이스 헤피나다스 데사스 포르마스 지 펜사멘투, 포뎅 세르 우자다스 파라 무이투스 프로포지투스, 잉클루인두 아 아빌리다지 지 프롤롱가르 아 비다 비올로지카 아트라베스 다 이스텐상 다 사우지.
+A: No Capítulo 7 de _O Magnum Opus_, mencionei uma técnica chamada "usar a pedra em combinação com formas de pensamento". Lá, aponto de maneira geral como as formas de pensamento, em particular, podem ser usadas para adquirir coisas físicas e ganhar riqueza. Tais técnicas, e versões refinadas dessas formas de pensamento, podem ser usadas para muitos propósitos, incluindo a habilidade de prolongar a vida biológica através da extensão da saúde.
 
 알렝 지수, 누 카피툴루 7 지 _우 카미뉴 두 데자피아도르 다 모르치_, 멘시오누 우 이제르시시우 "우자르 아 비주알리자상 파라 포르탈레세르 우 코르푸 피지쿠". 에사스 테크니카스 포뎅 세르 우자다스 콩 바스탄치 수세수 파라 아우멘타르 아 사우지 이 아 비탈리다지.
+Além disso, no Capítulo 7 de _O Caminho do Desafiador da Morte_, menciono o exercício "Usar a visualização para fortalecer o corpo físico". Essas técnicas podem ser usadas com bastante sucesso para aumentar a saúde e a vitalidade.
 
 콩 우 헤피나멘투 다 페드라, 아 이네르지아 아우멘타 이, 아 메지다 키 아 이네르지아 아우멘타, 우 포쿠 탐벵 아우멘타 이 쿠안두 에시 포쿠 이스타 지스포니베우, 무이타스 코이자스 시 토르낭 포시베이스. 알렝 지수, 아 메지다 키 아 이네르지아 아우멘타, 오코히 웅 아우멘투 나투라우 나 사우지 이 나 비탈리다지.
+Com o refinamento da pedra, a energia aumenta e, à medida que a energia aumenta, o foco também aumenta; e quando esse foco está disponível, muitas coisas se tornam possíveis. Além disso, à medida que a energia aumenta, ocorre um aumento natural na saúde e na vitalidade.
 
+---
 ---
 
 **프: 파레시-미 키 아 아보르다젱 멘시오나다 누 리브루 소브리 우 데자피아도르 다 모르치 에 우마 아보르다젱 키 수제리 무다르 우 프로포지투 다 비다 파라 오트라 마네이라 지 인텐데르 아 비다, 온지 프리오리자 아 프레파라상 파라 아 모르치, 잉 베스 지 아프로베이타르 아 비다 다 마네이라 트라지시오나우 키 아 소시에다지 임퐁이. 에시 인텐지멘투 이스타 코헤투?**
+**P: Parece-me que a abordagem mencionada no livro sobre o desafiador da morte é uma abordagem que sugere mudar o propósito da vida para outra maneira de entender a vida, onde prioriza a preparação para a morte, em vez de aproveitar a vida da maneira tradicional que a sociedade impõe. Esse entendimento está correto?**
 
 아: 지 세르타 포르마, 보세 포데리아 지제르 키 이수 이스타 코헤투, 시 인파치자르 아 이데이아 다 마네이라 트라지시오나우 키 아 소시에다지 임퐁이 코무 아 비다 데비 세르 비비다, 센두 키 타이스 임포지송이스 아르콘치카스 이 이데이아스 소브리 코무 아 비다 데비 세르 비비다 이센시아우멘치 낭 상 무이투 비베르 지 토두, 펠루 메누스 두 폰투 지 비스타 두 아우키미스타 인테리오르.
+A: De certa forma, você poderia dizer que isso está correto, se enfatizar a ideia da maneira tradicional que a sociedade impõe como a vida deve ser vivida, sendo que tais imposições Arconticas e ideias sobre como a vida deve ser vivida essencialmente não são muito viver de todo, pelo menos do ponto de vista do alquimista interior.
 
 이우 테리아 쿠이다두 아키, 누 인탄투, 이 지리아 키 낭 시 트라타 지 시 프레파라르 파라 모헤르, 마스 지 아프렌데르 아 비베르 마이스 아고라, 잉콘트라르 아 베르다데이라 알레그리아 아고라! 낭 아 데포이스, 아 아페나스 아고라! 네스치 아고라 비바 마이스, 잉콘트리 마이스 알레그리아, 아고라! 에스치 에 웅 테마 임포르탄치 데시 리브루: 아 일루장 두 템푸 코무 센두 세켄시아우 텡 에사 카파시다지 지 파제르 토두스 펜사렝 키 상 이모르타이스, 이 이수 낭 에 베르다데이루 잉 세르투 센치두. 소무스 웅 브릴류 콩 웅 폰투 지 테르미누 키 에 무이투 지피시우 지 이덴치피카르, 마스 키 아콘테세라 지 쿠아우케르 포르마, 이 네시 센치두, 센두 키 토두 우 템푸 에 아고라, 이스타무스 지 우마 포르마 이스트라냐 탕 모르투스 아고라 쿠안투 이스타무스 비부스. 소무스 토두스 마지쿠스 이 이스타무스 프레주스 잉 우마 비다 잉클라우주라다 펠라스 헤그라스 다 하시오날리다지.
+Eu teria cuidado aqui, no entanto, e diria que não se trata de se preparar para morrer, mas de aprender a viver mais agora, encontrar a verdadeira alegria agora! Não há depois, há apenas agora! Neste agora viva mais, encontre mais alegria, agora! Este é um tema importante desse livro: a ilusão do tempo como sendo sequencial tem essa capacidade de fazer todos pensarem que são imortais, e isso não é verdadeiro em certo sentido. Somos um brilho com um ponto de término que é muito difícil de identificar, mas que acontecerá de qualquer forma, e nesse sentido, sendo que todo o tempo é agora, estamos de uma forma estranha tão mortos agora quanto estamos vivos. Somos todos mágicos e estamos presos em uma vida enclausurada pelas regras da racionalidade.
 
 우 카미뉴 다 아우키미아 인테리오르 에 토르나르 카다 모멘투 지 푸라 펠리시다지 네스타 비다, 아고라, 콤프렌덴두 아 토탈리다지 두 세르, 토르난두-시 콘시엔치 지 토두 우 이우 이, 아싱 파젠두, 낭 프레파란두, 마스 베르다데이라멘치 비벤두 펠라 프리메이라 베스, 잉콘트라르 네시 이스토루 지 브릴류 콘시엔치, 우마 마네이라 지 콘치누아르 인두 파라 에시 브릴류 인피니타멘치! 알렝 두 시클루 지 비다 이 모르치.
+O caminho da alquimia interior é tornar cada momento de pura felicidade nesta vida, agora, compreendendo a totalidade do ser, tornando-se consciente de todo o eu e, assim fazendo, não preparando, mas verdadeiramente vivendo pela primeira vez, encontrar nesse estouro de brilho consciente, uma maneira de continuar indo para esse brilho infinitamente! Além do ciclo de vida e morte.
 
 이스타무스 프레주스 잉 웅 헤데모이뉴 키 파레시 세르 이테르누, 이 아 엘리 아지시오나무스 우 템푸 리네아르. 마스 우 템푸 리네아르 에 우마 일루장 포르키 토두 우 템푸 에 아고라 에사 센사상 지 이테르니다지, 에사 센사상 지 이모르탈리다지, 투두 에 우마 일루장. 우 베르다데이루 트루키 에 사이르 데시 헤데모이뉴 이 잉콘트라르 오트라스 지멘송이스, 파라 키 에시 모멘투 아고라 포사 세르 이스플로라두 잉 지멘송이스 알렝 지 토다스 아스 프론테이라스, 이 이수 낭 아콘테시 아트라베스 지 데피니송이스 하시오나이스 지 아우스테리다지, 마스 아트라베스 지 우마 이스플로장 이네르지카 지 푸라 이네르지아, 키 상 파라 노스 알레그리아, 포쿠 인텐수... 아고라.
+Estamos presos em um redemoinho que parece ser eterno, e a ele adicionamos o tempo linear. Mas o tempo linear é uma ilusão porque todo o tempo é agora; essa sensação de eternidade, essa sensação de imortalidade, tudo é uma ilusão. O verdadeiro truque é sair desse redemoinho e encontrar outras dimensões, para que esse momento agora possa ser explorado em dimensões além de todas as fronteiras, e isso não acontece através de definições racionais de austeridade, mas através de uma explosão enérgica de pura energia, que são para nós alegria, foco intenso... agora.
 
 에스치 에 웅 폰투 잉크리베우멘치 지피시우 지 이스프레사르 잉 팔라브라스 포르키 우 템푸 리네아르 이 아 하시오날리다지 누스 프렌뎅 덴트루 지 세르타스 레이스 메카니카스 키 낭 페르세벵, 낭 포뎅 페르세베르, 아 이스텐상 데사 네세시다지 지 홈페르 콩 우 모멘투 지 모비멘투 시르쿨라르 잉 키 이스타무스. 사이무스 데시 시클루, 데시 헤데모이뉴 이네르제치쿠, 낭 헤제이탄두 아 비다 잉 키 이스타무스 아고라, 마스 아가한두 베르다데이라멘치 카다 폰투 지 모멘투 우니쿠 아테 포데르무스 홈페르 우마 파레지, 키 인탕 누스 지스포니빌리자 우마 인피니투지 인수스페이타, 우마 리베르다지 눙카 헤알리자다. 이 에시 홈피멘투 지 바헤이라스 낭 누스 에 지스포니빌리자두 헤제이탄두 아 비다, 마스 메르굴랸두 지 카베사 잉 카다 모멘투 우니쿠 델라, 인텐덴두 인텐사멘치 우 폰투 두 모멘투 프레젠치, 아테 키 아스 누벵스 두 템푸 리네아르 시 파르탕. 이수 에 우마 알레그리아, 아 우니카 베르다데이라 알레그리아, 토두 우 헤스투 에 일루장 이 낭 에 베르다데이라멘치 비베르!
+Este é um ponto incrivelmente difícil de expressar em palavras porque o tempo linear e a racionalidade nos prendem dentro de certas leis mecânicas que não percebem, não podem perceber, a extensão dessa necessidade de romper com o momento de movimento circular em que estamos. Saímos desse ciclo, desse redemoinho energético, NÃO rejeitando a vida em que estamos agora, mas agarrando verdadeiramente cada ponto de momento único até podermos romper uma parede, que então nos disponibiliza uma infinitude insuspeita, uma liberdade nunca realizada. E esse rompimento de barreiras não nos é disponibilizado rejeitando a vida, mas mergulhando de cabeça em cada momento único dela, entendendo intensamente o ponto do momento presente, até que as nuvens do tempo linear se partam. Isso é uma alegria, a única verdadeira alegria, todo o resto é ilusão e não é verdadeiramente viver!
 
 ## 카피툴루 6: 우 이스트라뉴
+## CAPÍTULO 6: O ESTRANHO
 
 **“이우 미 페르군투 시 푸이 무다두 두란치 아 노이치. 데이시-미 펜사르. 이우 에라 우 메즈무 쿠안두 미 레반테이 에스타 마냥? 쿠아지 아슈 키 포수 미 렘브라르 지 테르 미 센치두 웅 포쿠 지페렌치. 마스 시 이우 낭 소 우 메즈무, 아 프로시마 페르군타 에 '켕 누 문두 소 이우?' 아, 에시 에 우 그란지 이니그마!”**
+**“Eu me pergunto se fui mudado durante a noite. Deixe-me pensar. Eu era o mesmo quando me levantei esta manhã? Quase acho que posso me lembrar de ter me sentido um pouco diferente. Mas se eu não sou o mesmo, a próxima pergunta é 'Quem no mundo sou eu?' Ah, esse é o grande enigma!”**
 _― 레위스 카호우, 아스 아벤투라스 지 알리시 누 파이스 다스 마라빌랴스_
+_― LEWIS CARROLL, AS AVENTURAS DE ALICE NO PAÍS DAS MARAVILHAS_
 
 아 나투레자 다 아우키미아 인테리오르 에 타우 키 데비 아브란제르 웅 이스펙트루 잉크리베우멘치 암플루 지 파제르 이 세르. 이우 포데리아 지제르 이수 지 오트라 마네이라, 지젠두 키 파라 웅 아우키미스타 인테리오르 세르 벵-수세지두, 엘리 낭 소 데비 인텐데르 웅 암플루 이스펙트루 다 헤알리다지, 마스 탐벵 데비 아프렌데르 아 마니풀라르 잉 탄투스 로카이스 지멘시오나이스 쿠안투 포시베우.
+A natureza da alquimia interior é tal que deve abranger um espectro incrivelmente amplo de fazer e ser. Eu poderia dizer isso de outra maneira, dizendo que para um alquimista interior ser bem-sucedido, ele não só deve entender um amplo espectro da realidade, mas também deve aprender a manipular em tantos locais dimensionais quanto possível.
 
 우 테르무 '아우키미아 인테리오르' 포르 시 소 포지 수제리르 키 타이스 프라치칸치스 이스탕 인테레사두스 아페나스 누 키 포데리아 세르 샤마두 지 아스펙투스 인테르누스 다 헤알리다지, 이스투 에, 아스펙투스 다 헤알리다지 키 우 문두 모데르누 콘시데라 세렝 프시콜로지쿠스, 수브제치부스, 이테레우스 오 아페나스 이스피리투아이스. 마스 아 헤알리다지 에 키 타이스 프라치칸치스 이스탕 인테레사두스 잉 아세사르 탄투스 로카이스 지멘시오나이스 쿠안투 포시베우, 이 아우구마스 데사스 포지송이스, 아우궁스 데시스 로카이스 지멘시오나이스, 키 탐벵 포뎅 세르 헤페리두스 코무 폰투스 페르세프치부스, 포데리앙, 펠라 페소아 코뭉, 아테 세렝 샤마두스 지 루가리스 피지쿠스 이 아송이스 피지카스. 잉 오트라스 팔라브라스, 우 아우칸시 두 아우키미스타 인테리오르 에 바스투, 이 아우구마스 지 수아스 아송이스 포뎅 아테 세르 헤페리다스 코무 마니풀라상 이스테르나.
+O termo 'alquimia interior' por si só pode sugerir que tais praticantes estão interessados apenas no que poderia ser chamado de aspectos internos da realidade, isto é, aspectos da realidade que o mundo moderno considera serem psicológicos, subjetivos, etéreos ou apenas espirituais. Mas a realidade é que tais praticantes estão interessados em acessar tantos locais dimensionais quanto possível, e algumas dessas posições, alguns desses locais dimensionais, que também podem ser referidos como pontos perceptivos, poderiam, pela pessoa comum, até serem chamados de lugares físicos e ações físicas. Em outras palavras, o alcance do alquimista interior é vasto, e algumas de suas ações podem até ser referidas como manipulação externa.
 
 파라 이스플리카르 이수 콩 아우구마 클라레자, 데부 데스크레베르 아 나투레자 다 이지스텐시아 지 아코르두 콩 아 아우키미아 인테리오르. 파라 아 페소아 모데르나 메지아, 이지스치 우 수브제치부 이 우 오브제치부. 이 무이타스 베지스 에사 두알리다지 에 크리아다 엔트리 우 코르푸 이 아 멘치, 엔트리 아 헤알리다지 인테리오르 페소아우 이 우 피지쿠 오브제치부 라 포라, 엔트리 우 수포스타멘치 헤아우 (아 헤알리다지 지 파우스 이 페드라스) 이 우 이테레우 (아 멘치). 이 임보라 이우 테냐 시두 포르사두 아 우자르 타이스 폴라리다지스 이 테르무스 파라 이스플리카르 아스 콤플레시다지스 다 아우키미아 인테리오르, 우 프라치칸치 데스타 아르치 코메사 아 페르세베르, 데즈지 세두, 키 타이스 세파라송이스 상, 잉 이센시아, 우마 일루장.
+Para explicar isso com alguma clareza, devo descrever a natureza da existência de acordo com a alquimia interior. Para a pessoa moderna média, existe o subjetivo e o objetivo. E muitas vezes essa dualidade é criada entre o corpo e a mente, entre a realidade interior pessoal e o físico objetivo lá fora, entre o supostamente real (a realidade de paus e pedras) e o etéreo (a mente). E embora eu tenha sido forçado a usar tais polaridades e termos para explicar as complexidades da alquimia interior, o praticante desta arte começa a perceber, desde cedo, que tais separações são, em essência, uma ilusão.
 
 우스 세리스 우마누스 상, 지 아코르두 콩 아 비장 누 코녜시멘투 이네르제치쿠 지레투 두스 아우키미스타스 인테리오리스, 세리스 무우치지멘시오나이스. 오 세자, 엘리스 상 우마 그란지 콩글로메라상 지 이네르지아 키 오쿠파 무이타스 포지송이스 지멘시오나이스 지 우마 소 베스, 이 에 아페나스 아켈라 라스카 피지카, 아켈라 페케나 파르치 키 이스타 누 모멘투 오쿠판두 아 포지상 지멘시오나우 다 피지칼리다지, 키 아 페소아 메지아 이스타 시엔치 엘리스 낭 이스탕 시엔치스 지 마이스 나다. 마스 아 우마니다지 에 무이투 마이스 두 키 이수, 에 무이투 마이오르 두 키 아페나스 아 라스카 키 파스 파르치 다 피지칼리다지. 아 토탈리다지 지 우마 페소아 탐벵 파스 파르치 지 무이타스 오트라스 지멘송이스, 이 코무 타우, 아 페소아 에 무이투 마이오르 두 키 페르세비. 데비두 아우 파투 지 세렝 에사 라스카, 이스투 에, 우마 파르치 다 토탈리다지 지 켕 상 이스타 덴트루 두 아우칸시 지멘시오나우 피지쿠, 우 문두 오브제치부 에 헤아우 파라 엘리스, 마스 엘리스 탐벵 상 무이투 마이스, 이 아 무이투 마이스 나 이지스텐시아 두 키 아페나스 우 피지쿠.
+Os seres humanos são, de acordo com a visão no conhecimento energético direto dos alquimistas interiores, seres multidimensionais. Ou seja, eles são uma grande conglomeração de energia que ocupa muitas posições dimensionais de uma só vez, e é apenas aquela lasca física, aquela pequena parte que está no momento ocupando a posição dimensional da fisicalidade, que a pessoa média está ciente; eles não estão cientes de mais nada. Mas a humanidade é muito mais do que isso, é muito maior do que apenas a lasca que faz parte da fisicalidade. A totalidade de uma pessoa também faz parte de muitas outras dimensões, e como tal, a pessoa é muito maior do que percebe. Devido ao fato de serem essa lasca, isto é, uma parte da totalidade de quem são está dentro do alcance dimensional físico, o mundo objetivo é real para eles, mas eles também são muito mais, e há muito mais na existência do que apenas o físico.
 
 타우베스 우마 마네이라 멜료르 이 마이스 프라치카 지 지제르 이수 세리아 키, 아트라베스 다 비장 두스 아우키미스타스 인테리오리스, 우스 세리스 우마누스 상 비스투스 이네르제치카멘치 코무 세리스 카파지스 지 아세사르 지페렌치스 폰투스 페르세프치부스, 무이투 마이스 두 키 아페나스 우 폰투 페르세프치부 피지쿠, 우 문두 피지쿠. 우스 아우키미스타스 인테리오리스 벵 우스 세리스 우마누스 코무 콩글로메라두스 지 이네르지아 잉카프술라두스, 코무 우마 이스페시 지 이스페라 오 오부 지 이네르지아, 키 지 무이타스 마네이라스 에 무이투 마이오르 두 키 아페나스 우 코르푸 피지쿠. 에사 이스페라 오 콩글로메라두 오블롱구 지 이네르지아, 키 에 아 토탈리다지 다 페소아 페르세프치베우 이네르제치카멘치, 텡 아스펙투스 데사 토탈리다지 키 누 모멘투 이스탕 콤플레타멘치 피샤두스 나 지멘상 피지카, 마스 오트루스 아스펙투스, 아스펙투스 무이투 마이오리스, 이지스텡 잉 지페렌치스 로카이스 지멘시오나이스 키 낭 상 피지쿠스. 에사 콩글로메라상 헬라치바멘치 그란지 지 이네르지아, 키 텐지 아 파레세르 바스탄치 이스페리카 파라 아우겡 키 포사 베르 에사 이네르지아 지레타멘치, 에 콤포스타 포르 우마 미리아지 지 지페렌치스 이스트루투라스 키 헤프레젠탕 에사스 코네숑이스 무우치지멘시오나이스. 아 마이스 임포르탄치 데사스 콩글로메라두스 에 우마 인텐시다지, 키 파레시 테르 아 아빌리다지 지 시 모베르 덴트루 데사 토탈리다지 지 오부 오 이스페라 지 웅 세르 우마누.
+Talvez uma maneira melhor e mais prática de dizer isso seria que, através da visão dos alquimistas interiores, os seres humanos são vistos energeticamente como seres capazes de acessar diferentes pontos perceptivos, muito mais do que apenas o ponto perceptivo físico, o mundo físico. Os alquimistas interiores veem os seres humanos como conglomerados de energia encapsulados, como uma espécie de esfera ou ovo de energia, que de muitas maneiras é muito maior do que apenas o corpo físico. Essa esfera ou conglomerado oblongo de energia, que é a totalidade da pessoa perceptível energeticamente, tem aspectos dessa totalidade que no momento estão completamente fixados na dimensão física, mas outros aspectos, aspectos muito maiores, existem em diferentes locais dimensionais que não são físicos. Essa conglomeração relativamente grande de energia, que tende a parecer bastante esférica para alguém que possa ver essa energia diretamente, é composta por uma miríade de diferentes estruturas que representam essas conexões multidimensionais. A mais importante dessas conglomerados é uma intensidade, que parece ter a habilidade de se mover dentro dessa totalidade de ovo ou esfera de um ser humano.
 
 보세 포지 펜사르 잉 웅 세르 우마누, 아 파르치르 다 페르스펙치바 페르세프치바 이네르제치카 지 웅 아우키미스타 인테리오르, 코무 우마 이스페라 헬라치바멘치 그란지 지 이네르지아 키 텡 덴트루 델라 우마 메노르 지 인텐시다지 리제이라멘치 마이오르, 아우구 코무 우마 페케나 볼라 지 이네르지아 마이스 인텐사 덴트루 지 우마 이스페라 무이투 마이오르 지 브릴류 이네르제치쿠 웅 포쿠 메노르. 에사 이스페라 메노르 덴트루 다 마이오르 에 제라우멘치 웅 포쿠 마이스 인텐사 두 키 아 이스페라 마이오르 이스테르나, 마스 아 인텐시다지 지 암바스 아스 이스페라스 에 헬라치바. 우 세르 우마누 메지우 카레시 지 이네르지아, 이 코무 헤주우타두, 탄투 아 이스페라 마이오르 쿠안투 아 메노르 파레셍 테르 포쿠 브릴류 잉 콤파라상 콩 우 브릴류 지 인지비두스 마이스 이네르제치카멘치 비고로주스, 코무 우스 아우키미스타스 인테리오리스 프라치칸치스. 아스 베지스, 아 탕 포카 이네르지아 덴트루 지 아우구마스 페소아스, 키 에 쿠아지 임포시베우 지페렌시아르 엔트리 아 이스페라 마이오르 이 아 메노르. 아 마이오리아 다스 페소아스 에 비스타 코무 센두 아페나스 우마 이스페라 그란지 이 오파카, 코무 우마 이스페시 지 판타즈마, 이 네시 카주 토르나-시 쿠아지 임포시베우 지페렌시아르 엔트리 아 이스페라 마이오르 이 아 메노르.
+Você pode pensar em um ser humano, a partir da perspectiva perceptiva energética de um alquimista interior, como uma esfera relativamente grande de energia que tem dentro dela uma menor de intensidade ligeiramente maior, algo como uma pequena bola de energia mais intensa dentro de uma esfera muito maior de brilho energético um pouco menor. Essa esfera menor dentro da maior é geralmente um pouco mais intensa do que a esfera maior externa, mas a intensidade de ambas as esferas é relativa. O ser humano médio carece de energia, e como resultado, tanto a esfera maior quanto a menor parecem ter pouco brilho em comparação com o brilho de indivíduos mais energeticamente vigorosos, como os alquimistas interiores praticantes. Às vezes, há tão pouca energia dentro de algumas pessoas, que é quase impossível diferenciar entre a esfera maior e a menor. A maioria das pessoas é vista como sendo apenas uma esfera grande e opaca, como uma espécie de fantasma, e nesse caso torna-se quase impossível diferenciar entre a esfera maior e a menor.
 
 우스 아우키미스타스 인테리오리스 포뎅 베르 키 아 이스페라 마이오르 헤프레젠타 아 토탈리다지 지 투두 우 키 웅 세르 우마누 에 이 포데리아 세르 잉쿠안투 이스치베르 피지카멘치 비부, 이 아 이스페라 메노르 헤프레젠타 우 폰투 지 아텐상 지 웅 세르 우마누. 아 이스페라 메노르 덴트루 다 마이오르 에 우 폰투 온지 헤지지 아 아텐상 두 인지비두. 이 센두 키 에 우 포쿠 다 아텐상 키 크리아 문두스, 키 몬타 우 문두, 포데리아무스 지제르 키 에스치 에 우 폰투, 에사 이스페라 메노르 마이스 인텐사, 온지 아쿠물라무스 우 페주 다 아텐상, 아 그라비다지, 네세사리아 파라 헤아우멘치 페르세베르 쿠아우케르 코이자 클라라멘치 네스타 지멘상 오 잉 쿠아우케르 오트라. 알렝 지수, 에시 폰투 지 아쿠물라상 에 헤스폰사베우 펠라 나투레자 지 노수 문두, 노사 헤알리다지, 센두 키 에 에시 폰투 지 아쿠물라상 키 에 헤스폰사베우 포르 토다 아 트란즈무타상 페소아우, 토다 아 마니페스타상 페소아우. 에 아 파르치르 데스치 폰투 키 크리아무스 노사 헤알리다지 페소아우!
+Os alquimistas interiores podem ver que a esfera maior representa a totalidade de tudo o que um ser humano é e poderia ser enquanto estiver fisicamente vivo, e a esfera menor representa o ponto de atenção de um ser humano. A esfera menor dentro da maior é o ponto onde reside a atenção do indivíduo. E sendo que é o foco da atenção que cria mundos, que monta o mundo, poderíamos dizer que este é o ponto, essa esfera menor mais intensa, onde acumulamos o peso da atenção, a gravidade, necessária para realmente perceber qualquer coisa claramente nesta dimensão ou em qualquer outra. Além disso, esse ponto de acumulação é responsável pela natureza de nosso mundo, nossa realidade, sendo que é esse ponto de acumulação que é responsável por toda a transmutação pessoal, toda a manifestação pessoal. É a partir deste ponto que criamos nossa realidade pessoal!
 
 아트라베스 다 아르치 지 베르, 키 에 아 아빌리다지 지 우자르 아우구 키 이우 고스투 지 샤마르 지 센치두스 인테리오리스, 웅 아데프투 다 아우키미아 인테리오르 에 카파스 지 페르세베르 우 플루슈 이네르제치쿠 지 토다스 아스 코이자스. 에사스 페르세프송이스, 임보라 포상 세르 샤마다스 지 비장, 낭 상, 잉 이센시아, 웅 치푸 지 비장, 임보라 세르타스 헤페렌시아스 비주아이스 포상 시 마니페스타르 이스폰타네아멘치 아 타우 비덴치. 잉 베스 지수, 상 우마 콤비나상 지 무이타스 페르스펙치바스 센수아이스, 우마 이스페시 지 시네스테지아 키 페르미치 아 에시 비덴치 센치르/베르/사보레아르/셰이라르/오비르 우 베르다데이루 푼시오나멘투 인테르누 다 헤알리다지, 펠루 메누스 우 푼시오나멘투 인테르누 마이스 지레투 다 헤알리다지 지스포니베우 아 웅 세르 우마누, 키 에 아 비장 이네르제치카. 세르투스 아데프투스 포뎅 데스크레베르 에사 토탈리다지 두 키 에 세르 우마누 코무 우마 이스페라 덴트루 지 우마 이스페라, 마스 아 오트라스 데스크리송이스 포시베이스.
+Através da arte de ver, que é a habilidade de usar algo que eu gosto de chamar de sentidos interiores, um adepto da alquimia interior é capaz de perceber o fluxo energético de todas as coisas. Essas percepções, embora possam ser chamadas de visão, não são, em essência, um tipo de visão, embora certas referências visuais possam se manifestar espontaneamente a tal vidente. Em vez disso, são uma combinação de muitas perspectivas sensuais, uma espécie de sinestesia que permite a esse vidente sentir/ver/saborear/cheirar/ouvir o verdadeiro funcionamento interno da realidade, pelo menos o funcionamento interno mais direto da realidade disponível a um ser humano, que é a visão energética. Certos adeptos podem descrever essa totalidade do que é ser humano como uma esfera dentro de uma esfera, mas há outras descrições possíveis.
 
 아우 시 인보우베르 누 우주 두스 센치두스 인테리오리스, 우잔두 우마 세르타 데스크리상, 우스 아우키미스타스 인테리오리스 포뎅 베르 키 아 그란지 마사 다 우마니다지 에, 잉 세르투 센치두, 판타즈마고리카, 우마 이스페시 지 판타즈마, 코무 이우 지시. 아 하장 파라 에사 센사상 잉 헬라상 아스 페소아스 코뭉스 아콘테세르 에 우 헤주우타두 다 이네르지아 잉크리베우멘치 바이샤 키 아 페소아 코뭉 포수이. 이수 시그니피카 키 아 이스페라 마이오르 이 아 메노르 카레셍 지 탄타 인텐시다지 키 상 아페나스 리제이라멘치 마이스 브릴랸치스 두 키 아스 코이자스 아우 헤도르 델라스. 아싱, 센두 키 암바스 아스 이스페라스 지 아쿠물라상, 아 마이오르 이 아 메노르, 상 탕 오파카스 이 탕 이스타시오나리아스, 쿠아지 히지다스 지 세르타 포르마, 아 페소아 코뭉 포지 파레세르 쿠아지 판타즈마고리카 오 메카니카, 잉 세르투 센치두. 에사 파우타 지 인텐시다지 (지 이네르지아) 이 우 파투 지 아 이스페라 메노르 파레세르 콤플레타멘치 히지다 이 이스타시오나리아, 시그니피캉 키 아 파르치 다 페소아 코뭉 키 아쿠물라 아텐상 이, 포르탄투, 몬타 페르세프상, 에 쿠아지 이네시스텐치.
+Ao se envolver no uso dos sentidos interiores, usando uma certa descrição, os alquimistas interiores podem ver que a grande massa da humanidade é, em certo sentido, fantasmagórica, uma espécie de fantasma, como eu disse. A razão para essa sensação em relação às pessoas comuns acontecer é o resultado da energia incrivelmente baixa que a pessoa comum possui. Isso significa que a esfera maior e a menor carecem de tanta intensidade que são apenas ligeiramente mais brilhantes do que as coisas ao redor delas. Assim, sendo que ambas as esferas de acumulação, a maior e a menor, são tão opacas e tão estacionárias, quase rígidas de certa forma, a pessoa comum pode parecer quase fantasmagórica ou mecânica, em certo sentido. Essa falta de intensidade (de energia) e o fato de a esfera menor parecer completamente rígida e estacionária, significam que a parte da pessoa comum que acumula atenção e, portanto, monta percepção, é quase inexistente.
 
 웅 아우키미스타 인테리오르 트라발랴 파라 아우멘타르 세우 포데르, 아우멘타르 아 인텐시다지 이 우 브릴류 지 수아스 이스페라스. 우마 베스 키 테냥 아우칸사두 마이오르 인텐시다지, 엘리스 탐벵 트라발량 파라 토르나르 수아 이스페라 인테리오르, 우 폰투 키 아쿠물라 아텐상 이, 포르탄투, 몬타 문두스, 마이스 플레시베우 이 아인다 마이스 포르치 이 데피니두. 아우 파제르 이수, 엘리스 상 카파지스 지 아세사르 이 몬타르 무이투스 치푸스 지페렌치스 지 문두스 지스포니베이스 파라 노스, 이 이지스치르 네시스 문두스, 토르나르-시 이스타베이스 덴트루 델리스. 에사 마이오르 인텐시다지 이 플레시빌리다지 페르미텡-리스 이르 알렝 다 피지칼리다지 이, 이벤투아우멘치, 아세사르 투두 우 키 에 포시베우 파라 웅 세르 우마누.
+Um alquimista interior trabalha para aumentar seu poder, aumentar a intensidade e o brilho de suas esferas. Uma vez que tenham alcançado maior intensidade, eles também trabalham para tornar sua esfera interior, o ponto que acumula atenção e, portanto, monta mundos, mais flexível e ainda mais forte e definido. Ao fazer isso, eles são capazes de acessar e montar muitos tipos diferentes de mundos disponíveis para nós, e existir nesses mundos, tornar-se estáveis dentro deles. Essa maior intensidade e flexibilidade permitem-lhes ir além da fisicalidade e, eventualmente, acessar tudo o que é possível para um ser humano.
 
 베르 에 포시베우 포르 카우자 데시 포르탈레시멘투, 이 웅 아우키미스타 인테리오르 에 카파스 지 페르세베르, 아트라베스 데시 포데르, 파라 수아 잉크리베우 수르프레자, 키 이지스치 우마 이스페시 지 프레켄시아, 코무 우마 프레켄시아 지 하지우, 키 인바지우 아 우마니다지. 에사 프레켄시아 지 하지우, 키 파레시 세르 아세시베우 아페나스 덴트루 지 우마 세르타 파이샤 지멘시오나우 샤마다 피지칼리다지, 누 인탄투, 지 아우구마 포르마, 콘세기우 아프리지오나르 우 폰투 지 아쿠물라상 다스 페소아스, 토르난두 세우 폰투 지 아쿠물라상 이스타시오나리우, 히지두.
+Ver é possível por causa desse fortalecimento, e um alquimista interior é capaz de perceber, através desse poder, para sua incrível surpresa, que existe uma espécie de frequência, como uma frequência de rádio, que invadiu a humanidade. Essa frequência de rádio, que parece ser acessível apenas dentro de uma certa faixa dimensional chamada fisicalidade, no entanto, de alguma forma, conseguiu aprisionar o ponto de acumulação das pessoas, tornando seu ponto de acumulação estacionário, rígido.
 
 데비두 아 에사 빙쿨라상 두 폰투 지 아쿠물라상, 아 우마니다지 센치 키 이스타 프레자 코무 웅 세르 피지쿠, 아페나스 우마 코이자 마테리아우, 덴트루 다 지멘상 피지카. 지 파투, 에사 빙쿨라상 두 폰투 지 아쿠물라상 벵 오코헨두 아 탄투 템푸 키 아 마이오리아 다 우마니다지 이스타 코메산두 아 이스케세르 키 이지스치 아우구 알렝 두 피지쿠. 에사 프레켄시아 지 하지우 에 코무 우마 누벵 빙쿨란치 키 아가하 우 폰투 지 아쿠물라상 다 우마니다지 이 우 만텡 알리, 인플레시베우. 데비두 아 에사 아빌리다지 지 아가하르 아 포르사 아쿠물라다 다 우마니다지, 에사 포르사 오브스쿠라 에 카파스 지 콘트롤라르 아 우마니다지, 수간두 세우 포데르, 파젠두 콩 키 아 우마니다지 파시 지 아우구 마지쿠 이 리브리 아 아우구 키 이스타 프레주 덴트루 지 아페나스 우마 파이샤 지멘시오나우 무이투 페케나.
+Devido a essa vinculação do ponto de acumulação, a humanidade sente que está presa como um ser físico, apenas uma coisa material, dentro da dimensão física. De fato, essa vinculação do ponto de acumulação vem ocorrendo há tanto tempo que a maioria da humanidade está começando a esquecer que existe algo além do físico. Essa frequência de rádio é como uma nuvem vinculante que agarra o ponto de acumulação da humanidade e o mantém ali, inflexível. Devido a essa habilidade de agarrar a força acumulada da humanidade, essa força obscura é capaz de controlar a humanidade, sugando seu poder, fazendo com que a humanidade passe de algo mágico e livre a algo que está preso dentro de apenas uma faixa dimensional muito pequena.
 
 아트라베스 다 루타 페소아우 이 다 아지타상 인테리오르, 웅 아데프투 잉 포텐시아우 데비 세르 페르수아지두 오 잉가나두 아 코메사르 아 페르세베르 포르 시 메즈무 키 상 세리스 프레주스, 세리스 키 텡 무이투 마이스 포텐시아우. 우 카미뉴 다 아우키미아 인테리오르 에 우마 페르수아장 렌타 키 벵 지레타멘치 두 프로프리우 인지비두, 아 메지다 키 엘리스 데스코브렝 미스테리우스 이 콘치누앙 아반산두 파라 헤알리자르 에시스 미스테리우스 코무 페르세프송이스 페소아이스 지레타스. 낭 아 웅 인지비두 파르치쿨라르 키 이스테자 라 파라 잉가나르 우 푸투루 아우키미스타 인테리오르 아 아프렌데르 에시스 미스테리우스, 낭 아 닝겡 파라 치라-루스 다 파르치 푼다 다 피시나 카주 코메셍 아 시 아포가르. 포르 에시 모치부, 파라 엘리스, 우 프로그레수 에 렌투, 아 메지다 키 아반상 카다 베스 마이스, 지 아코르두 콩 세우 프로프리우 트라발류 인지비두아우 이 루타 페소아우.
+Através da luta pessoal e da agitação interior, um adepto em potencial deve ser persuadido ou enganado a começar a perceber por si mesmo que são seres presos, seres que têm muito mais potencial. O caminho da alquimia interior é uma persuasão lenta que vem diretamente do próprio indivíduo, à medida que eles descobrem mistérios e continuam avançando para realizar esses mistérios como percepções pessoais diretas. Não há um indivíduo particular que esteja lá para enganar o futuro alquimista interior a aprender esses mistérios, não há ninguém para tirá-los da parte funda da piscina caso comecem a se afogar. Por esse motivo, para eles, o progresso é lento, à medida que avançam cada vez mais, de acordo com seu próprio trabalho individual e luta pessoal.
 
 콩 우 템푸, 아트라베스 다스 테크니카스 키 텐테이 데탈랴르 메치쿨로자멘치 아우 롱구 두스 메우스 리브루스, 웅 아벤투레이루 이벤투아우멘치 시 토르나 웅 베르다데이루 아우키미스타 인테리오르 이, 로구 데포이스, 에 카파스 지 베르 우 그란지 플루슈 지 이네르지아. 쿠안두 포뎅 아친지르 에시 치푸 지 프로피시엔시아 코무 인지비두스, 엘리스 포뎅 인탕 페르세베르 지레타멘치 포르 시 메즈무스 키 에사 파우타 지 이네르지아 이 에사 이스타지 누 폰투 페르세프치부 다 우마니다지 이스탕 지레타멘치 헬라시오나다스 아 우마 이스페시 지 누벵 이스쿠라, 코무 우마 이스페시 지 프레켄시아 지 하지우, 키 프렌데우 아 아텐상 다 우마니다지, 키 아프리지오노 아켈리 폰투 지 아쿠물라상 인테리오르 잉 카다 세르 우마누. 엘리스 포뎅 아테 세르 카파지스 지 베르 아 카우자 데사 프레켄시아 지 하지우, 키 포지 세르 페르세비다 펠루 비덴치 코무 우마 이스페시 지 레지앙 지 코이자스 키, 나 그란지 마사 델라스, 코무 우마 누벵 지 가파뇨투스, 포지 세르 비스타 코무 우마 오 빌룡이스. 에사 누벵 지 레지앙 에 탕 바스타 이 탕 콤플레샤 잉 세우 모비멘투, 우 타마뉴 푸루 델라 에 타우 키 이벤투아우멘치 우 비덴치 포지 아테 코메사르 아 이키파라-라 아 우마 이스페시 지 온다 지 하지우. 이 에 에사 온다 지 하지우 키 이스타 프렌덴두, 키 이스타 이프노치잔두, 키 이스타 소냔두 솜브리아멘치 이, 데사 포르마, 잉가난두 우 문두 다 우마니다지 아 펜사르 키 이지스치 아페나스 헤알리다지 피지카 이 웅 문두 피지쿠.
+Com o tempo, através das técnicas que tentei detalhar meticulosamente ao longo dos meus livros, um aventureiro eventualmente se torna um verdadeiro alquimista interior e, logo depois, é capaz de ver o grande fluxo de energia. Quando podem atingir esse tipo de proficiência como indivíduos, eles podem então perceber diretamente por si mesmos que essa falta de energia e essa estase no ponto perceptivo da humanidade estão diretamente relacionadas a uma espécie de nuvem escura, como uma espécie de frequência de rádio, que prendeu a atenção da humanidade, que aprisionou aquele ponto de acumulação interior em cada ser humano. Eles podem até ser capazes de ver a causa dessa frequência de rádio, que pode ser percebida pelo vidente como uma espécie de legião de coisas que, na grande massa delas, como uma nuvem de gafanhotos, pode ser vista como uma ou bilhões. Essa nuvem de legião é tão vasta e tão complexa em seu movimento, o tamanho puro dela é tal que eventualmente o vidente pode até começar a equipará-la a uma espécie de onda de rádio. E é essa onda de rádio que está prendendo, que está hipnotizando, que está sonhando sombriamente e, dessa forma, enganando o mundo da humanidade a pensar que existe apenas realidade física e um mundo físico.
 
 잉 테르무스 마이스 심플리스, 보세 포지 펜사르 니수 코무 우마 이스페시 지 하지우 지간치 프로제탄두 웅 데테르미나두 시나우, 이 에시 시나우 에 지 아우구마 포르마 카파스 지 프렌데르 아 아텐상 우마나, 프렌데르 우 폰투 지 아쿠물라상 잉 우마 페소아. 이수 토르나 우 폰투 지 아쿠물라상 이스타시오나리우, 이 에사 파우타 지 모비멘투 코메사 아 드레나르 아 이네르지아 데시 인지비두 토타우, 포르산두-우 아 페르마네세르 잉 우마 포지상 페르세프치바 키 크리아 우마 그란지 인텐시다지 이모시오나우. 아 무이타스 페소아스 키 페르데랑 탄타 이네르지아 데비두 아 에사 빙쿨라상 덴트루 다 지멘상 피지카 이모시오나우멘치 인텐사, 키, 잉 무이투스 아스펙투스, 보세 포데리아 지제르 키 수아 인지비두알리다지 쿠아지 시 포이, 키 엘라스 시 토르나랑 마이스 코무 웅 오브제투 두 키 웅 세르 우마누 인지비두아우.
+Em termos mais simples, você pode pensar nisso como uma espécie de rádio gigante projetando um determinado sinal, e esse sinal é de alguma forma capaz de prender a atenção humana, prender o ponto de acumulação em uma pessoa. Isso torna o ponto de acumulação estacionário, e essa falta de movimento começa a drenar a energia desse indivíduo total, forçando-o a permanecer em uma posição perceptiva que cria uma grande intensidade emocional. Há muitas pessoas que perderam tanta energia devido a essa vinculação dentro da dimensão física emocionalmente intensa, que, em muitos aspectos, você poderia dizer que sua individualidade quase se foi, que elas se tornaram mais como um objeto do que um ser humano individual.
 
 아 아르치 다 아우키미아 인테리오르, 포르탄투, 에 아 아르치 지 세르 카파스 지 이덴치피카르 무이투 렌타멘치 에시 폰투 지 아텐상 덴트루 지 시 이, 잉 세기다, 코메사르 메토지카멘치 아 이스타빌리자르 이 이네르지자르 에사 이스페라 메노르, 파라 키, 콩 우 템푸, 엘라 코메시 아 아쿠물라르-시, 콜레타르-시, 이 토르나르-시 우마 이스페라 탄지베우 베르다데이라 덴트루 다 이스페라 마이오르 키 아 콘텡. 아우 파제르 이수, 웅 아우키미스타 인테리오르 코메사 아 크레세르 잉 포데르, 아테 키 셰가 웅 모멘투 잉 키 상 카파지스 지 리베르타르-시 콤플레타멘치 다 프레켄시아 지 하지우 키 우스 프렌데우 덴트루 두 프라그멘투 다 피지칼리다지. 아 타레파 두 아우키미스타 인테리오르 에 포카르 누 폰투 지 아쿠물라상 아테 키 세장 카파지스 지 데스코브리르 수아 베르다데이라 인지비두알리다지 이, 잉 세기다, 코메사르 아 페르세베르 아 파르치르 데시 폰투.
+A arte da alquimia interior, portanto, é a arte de ser capaz de identificar muito lentamente esse ponto de atenção dentro de si e, em seguida, começar metodicamente a estabilizar e energizar essa esfera menor, para que, com o tempo, ela comece a acumular-se, coletar-se, e tornar-se uma esfera tangível verdadeira dentro da esfera maior que a contém. Ao fazer isso, um alquimista interior começa a crescer em poder, até que chega um momento em que são capazes de libertar-se completamente da frequência de rádio que os prendeu dentro do fragmento da fisicalidade. A tarefa do alquimista interior é focar no ponto de acumulação até que sejam capazes de descobrir sua verdadeira individualidade e, em seguida, começar a perceber a partir desse ponto.
 
 에사 아르치 다 아우키미아 인테리오르 에 우마 타레파 시네르지카 키 인보우비 무이타스 파세타스 다 헤알리다지 인지비두아우, 마스, 잉 이센시아, 포지-시 지제르 키 텡 아 두플라 타레파 지 데젠보우베르 아 이스페라 지 아쿠물라상 이 아 이스페라 이스테리오르 키 에 아 토탈리다지 두 세르 시무우타네아멘치. 우마 베스 키 아 이스페라 지 아쿠물라상 인테리오르 시 토르나 마이스 코에자 이 이스타베우, 엘라 코메사 아 알리멘타르 아 이스페라 이스테리오르. 이수 에 포시베우 포르키, 아우 시 토르나르 마이스 코에자 이 이스타베우, 아 이스페라 지 아쿠물라상 낭 이스타 마이스 오실란두, 카우잔두 토두스 우스 치푸스 지 인텐시다지스 이모시오나이스, 이스플로종이스 이모시오나이스 키 상 우 헤주우타두 데사 프레켄시아 지 하지우 투르바 두 아르콘치. 우마 베스 키 에사 오실라상 세사, 우 프라치칸치 에 카파스 지 가냐르 마이스 이 마이스 포데르. 콩 우 템푸, 아 메지다 키 에시 포데르 크레시, 엘리스 인탕 콘세겡 모베르 에사 이스페라 지 아쿠물라상 인테리오르 파라 지페렌치스 포지송이스 덴트루 다 토탈리다지 다 이스페라 마이오르. 아 메지다 키 우 파젱, 엘리스 시 아파스탕 카다 베스 마이스 다 프레켄시아 지 하지우 콘트롤라도라 두 아르콘치, 이 이수 코메사 아 아우멘타르 아인다 마이스 아 이네르지아 두 프라치칸치.
+Essa arte da alquimia interior é uma tarefa sinérgica que envolve muitas facetas da realidade individual, mas, em essência, pode-se dizer que tem a dupla tarefa de desenvolver a esfera de acumulação e a esfera exterior que é a totalidade do ser simultaneamente. Uma vez que a esfera de acumulação interior se torna mais coesa e estável, ela começa a alimentar a esfera exterior. Isso é possível porque, ao se tornar mais coesa e estável, a esfera de acumulação não está mais oscilando, causando todos os tipos de intensidades emocionais, explosões emocionais que são o resultado dessa frequência de rádio turva do Arconte. Uma vez que essa oscilação cessa, o praticante é capaz de ganhar mais e mais poder. Com o tempo, à medida que esse poder cresce, eles então conseguem mover essa esfera de acumulação interior para diferentes posições dentro da totalidade da esfera maior. À medida que o fazem, eles se afastam cada vez mais da frequência de rádio controladora do Arconte, e isso começa a aumentar ainda mais a energia do praticante.
 
 웅 프라치칸치, 포르탄투, 인보우비-시 잉 프리메이루 루가르 잉 이스타빌리자르 우 캄푸 지 아쿠물라상 덴트루 지 시, 이 파스 이수 가냔두 이네르지아, 가냔두 포데르 이, 잉 세르투 센치두, 토르난두-시 무이투 봉 잉 제렌시아르 아 이네르지아 지스포니베우 파라 엘리스 덴트루 다 지멘상 피지카. 오 세자, 엘리스 코메상 덴트루 다 지멘상 피지카 잉 키 이스탕 프레주스, 아프렌덴두 아 시 이스타빌리자르, 이스타빌리자르 에시 캄푸 지 아쿠물라상, 아프렌덴두 콘텐상 이네르제치카 이 마이오르 포쿠 잉 데탈리스 미니무스. 아 메지다 키 수아 프로피시엔시아 크레시, 에사 이스타빌리다지 나 콘텐상, 키 헤두스 아 오실라상 다 이스페라 지 아쿠물라상, 페르미치 키 우 프라치칸치 크레사 잉 포데르 이스포넨시아우멘치 아우 롱구 두 템푸.
+Um praticante, portanto, envolve-se em primeiro lugar em estabilizar o campo de acumulação dentro de si, e faz isso ganhando energia, ganhando poder e, em certo sentido, tornando-se muito bom em gerenciar a energia disponível para eles dentro da dimensão física. Ou seja, eles começam dentro da dimensão física em que estão presos, aprendendo a se estabilizar, estabilizar esse campo de acumulação, aprendendo contenção energética e maior foco em detalhes mínimos. À medida que sua proficiência cresce, essa estabilidade na contenção, que reduz a oscilação da esfera de acumulação, permite que o praticante cresça em poder exponencialmente ao longo do tempo.
 
 셰가 웅 모멘투 잉 키 아 이네르지아 수피시엔치, 인텐시다지 수피시엔치 덴트루 두 프라치칸치, 키 시 포지 지제르 키 엘리 헤아우멘치 에 카파스 지 케브라르 아스 파레지스 키 우 프렌뎅 콩 웅 심플리스 코만두. 소멘치 네시 폰투 에 키 시 포지 헤아우멘치 지제르 키 엘리 수페로 아 포르사 빙쿨라치바 두 아르콘치. 잉 오트라스 팔라브라스, 에사 콘텐상 파수 아 파수 키 파라 아 오실라상 다 이스페라 지 아쿠물라상 콘치누아, 아테 키 우 프라치칸치 테냐 아드키리두 타우 코에장 키 엘리 세자 파시우멘치 카파스 지 모베르 우 폰투 지 아쿠물라상 알렝 두 아우칸시 다 피지칼리다지.
+Chega um momento em que há energia suficiente, intensidade suficiente dentro do praticante, que se pode dizer que ele realmente é capaz de quebrar as paredes que o prendem com um simples comando. Somente nesse ponto é que se pode realmente dizer que ele superou a força vinculativa do Arconte. Em outras palavras, essa contenção passo a passo que para a oscilação da esfera de acumulação continua, até que o praticante tenha adquirido tal coesão que ele seja facilmente capaz de mover o ponto de acumulação além do alcance da fisicalidade.
 
 투두 이수 에 우마 타레파 이네르제치카 잉크리베우멘치 지피시우 이 이지지 우마 그란지 인텐시다지, 키, 파라 아 페소아 메지아, 이키발리 아 템푸. 타우 프라치칸치 프레시자 지 아우구마 포르마 토마르 콘시엔시아 데사 프레켄시아 지 하지우 키 이스타 프렌덴두 수아 아텐상, 지 아우구마 포르마 아크레지타르 콩 페르보르 수피시엔치 키 타우 하지오프레켄시아 이스타 프렌덴두-우스, 리미탄두-우스, 이 테르 앙구스치아 수피시엔치 코무 헤주우타두 데사 데스코베르타 파라 파제르 쿠아우케르 코이자 이 투두 파라 시 리베르타르 다 포르사 빙쿨라치바 데사 프레켄시아 지 하지우. 데포이스 키 타우 데스코베르타 에 페이타 (우 키 소 포지 세르 지투 코무 아우구 아 세르 아크레지타두 펠라 페 누 폰투 지 파르치다, 센두 키 타우 페소아 낭 포지 페르세베르 지레타멘치 에사 프레켄시아 지 하지우, 마스 아페나스 인투이-라 지 세르타 포르마), 우 프라치칸치 데비 콘치누아르 아 수포르타르 아페나스 콩 아 포르사 데사 페 소지냐, 아테 키 베르다데이라스 데스코베르타스 세장 페이타스.
+Tudo isso é uma tarefa energética incrivelmente difícil e exige uma grande intensidade, que, para a pessoa média, equivale a tempo. Tal praticante precisa de alguma forma tomar consciência dessa frequência de rádio que está prendendo sua atenção, de alguma forma acreditar com fervor suficiente que tal radiofrequência está prendendo-os, limitando-os, e ter angústia suficiente como resultado dessa descoberta para fazer qualquer coisa e tudo para se libertar da força vinculativa dessa frequência de rádio. Depois que tal descoberta é feita (o que só pode ser dito como algo a ser acreditado pela fé no ponto de partida, sendo que tal pessoa não pode perceber diretamente essa frequência de rádio, mas apenas intuí-la de certa forma), o praticante deve continuar a suportar apenas com a força dessa fé sozinha, até que verdadeiras descobertas sejam feitas.
 
 콩 바지 소멘치 나 페, 엘리스 코메상 아 임플레멘타르 테크니카스 이스트라냐스 이 비자하스 키, 파라 아 페소아 코뭉, 파레셍 푸라 인사니다지. 콩 우 템푸, 아우궁스 데시스 프라치칸치스 코메사랑 아 베르/이스페리멘타르 헤주우타두스, 이 에 그라사스 아 에시스 헤주우타두스 쿠물라치부스 키 우스 아우키미스타스 인테리오리스 피나우멘치 헤나셍 다스 신자스 지 시 메즈무스. 인탕, 우마 베스 키 웅 아우키미스타 인테리오르 에 카파스 지 이스타빌리자르 수아 아텐상, 엘리스 코메상 아 시 모베르 엔트리 우스 무이투스 폰투스 페르세프치부스 지스포니베이스 파라 엘리스. 에사 가마 지 포시베이스 폰투스 페르세프치부스, 키 포지 세르 페르세비다 이네르제치카멘치 코무 에사 이스페라 페케나 시 모벤두 파라 무이투스 로카이스 지페렌치스 덴트루 다 이스페라 마이오르, 시그니피카 키 타우 아데프투, 네스치 폰투, 에 카파스 지 낭 아페나스 페르세베르, 마스 탐벵 파르치시파르 지 헤이누스 잉크리베우멘치 바스투스, 우마 인피니다지 델리스 셍 메지다... 이 인탕 타우베스 이르 아인다 마이스 론지.
+Com base somente na fé, eles começam a implementar técnicas estranhas e bizarras que, para a pessoa comum, parecem pura insanidade. Com o tempo, alguns desses praticantes começarão a ver/experimentar resultados, e é graças a esses resultados cumulativos que os alquimistas interiores finalmente renascem das cinzas de si mesmos. Então, uma vez que um alquimista interior é capaz de estabilizar sua atenção, eles começam a se mover entre os muitos pontos perceptivos disponíveis para eles. Essa gama de possíveis pontos perceptivos, que pode ser percebida energeticamente como essa esfera pequena se movendo para muitos locais diferentes dentro da esfera maior, significa que tal adepto, neste ponto, é capaz de não apenas perceber, mas também participar de reinos incrivelmente vastos, uma infinidade deles sem medida... e então talvez ir ainda mais longe.
 
 아싱, 우 카미뉴 다 아우키미아 인테리오르 에 바리아두. 에 웅 카미뉴 키 콘텡 덴트루 지 시 아빌리다지스 키 포뎅 세르 페르세비다스 코무 센두 무이투 피지카스, 이 오트라스 키 상 탕 이테레아스 키 낭 상 세케르 페르세비베이스 아우스 센치두스 피지쿠스.
+Assim, o caminho da alquimia interior é variado. É um caminho que contém dentro de si habilidades que podem ser percebidas como sendo muito físicas, e outras que são tão etéreas que não são sequer percebíveis aos sentidos físicos.
 
 우 문두 두 아우키미스타 인테리오르 에, 포르탄투, 웅 문두 이스트라뉴, 이 우 테아트루 오페라시오나우 지 타우 아데프투 바리아 이 아우멘타 잉 바리아상, 아 메지다 키 우 아데프투 시 토르나 카다 베스 마이스 포데로주. 아싱, 코무 웅 팔레스트란치 이우 메즈무, 아 우마 암플라 가마 지 포시베이스 페르군타스 키 이우 포수 테르 키 헤스폰데르, 키 헤스폰지, 이 아우구마스 델라스 포뎅 포르네세르 웅 세르투 치푸 지 일루미나상 파라 보세. 마스, 마이스 임포르탄치, 에 미냐 이스페란사 키 엘라스 페르미탕 키 아켈라 이스페라 인테리오르, 아켈리 폰투 지 아쿠물라상, 시 헤우나 잉 토르누 데사스 페르군타스 이 헤스포스타스, 이 데사 마네이라 시 토르니 마이스 코에자 이 이스타시오나리아 잉 포지송이스 노바스 이 이스트라냐스, 키 이스페란소자멘치 페르미치랑 키 수아 이스페라 지 아쿠물라상 시 토르니 카다 베스 마이스 코에자 아우 롱구 두 템푸. 이 에 미냐 이스페란사 키 콩 우 템푸 타우 코에장 페르미타 키 보세 비아지 아트라베스 다 인피니투지 지 포시베이스 폰투스 페르세프치부스 지스포니베이스 파라 보세.
+O mundo do alquimista interior é, portanto, um mundo estranho, e o teatro operacional de tal adepto varia e aumenta em variação, à medida que o adepto se torna cada vez mais poderoso. Assim, como um palestrante eu mesmo, há uma ampla gama de possíveis perguntas que eu posso ter que responder, que respondi, e algumas delas podem fornecer um certo tipo de iluminação para você. Mas, mais importante, é minha esperança que elas permitam que aquela esfera interior, aquele ponto de acumulação, se reúna em torno dessas perguntas e respostas, e dessa maneira se torne mais coesa e estacionária em posições novas e estranhas, que esperançosamente permitirão que sua esfera de acumulação se torne cada vez mais coesa ao longo do tempo. E é minha esperança que com o tempo tal coesão permita que você viaje através da infinitude de possíveis pontos perceptivos disponíveis para você.
 
 **아슈 벵 프로바베우 키 세자무스 아 우니카 시빌리자상 덴트루 지 바리아스 센테나스 지 아누스-루스 카주 콘트라리우, 테리아무스 오비두 온다스 지 하지우.**
+**Acho bem provável que sejamos a única civilização dentro de várias centenas de anos-luz; caso contrário, teríamos ouvido ondas de rádio.**
 _― 스테펭 아킹그_
+_― STEPHEN HAWKING_
 
 **우 포데르 두 하지우 낭 에 키 엘리 팔라 파라 밀룡이스, 마스 키 엘리 팔라 인치마멘치 이 프리바다멘치 파라 카다 웅 데시스 밀룡이스.**
+**O poder do rádio não é que ele fala para milhões, mas que ele fala intimamente e privadamente para cada um desses milhões.**
 _― 알리 플라나강_
+_― HALLIE FLANAGAN_
 
 ### 페르군타스 이 헤스포스타스
+### Perguntas e Respostas
 
 **크: 잉 세우스 리브루스, 보세 팔라 지 세리스 이노르가니쿠스 키 시 알리멘탕 밤피리카멘치 두스 우마누스. 이수 파레시 시밀라르 아우 그노스치시즈무 지 나그 아마지. 보세 포지 지제르 마이스 소브리 켕 오 우 키 상 에시스 세리스? 엘리스 프레세데랑 우스 우마누스 나 테하, 오 셰가랑 데포이스?**
+**Q: Em seus livros, você fala de seres inorgânicos que se alimentam vampiricamente dos humanos. Isso parece similar ao Gnosticismo de Nag Hammadi. Você pode dizer mais sobre quem ou o que são esses seres? Eles precederam os humanos na Terra, ou chegaram depois?**
 
 아: 잉 수마, 아 헤스포스타 에 싱, 이스토 팔란두 두스 메즈무스 세리스 멘시오나두스 누 나그 아마지. 마스 아스 헤스포스타스 소브리 우 키 에시스 세리스 상 데펜뎅 두스 폰투스 지 비스타 이 두 심볼리즈무 링기스치쿠 우자두 파라 데스크레베-루스. 쿠안투 아 시 엘리스 프레세뎅 아 우마니다지... 벵, 아 케스탕 마이스 프로푼다 시 토르나, 쿠안투 템푸 아 '우마니다지' 이스타 네스치 플라네타. 이우 포수 세르타멘치 지제르 키, 두 메우 ‘베르’ 페소아우, 아 우마니다지 에 무이투 마이스 안치가 두 키 아 마이오리아 두스 아르케올로구스 이 안트로폴로구스 아투아우멘치 아피르마.
+A: Em suma, a resposta é sim, estou falando dos mesmos seres mencionados no Nag Hammadi. Mas as respostas sobre o que esses seres são dependem dos pontos de vista e do simbolismo linguístico usado para descrevê-los. Quanto a se eles precedem a humanidade... bem, a questão mais profunda se torna, quanto tempo a 'humanidade' está neste planeta. Eu posso certamente dizer que, do meu ‘ver’ pessoal, a humanidade é muito mais antiga do que a maioria dos arqueólogos e antropólogos atualmente afirma.
 
+---
 ---
 
 **크:**
+**Q:**
 
 **1.** **우 키 이스타 임페진두 우 인샤미 지 아르콘치스 지 시 알리멘타르 지 쿠아우케르 치푸 지 사이다 지 이네르지아? 아 우마 지페렌사 엔트리 아 이네르지아 리베라다 엔트리 우 키 에 콘시엔테멘치 인텐시오나두 이 우 키 에 심플레즈멘치 우마 헤스포스타 이모시오나우 (키미카 두 코르푸) 아 이스치물루스 이스테르누스?**
+**1.** **O que está impedindo o enxame de Arcontes de se alimentar de qualquer tipo de saída de energia? Há uma diferença entre a energia liberada entre o que é conscientemente intencionado e o que é simplesmente uma resposta emocional (química do corpo) a estímulos externos?**
 
 **2.** **낭 에 베르다지 키 카테고리자르 웅 "치푸" 지 이네르지아 에 우마 콘베니엔시아 인텔렉투아우 콤파라베우 아 지스친상 수페르피시아우 엔트리 이네르지아 보아 이 후잉? 아싱, 아 이네르지아 인텐시오나다 콘시엔테멘치 탐벵 낭 에 인지스친타 다 이네르지아 리베라다 잉콘시엔테멘치?**
+**2.** **Não é verdade que categorizar um "tipo" de energia é uma conveniência intelectual comparável à distinção superficial entre energia boa e ruim? Assim, a energia intencionada conscientemente também não é indistinta da energia liberada inconscientemente?**
 
 **3.** **오, 이지스치 지 파투 우마 지스친상 클라라 엔트리 우스 바리우스 치푸스 지 이네르지아 리베라두스?**
+**3.** **Ou, existe de fato uma distinção clara entre os vários tipos de energia liberados?**
 
 **4.** **우 키 임페지 우 인샤미 지 아르콘치스 지 카프투라르 아 사이다 데스치나다 아 쿠아우케르 오브제치부, 세자 콘시엔치 (마지카) 오 세미-콘시엔치 (우마 헤스포스타 이모시오나우 아비투아우) 오 잉콘시엔치 (우마 헤스포스타 인볼룬타리아 아 이스치물루스 코무 벤투 프리우 지 인베르누, 이 아싱 포르 지안치)? 수스페이투 키 아 헤스포스타 포사 이스타르 나 이타파 두 '콘타이네르' 오 바지우. 보세 포데리아 일라보라르 소브리 이수, 포르 파보르?**
+**4.**  **O que impede o enxame de Arcontes de capturar a saída destinada a qualquer objetivo, seja consciente (mágica) ou semi-consciente (uma resposta emocional habitual) ou inconsciente (uma resposta involuntária a estímulos como vento frio de inverno, e assim por diante)? Suspeito que a resposta possa estar na etapa do 'container' ou VAZIO. Você poderia elaborar sobre isso, por favor?**
 
 아:
+A:
 
 1. 인펠리즈멘치, 우 오스페데이루 아르콘치 이스타 시 알리멘탄두 지 토다스 아스 프로제송이스 이네르제치카스 지 세리스 콘시엔치스 아반사두스. 이수 시그니피카 프로제송이스 이네르제치카스 키 콘시데라무스 우테이스 이 낭 우테이스 보아스 이 마스, 나투라이스 이 낭 나투라이스.
+1.  Infelizmente, o hospedeiro Arconte está se alimentando de todas as projeções energéticas de seres conscientes avançados. Isso significa projeções energéticas que consideramos úteis e não úteis; boas e más, naturais e não naturais.
 
 투두 우 키 포데무스 파제르 코무 세리스 우마누스 '베르다데이라멘치' 콘시엔치스 에 콘트롤라르 에사 사이다 파라 키 이스테자무스 프로제탄두 아페나스 이네르지아 키 크리아 아스펙투스 포지치부스 잉 노사스 비다스 카주 콘트라리우, 데베무스 콘세르바르 우 마시무 포시베우.
+Tudo o que podemos fazer como seres humanos 'verdadeiramente' conscientes é controlar essa saída para que estejamos projetando apenas energia que cria aspectos positivos em nossas vidas; caso contrário, devemos conservar o máximo possível.
 
 2. 이지스치 우마 지페렌사 엔트리 세르타스 헤아송이스 이모시오나이스 이 인텐시오나이스 콘시엔치스 이 잉콘시엔치스, 다 메즈마 포르마 키 이지스텡 지페렌사스 페르세비다스 엔트리 웅 송 이 오트루 통, 인텐시다지, 두라상, 이트크.
+2.  Existe uma diferença entre certas reações emocionais e intencionais conscientes e inconscientes, da mesma forma que existem diferenças percebidas entre um som e outro; tom, intensidade, duração, etc.
 
 아 마이오르 페르다 이네르제치카, 포렝, 에 우 이스토루 이모시오나우 콘시엔치. 포르 콘시엔치, 케루 지제르 아스 무이타스 이 무이타스 헤아송이스 이모시오나이스 키 테무스 두란치 우 키 누스 헤페리무스 코무 이스타두 아코르다두 (잉 오포지상 아우 아도르메시두). 테르무스 코무 콘시엔치 이 잉콘시엔치 상 지피세이스 아키. 우 키 케루 지제르 콩 콘시엔치 에 키 에 아우구 페이투 두란치 우 이스타두 아코르다두, 마스 잉 세르투 센치두, 세르투스 이스토루스 이모시오나이스 상 잉콘시엔치스, 포이스 파라 아 마이오리아 지 노스, 텐데무스 아 센치르 세르타스 이모송이스, 세르투스 임푸우수스 지 그란지 인텐시다지 이모시오나우 이 무이타스 베지스 테무스 무이투 포쿠 코녜시멘투 콘시엔치 지 코무 에시스 이스토루스 이모시오나이스 포랑 크리아두스, 이 포카 오 네뉴마 콤프렌상 지 코무 콘트롤라르 노사 프로프리아 프시콜로지아.
+A maior perda energética, porém, é o estouro emocional consciente. Por consciente, quero dizer as muitas e muitas reações emocionais que temos durante o que nos referimos como estado acordado (em oposição ao adormecido). Termos como consciente e inconsciente são difíceis aqui. O que quero dizer com consciente é que é algo feito durante o estado acordado, mas em certo sentido, certos estouros emocionais são inconscientes, pois para a maioria de nós, tendemos a sentir certas emoções, certos impulsos de grande intensidade emocional e muitas vezes temos muito pouco conhecimento consciente de como esses estouros emocionais foram criados, e pouca ou nenhuma compreensão de como controlar nossa própria psicologia.
 
 우 잉콘시엔치 텐지 아 크리아르 (아 메누스 키 보세 이스테자 잉 웅 이스타두/포지상 코그니치바 지 소뉴) 센치멘투스, 키 아스 베지스 상 무이투 포르치스 이 페르시스텐치스, 마스 낭 크리아 이모송이스 포르 시. 이모송이스 상 우마 크리아상 콘시엔치 웅 에구 크리아두 포르 인두우젠시아, 제라두 포르 우마 파르치 다 멘치 키 에 헤아우멘치 우마 임포지상, 오 임플란치, 키 에 프로제타두 나 콘시엔시아 우마나 펠루 그란지 아르콘치.
+O inconsciente tende a criar (a menos que você esteja em um estado/posição cognitiva de sonho) sentimentos, que às vezes são muito fortes e persistentes, mas não cria emoções por si. Emoções são uma criação consciente; um ego criado por indulgência, gerado por uma parte da mente que é realmente uma imposição, ou implante, que é projetado na consciência humana pelo Grande Arconte.
 
 3. 싱, 아 이네르지아 에 푼다멘타우멘치 이네르지아, 마스 이지스치 우마 지페렌사 두 폰투 지 비스타 두 페르세베도르 이 프로제치스타, 키 데펜지 다 포지상 코그니치바 데사 페소아. 아 포지상 코그니치바 무다 아 쿠알리다지 다 이네르지아. 이 낭, 아 지페렌사 엔트리 아 이네르지아 프로제타다 펠루 콘시엔치 낭 에 아 메즈마 키 아 두 잉콘시엔치, 노바멘치 포르키 시 포데리아 지제르 키 우 아스펙투 잉콘시엔치 다 콘시엔시아 우마나 오쿠파 우마 포지상 코그니치바 지페렌치 다 콘시엔치.
+3.  Sim, a energia é fundamentalmente energia, mas existe uma diferença do ponto de vista do percebedor e projetista, que depende da posição cognitiva dessa pessoa. A posição cognitiva muda a qualidade da energia. E não, a diferença entre a energia projetada pelo consciente não é a mesma que a do inconsciente, novamente porque se poderia dizer que o aspecto inconsciente da consciência humana ocupa uma posição cognitiva diferente da consciente.
 
 4. 아 그란지 지페렌사 엔트리 아스 이네르지아스 리베라다스 에 토타우멘치 바제아다 나 포지상 코그니치바, 키, 코무 보세 아폰타, 이스타 토타우멘치 헬라시오나다 아 폴라리다지 바지우, 포이스 에 에사 폴라리다지 키 페르미치 아 페르세프상 우마나 모베르-시 지 우마 포지상 코그니치바 파라 오트라. 우 아르콘치 카프투라 토다 아 이네르지아 이모시오나우 나 지멘상 피지카, 키 무이타스 베지스 잉클루이 이네르지아 우자다 나 마지아 이 아테 우 키 포지 세르 샤마두 지 헤아상 이모시오나우 토타우멘치 잉콘시엔치. 이수 토르나 아 마지아 이 아 비다 지피세이스 네스타 지멘상, 이 아 웅 쿠스투, 인탕 콘벵-누스 세르 셈프리 쿠이다도주스 콩 아 마네이라 코무 가스타무스 쿠아우케르 우마 지 노사스 이네르지아스.
+4.  A grande diferença entre as energias liberadas é totalmente baseada na posição cognitiva, que, como você aponta, está totalmente relacionada à Polaridade VAZIO, pois é essa polaridade que permite à percepção humana mover-se de uma posição cognitiva para outra. O Arconte captura toda a energia emocional na dimensão física, que muitas vezes inclui energia usada na magia e até o que pode ser chamado de reação emocional totalmente inconsciente. Isso torna a magia e a vida difíceis nesta dimensão, e há um custo, então convém-nos ser sempre cuidadosos com a maneira como gastamos qualquer uma de nossas energias.
 
+---
 ---
 
 **크: 잉 세우스 리브루스, 보세 프레켄테멘치 아폰타 코무 아스 팔라브라스 무이타스 베지스 상 이나데쿠아다스 파라 트란즈미치르 인포르마송이스 아우키미카스. 이우 미 페르군투 시, 코무 아우테르나치바, 세리아 포시베우 아우궁 지아 코지피카르 우 코녜시멘투 잉 세우스 리브루스 잉 듬트 오 우마 수브스탄시아 세멜랸치?**
+**Q: Em seus livros, você frequentemente aponta como as palavras muitas vezes são inadequadas para transmitir informações alquímicas. Eu me pergunto se, como alternativa, seria possível algum dia codificar o conhecimento em seus livros em DMT ou uma substância semelhante?**
 
 아: 벵, 지 세르타 포르마, 포지-시 지제르 키 이수 자 에 베르다지, 포이스 아스 인포르마송이스 키 이우 '팔루' 상 인포르마송이스 안치가스 키 텡 수아 오리젱 나스 프로프리아스 프로푼데자스 다 코헨치 이네르제치카 다 테하, 이 코무 타우 포뎅 세르 잉콘트라다스, 임보라 지 포르마스 심볼리카스 이 키 아스 베지스 포뎅 세르 지타스 코무 크리프치카스, 덴트루 데사스 코네숑이스 무이투 심비오치카스 엔트리 플란타스, 세리스 낭 오르가니쿠스 이 우마니다지.
+A: Bem, de certa forma, pode-se dizer que isso já é verdade, pois as informações que eu 'falo' são informações antigas que têm sua origem nas próprias profundezas da corrente energética da terra, e como tal podem ser encontradas, embora de formas simbólicas e que às vezes podem ser ditas como crípticas, dentro dessas conexões muito simbióticas entre plantas, seres não orgânicos e humanidade.
 
+---
 ---
 
 **크: 포데무스 우자르 아페나스 노사 인텐상 (우니다 아 우마 비주알리자상 지 헤아브소르상) 파라 헤아브소르베르 노사스 이네르지아스 나스 지멘송이스 인테르나스 탐벵?**
+**Q: Podemos usar apenas nossa intenção (unida a uma visualização de reabsorção) para reabsorver nossas energias nas dimensões internas também?**
 
 아: 싱, 수아 수제스탕 지 우자르 아페나스 인텐상 이 비주알리자상 에 페르페이타. 아우 트라발랴르 콩 아 이네르지아 지 우마 포르마 마이스 지레타, 셍 아 물레타 지 프레시자르 우자르 메카니즈무스 피지쿠스, 보세 코메사 아 트라발랴르 콩 아 이네르지아 잉 웅 니베우 마이스 일레바두, 이 콩 우 템푸 보세 포지 아테 아플리카르 에사스 노바스 아빌리다지스 키 데젠보우베우 코무 프로제치스타 아우 문두 피지쿠 탐벵.
+A: Sim, sua sugestão de usar apenas intenção e visualização é perfeita. Ao trabalhar com a energia de uma forma mais direta, sem a muleta de precisar usar mecanismos físicos, você começa a trabalhar com a energia em um nível mais elevado, e com o tempo você pode até aplicar essas novas habilidades que desenvolveu como projetista ao mundo físico também.
 
 트라발랴르 콩 아 이네르지아 아페나스 콩 우 세우 코르푸 이네르제치쿠, 세우 코르푸 아스트라우, 오 코무 이우 고스투 지 샤마르, 아스펙투스 두 세우 판타즈마 나 마키나, 에 우 프로시무 파수 나 이볼루상 지 웅 아우키미스타 인테르누. 인탕, 세르 카파스 지 아브소르베르 이 트라발랴르 콩 아 이네르지아, 파제르 토다스 아스 코이자스 키 이우 멘시오누 누 리브루 지 쿠르수 _아 오브라-프리마_ 나스 지멘송이스 인테르나스, 에 우 프로시무 파수 나 이볼루상 두 트라발류 콩 이네르지아.
+Trabalhar com a energia apenas com o seu corpo energético, seu corpo astral, ou como eu gosto de chamar, aspectos do seu fantasma na máquina, é o próximo passo na evolução de um alquimista interno. Então, ser capaz de absorver e trabalhar com a energia, fazer todas as coisas que eu menciono no livro de curso _A Obra-prima_ nas dimensões internas, é o próximo passo na evolução do trabalho com energia.
 
+---
 ---
 
 **크: 고스타리아 지 오비르 세우스 펜사멘투스 소브리 세르타스 포르마스 지 마지아 코무 아우키미스타 인테르누. 우 키 보세 아샤 다스 레이투라스 지 타로 이 다 시엔시아 아스트롤로지카 베지카?**
+**Q: Gostaria de ouvir seus pensamentos sobre certas formas de magia como alquimista interno. O que você acha das leituras de tarô e da ciência astrológica védica?**
 
 아: 메우 트라발류 페소아우 콩 아지비냐상 낭 에 무이투 이스텐수 이, 임보라 이우 테냐 아우구마 이스페리엔시아 콩 우 타로트, 에 소 아테 아이 키 바이. 미냐 오피니앙 페소아우 세리아 인탕 키 에시스 심볼리즈무스 이 에사 이스트루투라 헤아우멘치 이지스텡 파라 누스 아주다르 아 인테르프레타르 지페렌치스 아스펙투스 두 노수 베르. 오 세자, 엘리스 상 우마 아주다 나 노사 카파시다지 지 트라발랴르 콩 노수스 센치두스 인테르누스.
+A: Meu trabalho pessoal com adivinhação não é muito extenso e, embora eu tenha alguma experiência com o Tarot, é só até aí que vai. Minha opinião pessoal seria então que esses simbolismos e essa estrutura realmente existem para nos ajudar a interpretar diferentes aspectos do nosso ver. Ou seja, eles são uma ajuda na nossa capacidade de trabalhar com nossos sentidos internos.
 
 우 키 케루 지제르 콩 이수 에 키 에시스 심볼루스, 코무 우 타로트 오 아 아스트롤로지아 지가무스, 상 마네이라스 지 노사 아텐상 프리메이루 카프타르 루가리스 인투이치부스 인테르누스 키 상 지피세이스 파라 멘치스 하시오나이스 인텐데렝. 엘리스 탐벵 상 우테이스 파라 데시프라르 지페렌치스 코헨치스 지 아투아상 키 포뎅 이스타르 아콘테센두 피지카멘치 잉 아우구마 메지다, 마스 키 탐벵 이스탕 클라라멘치 지스포니베이스 파라 노스 우잔두 노수스 센치두스 인테르누스. 코무 타우, 엘리스 상 웅 봉 프리메이루 파수, 마스 낭 데벵 시 토르나르 우마 물레타 파라 아 페르세프상 지레타.
+O que quero dizer com isso é que esses símbolos, como o Tarot ou a astrologia digamos, são maneiras de nossa atenção primeiro captar lugares intuitivos internos que são difíceis para mentes racionais entenderem. Eles também são úteis para decifrar diferentes correntes de atuação que podem estar acontecendo fisicamente em alguma medida, mas que também estão claramente disponíveis para nós usando nossos sentidos internos. Como tal, eles são um bom primeiro passo, mas não devem se tornar uma muleta para a percepção direta.
 
 이우 아슈 키 에사스 포르마스 지 아지비냐상 상 오치무스 폰투스 지 파르치다, 시 푼시오나렝 파라 보세, 파라 다르 아우구마 이에라르키아 이 헬레반시아 아스 이네르지아스 키 보세 이스타 페르세벤두, 마스 보세 데비 셈프리 프레스타르 아텐상 아우 파투 지 키 에사 심볼로지아 이스테르나 포지 아주다르 잉 세르투스 아스펙투스, 마스 탐벵 아트라팔랴르 잉 오트루스. 아 베르다데이라 나투레자 다 이네르지아, 코무 엘라 플루이 이 아페타 보세, 세자 보세 페르세벤두 이수 코무 플라네타리아 오 지 오트라 포르마 (이, 클라루, 낭 이스토 두비단두 지수, 마스 아페나스 지젠두 키 아 우마 헤알리다지 이네르제치카 마이오르 알렝 데사 심볼로지아 플라네타리아) 포지 다르-리 페르스펙치바 이 페르미치르 키 수아 멘치 페르세바 우 키 이스타 아콘테센두 잉 우마 오르뎅 이스파시아우 파밀리아르. 마스 타우 메토돌로지아 탐벵 포지 리미타르 무이투 우 키 보세 포지 이벤투아우멘치 베르 이 사베르, 이 만테-루 아파스타두 지 페르세프송이스 마이스 프로푼다스 키 포뎅 세르 포시베이스 시 보세 심플레즈멘치 시 데스피제르 데사 심볼로지아 이 아프렌데르 아 페르세베르 지레타멘치 콩 우스 센치두스 인테르누스.
+Eu acho que essas formas de adivinhação são ótimos pontos de partida, se funcionarem para você, para dar alguma hierarquia e relevância às energias que você está percebendo, mas você deve sempre prestar atenção ao fato de que essa simbologia externa pode ajudar em certos aspectos, mas também atrapalhar em outros. A verdadeira natureza da energia, como ela flui e afeta você, seja você percebendo isso como planetária ou de outra forma (e, claro, não estou duvidando disso, mas apenas dizendo que há uma realidade energética maior além dessa simbologia planetária) pode dar-lhe perspectiva e permitir que sua mente perceba o que está acontecendo em uma ordem espacial familiar. Mas tal metodologia também pode limitar muito o que você pode eventualmente ver e saber, e mantê-lo afastado de percepções mais profundas que podem ser possíveis se você simplesmente se desfizer dessa simbologia e aprender a perceber diretamente com os sentidos internos.
 
 콤프렌덴두 에사 베르다지 마이오르 키 바이 알렝 두 심볼리즈무, 보세 포지 인탕 코메사르 아 베르 지레타멘치 이 데펜데르 메누스 지 이데이아스 이 이데아이스 헬라시오나두스 아 세르타스 지빈다지스 오 코이자스 두 치푸. 우마 베스 키 보세 포사 베르 아 이네르지아 지레타멘치 이 이르 알렝 두 심볼리즈무, 타우 심볼리즈무 페르지 세우 포데르, 우 키 탐벵 포지 세르 '이스클라레세도르' 잉 그란지 메지다, 자 키 타우 심볼리즈무 인스치가 세르타스 인테르코네숑이스 덴트루 지 보세 헬라시오나다스 아 심플리스 폴라리다지스, 키 상 리미타송이스 파라 우마 페르세프상 마이오르.
+Compreendendo essa verdade maior que vai além do simbolismo, você pode então começar a ver diretamente e depender menos de ideias e ideais relacionados a certas divindades ou coisas do tipo. Uma vez que você possa ver a energia diretamente e ir além do simbolismo, tal simbolismo perde seu poder, o que também pode ser 'esclarecedor' em grande medida, já que tal simbolismo instiga certas interconexões dentro de você relacionadas a simples polaridades, que são limitações para uma percepção maior.
 
+---
 ---
 
 **크: 이우 코녜수 이 우제이 아스 테크니카스 데스크리타스 누 리브루 _카미뉴 두 밤피루 파라 아 아우토데페자 프시키카_ 파라 루타르 콘트라 인치다지스 지피세이스, 마스 아스 베지스 이수 낭 에 수피시엔치, 이 이우 미 신투 프레주 잉 세르투스 로카이스. 이지스치 아우구 키 포사무스 파제르 파라 이스카파르 데시스 이페르쿠부스 오 라보라토리우스 온지 엘리스 누스 트랑캉 잉 카마스 인두진두 소뉴스? 이우 세이 키 이수 에 아우구 키 오트루스 탐벵 이스페리멘타랑.**
+**Q: Eu conheço e usei as técnicas descritas no livro _Caminho do Vampiro para a Autodefesa Psíquica_ para lutar contra entidades difíceis, mas às vezes isso não é suficiente, e eu me sinto preso em certos locais. Existe algo que possamos fazer para escapar desses hipercubos ou laboratórios onde eles nos trancam em camas induzindo sonhos? Eu sei que isso é algo que outros também experimentaram.**
 
 아: 이우 아슈 키 수아 페르군타 바지카 에: 이지스치 우마 마네이라 지 이스카파르무스 지 쿠아우케르 쿠부 오 자울라 파르치쿨라르?
+A: Eu acho que sua pergunta básica é: existe uma maneira de escaparmos de qualquer cubo ou jaula particular?
 
 아 헤스포스타 에 싱, 이 아 마네이라 지 파제르 이수 에 시 토르나르 웅 프로제치스타 포데로주. 아슈 키 보세 이스타 인두 잉크리베우멘치 벵, 센두 루시두 우 수피시엔치 이 사벤두 우 수피시엔치 파라 우자르 아스 테크니카스 키 데스크레비 잉 _카미뉴 두 밤피루 파라 아 아우토데페자 프시키카_ 잉 세우스 이스타두스 지 소뉴. 에 에사 루시데스 키 데비 시 토르나르 마이스 포텐치, 아트라베스 다스 테크니카스 키 데스크레비 누 리브루 _우 카미뉴 두 프로제치스타_, 키 에 우 세군두 리브루 다 트릴로지아 두스 쿠르수스, 클라루.
+A resposta é sim, e a maneira de fazer isso é se tornar um projetista poderoso. Acho que você está indo incrivelmente bem, sendo lúcido o suficiente e sabendo o suficiente para usar as técnicas que descrevi em _Caminho do Vampiro para a Autodefesa Psíquica_ em seus estados de sonho. É essa lucidez que deve se tornar mais potente, através das técnicas que descrevi no livro _O Caminho do Projetista_, que é o segundo livro da trilogia dos cursos, claro.
 
 아 메지다 키 수아 루시데스 아우멘타 이 수아 아빌리다지 지 트라발랴르 콩 이네르지아 탐벵, 보세 세라 카파스 지 마니풀라르 잉 웅 그라우 무이투 마이오르 이 세라 카파스 지 트라발랴르 지레타멘치 콩 에사스 인치다지스 키 보세 포지 잉콘트라르 잉 타이스 루가리스, 헤제이탄두-아스 아테 메즈무.
+À medida que sua lucidez aumenta e sua habilidade de trabalhar com energia também, você será capaz de manipular em um grau muito maior e será capaz de trabalhar diretamente com essas entidades que você pode encontrar em tais lugares, rejeitando-as até mesmo.
 
 마이오르 루시데스 = 마이오르 포데르.
+Maior Lucidez = Maior Poder.
 
 트라타-시 지 아프렌데르 아 마니풀라르 잉 노바스 지멘송이스 알렝 다 피지칼리다지, 이 아 메지다 키 수아 이스페리엔시아 이 세우 포데르 크레셍, 수아 아빌리다지 지 인트라르 이 사이르 지 쿠부스 이 살라스 파라 보세 마이스 포데로주 두 키 아스 인치다지스 키 보세 포지 잉콘트라르 잉 타이스 쿠아르투스, 이 콩 우 템푸, 데펜덴두 두 쿠앙 포데로자스 에사스 인치다지스 포상 세르, 보세 포지 세르 아켈리 키 리스 지스 파라 레바-라스 아 오트루 루가르.
+Trata-se de aprender a manipular em novas dimensões além da fisicalidade, e à medida que sua experiência e seu poder crescem, sua habilidade de entrar e sair de cubos e salas fará você mais poderoso do que as entidades que você pode encontrar em tais quartos, e com o tempo, dependendo do quão poderosas essas entidades possam ser, você pode ser aquele que lhes diz para levá-las a outro lugar.
 
 포르 이젬플루, 누 리브루 멘시오나두 아시마, 데스크레비 코무 시 모베르 파라 덴트루 이 포라 지 지페렌치스 살라스, 아프렌덴두 아 잉콘트라르 지페렌치스 폰투스 지 인트라다, 이 이벤투아우멘치 아테 아프렌덴두 아 크리아르 에시스 폰투스 지 인트라다 (포르타이스) 포르 보세 메즈무 아트라베스 두 포쿠 지 수아 아텐상. 네시 리브루, 탐벵 데스크레부 코무 루타르 콘트라 타이스 인치다지스 네가치바스, 아프렌덴두 아 마니풀라르 수아 아텐상 파라 크리아르, 트란즈무타르, 마니페스타르 세르투스 포데리스 오 오브제투스 키 보세 포지 인탕 우자르 파라 헤지스치르 오 데호타르 쿠아우케르 이니미구 덴트루 데사스 지멘송이스 인테르나스. 아 카파시다지 지 파제르 이수 데펜지 두 트레이나멘투 페소아우 지 수아 파르치, 우 키 페르미치라 키 보세 마니풀리 덴트루 데사스 지멘송이스 인테르나스, 이 투두 이수 시 헤주미 아 수아 카파시다지 지 데젠보우베르 우 포쿠 지 수아 아텐상.
+Por exemplo, no livro mencionado acima, descrevi como se mover para dentro e fora de diferentes salas, aprendendo a encontrar diferentes pontos de entrada, e eventualmente até aprendendo a criar esses pontos de entrada (portais) por você mesmo através do foco de sua atenção. Nesse livro, também descrevo como lutar contra tais entidades negativas, aprendendo a manipular sua atenção para criar, transmutar, manifestar certos poderes ou objetos que você pode então usar para resistir ou derrotar qualquer inimigo dentro dessas dimensões internas. A capacidade de fazer isso depende do treinamento pessoal de sua parte, o que permitirá que você manipule dentro dessas dimensões internas, e tudo isso se resume à sua capacidade de desenvolver o foco de sua atenção.
 
+---
 ---
 
 **크: 세리아 포시베우 프로제타르-시 파라 우마 지멘상 나 쿠아우 아 이네르지아 지 웅 이그레고르 헤지지 이 테르 우마 인테라상 마이스 카라 아 카라 콩 엘리? 오 타우베스 우자르 우마 아보르다젱 세멜랸치 아 마지아 세리모니아우 이 텐타르 샤마-루 파라 우마 포르마 비지베우 누 문두 헤굴라르? 쿠아이스 상 우스 프로스 이 콘트라스 지 카다 우마 데사스 오프송이스?**
+**Q: Seria possível projetar-se para uma dimensão na qual a energia de um egregor reside e ter uma interação mais cara a cara com ele? Ou talvez usar uma abordagem semelhante à magia cerimonial e tentar chamá-lo para uma forma visível no mundo regular? Quais são os prós e contras de cada uma dessas opções?**
 
 아: 싱, 세리아 포시베우 아도타르 우마 아보르다젱 마이스 세리모니아우, 지가무스, 오 세리아 포시베우 아보르다르 이수 코무 웅 프로제치스타. 콩 쿠아우케르 메토두, 보세 프레시자리아 시 토르나르 프로피시엔치 나스 테크니카스 아플리카베이스, 우 키 시그니피카 키 보세 프레시자리아 시 토르나르 무이투 봉 잉 트라발랴르 콩 아 이네르지아 다 페르스펙치바 피지카 이 세르 카파스 지 샤마르 이 빙쿨라르 에시 이그레고르, 오 프레시자리아 시 토르나르 웅 프로제치스타 무이투 봉, 키 에 카파스 지 프로제타르-시 잉 우마 조나 지멘시오나우 온지 보세 포지 잉콘트라르 타우 세르 잉 웅 니베우 카라 아 카라 이 탐벵 세르 카파스 지 만테르 수아 프로프리아 인테그리다지, 세우 프로프리우 이우 인지비두아우 이 데페자/콘텐상, 네사 지멘상.
+A: Sim, seria possível adotar uma abordagem mais cerimonial, digamos, ou seria possível abordar isso como um projetista. Com qualquer método, você precisaria se tornar proficiente nas técnicas aplicáveis, o que significa que você precisaria se tornar muito bom em trabalhar com a energia da perspectiva física e ser capaz de chamar e vincular esse egregor, ou precisaria se tornar um projetista muito bom, que é capaz de projetar-se em uma zona dimensional onde você pode encontrar tal ser em um nível cara a cara e também ser capaz de manter sua própria integridade, seu próprio eu individual e defesa/contenção, nessa dimensão.
 
 이지스텡 반타젱스 이 데즈반타젱스 잉 쿠아우케르 메토두, 이 카다 웅 델리스 프레시자 세르 이스페리멘타두 펠루 프라치칸치, 파라 키 엘리 포사 인탕 데시지르 페소아우멘치 쿠아우 세리아 우 멜료르 파라 엘리. 에스치 에, 오네스타멘치, 웅 토피쿠 바스탄치 지피시우 이 이지지리아 무이투 코녜시멘투 이 인포르마송이스 아지시오나이스. 마스, 팔란두 잉 테르무스 제라이스, 보세 포데리아 지제르 키 시 헤주미 아 세르타스 아피니다지스 오 잉클리나송이스 지 카다 프라치칸치 인지비두아우. 미냐 프레페렌시아 페소아우 세리아 트라발랴르 콩 타이스 세리스 잉 웅 니베우 인테르누, 코무 웅 프로제치스타, 포르키 데사 포르마 신투 키 미냐스 이네르지아스 세리앙 플레나멘치 헤알리자다스, 낭 아베리아 리미타송이스 피지카스 아우 메우 포데르, 이 타이스 프라치카스 탐벵 아주다리앙 아 암플리아르 미냐 카파시다지 지 프로제타르 지 오트라스 마네이라스, 파라 오트라스 지멘송이스 알렝 다 빙쿨라상 두 페주 마테리아우.
+Existem vantagens e desvantagens em qualquer método, e cada um deles precisa ser experimentado pelo praticante, para que ele possa então decidir pessoalmente qual seria o melhor para ele. Este é, honestamente, um tópico bastante difícil e exigiria muito conhecimento e informações adicionais. Mas, falando em termos gerais, você poderia dizer que se resume a certas afinidades ou inclinações de cada praticante individual. Minha preferência pessoal seria trabalhar com tais seres em um nível interno, como um projetista, porque dessa forma sinto que minhas energias seriam plenamente realizadas, não haveria limitações físicas ao meu poder, e tais práticas também ajudariam a ampliar minha capacidade de projetar de outras maneiras, para outras dimensões além da vinculação do peso material.
 
+---
 ---
 
 **크: 보세 아크레지타 키, 쿠안두 테무스 텐상 잉 노수 코르푸, 오 이스타무스 텐수스 잉 우마 아레아, 이스타무스 바잔두 이네르지아? 에 임포르탄치 텐타르 만테르 우 코르푸 우 마이스 헬라샤두 이 소우투 포시베우?**
+**Q: Você acredita que, quando temos tensão em nosso corpo, ou estamos tensos em uma área, estamos vazando energia? É importante tentar manter o corpo o mais relaxado e solto possível?**
 
 **알렝 지수, 세리스 낭 오르가니쿠스 프레다도리스 (프노브스) 텐탕 누스 파제르 테르 이모송이스 이시탄치스 파라 키 포상 콘수미르 아 이네르지아 키 리베라무스?**
+**Além disso, seres não orgânicos predadores (PNOBs) tentam nos fazer ter emoções excitantes para que possam consumir a energia que liberamos?**
 
 아: 싱, 만테르 우 코르푸 소우투 에 무이투 임포르탄치. 우 아쿠물루 지 이네르지아 제라우멘치 에 헤주우타두 지 아우궁 치푸 지 텐상. 지 파투, 아 우마 지피쿠우다지 잉 텐타르 이덴치피카르 아 나투레자 카우자우 지 타이스 코이자스, 센두 키 보세 포지 지제르 아 텐상 이스타바 라, 이 우 아쿠물루 아콘테세우, 오 우 아쿠물루 지 이네르지아 이스타바 라, 인탕 아 텐상 아콘테세우.
+A: Sim, manter o corpo solto é muito importante. O acúmulo de energia geralmente é resultado de algum tipo de tensão. De fato, há uma dificuldade em tentar identificar a natureza causal de tais coisas, sendo que você pode dizer; a tensão estava lá, e o acúmulo aconteceu, ou o acúmulo de energia estava lá, então a tensão aconteceu.
 
 마스, 팔란두 잉 테르무스 제라이스, 두 폰투 지 비스타 우마누, 에 멜료르 지제르 키 우 코르푸 데비 세르 만치두 지 마네이라 헬라샤다 파라 키 에시 아쿠물루 낭 오코하, 포르키, 시 에시 아쿠물루 콘치누아르, 포지 카우자르 웅 바자멘투, 코무 보세 지스. 이수 포지, 지 파투, 카우자르 우마 페리다 이네르제치카 키 데비 세르 트라타다 아트라베스 다 헤아브소르상, 콘포르미 멘시오나두 누 리브루 두 쿠르수 _우 마그눙 오푸스_.
+Mas, falando em termos gerais, do ponto de vista humano, é melhor dizer que o corpo deve ser mantido de maneira relaxada para que esse acúmulo não ocorra, porque, se esse acúmulo continuar, pode causar um vazamento, como você diz. Isso pode, de fato, causar uma ferida energética que deve ser tratada através da reabsorção, conforme mencionado no livro do curso _O Magnum Opus_.
 
 싱, 파라 수아 세군다 페르군타 탐벵. 우스 프노브스 파랑 지 투두 아우 세우 아우칸시 파라 텐타르 드레나르 수아 이네르지아, 인탕 에 무이투 임포르탄치 키 보세 코메시 아 프레스타르 아텐상 잉 세우스 프로프리우스 펜사멘투스 이 센치멘투스, 파라 키 포사 이덴치피카르 우 이니시우 지 이스타두스 지 이스피리투 이 센사송이스 이스트라냐스, 파라 이덴치피카르 쿠안두 이수 아콘테시, 쿠안두 수르젱 우모리스 이네스페라두스 이 이스트라뉴스, 이 케스치오나르 수아 오리젱, 파라 키 보세 코메시 아 이덴치피카르 아 이스트루투라 제라우 지 수아 프시키. 콩 소르치, 인탕, 보세 포데라 코메사르 아 베르 아 지페렌사 엔트리 아우구 키 파레시 세르 헤아우멘치 보세 이 아우구 키 파레시 세르 웅 이페이투 이스테르누.
+Sim, para sua segunda pergunta também. Os PNOBs farão de tudo ao seu alcance para tentar drenar sua energia, então é muito importante que você comece a prestar atenção em seus próprios pensamentos e sentimentos, para que possa identificar o início de estados de espírito e sensações estranhas, para identificar quando isso acontece, quando surgem humores inesperados e estranhos, e questionar sua origem, para que você comece a identificar a estrutura geral de sua psique. Com sorte, então, você poderá começar a ver a diferença entre algo que parece ser realmente você e algo que parece ser um efeito externo.
 
+---
 ---
 
 **크: 에 주스투 지제르 키 테무스 아페나스 우마 샨시 지 아우칸사르 아 이모르탈리다지?**
+**Q: É justo dizer que temos apenas uma chance de alcançar a imortalidade?**
 
 아: 카다 인지비두 싱. 파라 보세 키 에 보세 아고라, 키 눙카 마이스 세라 노바멘치 (지 아코르두 콩 우스 아우키미스타스 인테르누스), 이수 에 이네르제치카멘치 베르다데이루. 파라 헤스폰데르 아 에사 페르군타 마이스 프로푼다멘치, 보세 데비 오브세르바르 키, 파라 웅 아우키미스타 인테르누, 이지스치 우마 지페렌사 엔트리 우 헤데모이뉴 두 '시클루 다 비다 이 모르치' 잉 키 이스타무스, 키 포지 파레세르 이모르탈리다지, 자 키 멘시오네이 누 파사두 키 타우 헤코헨시아 이테르나 포지 파레세르 우마 이스페시 지 이모르탈리다지, 이 우 치푸 지 이모르탈리다지 키 우스 아우키미스타스 인테르누스 부스캉 키 에 아 카파시다지 지 사이르 두 시클루 다 비다 이 다 모르치, 지 시 리베르타르 두 헤데모이뉴 키 아고라 누스 프렌지 아 토두스.
+A: Cada indivíduo sim. Para você que é você agora, que nunca mais será novamente (de acordo com os alquimistas internos), isso é energeticamente verdadeiro. Para responder a essa pergunta mais profundamente, você deve observar que, para um alquimista interno, existe uma diferença entre o redemoinho do 'ciclo da vida e morte' em que estamos, que pode parecer imortalidade, já que mencionei no passado que tal Recorrência Eterna pode parecer uma espécie de imortalidade, e o tipo de imortalidade que os alquimistas internos buscam; que é a capacidade de sair do ciclo da vida e da morte, de se libertar do redemoinho que agora nos prende a todos.
 
+---
 ---
 
 **크:**
+**Q:**
 
 **1.** **보세 포데리아 팔라르 소브리 쿠아이스 프린시피우스, 시 오베르, 상 콘스탄치스 우니베르사이스 헤아이스, 나 메지다 잉 키 포뎅 세르 페르세비두스?**
+**1.**  **Você poderia falar sobre quais princípios, se houver, são constantes universais reais, na medida em que podem ser percebidos?**
 
 **2.** **사비-시 아우구 소브리 아스 오리젱스 두 아르콘치 이 수아 비다 안치스 지 비르 파라 아 테하? 엘리 텡 아우구 코무 우마 파밀리아 오 파렌치스? 알렝 지수, 사비-시 아우구 소브리 코무 에 아 비다 파라 엘리? 잉 오트라스 팔라브라스, 코무 엘리 비벤시아 우 암비엔치 이 시 메즈무, 이 텡 아우궁 오브제치부 오 프로포지투 알렝 다 소브레비벤시아?**
+**2.**  **Sabe-se algo sobre as origens do Arconte e sua vida antes de vir para a Terra? Ele tem algo como uma família ou parentes? Além disso, sabe-se algo sobre como é a vida para ele? Em outras palavras, como ele vivencia o ambiente e si mesmo, e tem algum objetivo ou propósito além da sobrevivência?**
 
 **3.** **코무 아 비다 우마나 무다리아 시 우 아르콘치 데이샤시 아 테하 (포르 이젬플루, 시 잉콘트라시 오트라 이스페시 잉 오트루 플라네타 키 포시 우마 폰치 지 알리멘투 마이스 누트리치바) 수폰두 키 네늉 오트루 프레다도르 이키발렌치 비에시 아 오쿠파르 우 니슈? 보세 데스코브리우 아우구 소브리 아스 오리젱스 다 우마니다지, 아 이스페시 잉 시, 잉 오포지상 아 콘시엔시아 아르콘치? 아 아우구마 페르스펙치바 지 키 우 아르콘치 포사 세르 이스푸우수 오 모르투?**
+**3.**  **Como a vida humana mudaria se o Arconte deixasse a Terra (por exemplo, se encontrasse outra espécie em outro planeta que fosse uma fonte de alimento mais nutritiva) supondo que nenhum outro predador equivalente viesse a ocupar o nicho? Você descobriu algo sobre as origens da humanidade, a espécie em si, em oposição à consciência arconte? Há alguma perspectiva de que o Arconte possa ser expulso ou morto?**
 
 아:
+A:
 
 1. 누 키 지스 헤스페이투 아스 콘스탄치스 우 포데르 다 아텐상 에 우마 델라스. 오 세자, 아 아텐상 에 포데르, 에 우마 아상. 이 시 아 우마 콘시엔시아 나켈라 지멘상 (세자 쿠아우 포르 아 지멘상 키 세자), 우 아투 지 다르 아텐상 에 코무 우마 그라비다지 키 트란즈무타 우 키 이스타 헤세벤두 아 아텐상 잉 아우구 지페렌치 (아 아텐상 무다 아 프레켄시아, 포르탄투). 마스 우 키 포지 아콘테세르 코무 헤주우타두 데사 아텐상 (키 치푸 지 트란즈무타상 아콘테시 오 코무 에사 아텐상 시 마니페스타 잉 쿠아우케르 지멘상) 데펜지 콤플레타멘치 다 지멘상 파르치쿨라르, 자 키 토다스 아스 지멘송이스 텡 수아스 프로프리아스 레이스.
+1.  No que diz respeito às constantes; o poder da atenção é uma delas. Ou seja, a atenção é poder, é uma ação. E se há uma consciência naquela dimensão (seja qual for a dimensão que seja), o ato de dar atenção é como uma gravidade que transmuta o que está recebendo a atenção em algo diferente (a atenção muda a frequência, portanto). Mas o que pode acontecer como resultado dessa atenção (que tipo de transmutação acontece ou como essa atenção se manifesta em qualquer dimensão) depende completamente da dimensão particular, já que todas as dimensões têm suas próprias leis.
 
 포르탄투, 우 포데르 다 아텐상 에 우마 콘스탄치.
+Portanto, o poder da atenção é uma constante.
 
 2. 수아 세군다 페르군타 에 무이투 콤플레샤 이 지피시우 지 헤스폰데르. 우 마이오르 프로블레마 에 프레수포르 키 우 키 포데무스 누스 헤페리르 코무 '세르' 에 우 메즈무 파라 엘리 잉 오트라스 팔라브라스, 아 이데이아 지 파밀리아, 파사두, 아스피라송이스 푸투라스, 코무 타우, 상 아스 메즈마스 파라 엘리 코무 상 파라 노스.
+2.  Sua segunda pergunta é muito complexa e difícil de responder. O maior problema é pressupor que o que podemos nos referir como 'ser' é o mesmo para ele; em outras palavras, a ideia de família, passado, aspirações futuras, como tal, são as mesmas para ele como são para nós.
 
 에 레지앙, 에 웅 이 아인다 에 무이투스. 에 우마 누벵, 우마 코헨치, 우마 포르사 콘시엔치 다 나투레자, 이 이스타 센두 우자다 지 세르타 포르마, 다 메즈마 마네이라 키 노스 우마누스 이스타무스 센두 우자두스 (에 탕 이스크라부 쿠안투 노스 소무스). 수아 아스피라상, 이스판상 이 크레시멘투, 수포뉴, 포뎅 세르 지투스 코무 우스 노수스. 토다 콘시엔시아 코메사 센두 프레자 잉 세르투스 리미치스 지멘시오나이스 두스 쿠아이스 데비 인탕 코메사르 아 시 아파스타르, 지 아코르두 콩 세우스 프로프리우스 파라메트루스 지 크레시멘투 이볼루치부. 에 탕 봉 이 탕 후잉 쿠안투 노스 소무스, 에 탕 프레다도르 쿠안투 노스 소무스. 시 베이우 아키 파라 누스 프레다르 오 낭, 에 탕 봉 오 마우 쿠안투 노스 우마누스 소무스 오 포데리아무스 세르, 나 베르다지 토다스 에사스 노송이스, 토다스 에사스 폴라리다지스 상, 누 피나우, 아페나스 지페렌치스 파드롱이스 이네르제치쿠스, 세긴두 지페렌치스 프린시피우스 이네르제치쿠스, 지 아코르두 콩 지페렌치스 포지송이스 지멘시오나이스.
+É legião, é um e ainda é muitos. É uma nuvem, uma corrente, uma força consciente da natureza, e está sendo usada de certa forma, da mesma maneira que nós humanos estamos sendo usados (é tão escravo quanto nós somos). Sua aspiração, expansão e crescimento, suponho, podem ser ditos como os nossos. Toda consciência começa sendo presa em certos limites dimensionais dos quais deve então começar a se afastar, de acordo com seus próprios parâmetros de crescimento evolutivo. É tão bom e tão ruim quanto nós somos, é tão predador quanto nós somos. Se veio aqui para nos predar ou não, é tão bom ou mau quanto nós humanos somos ou poderíamos ser, na verdade todas essas noções, todas essas polaridades são, no final, apenas diferentes padrões energéticos, seguindo diferentes princípios energéticos, de acordo com diferentes posições dimensionais.
 
 쿠안투 아 지 온지 베이우 이 파라 온지 이스타 인두 이자타멘치? 벵, 이수 에 지피시우 지 페르세베르, 아슈. 에 웅 치탕 이 아테 메즈무 웅 비덴치 포지 아샤르 지피시우 베르 잉 지멘송이스 탕 이노르메스. 심플레즈멘치, 코무 이우 지시, 에 우마 콘시엔시아 이, 코무 타우, 이스타 프레자 덴트루 지 우마 세르타 파레지 지멘시오나우, 포르 아싱 지제르, 이 이스타 시 이스포르산두 파라 이르 알렝 데사스 파레지스 다 메즈마 포르마 키 노스. 파라 온지 에사 이스판상 지멘시오나우 레바라 에 우마 코이자 무이투 지피시우 지 베르.
+Quanto a de onde veio e para onde está indo exatamente? Bem, isso é difícil de perceber, acho. É um Titã e até mesmo um vidente pode achar difícil ver em dimensões tão enormes. Simplesmente, como eu disse, é uma consciência e, como tal, está presa dentro de uma certa parede dimensional, por assim dizer, e está se esforçando para ir além dessas paredes da mesma forma que nós. Para onde essa expansão dimensional levará é uma coisa muito difícil de ver.
 
 3. 쿠안투 아 케스탕 지 시 우 아르콘치 데이쇼 아 테하, 이우 텐투 지스쿠치르 웅 포쿠 지수 누 리브루 _우 마그눙 오푸스_. 잉 헤주무, 아 우마니다지 에 우 키 에 포르 카우자 두 아르콘치. 시 낭 오베르 아르콘치, 인탕, 네스치 폰투 다 이볼루상 우마나, 탐벵 낭 아베라 우마니다지, 펠루 메누스 낭 지 포르마 콤프렌시베우. 코무 이우 지스쿠치 누 리브루 멘시오나두, 우 아르콘치 에 노사 하장 파라 아 하장, 에 우 이우 콘시엔치, 이 셍 이수 소무스 웅 소뉴, 리테라우멘치.
+3.  Quanto à questão de se o Arconte deixou a Terra, eu tento discutir um pouco disso no livro _O Magnum Opus_. Em resumo, a humanidade é o que é por causa do Arconte. Se não houver Arconte, então, neste ponto da evolução humana, também não haverá humanidade, pelo menos não de forma compreensível. Como eu discuti no livro mencionado, o Arconte é nossa razão para a razão, é o eu consciente, e sem isso somos um sonho, literalmente.
 
 마타르 우 아르콘치 노바멘치 프레수퐁이 비다 지 우마 포르마 코녜시다 아트라베스 다 하장 이 이수 에 우마 리미타상 쿠안두 팔라무스 지 웅 치탕. 아 루아 포지 세르 모르타? 포지 세르 이스푸우사?
+Matar o Arconte novamente pressupõe vida de uma forma conhecida através da razão e isso é uma limitação quando falamos de um Titã. A lua pode ser morta? Pode ser expulsa?
 
 에사스 상 아스 프로포르송이스 키 데벵 세르 콤프렌지다스 쿠안두 팔라무스 지 우마 포르사 코무 우 아르콘치.
+Essas são as proporções que devem ser compreendidas quando falamos de uma força como o Arconte.
 
 이스페루 키 보세 인텐다 우 키 케루 지제르, 상 페르군타스 무이투 보아스, 마스 지피세이스 이, 덴트루 다 메타포라 키 이스토 우잔두 파라 헤스폰데르 아 에사스 페르군타스, 이지스치 우마 베르다지 오쿠우타 이 무이투 세크레타 지 이스칼라 베르다데이라멘치 루나르.
+Espero que você entenda o que quero dizer, são perguntas muito boas, mas difíceis e, dentro da metáfora que estou usando para responder a essas perguntas, existe uma verdade oculta e muito secreta de escala verdadeiramente lunar.
 
 쿠안투 아우 키 포데리아무스 누스 토르나르 시 데이샤세무스 우 아르콘치 오 우 지비지세무스 (케브라세무스), 지가무스... 벵, 바무스 파제르 이수, 바무스 코메사르 아 레바르 일롱 무스크 아 세리우 이 누스 이스팔랴르무스 펠루 코즈무스, 파라 오트루스 플라네타스 이, 이벤투아우멘치, 오트라스 갈라시아스. 포데무스 파제르 이수 포르 메이우스 메카니쿠스, 코무 우 문두 모데르누 인시스치 키 데베무스, 오 포데무스 데이샤르 에스타 지멘상 아트라베스 다 프로제상, 코무 우스 아우키미스타스 인테르누스 아크레지탕 키 포데무스.
+Quanto ao que poderíamos nos tornar se deixássemos o Arconte ou o dividíssemos (quebrássemos), digamos... bem, vamos fazer isso, vamos começar a levar Elon Musk a sério e nos espalharmos pelo cosmos, para outros planetas e, eventualmente, outras galáxias. Podemos fazer isso por meios mecânicos, como o mundo moderno insiste que devemos, ou podemos deixar esta dimensão através da projeção, como os alquimistas internos acreditam que podemos.
 
 인시스투 키 보세 데베리아 아프렌데르 아 시 토르나르 웅 프로제치스타, 포이스 에 마이스 프로바베우 키 보세 시 토르니 이수 두 키 임바르카르 잉 아우궁 포게치 지간치 두란치 수아 비다. 잉쿠안투 프로제타무스, 소무스 리브리스, 이 라 보세 포지 코메사르 아 낭 아페나스 인텐데르 아 나투레자 다 우마니다지 이 두 아르콘치, 마스 탐벵 우 키 포데리아무스/세리아무스 셍 수아 인플루엔시아.
+Insisto que você deveria aprender a se tornar um projetista, pois é mais provável que você se torne isso do que embarcar em algum foguete gigante durante sua vida. Enquanto projetamos, somos livres, e lá você pode começar a não apenas entender a natureza da humanidade e do Arconte, mas também o que poderíamos/seríamos sem sua influência.
 
+---
 ---
 
 **크:**
+**Q:**
 
 **1.** **코무 우 아르콘치 리도 콩 아스 바리아스 카타스트로페스, 코무 아 이루프상 두 수페르부우캉 토바 오 우 페리오두 욘제르 드리아스, 키 지지모 아 마이오르 파르치 다 포풀라상 우마나? 제라우멘치, 웅 프레다도르 시 이스칭기 쿠안두 우마 그란지 파르치 지 세우 수프리멘투 지 알리멘투스 모히.**
+**1.**  **Como o Arconte lidou com as várias catástrofes, como a erupção do supervulcão Toba ou o período Younger Dryas, que dizimou a maior parte da população humana? Geralmente, um predador se extingue quando uma grande parte de seu suprimento de alimentos morre.**
 
 **2.** **아 소시오파치아 포데리아 세르 콘시데라다 우마 아다프타상 이볼루치바 아 도미나상 두 아르콘치? 소시오파타스 카레셍 다 바스타 마이오리아 다스 이모송이스 노르마이스. 나 마이오르 파르치 두 템푸, 센텡-시 인테지아두스, 우 키, 임보라 세자 우마 이모상 네가치바, 프로바베우멘치 세자 메누스 이네르지카멘치 이자우스치부 두 키 우스 이스타두스 이모시오나이스 키 아 마이오리아 다스 페소아스 노르마우멘치 이스페리멘타.**
+**2.**  **A sociopatia poderia ser considerada uma adaptação evolutiva à dominação do Arconte? Sociopatas carecem da vasta maioria das emoções normais. Na maior parte do tempo, sentem-se entediados, o que, embora seja uma emoção negativa, provavelmente seja menos energicamente exaustivo do que os estados emocionais que a maioria das pessoas normalmente experimenta.**
 
 **3.** **아우궁스 두스 세리스 멘시오나두스 누스 그리모리우스 다 마지아 세리모니아우 상 지투스 세렝 우마누스 안치구스. 엘리스 세리앙 이젬플루스 두스 이모르타이스 멘시오나두스 잉 세우 리브루 "데자피아도르 다 모르치"?**
+**3.**  **Alguns dos seres mencionados nos grimórios da magia cerimonial são ditos serem humanos antigos. Eles seriam exemplos dos imortais mencionados em seu livro "Desafiador da Morte"?**
 
 **4.** **포르 키 에 이네비타베우 키 우스 낭-아우키미스타스 세장 수가두스 펠루 부라쿠 네그루 (소우 네그루) 쿠안두, 제라우멘치, 아 케다 오 낭 잉 웅 부라쿠 네그루 데펜지 지 수아 로칼리자상 누 이스파수? 네시 센치두, 아 로칼리자상 이스파시아우 임포르타 쿠안두 시 트라타 지 쿠안투 템푸 아우겡 텡 안치스 지 카이르 넬리? 포르 이젬플루, 시 아우겡 잉 우마 나비 이스파시아우 비아잔두 펠루 바지우 마이스 프로푼두 누 이스파수 인테르갈락치쿠 모헤시, 테리아 마이스 템푸 두 키 시 모헤시 나 테하?**
+**4.**  **Por que é inevitável que os não-alquimistas sejam sugados pelo buraco negro (Sol Negro) quando, geralmente, a queda ou não em um buraco negro depende de sua localização no espaço? Nesse sentido, a localização espacial importa quando se trata de quanto tempo alguém tem antes de cair nele? Por exemplo, se alguém em uma nave espacial viajando pelo vazio mais profundo no espaço intergaláctico morresse, teria mais tempo do que se morresse na Terra?**
 
 **5.** **쿠안두 아스 페소아스 팔랑 소브리 아 아우마 이모르타우 이 아 헹카르나상, 이스토 인텐덴두 코헤타멘치 키 이스탕 시 헤페린두 아우 키 보세 샤마 지 잉콘시엔치, 오 펠루 메누스 아켈라스 파르치스 델리 키 (지 우마 페르스펙치바 지 템푸 리네아르) 파상 노바멘치 두 소우 네그루 파라 웅 노부 코르푸?**
+**5.**  **Quando as pessoas falam sobre a alma imortal e a reencarnação, estou entendendo corretamente que estão se referindo ao que você chama de inconsciente, ou pelo menos aquelas partes dele que (de uma perspectiva de tempo linear) passam novamente do Sol Negro para um novo corpo?**
 
 **6.** **세이 키 보세 이스타바 팔란두 메타포리카멘치, 마스, 발리 우 키 포르, 아 루아 포데리아 세르 이스푸우사. 코무 모스트라두 잉 루가리스 코무 우 카나우 이자크 아르투르 누 요투비, 포랑 일라보라다스 포르마스 헬라치바멘치 심플리스 지 우자르 아 아트라상 그라비타시오나우 지 아스테로이지스 파라 모베르 플라네타스 인테이루스.**
+**6.**  **Sei que você estava falando metaforicamente, mas, vale o que for, a lua poderia ser expulsa. Como mostrado em lugares como o canal Isaac Arthur no YouTube, foram elaboradas formas relativamente simples de usar a atração gravitacional de asteroides para mover planetas inteiros.**
 
 아:
+A:
 
 1. 쿠안두 펜사무스 누 아르콘치, 에 파시우 아트리부이르-리 쿠알리다지스 피지카스 이 이데아이스 하시오나이스 키 파레셍 시 잉카이샤르 파시우멘치 잉 노사 조나 지멘시오나우 이스파수-템포라우 파르치쿨라르. 누 인탄투, 우 아르콘치 이지스치 잉 웅 이스타두 지멘시오나우 지페렌치, 이 세우 타마뉴, 수아스 지멘송이스, 상 타이스 키 데자피앙 토다 아 콤프렌상 덴트루 지 우마 페르스펙치바 하시오나우. 지투 이스투, 우 키 포지 세르 밀룡이스 지 아누스 이 시클루스 지 템푸 파라 우 플라네타 이, 두 폰투 지 비스타 우마누, 아 이데이아 우마나 두 키 에 우 템푸, 낭 상 나다 파라 우 아르콘치. 다 메즈마 포르마 키 포데무스 테르 모멘투스 잉 키 이스타무스 마이스 아치부스 이 모멘투스 잉 키 이스타무스 데스칸산두 다 아치비다지, 다 메즈마 포르마 키 우마 세르타 인텐시다지 지 비질리아 포지 크리아르 우마 인텐사 네세시다지 지 도르미르, 우 아르콘치 세기 타이스 시클루스 탐벵... 지 세르타 포르마.
+1.  Quando pensamos no Arconte, é fácil atribuir-lhe qualidades físicas e ideais racionais que parecem se encaixar facilmente em nossa zona dimensional espaço-temporal particular. No entanto, o Arconte existe em um estado dimensional diferente, e seu tamanho, suas dimensões, são tais que desafiam toda a compreensão dentro de uma perspectiva racional. Dito isto, o que pode ser milhões de anos e ciclos de tempo para o planeta e, do ponto de vista humano, a ideia humana do que é o tempo, não são nada para o Arconte. Da mesma forma que podemos ter momentos em que estamos mais ativos e momentos em que estamos descansando da atividade, da mesma forma que uma certa intensidade de vigília pode criar uma intensa necessidade de dormir, o Arconte segue tais ciclos também... de certa forma.
 
 다두 키 아 탄투스 우마누스 누 플라네타 누 모멘투, 에스치 에 데피니치바멘치 웅 모멘투 인텐수 파라 우 아르콘치, 마스 오비 오트루스 모멘투스 잉 키 엘리 프로제타 이 바이 알렝, 다 메즈마 포르마 키 포데무스 프로제타르 이 이르 알렝 쿠안두 도르미무스. 에스타 에 우마 이스플리카상 심플리스 잉 아우궁스 아스펙투스, 포이스 아 웅 그란지 모비멘투 이네르제치쿠 인보우비두 누 키 포데무스 누스 헤페리르 코무 데스칸수, 다 메즈마 포르마 키 아 웅 그란지 모비멘투 쿠안두 도르미무스, 마스 이스페루 키 보세 인텐다 아 이데이아.
+Dado que há tantos humanos no planeta no momento, este é definitivamente um momento intenso para o Arconte, mas houve outros momentos em que ele projeta e vai além, da mesma forma que podemos projetar e ir além quando dormimos. Esta é uma explicação simples em alguns aspectos, pois há um grande movimento energético envolvido no que podemos nos referir como descanso, da mesma forma que há um grande movimento quando dormimos, mas espero que você entenda a ideia.
 
 2. 에스타 에 우마 페르군타 인테레산치 이 키 이지지리아 마이스 페스키자 페이타 포르 웅 비덴치 파라 이스투다르 페소아스 아싱, 마스 코무 에사스 페소아스 제라우멘치 낭 텐뎅 아 세르 이네르제치카멘치 포데로자스 우 수피시엔치 파라 이스카파르 데스타 지멘상, 펠루 키 파레시, 에 마이스 프로바베우 키 아자 무이타스 팔랴스 나 소시오파치아 잉 웅 니베우 이네르제치쿠. 잉 우마 노타 페소아우, 지 미냐 프로프리아 비장, 노테이 키 에사스 페소아스 텐뎅 아 콤펜사르 (지 세르타 포르마) 아 이코노미아 지 이네르지아 잉 우마 세르타 아레아, 이스펠린두 우마 그란지 쿠안치다지 지 이네르지아 잉 오트라스 지레송이스. 포르 이젬플루, 우스 소시오파타스 텐뎅 아 세르 잉크리베우멘치 포카두스 잉 시 메즈무스, 우 키 시그니피카 키 쿠아우케르 이네르지아 키 이스탕 이코노미잔두 잉 우마 지레상, 이스탕 우잔두 무이투 마이스 인텐사멘치 아트라베스 지 수아 임프레시오난치 아우토임포르탄시아.
+2.  Esta é uma pergunta interessante e que exigiria mais pesquisa feita por um vidente para estudar pessoas assim, mas como essas pessoas geralmente não tendem a ser energeticamente poderosas o suficiente para escapar desta dimensão, pelo que parece, é mais provável que haja muitas falhas na sociopatia em um nível energético. Em uma nota pessoal, de minha própria visão, notei que essas pessoas tendem a compensar (de certa forma) a economia de energia em uma certa área, expelindo uma grande quantidade de energia em outras direções. Por exemplo, os sociopatas tendem a ser incrivelmente focados em si mesmos, o que significa que qualquer energia que estão economizando em uma direção, estão usando muito mais intensamente através de sua impressionante autoimportância.
 
 3. 포지 세르 키 보세 이스테자 세르투 잉 수스페이타르 지 타이스 코이자스, 노바멘치 테리아 키 인보우베르 우마 그란지 페스키자 포르 비덴치스, 자 키 세리스 낭 오르가니쿠스 포뎅 세르 바스탄치 잉가노주스, 인탕, 시 타이스 세리스 에랑 우마누스 오 시 이스탕 아페나스 멘친두 포르 웅 모치부 오 오트루, 에 아우구 키 프레시자리아 세르 베리피카두 아트라베스 다 비장.
+3.  Pode ser que você esteja certo em suspeitar de tais coisas, novamente teria que envolver uma grande pesquisa por videntes, já que seres não orgânicos podem ser bastante enganosos, então, se tais seres eram humanos ou se estão apenas mentindo por um motivo ou outro, é algo que precisaria ser verificado através da visão.
 
 4. 벵, 에스타 에 헤아우멘치 우마 페르군타 무이투 콤플레샤, 이 텡 아 베르 콩 아 피지카 이스파시아우, 시 팔라르무스 소브리 이수 지 웅 폰투 지 비스타 우마누 이 마이스 하시오나우. 우 키 이수 시그니피카 누 센치두 마이스 바지쿠 에 키 아 아트라상 지 웅 부라쿠 네그루 에 콘스탄치, 낭 임포르타 온지 보세 이스테자 잉 쿠아우케르 로카우 누 이스파수-템푸, 이수 에 아우구 키 엘리스 (피지쿠스) 프로바베우멘치 데스코브리랑 콩 우 템푸 (엘리스 프로바베우멘치 우 지비지랑 잉 도이스 치푸스 지 그라비다지 그라비다지 로카우 이 낭 로카우). 잉 오트라스 팔라브라스, 아 아우구 코무 두아스 콘스탄치스 그라비타시오나이스 우마 파레시 이스플리카르 아 제라우멘치 콘템플라다 하시오나우멘치, 온지 쿠안투 마이스 페르투 보세 셰가 지 웅 부라쿠 네그루, 마이스 포르치 파레시 아 아트라상 그라비타시오나우, 잉쿠안투 아 오트라 데자피아 우 이스파수-템푸 하시오나우 이 시그니피카 키, 낭 임포르타 온지 보세 이스테자 누 이스파수-템푸 덴트루 지 우마 조나 지멘시오나우 파르치쿨라르, 보세 이스타 헤세벤두 우마 아트라상 콘스탄치 다 싱굴라리다지, 이 투두 이수 텡 아 베르 콩 우 키 아고라 에 헤페리두 코무 마테리아 이스쿠라 이 아 마사 에스트라 누 우니베르수 키 우스 피지쿠스 아인다 낭 콘세기랑 인텐데르 콤플레타멘치... 넹 콘세기랑 탕 세두, 데부 아크레센타르.
+4.  Bem, esta é realmente uma pergunta muito complexa, e tem a ver com a física espacial, se falarmos sobre isso de um ponto de vista humano e mais racional. O que isso significa no sentido mais básico é que a atração de um buraco negro é constante, não importa onde você esteja em qualquer local no espaço-tempo, isso é algo que eles (físicos) provavelmente descobrirão com o tempo (eles provavelmente o dividirão em dois tipos de gravidade; gravidade local e não local). Em outras palavras, há algo como duas constantes gravitacionais; uma parece explicar a geralmente contemplada racionalmente, onde quanto mais perto você chega de um buraco negro, mais forte parece a atração gravitacional, enquanto a outra desafia o espaço-tempo racional e significa que, não importa onde você esteja no espaço-tempo dentro de uma zona dimensional particular, você está recebendo uma atração constante da singularidade, e tudo isso tem a ver com o que agora é referido como matéria escura e a massa extra no universo que os físicos ainda não conseguiram entender completamente... nem conseguirão tão cedo, devo acrescentar.
 
 마스 팔란두 잉 테르무스 제라이스, 포르 키 이우 지시 키 세르투스 인지비두스 타우베스 눙카 이스카펭 두 소우 네그루 에 포르키 에사 세군다 콘스탄치 셈프리 우스 아트라이라, 이 낭 임포르타 쿠안투 템푸 레비, 낭 임포르타 쿠안투 템푸 포상 비베르 헬라치바멘치 팔란두, 셰가라 웅 모멘투 잉 키 세랑 푸샤두스 파라 우 소우 네그루, 아 메누스 키 세장 카파지스 지 아반도나르 세르타스 노송이스 프레콘세비다스 소브리 이네르지아 이 아프렌데르 아 트라발랴르 콩 아 이네르지아 알렝 데사스 헤스트리송이스, 아스 쿠아이스 포뎅 시 헤페리르 코무 세르투스 아스펙투스 다 인지비두알리다지. 지 세르타 포르마, 보세 포데리아 지제르 키 에스타 페르군타 시 헬라시오나 콩 수아 페르군타 소브리 소시오파타스.
+Mas falando em termos gerais, por que eu disse que certos indivíduos talvez nunca escapem do Sol Negro é porque essa segunda constante sempre os atrairá, e não importa quanto tempo leve, não importa quanto tempo possam viver relativamente falando, chegará um momento em que serão puxados para o Sol Negro, a menos que sejam capazes de abandonar certas noções preconcebidas sobre energia e aprender a trabalhar com a energia além dessas restrições, às quais podem se referir como certos aspectos da individualidade. De certa forma, você poderia dizer que esta pergunta se relaciona com sua pergunta sobre sociopatas.
 
 5. 아 헤스포스타 파라 에스타 페르군타 테리아 키 세르 낭, 이 싱. 임보라 세자 우 카주 키 우 잉콘시엔치 텡 아세수 지레투 아스 인포르마송이스 지 토다스 아스 잉카르나송이스, 에사스 잉카르나송이스 낭 파상 펠루 소우 네그루 파라 세르 우마, 이 데포이스 오트라 잉카르나상. 잉 베스 지수, 상 크리아다스 펠라 수페라우마 시무우타네아멘치 토다스 아스 잉카르나송이스 이스탕 아키-아고라 코노스쿠 네스타 지멘상. 낭 포데무스 베르 에사스 헤알리다지스 아우테르나치바스 이 지페렌치스 리냐스 두 템푸, 마스 엘라스 이스탕 아키-아고라 코노스쿠. 시 보세 펜사르 잉 카다 잉카르나상 코무 센두 웅 데두 지 우마 망 다 수페라우마, 인탕 보세 포지 베르 코무 아 인포르마상 (바무스 지제르) 포지 이르 다 폰타 두 데두 파라 아 망 이 파라 오트루 데두 셍 테르 키 파사르 펠루 소우 네그루. 카다 잉카르나상 에 시무우타네아 이, 포르탄투, 토다스 이지스텡 아고라, 낭 아 모르치 파라 아 잉카르나상, 이수 에 우마 일루장 두 이스파수-템푸 하시오나우. 투두 에 아고라, 이 메즈무 키 카다 잉카르나상 인프렌치 우 소우 네그루 콩 우 템푸, 이수 시 토르나라 우마 조르나다 인지비두아우, 이 지 세르타 포르마, 보세 포데리아 지제르 키 낭 테라 네뉴마 헬라상 헤아우 콩 아스 오트라스 잉카르나송이스, 키 노바멘치 상 시무우타네아스.
+5.  A resposta para esta pergunta teria que ser não, e sim. Embora seja o caso que o inconsciente tem acesso direto às informações de todas as encarnações, essas encarnações não passam pelo Sol Negro para ser uma, e depois outra encarnação. Em vez disso, são criadas pela superalma simultaneamente; todas as encarnações estão aqui-agora conosco nesta dimensão. Não podemos ver essas realidades alternativas e diferentes linhas do tempo, mas elas estão aqui-agora conosco. Se você pensar em cada encarnação como sendo um dedo de uma mão da superalma, então você pode ver como a informação (vamos dizer) pode ir da ponta do dedo para a mão e para outro dedo sem ter que passar pelo Sol Negro. Cada encarnação é simultânea e, portanto, todas existem agora, não há morte para a encarnação, isso é uma ilusão do espaço-tempo racional. Tudo é agora, e mesmo que cada encarnação enfrente o Sol Negro com o tempo, isso se tornará uma jornada individual, e de certa forma, você poderia dizer que não terá nenhuma relação real com as outras encarnações, que novamente são simultâneas.
 
 6. 벵, 세르타멘치 아 루아 포데리아 세르 이스펠리다, 이 콩 우 템푸 포데무스 데젠보우베르 우마 시빌리자상 포데로자 우 수피시엔치 파라 잉카프술라르 토두 우 소우 이 콘세기르 우자르 토다 아 수아 이네르지아, 이수 탐벵 에 테오리카멘치 포시베우, 이우 아크레지투. 마스 투두 우 키 이우 테리아 아 지제르 소브리 이수 에: 보 아크레지타르 쿠안두 베르, 시 보세 인텐지 우 키 케루 지제르.
+6.  Bem, certamente a lua poderia ser expelida, e com o tempo podemos desenvolver uma civilização poderosa o suficiente para encapsular todo o sol e conseguir usar toda a sua energia, isso também é teoricamente possível, eu acredito. Mas tudo o que eu teria a dizer sobre isso é: vou acreditar quando ver, se você entende o que quero dizer.
 
+---
 ---
 
 **크: 코무 보세 이비타 아스 아르마질랴스 두 아르콘치? 코무 포수 지페렌시아르 엔트리 미냐스 프로제송이스 페소아이스 이 아켈라스 키 상 임플란타다스 펠루 아르콘치? 코무 지페렌시아르 엔트리 메우스 펜사멘투스 이 우스 펜사멘투스 두 아르콘치?**
+**Q: Como você evita as armadilhas do Arconte? Como posso diferenciar entre minhas projeções pessoais e aquelas que são implantadas pelo Arconte? Como diferenciar entre meus pensamentos e os pensamentos do Arconte?**
 
 아: 파라 우스 아우키미스타스 인테르누스, 우 우니쿠 카미뉴 누 피나우 파라 코녜세르 우 '베르다데이루 이우' 시 헤주미 아 도이스 메토두스:
+A: Para os alquimistas internos, o único caminho no final para conhecer o 'verdadeiro eu' se resume a dois métodos:
 
 1. 아프렌데르 아 베르 우자르 우스 센치두스 인테르누스, 페르세베르 아 이네르지아 지레타멘치. 소브리 우 쿠아우 팔루 잉 리브루스 코무 _아 이스페리엔시아 오쿠우타_ 오 멜료르 아인다 _우 마그눙 오푸스_.
+1.  Aprender a ver; usar os sentidos internos, perceber a energia diretamente. Sobre o qual falo em livros como _A Experiência Oculta_ ou melhor ainda _O Magnum Opus_.
 
 2. 아프렌데르 아 프로제타르, 우 키 이우 지스쿠투 잉 _우 카미뉴 두 프로제치스타_ 오 _이스페리엔시아스 포라 두 코르푸, 하피다멘치 이 나투라우멘치_. 아 우니카 마네이라 지 잉콘트라르 우 베르다데이루 이우, 아 베르다데이라 프시키 알렝 두 아르콘치, 에 프로제타르-시 우 수피시엔치 파라 론지 데스타 지멘상 파라 키 보세 세자 카파스 지 베르/센치르 아스 세파라송이스 엔트리 우 이우 콘시엔치, 우 판타즈마 이 우 잉콘시엔치. 포르 에사 하장 (엔트리 무이타스 오트라스) 프로제타르-시 에 푼다멘타우 파라 우 아우키미스타 인테르누.
+2.  Aprender a projetar, o que eu discuto em _O Caminho do Projetista_ ou _Experiências Fora do Corpo, Rapidamente e Naturalmente_. A única maneira de encontrar o verdadeiro eu, a verdadeira psique além do Arconte, é projetar-se o suficiente para longe desta dimensão para que você seja capaz de ver/sentir as separações entre o eu consciente, o fantasma e o inconsciente. Por essa razão (entre muitas outras) projetar-se é fundamental para o alquimista interno.
 
 파라 아우겡 키 아인다 이스타 아프렌덴두 아 베르 오 아 프로제타르, 토르나-시 웅 조구 지 인트로스펙상 페소아우 아 메지다 키 보세 텐타 세파라르 세우스 소뉴스 (잉콘시엔치) 다 파르치 지 보세 키 이스타 데스페르타 파라 시 메즈마 (우 판타즈마) 콩 아켈라 파르치 헤아시오나리아 지 보세 키 아지/펜사 지 마네이라 콜레치바 (우 이우 콘시엔치). 낭 에 우마 타레파 파시우 잉콘트라르 온지 보세 이스타 이 온지 우 아르콘치 이스타, 마스 아 우니카 코이자 키 포데무스 파제르, 우마 베스 키 아코르다무스 파라 아 파르치 데스페르타 지 노스, 아 파르치 키 지스 키 이스타무스 아키/아고라 (우 판타즈마 나 마키나), 에 텐타르 잉콘트라르 에사 프론테이라, 포르 마이스 네불로자 키 세자. 인탕, 콘치누이 텐탄두 지페렌시아르 지 우마 포르마 프시콜로지카, 아테 키 보세 포사 베르 멜료르 오 프로제타르 웅 포쿠 마이스 프로푼다멘치.
+Para alguém que ainda está aprendendo a ver ou a projetar, torna-se um jogo de introspecção pessoal à medida que você tenta separar seus sonhos (inconsciente) da parte de você que está desperta para si mesma (o fantasma) com aquela parte reacionária de você que age/pensa de maneira coletiva (o eu consciente). Não é uma tarefa fácil encontrar onde você está e onde o Arconte está, mas a única coisa que podemos fazer, uma vez que acordamos para a parte desperta de nós, a parte que diz que estamos aqui/agora (o fantasma na máquina), é tentar encontrar essa fronteira, por mais nebulosa que seja. Então, continue tentando diferenciar de uma forma psicológica, até que você possa ver melhor ou projetar um pouco mais profundamente.
 
+---
 ---
 
 **크: 이지스텡 오트루스 노메스 파라 우 아르콘치?**
+**Q: Existem outros nomes para o Arconte?**
 
 아: 이우 제라우멘치 텐테이 이비타르 이수, 포이스 나 미냐 오피니앙 텐지 아 세르 우마 오피니앙 도그마치카 이 수브제치바, 이 이우 프레페리리아 키 아스 페소아스 아프렌데셍 아 베르 이 프로제타르, 파라 키 푸데셍 데스코브리르 수아 프로프리아 베르다지, 리브리 지 쿠아이스케르 테르무스 우자두스, 포이스 에스치스 포뎅 투르바르 수아스 페르세프송이스. 팔란두 잉 테르무스 제라이스, 포렝, 보세 포데리아 헤페렌시아르 무이투스 두스 오트루스 노메스 우자두스 펠루스 안치구스 그노스치쿠스, 코무 데미우르구, 아르콘치스 (누 플루라우), 비질란치스, 이트크.
+A: Eu geralmente tentei evitar isso, pois na minha opinião tende a ser uma opinião dogmática e subjetiva, e eu preferiria que as pessoas aprendessem a ver e projetar, para que pudessem descobrir sua própria verdade, livre de quaisquer termos usados, pois estes podem turvar suas percepções. Falando em termos gerais, porém, você poderia referenciar muitos dos outros nomes usados pelos antigos Gnósticos, como demiurgo, Arcontes (no plural), vigilantes, etc.
 
 누 인탄투, 이우 미 아파스타리아 지 인테르프레타송이스 마이스 헤센치스 키 포뎅 잉클루이르 아테 노메스 코무 "우 지아부", 포르키 누 피나우 에사스 텐뎅 아 세르 바스탄치 폴라리자다스, 시그니피칸두 키 상 데스크리토리스 키 포랑 세파라두스 도그마치카멘치 펠루 키 "우 문두 모데르누" 데피니 코무 봉 오 후잉, 우 키 포지, 잉 이센시아, 세르 폴라리다지스 크리아다스 펠루 프로프리우 아르콘치.
+No entanto, eu me afastaria de interpretações mais recentes que podem incluir até nomes como "o diabo", porque no final essas tendem a ser bastante polarizadas, significando que são descritores que foram separados dogmaticamente pelo que "o mundo moderno" define como bom ou ruim, o que pode, em essência, ser polaridades criadas pelo próprio Arconte.
 
+---
 ---
 
 **크: 토두스 우스 세리스 낭 오르가니쿠스 프레다토리우스 상 우 아르콘치? 이 시 엘리스 상 세파라두스, 우 아르콘치 탐벵 시 알리멘타 델리스?**
+**Q: Todos os Seres Não Orgânicos Predatórios são o Arconte? E se eles são separados, o Arconte também se alimenta deles?**
 
 아: 에스타 에 우마 페르군타 무이투 지피시우 지 헤스폰데르 심플레즈멘치, 마스 팔란두 잉 테르무스 제라이스, 두 폰투 지 비스타 다 노사 페르세프상 데사스 인치다지스 낭 오르가니카스, 우스 프노브스 상, 나 마이오르 파르치, 세파라두스 두 아르콘치.
+A: Esta é uma pergunta muito difícil de responder simplesmente, mas falando em termos gerais, do ponto de vista da nossa percepção dessas entidades não orgânicas, os PNOBs são, na maior parte, separados do Arconte.
 
 임보라 세자 우 카주 지 키 우 '오스페데이루' 두 아르콘치 상 '레지앙' 이 엘리스/엘리 이스탕/이스타 이스팔랴두스 포르 에스치 문두 우마누 콩 우마 덴시다지 타우 키 상 코무 우마 누벵 키 인보우비 투두, 아켈리스 세리스 키 제라우멘치 이덴치피카무스 코무 포르마스 지 비다 낭 오르가니카스 프레다토리아스 인지비두아이스, 제라우멘치 상 오트라스 비다스 이지스친두 아우 라두 두 아르콘치 이 콤페친두 포르 헤쿠르수스 세멜랸치스 잉 아우구마스 오카지옹이스, 잉쿠안투 잉 오트라스 오카지옹이스 에시스 프노브스 마이스 인지비두아이스 이 세파라두스 텐뎅 아 코비사르 이 부스카르 웅 알리멘투 이네르제치쿠 마이스 헤피나두, 키 나 마이오르 파르치 다스 베지스 우 오스페데이루 두 아르콘치 낭 텡 인테레시.
+Embora seja o caso de que o 'Hospedeiro' do Arconte são 'Legião' e eles/ele estão/está espalhados por este mundo humano com uma densidade tal que são como uma nuvem que envolve tudo, aqueles seres que geralmente identificamos como formas de vida não orgânicas predatórias individuais, geralmente são outras vidas existindo ao lado do Arconte e competindo por recursos semelhantes em algumas ocasiões, enquanto em outras ocasiões esses PNOBs mais individuais e separados tendem a cobiçar e buscar um alimento energético mais refinado, que na maior parte das vezes o Hospedeiro do Arconte não tem interesse.
 
 우 아르콘치 낭 시 알리멘타 데사스 오트라스 포르마스 지 비다 낭 오르가니카스 프레다토리아스. 임보라 무이타스 데사스 오트라스 포르마스 지 비다 낭 오르가니카스 이스치베셍 아키 안치스 두 아르콘치, 지가무스, 엘라스 아고라 이스타벨레세랑 우마 이스페시 지 헬라상 심비오치카 무이투 세멜랸치 아 지 웅 투바랑 이 웅 페이시 헤모라, 지가무스... 마스 낭 이자타멘치, 센두 키, 네스치 카주, 세리스 낭 오르가니쿠스, 아우 콘트라리우 두 헤모라, 텡 아 카파시다지 지 데이샤르 파라 트라스 우 투바랑 이 이스플로라르 오트라스 파르치스 두 오세아누 잉 세르타스 오카지옹이스, 오트라스 제오그라피아스 키 우 아르콘치 낭 콘세기 아세사르.
+O Arconte não se alimenta dessas outras formas de vida não orgânicas predatórias. Embora muitas dessas outras formas de vida não orgânicas estivessem aqui antes do Arconte, digamos, elas agora estabeleceram uma espécie de relação simbiótica muito semelhante à de um tubarão e um peixe rémora, digamos... mas não exatamente, sendo que, neste caso, seres não orgânicos, ao contrário do rémora, têm a capacidade de deixar para trás o tubarão e explorar outras partes do oceano em certas ocasiões, outras geografias que o Arconte não consegue acessar.
 
+---
 ---
 
 **크: 우 아르콘치 아페타 아켈리스 키 비벵 포라 두 문두 우마누 노르마우, 코무 크리안사스 세우바젱스 키 비벵 수아스 비다스 인테이라스 나 나투레자 오 아스 시빌리자송이스 다 테하 인테리오르?**
+**Q: O Arconte afeta aqueles que vivem fora do mundo humano normal, como crianças selvagens que vivem suas vidas inteiras na natureza ou as civilizações da Terra interior?**
 
 아: 우 아르콘치 텡 아 카파시다지 지 아페타르 토다 아 콘시엔시아 키 에 카파스 지 콘테르, 잉 마이오르 오 메노르 그라우, 세우 이우 콘시엔치, 덴트루 두스 파라메트루스 두 키 샤마무스 지 지멘상 트리지멘시오나우 다 테하. 우 쿠안투 엘리 에 카파스 지 아페타르 에사 콘시엔시아 데펜지 지 무이투스 파토리스 누 카주 지 우마 크리안사 세우바젱, 지가무스, 에시 이우 콘시엔치 포지 낭 이스타르 탕 프로푼다멘치 인하이자두 잉 아우궁스 아스펙투스, 자 키 아 크리안사 낭 파스 파르치 두 키 샤마무스 지 시빌리자상, 마스 포지 테르 웅 포쿠 무이투 마이오르 두 이우 콘시엔치 잉 오트라스 아레아스 지 수아 프시콜로지아. 엘라 포지 낭 테르 우 메즈무 치푸 지 크렌사 이스트루투라우 소브리 세르투스 아스펙투스 두 문두 트리지멘시오나우, 이 포르 에사 하장, 포지 테르 무이투 마이스 마르젱 지 마노브라, 오 리베르다지, 덴트루 데스타 지멘상. 마스, 센두 키 우 이우 콘시엔치 세라 우마 파르치 지 수아 프시키 제라우, 타우 리베르다지 포지 무이타스 베지스 시 마니페스타르 코무 우마 이스페시 지 프시코지.
+A: O Arconte tem a capacidade de afetar toda a consciência que é capaz de conter, em maior ou menor grau, seu eu consciente, dentro dos parâmetros do que chamamos de dimensão tridimensional da Terra. O quanto ele é capaz de afetar essa consciência depende de muitos fatores; no caso de uma criança selvagem, digamos, esse eu consciente pode não estar tão profundamente enraizado em alguns aspectos, já que a criança não faz parte do que chamamos de civilização, mas pode ter um foco muito maior do eu consciente em outras áreas de sua psicologia. Ela pode não ter o mesmo tipo de crença estrutural sobre certos aspectos do mundo tridimensional, e por essa razão, pode ter muito mais margem de manobra, ou liberdade, dentro desta dimensão. Mas, sendo que o eu consciente será uma parte de sua psique geral, tal liberdade pode muitas vezes se manifestar como uma espécie de psicose.
 
+---
 ---
 
 **크: 잉 웅 아르치구 키 이스크레비, '아 루타 이스타 잉 노스', 아우겡 이스크레베우 에스타 아피르마상:**
+**Q: Em um artigo que escrevi, 'A luta está em nós', alguém escreveu esta afirmação:**
 
 **낭 아 루타. 낭 아 덴트루 이 포라.**
+**Não há luta. Não há dentro e fora.**
 
 아: 에스치 에 웅 폰투 무이투 봉, 시 타우 폰투 비에르 지 우마 포르마 지 베르 페소아우 잉 오포지상 아우 도그마 아투아우 두 지아. 이우 이스토 콘스탄테멘치 지젠두 아스 페소아스 아 메즈마 코이자, 파라 세르 마이스 프레시주, 이스토 지젠두 키 이르 파라 덴트루 에 이르 파라 포라, 자 키 낭 아 우마 베르다데이라 프론테이라 엔트리 웅 오 오트루, 이 키 암부스 상 우마 일루장... 지 세르타 포르마.
+A: Este é um ponto muito bom, se tal ponto vier de uma forma de ver pessoal em oposição ao dogma atual do dia. Eu estou constantemente dizendo às pessoas a mesma coisa, para ser mais preciso, estou dizendo que ir para dentro é ir para fora, já que não há uma verdadeira fronteira entre um ou outro, e que ambos são uma ilusão... de certa forma.
 
 마스, 아 웅 템푸 파라 인텐데르 우스 아스펙투스 메타피지쿠스 다 헤알리다지 이 코무 에 키 크리아무스 우마 이스페시 지 일루장 아트라베스 지 노사 프로프리아 데펜덴시아 두스 센치두스 이스테르누스 이 두 폰투 지 비스타 하시오나우, 이 인탕 아 웅 템푸 파라 아지르, 웅 템푸 파라 '아상 인테르나'!
+Mas, há um tempo para entender os aspectos metafísicos da realidade e como é que criamos uma espécie de ilusão através de nossa própria dependência dos sentidos externos e do ponto de vista racional, e então há um tempo para agir, um tempo para 'ação interna'!
 
 포르탄투, 아 웅 템푸 파라 아 포에지아 이 아 벨레자 키 에사 포에지아 에 카파스 지 트라제르 아 토나, 이 아 아빌리다지 데사 포에지아 지 페르미치르 키 아 멘치 헤스트리타 바 알렝 지 세우스 리미치스, 지 시 센치르 세구라 이 프로테지다 잉 낭 파제르 나다 이 아페나스 페르미치르 키 우 문두 시가 세우 쿠르수... 이 웅 템푸 파라 파제르 이 아지르 네스치 문두 이 누스 무이투스 문두스 지스포니베이스 파라 노스.
+Portanto, há um tempo para a poesia e a beleza que essa poesia é capaz de trazer à tona, e a habilidade dessa poesia de permitir que a mente restrita vá além de seus limites, de se sentir segura e protegida em não fazer nada e apenas permitir que o mundo siga seu curso... e um tempo para fazer e agir neste mundo e nos muitos mundos disponíveis para nós.
 
 파라 아지르 (시 보세 데제자 아지르, 아우 인베스 지 세르 레바두 펠라 마레 두 문두, 코무 아우궁스 텡 우 지레이투 지 이스콜례르 '파제르' 우 파제르 지 낭 파제르 나다), 펠루 메누스 파라 키 이우 포사 데피니르 테크니카스 키 페르미탕 아 아우겡 아지르, 파르치시파르 지 쿠아우케르 치푸 지 아상 (세자 보세 케렌두 데피니르 코무 인테리오르 오 이스테리오르), 이우 프레시주 데피니르 이 헤피나르 아스 포시빌리다지스 지스포니베이스 아우스 세리스 우마누스 우잔두 쿠아이스케르 카테고리아스 이 테르무스 키 이우 포사. 프레시주 데피니르 코무 우자르 멜료르 에사스 아빌리다지스 이네렌치스, 마스 아도르메시다스, 덴트루 지 토두스 파라 이르 알렝, 파라 시 모베르, 파라 헤아우멘치 포데르 '베르' 지 마네이라 지레타, 파라 파제르. 이 데사 마네이라, 엘리스 페르세베렝 포르 시 메즈무스 코무 에 키 우 인테리오르 이 우 이스테리오르 상 우마 일루장... 낭 아페나스 팔라브라스 보니타스, 마스 우마 베르다지 이네르제치카 헤아우 파라 엘리스.
+Para agir (se você deseja agir, ao invés de ser levado pela maré do mundo, como alguns têm o direito de escolher 'fazer'; o fazer de não fazer nada), pelo menos para que eu possa definir técnicas que permitam a alguém agir, participar de qualquer tipo de ação (seja você querendo definir como interior ou exterior), eu preciso definir e refinar as possibilidades disponíveis aos seres humanos usando quaisquer categorias e termos que eu possa. Preciso definir como usar melhor essas habilidades inerentes, mas adormecidas, dentro de todos para ir além, para se mover, para realmente poder 'ver' de maneira direta, para fazer. E dessa maneira, eles perceberem por si mesmos como é que o interior e o exterior são uma ilusão... não apenas palavras bonitas, mas uma verdade energética real para eles.
 
 잉 오트라스 팔라브라스, 웅 모두 파라 키 웅 인지비두 베자 에사스 헤알리다지스 (코무 아 일루장 두 인테리오르 이 이스테리오르) 낭 아페나스 코무 도그마, 낭 아페나스 코무 팔라브라스 잉 우마 파지나, 마스 코무 코이자스 헤아이스, 코이자스 헤아이스 파라 키 코녜상 지레타멘치 코무 인지비두스, 낭 아페나스 코무 인텔렉투아이스 시탄두 우 키 레랑 잉 아우궁 리브루.
+Em outras palavras, um modo para que um indivíduo veja essas realidades (como a ilusão do interior e exterior) não apenas como dogma, não apenas como palavras em uma página, mas como coisas reais, coisas reais para que conheçam diretamente como indivíduos, não apenas como intelectuais citando o que leram em algum livro.
 
 이 아 우니카 마네이라 지 세르 카파스 지 파제르 이수 에 트라발랴르 이 데피니르 (이스플리카르) 아 테크니카, 이 아 우니카 마네이라 지 파제르 이수 에, 아스 베지스, 우자르 데피니송이스 로지카스 이 아테 세르투 폰투 하시오나이스 키 포상 페르미치르 키 아 아텐상 두 인지비두 아반시, 우 키 에, 나 베르다지, 웅 모비멘투 잉 토다스 아스 지레송이스 시무우타네아멘치 (인테리오르 이 이스테리오르 시무우타네아멘치). 이 에사스 지레송이스 낭 이스탕 덴트루 오 포라, 포르키 아테 메즈무 이수 에, 잉 시, 우마 일루장. 인탕, 우 모비멘투, 포르탄투, 헤케르 아상, 이 아 아상, 키 에 우 베르다데이루 파제르 (우 우니쿠 '모비멘투' 지 리브리 아르비트리우 지 우마 인지비두알리다지 루시다), 소 포지 코메사르 콩 아 데피니상 지 테크니카스 잉 지레상 아 아상.
+E a única maneira de ser capaz de fazer isso é trabalhar e definir (explicar) a técnica, e a única maneira de fazer isso é, às vezes, usar definições lógicas e até certo ponto racionais que possam permitir que a atenção do indivíduo avance, o que é, na verdade, um movimento em todas as direções simultaneamente (interior e exterior simultaneamente). E essas direções não estão dentro ou fora, porque até mesmo isso é, em si, uma ilusão. Então, o movimento, portanto, requer ação, e a ação, que é o verdadeiro fazer (o único 'movimento' de livre arbítrio de uma individualidade lúcida), só pode começar com a definição de técnicas em direção à ação.
 
 아 인지비두알리다지 루시다 에 웅 폰투 무이투 임포르탄치 아키.
+A individualidade lúcida é um ponto muito importante aqui.
 
 쿠안투 아 낭 아베르 우마 루타, 벵, 에시 에 우 세우 지레이투 인지비두아우 지 아크레지타르 지 우마 포르마 오 지 오트라. 시 보세 센치 키 우 문두 에 페르페이투 파라 보세 코무 인지비두, 이 이스타 아반산두 나 지레상 키 보세 아샤 멜료르, 인탕 낭 아 나다 파라 보세 파제르, 보세 포지 아페나스 플루투아르 이 세르 켕 보세 에.
+Quanto a não haver uma luta, bem, esse é o seu direito individual de acreditar de uma forma ou de outra. Se você sente que o mundo é perfeito para você como indivíduo, e está avançando na direção que você acha melhor, então não há nada para você fazer, você pode apenas flutuar e ser quem você é.
 
 이우 낭 아크레지투 코무 보세, 시구 우 카미뉴 다 아우키미아 인테리오르, 키 에 우 포쿠 프린시파우 두 메우 트라발류, 이 부스쿠 웅 헤주우타두 이스페시피쿠, 웅 헤주우타두 루시두, 우마 이스콜랴 콘시엔테멘치 데제자다, 아싱, 아 아상 파라 밍, 이 타우 타레파 파라 노스, 루타도리스, 에 멜료르 비스타 코무 웅 임프렌지멘투 이스트라테지쿠, 코무 웅 파수 콘시엔테멘치 데시지두 후무 아 우마 메타 콘시엔테멘치 데제자다. 우 카미뉴 다 아우키미아 인테리오르 에 우 모비멘투 루시두. 이 에시 모비멘투, 포르키 이스타무스 리가두스 아 그라비다지 데스치 문두, 에 아 루타 두 루타도르.
+Eu não acredito como você, sigo o caminho da alquimia interior, que é o foco principal do meu trabalho, e busco um resultado específico, um resultado lúcido, uma escolha conscientemente desejada, assim, há ação para mim, e tal tarefa para nós, lutadores, é melhor vista como um empreendimento estratégico, como um passo conscientemente decidido rumo a uma meta conscientemente desejada. O caminho da alquimia interior é o movimento lúcido. E esse movimento, porque estamos ligados à gravidade deste mundo, é a luta do lutador.
 
+---
 ---
 
 **크: 코무 이니시아무스 에시 모비멘투 후무 아 리베르다지? 이 코무 콘치누아무스?**
+**Q: Como iniciamos esse movimento rumo à liberdade? E como continuamos?**
 
 아: 에 아 크렌사 두스 아우키미스타스 인테리오리스, 키 아 베르다데이라 콘시엔시아 인지비두아우 코메사 이 테르미나 콩 우 모비멘투 콘시엔치, 우 모비멘투 루시두. 셍 모비멘투 루시두, 보세 에 아페나스 우마 홀랴 플루투안두 잉 웅 마르 템페스투오주, 이 잉쿠안투 아우궁스 포상 아샤르 타우 데스치누 바스탄치 아트라엔치, 우 키 텡 토두 우 지레이투 지 테르, 아우 이스콜례르 낭 이스콜례르, 에사 이스콜랴 파르치쿨라르 낭 에 우 카미뉴 두 아우키미스타 인테리오르.
+A: É a crença dos alquimistas interiores, que a verdadeira consciência individual começa e termina com o movimento consciente, o movimento lúcido. Sem movimento lúcido, você é apenas uma rolha flutuando em um mar tempestuoso, e enquanto alguns possam achar tal destino bastante atraente, o que têm todo o direito de ter, ao escolher não escolher, essa escolha particular não é o caminho do alquimista interior.
 
 쿠안두 아우겡 시 인보우비 잉 타우 모비멘투 루시두, 타우 아상 인테르나 포지, 콩 우 템푸, 페르미치르 키 베장 우 인피니투, 이 아 비장 데시 인피니투 에 탄투 잉카우쿨라베우멘치 솔리타리아 쿠안투 지 아우구마 포르마 프로푼다멘치 멜랑콜리카 지 우마 마네이라 지피시우 지 데피니르, 이 아 코이자 마이스 벨라 이마지나베우. 레보-미 무이투 템푸 파라 페르세베르 키 에사 이스트라냐 트리스테자 멜랑콜리카 낭 벵 다 솔리당, 마스 벵 두 포데르 아바살라도르 지 비즐룸브라르 타우 벨레자 이나크레지타베우: 우 인피니투 에 아 코이자 마이스 벨라 키 웅 세르 우마누 포지 테스테무냐르!!
+Quando alguém se envolve em tal movimento lúcido, tal ação interna pode, com o tempo, permitir que vejam o infinito, e a visão desse infinito é tanto incalculavelmente solitária quanto de alguma forma profundamente melancólica de uma maneira difícil de definir, e a coisa mais bela imaginável. Levou-me muito tempo para perceber que essa estranha tristeza melancólica não vem da solidão, mas vem do poder avassalador de vislumbrar tal beleza inacreditável: o infinito é a coisa mais bela que um ser humano pode testemunhar!!
 
 에 에사 벨레자, 에사 잉카파시다지 지 '리다르' 콩 아 벨레자 두 인피니투, 키 노스, 우마누스, 이스페리멘타무스 코무 솔리당, 코무 우마 도르 이스트라냐 누 센트루 두 노수 세르, 코무 우마 멜랑콜리아 알렝 다 하장 이 다 이스페란사.
+É essa beleza, essa incapacidade de 'lidar' com a beleza do infinito, que nós, humanos, experimentamos como solidão, como uma dor estranha no centro do nosso ser, como uma melancolia além da razão e da esperança.
 
 쿠안두 아 벨레자 아브솔루타 다 이테르니다지 시 토르나 데마이스 파라 우 루타도르, 우 키 엘리 데비 파제르 에 아우구 아 키 미 헤피루 코무 우자르 우 세우 로구스 페소아우. 엘리스 파젱 이수 크리안두 파라 시 메즈무스 네시 인피니투, 우마 살라, 우마 이스트루투라 지 수아 프로프리아 크리아상, 우마 이스트루투라 키 에 보아 이 사우다베우 파라 엘리스, 이 시 콜로캉 라 이 이지스텡 네시 루가르 포르 웅 템푸, 아테 키 우 포데르 이 아 벨레자 푸루스 두 인피니투 낭 시 신탕 마이스 탕 아바살라도리스 파라 엘리스.
+Quando a beleza absoluta da eternidade se torna demais para o lutador, o que ele deve fazer é algo a que me refiro como usar o seu Logos pessoal. Eles fazem isso criando para si mesmos nesse infinito, uma sala, uma estrutura de sua própria criação, uma estrutura que é boa e saudável para eles, e se colocam lá e existem nesse lugar por um tempo, até que o poder e a beleza puros do infinito não se sintam mais tão avassaladores para eles.
 
 네사 살라 사우다베우, 웅 루타도르, 포르 이젬플루, 포지 이자미나르 우마 호자 오 아우궁 오브제투 심플리스 이 보니투, 이 네사 크리아상 이스트루투라우 인테르나, 아우 시 인보우베르 네사 아상 심플리스, 데스코브리르 수아 인지비두알리다지 이 세우 포데르 노바멘치. 이 시 타우 루타도르 아인다 이스치베르 리가두 아 지멘상 피지카, 타우 루타도르 탐벵 포지 데제자르 아브리르 우스 올류스 이 사이르 파라 베르 우마 플로르 '헤아우' 데포이스 키 에스치 이제르시시우 테르미나르, 이 콘템플라르 (센치르 프로푼다멘치 덴트루 지 시) 아 지페렌사 엔트리 에사 플로르 인테리오르 이 아 이스테리오르.
+Nessa sala saudável, um lutador, por exemplo, pode examinar uma rosa ou algum objeto simples e bonito, e nessa criação estrutural interna, ao se envolver nessa ação simples, descobrir sua individualidade e seu poder novamente. E se tal lutador ainda estiver ligado à dimensão física, tal lutador também pode desejar abrir os olhos e sair para ver uma flor 'real' depois que este exercício terminar, e contemplar (sentir profundamente dentro de si) a diferença entre essa flor interior e a exterior.
 
 타우 이제르시시우 포지 페르미치르 키 웅 루타도르 헤쿠페리 수아스 포르사스 이 콘치누이.
+Tal exercício pode permitir que um lutador recupere suas forças e continue.
 
+---
 ---
 
 **크: 우 마테리아우 키 보세 인시나 에 세멜랸치 오 우 메즈무 키 우 타오이즈무? 텡 아우구마 헬라상 콩 우스 '트레스 테조루스 두 시', 포르 이젬플루?**
+**Q: O material que você ensina é semelhante ou o mesmo que o Taoísmo? Tem alguma relação com os 'três tesouros do chi', por exemplo?**
 
 아: 자 미 피제랑 에사 페르군타 안치스 이 포수 데피니치바멘치 베르 우 폰투 지 비스타 지 토두스, 지 키 아 아우구마스 세멜랸사스 엔트리 우 키 이스토 팔란두 이 우 타오이즈무. 우 키 이우 지시, 포렝, 에 키 에사스 세멜랸사스 상 아페나스 지 나투레자 도그마치카. 이수 오코히 포르키 이우 포데리아 우자르 오트루스 시스테마스 파라 이스플리카르 폰투스 지 비스타 세멜랸치스. 포르 이젬플루, 이우 포데리아 우자르 우 시스테마 요기쿠 콩 세우스 세치 샤크라스 파라 텐타르 이스플리카르 우 치푸 지 트라발류 이네르제치쿠 키 우스 아우키미스타스 인테리오리스 헤알리장, 이 데사 마네이라 우자르 앙굴루스 지페렌치스 파라 텐타르 파제르 우 메즈무 폰투 소브리 아 나투레자 두 모비멘투 인테르누 두 아우키미스타.
+A: Já me fizeram essa pergunta antes e posso definitivamente ver o ponto de vista de todos, de que há algumas semelhanças entre o que estou falando e o Taoísmo. O que eu disse, porém, é que essas semelhanças são apenas de natureza dogmática. Isso ocorre porque eu poderia usar outros sistemas para explicar pontos de vista semelhantes. Por exemplo, eu poderia usar o sistema yóguico com seus sete chakras para tentar explicar o tipo de trabalho energético que os alquimistas interiores realizam, e dessa maneira usar ângulos diferentes para tentar fazer o mesmo ponto sobre a natureza do movimento interno do alquimista.
 
 데스코브리 키 에 무이투 마이스 파시우 헬라시오나르 에시 마테리아우 콩 우마 페르스펙치바 타오이스타 데비두 아 수아 나투레자 무이투 프라치카, 이 펠루 파투 지 이우 나투라우멘치 텐데르 아 미 잉클리나르 네사 지레상, 임보라 이우 세자 데피니치바멘치 웅 프라치칸치 오시덴타우. 신투 키 우 폰투 피나우 에 키 에스치 트라발류 세르타멘치 낭 이스타 리미타두 포르 쿠아우케르 치푸 지 로칼리자상 제오그라피카, 마스 에 웅 트라발류 키 보세 포데리아 지제르 키 이지스치아 안치스 키 타이스 프론테이라스 포셍 이스타벨레시다스, 오 타우베스 우마 헤스포스타 아인다 멜료르 세리아 지제르 키 아켈리스 키 이스타벨레세랑 에시스 프린시피우스 낭 헤지지앙 나스 로칼리자송이스 제오그라피카스 키 아고라 상 코녜시다스 코무 오리엔치, 오시덴치, 이트크.
+Descobri que é muito mais fácil relacionar esse material com uma perspectiva taoista devido à sua natureza muito prática, e pelo fato de eu naturalmente tender a me inclinar nessa direção, embora eu seja definitivamente um praticante ocidental. Sinto que o ponto final é que este trabalho certamente não está limitado por qualquer tipo de localização geográfica, mas é um trabalho que você poderia dizer que existia antes que tais fronteiras fossem estabelecidas, ou talvez uma resposta ainda melhor seria dizer que aqueles que estabeleceram esses princípios não residiam nas localizações geográficas que agora são conhecidas como Oriente, Ocidente, etc.
 
 쿠안투 아스 트레스 이네르지아스 이 코무 보세 포지 우자르 수아 이스페리엔시아 페소아우 누 타오이즈무, 이우 지리아 키 시 에시스 폰투스 지 데마르카상 지 이네르지아 아주다렝 보세 누 이니시우, 오 세자, 시 보세 시 센치르 마이스 콘포르타베우 잉 세파라르 에사스 이네르지아스 잉 시, 셍, 징그, 인탕 콘치누이 아 파제-루, 포이스 이수 포지 세르 우치우 파라 보세, 벵 코무 우스 이제르시시우스 아우스 쿠아이스 보세 이스타 아코스투마두.
+Quanto às três energias e como você pode usar sua experiência pessoal no Taoísmo, eu diria que se esses pontos de demarcação de energia ajudarem você no início, ou seja, se você se sentir mais confortável em separar essas energias em Chi, Shen, Jing, então continue a fazê-lo, pois isso pode ser útil para você, bem como os exercícios aos quais você está acostumado.
 
 미냐 센사상 에 키, 아 메지다 키 보세 시 인보우비 잉 마이스 트라발류 인테르누, 이스페시아우멘치 다 바리에다지 지 아우키미스타 인테리오르, 이 에시 트라발류 잉클루이라 우 모비멘투 펠루스 쿠아르투스 두 프로제치스타, 코무 아폰투 누 리브루, _우 카미뉴 두 프로제치스타_, 보세 베라 키 에시스 폰투스 지 데마르카상 텡 포쿠 시그니피카두 아 메지다 키 세우 포데르 크레시, 우 키 시그니피카 키 보세 이스타라 이제르시탄두 아스펙투스 이네르제치쿠스 두 세우 세르 키 파레세랑 시 미스투라르 이 콘푼지르 아스 리냐스 엔트리 에사스 데마르카송이스 도그마치카스 이스타벨레시다스. 잉 오트라스 팔라브라스, 에시스 폰투스 지 데마르카상 시 토르나랑 셍 센치두 파라 보세 콩 우 템푸.
+Minha sensação é que, à medida que você se envolve em mais trabalho interno, especialmente da variedade de alquimista interior, e esse trabalho incluirá o movimento pelos quartos do projetista, como aponto no livro, _O Caminho do Projetista_, você verá que esses pontos de demarcação têm pouco significado à medida que seu poder cresce, o que significa que você estará exercitando aspectos energéticos do seu ser que parecerão se misturar e confundir as linhas entre essas demarcações dogmáticas estabelecidas. Em outras palavras, esses pontos de demarcação se tornarão sem sentido para você com o tempo.
 
 알렝 지수, 보세 데스코브리라 키 우 트라발류 콩 에사스 이네르지아스 인테르나스 포지 테르 포쿠 아 베르 콩 우 키 보세 포지 인텐데르 코무 웅 오 오트루 치푸 지 이네르지아, 센두 키, 아 메지다 키 아반사 펠루스 쿠아르투스 두 프로제치스타, 포르 이젬플루, 이 시 인보우비 잉 토두스 우스 치푸스 지 모비멘투스 잉 오트라스 조나스 지멘시오나이스, 에사스 이네르지아스 세랑 우자다스 누 모멘투 아프로프리아두 다 마네이라 아프로프리아다 이 포뎅 아테 아수미르 프로프리에다지스 콤플레타멘치 노바스 파라 보세, 알렝 지 쿠아우케르 코이자 키 보세 포사 테르 오비두 오 리두. 이스페루 키 보세 인텐다 우 키 케루 지제르.
+Além disso, você descobrirá que o trabalho com essas energias internas pode ter pouco a ver com o que você pode entender como um ou outro tipo de energia, sendo que, à medida que avança pelos quartos do projetista, por exemplo, e se envolve em todos os tipos de movimentos em outras zonas dimensionais, essas energias serão usadas no momento apropriado da maneira apropriada e podem até assumir propriedades completamente novas para você, além de qualquer coisa que você possa ter ouvido ou lido. Espero que você entenda o que quero dizer.
 
+---
 ---
 
 **크: 보세 멘시오노 잉 바리아스 오카지옹이스 키 우 라 포라 이 우 아키 덴트루 상 아 메즈마 코이자. 코무 이수 에 포시베우? 코무 아우겡 포지 이스플리카르 이수?**
+**Q: Você mencionou em várias ocasiões que o lá fora e o aqui dentro são a mesma coisa. Como isso é possível? Como alguém pode explicar isso?**
 
 아: 에 무이투 파시우 시 페르데르 잉 테르무스. 노사 페노메놀로지아, 노사 인텐시오날리다지 이 아 마네이라 코무 팔라무스 상 토두스 헤주우타두스 지 노사스 페르세프송이스 이 지 코무 오르데나무스 에사스 페르세프송이스.
+A: É muito fácil se perder em termos. Nossa fenomenologia, nossa intencionalidade e a maneira como falamos são todos resultados de nossas percepções e de como ordenamos essas percepções.
 
 인텐두 토타우멘치 우 키 보세 이스타 텐탄두 지제르, 이 자 지시 이수 무이타스 베지스 잉 메우스 리브루스 낭 아 웅 라 포라 오 아키 덴트루, 에사스 상 아페나스 마네이라스 지 텐타르 데스크레베르 페르세프송이스 키 이스탕 아콘테센두 잉 지멘송이스 알렝 두 인텐지멘투, 우잔두 우마 링구아젱 키 이스타 콘피나다 덴트루 다 페노메놀로지아 다 하시오날리다지.
+Entendo totalmente o que você está tentando dizer, e já disse isso muitas vezes em meus livros; não há um lá fora ou aqui dentro, essas são apenas maneiras de tentar descrever percepções que estão acontecendo em dimensões além do entendimento, usando uma linguagem que está confinada dentro da fenomenologia da racionalidade.
 
 마스 프레시자무스 누스 코무니카르, 펠루 메누스 포르 잉쿠안투 우잔두 아 링구아젱, 아테 키 아우구 멜료르 아파레사 파라 노스. 지 아코르두 콩 아 아우키미아 인테리오르, 낭 아 이스테리오르 오 인테리오르, 에사스 상 일루종이스, 마스 프레시자무스 누스 코무니카르, 이 에사 코무니카상 셈프리 인보우베라 우마 콤파르치멘탈리자상 키 크리아라 콤플리카송이스 인테레산치스 콩 우 템푸.
+Mas precisamos nos comunicar, pelo menos por enquanto usando a linguagem, até que algo melhor apareça para nós. De acordo com a alquimia interior, não há exterior ou interior, essas são ilusões, mas precisamos nos comunicar, e essa comunicação sempre envolverá uma compartimentalização que criará complicações interessantes com o tempo.
 
 누스 테르무스 마이스 심플리스, 두 폰투 지 비스타 두 아우키미스타 인테리오르, 아 루타 이스타 포라 이 덴트루 지 노스 시무우타네아멘치, 마스 파라 이스타벨레세르 파라메트루스 파라 아 아상 헤아우, 데베무스 우자르 아 멜료르 테르미놀로지아 포시베우 파라 텐타르 이스플리카르 지 마네이라 그라다치바 아 나투레자 데스타 아상, 파라 포데르무스 누스 인보우베르 네사 아상, 키 에 지 세르타 포르마 우마 이스페시 지 낭-아상.
+Nos termos mais simples, do ponto de vista do alquimista interior, a luta está fora e dentro de nós simultaneamente, mas para estabelecer parâmetros para a ação real, devemos usar a melhor terminologia possível para tentar explicar de maneira gradativa a natureza desta ação, para podermos nos envolver nessa ação, que é de certa forma uma espécie de não-ação.
 
+---
 ---
 
 **크: 이우 헤아우멘치 아크레지투 키 발리 아 페나, 이우 헤아우멘치 아크레지투 키 에 이수 키 케루, 이 보 미 리베르타르, 마스 이우 치 페르군투 우 키 아우겡 데비 파제르 쿠안두 텡 메두 지 데이샤르 아 가이올라? 아스 코이자스 알렝 데사 가이올라 발렝 아 페나 데이샤-라? 코무 포수 수페라르 에사 파지, 에사 헤지스텐시아?**
+**Q: Eu realmente acredito que vale a pena, eu realmente acredito que é isso que quero, e vou me libertar, mas eu te pergunto o que alguém deve fazer quando tem medo de deixar a gaiola? As coisas além dessa gaiola valem a pena deixá-la? Como posso superar essa fase, essa resistência?**
 
 아: 이우 코메사리아 지젠두 키 우 키 보세 센치 에 아 코이자 마이스 나투라우 포시베우, 아 코이자 마이스 센사타 포시베우, 이 세르타멘치 아베리아 마이스 페르군타스 다 미냐 파르치 시 보세 낭 시 센치시 펠루 메누스 지 아우구마 포르마 데사 마네이라. 우 키 헤아우멘치 시그니피카 에 키 보세 포지, 코무 아우궁스 코스투마방 지제르 안치가멘치, 콤프렌데르[^4], 우 키 헤아우멘치 이스타 아콘테센두 콩 보세 이 우 키 보세 헤아우멘치 이스타 인프렌탄두 아우 콘프론타르 우 인피니투 키 이스타 아우 노수 헤도르.
+A: Eu começaria dizendo que o que você sente é a coisa mais natural possível, a coisa mais sensata possível, e certamente haveria mais perguntas da minha parte se você não se sentisse pelo menos de alguma forma dessa maneira. O que realmente significa é que você pode, como alguns costumavam dizer antigamente, compreender[^4], o que realmente está acontecendo com você e o que você realmente está enfrentando ao confrontar o infinito que está ao nosso redor.
 
 신세라멘치, 낭 아 코무 수페라르 에시 메두, 낭 토타우멘치. 웅 루타도르 눙카 수페라 우 메두, 우 아솜브루. 엘리스 이스탕 잉 웅 이스타두 콘스탄치 데스치 치푸 이스투펜두 지 아솜브루/메두. 아콘테시 키 데포이스 지 웅 템푸 엘리스 시 아코스투망 콩 이수, 가냥 탄타스 시카트리지스 키, 데포이스 지 웅 템푸, 인프렌타르 아 이테르니다지, 임보라 눙카 시 토르니 우마 호치나 심플리스, 펠루 메누스 시 토르나 아우구 키 보세 사비 키 포지 수포르타르 아우구 아우 쿠아우 보세 피카 비시아두, 아우구 키 보세 데비 테르 잉 수아 비다 파라 콘치누아르.
+Sinceramente, não há como superar esse medo, não totalmente. Um lutador nunca supera o medo, o assombro. Eles estão em um estado constante deste tipo estupendo de assombro/medo. Acontece que depois de um tempo eles se acostumam com isso, ganham tantas cicatrizes que, depois de um tempo, enfrentar a eternidade, embora nunca se torne uma rotina simples, pelo menos se torna algo que você sabe que pode suportar; algo ao qual você fica viciado, algo que você deve ter em sua vida para continuar.
 
 토두스 노스 테무스 메두 지 아우투라, 파스 파르치 다 노사 나투레자 지 마카쿠. 에 아싱 키 우스 마카쿠스 이비탕 카이르 다스 아르보리스, 엘리스 텡 메두 지 아우투라 이, 포르탄투, 사벵 키 데벵 시 세구라르, 오 카이랑, 낭 임포르타 우 쿠앙 봉스 시 토르넹 잉 시 모베르 포르 에사스 아우투라스. 타우 메두, 포르탄투, 낭 에 우마 코이자 네가치바, 마스 누스 페르미치 아발리아르 이 누스 프레파라르 파라 우 키 인프렌타레무스, 파라 우 키 인프렌타레무스 나 이테르니다지 포르 우마 이테르니다지.
+Todos nós temos medo de altura, faz parte da nossa natureza de macaco. É assim que os macacos evitam cair das árvores, eles têm medo de altura e, portanto, sabem que devem se segurar, ou cairão, não importa o quão bons se tornem em se mover por essas alturas. Tal medo, portanto, não é uma coisa negativa, mas nos permite avaliar e nos preparar para o que enfrentaremos, para o que enfrentaremos na eternidade por uma eternidade.
 
 아 아페나스 두아스 코이자스 포시베이스 파라 우스 상스 키 이스탕 인로케센두, 파라 우스 로쿠스 암불란치스. 이 이수 에 코메사르 데바가르. 센두 키 토두스 노스 소무스 프라치칸치스 솔리타리우스 코무 아우키미스타스 인테리오리스, 낭 세레무스 임푸하두스 파라 루가리스 지 온지 포사무스 프레시자르 세르 헤즈가타두스 낭 아베라 닝겡 파라 누스 헤즈가타르. 포르 에시 모치부, 에 멜료르 코메사르무스 데바가르, 이 코무 타우, 이우 아콘셀랴리아 보세 아 파제르 우 메즈무, 이 페르세베르 키 이스타 데피닌두 세우 프로프리우 히트무 이 키 이라 데바가르, 키 낭 시 포르사라 아 나다 키 우 콜로키 잉 페리구. 에 봉 페르세베르 이수, 이수 아주다라.
+Há apenas duas coisas possíveis para os sãos que estão enlouquecendo, para os loucos ambulantes. E isso é começar devagar. Sendo que todos nós somos praticantes solitários como alquimistas interiores, não seremos empurrados para lugares de onde possamos precisar ser resgatados; não haverá ninguém para nos resgatar. Por esse motivo, é melhor começarmos devagar, e como tal, eu aconselharia você a fazer o mesmo, e perceber que está definindo seu próprio ritmo e que irá devagar, que não se forçará a nada que o coloque em perigo. É bom perceber isso, isso ajudará.
 
 포르 이젬플루, 시 보세 텡 메두 지 보아르 쿠안두 에사스 온다스 지 이네르지아 우 레방 이 보세 시 센치 데이샨두 파라 트라스 우 쿠부 트리지멘시오나우 키 우 만텡 잉 콘포르투 아콘셰간치, 인탕 낭 아 네세시다지 지 보아르 지 이니시우, 포르키 아 프린시피우 보세 포지 카미냐르, 타우베스 아테 하스테자르. 케루 지제르, 리테라우멘치, 키 잉 베스 지 페르미치르 키 세우 코르푸 아스트라우 시 모바 아시마 지 보세, 보세 포지, 잉 베스 지수, 홀라르 파라 우 라두 이 피카르 잉 페. 세우 메두 지 아우투라 셈프리 우 만테라 앙코라두, 우 메두 잉 제라우 셈프리 우 만테라 프레주 덴트루 다스 파레지스. 아 프리메이라 마네이라 지 수페라르 이수 에 코메사르 데바가르 이 낭 네세사리아멘치 보아르 지 이니시우.
+Por exemplo, se você tem medo de voar quando essas ondas de energia o levam e você se sente deixando para trás o cubo tridimensional que o mantém em conforto aconchegante, então não há necessidade de voar de início, porque a princípio você pode caminhar, talvez até rastejar. Quero dizer, literalmente, que em vez de permitir que seu corpo astral se mova acima de você, você pode, em vez disso, rolar para o lado e ficar em pé. Seu medo de altura sempre o manterá ancorado, o medo em geral sempre o manterá preso dentro das paredes. A primeira maneira de superar isso é começar devagar e não necessariamente voar de início.
 
 홀라르 파라 우 라두, 포르탄투, 이 페르미치르 키 아켈라 파르치 지 보세 키 케르 보아르 아페나스 시 모바 파라 우 라두, 이 카미니 펠라 테하 잉 베스 지 보아르 소브리 엘라. 데사 포르마, 보세 시 모비 코무 나 비다 헤아우, 아테 시 아코스투마르 마이스 콩 아 이데이아 지 키 포지 이스타르 포라 두 코르푸 피지쿠 이 포라 다스 리미타송이스 피지카스 임포스타스 펠라 트리지멘시오날리다지. 콩 우 템푸, 이수 시 토르나라 마이스 이 마이스 파시우, 이 아 메지다 키 이수 아콘테시, 보세 포지 코메사르 아 파제르 보스 쿠르투스, 이 렌타멘치, 파수 아 파수, 보아르 카다 베스 마이스 아우투.
+Rolar para o lado, portanto, e permitir que aquela parte de você que quer voar apenas se mova para o lado, e caminhe pela terra em vez de voar sobre ela. Dessa forma, você se move como na vida real, até se acostumar mais com a ideia de que pode estar fora do corpo físico e fora das limitações físicas impostas pela tridimensionalidade. Com o tempo, isso se tornará mais e mais fácil, e à medida que isso acontece, você pode começar a fazer voos curtos, e lentamente, passo a passo, voar cada vez mais alto.
 
 잉 세군두 루가르, 에 무이투 임포르탄치 키 웅 아우키미스타 인테리오르 시 토르니 메스트리 잉 콘테르 이네르지아. 에 소멘치 아트라베스 데사 아빌리다지 지 만테르 아 콘텐상 이네르제치카, 키 엘리스 상 카파지스 지 인프렌타르 아 잉크리베우 보라시다지 두 프로프리우 인피니투 셍 페르데르 아 이네르지아 이 인로케세르 데비두 아 타우 페르다.
+Em segundo lugar, é muito importante que um alquimista interior se torne mestre em conter energia. É somente através dessa habilidade de manter a contenção energética, que eles são capazes de enfrentar a incrível voracidade do próprio infinito sem perder a energia e enlouquecer devido a tal perda.
 
 에 임페라치부 키 보세 세자 카파스 지 만테르 아 콘텐상 이네르제치카 잉 토다스 아스 인스탄시아스 잉 키 시 잉콘트라르 헤아우멘치 파르치시판두 데사 모비멘타상 인테리오르 키 이스타 헤아우멘치 라 포라. 페르데르 우 콘트롤리 데비두 아우 메두 오 심플레즈멘치 아우 푸루 아솜브루 지안치 두 이스파수 인피니투 아 수아 프렌치 에 아우구 아 세르 페이투 쿠안두 보세 헤토르나르 다 수아 조르나다, 마스 쿠안두 보세 이스치베르 헤아우멘치 라 포라, 아 콘텐상 이네르제치카 에 이센시아우.
+É imperativo que você seja capaz de manter a contenção energética em todas as instâncias em que se encontrar realmente participando dessa movimentação interior que está realmente lá fora. Perder o controle devido ao medo ou simplesmente ao puro assombro diante do espaço infinito à sua frente é algo a ser feito quando você retornar da sua jornada, mas quando você estiver realmente lá fora, a contenção energética é essencial.
 
+---
 ---
 
 **크: 아 우마 콘푸장 지 '모델루스' 라 포라, 이 코무 포데무스 테르 세르테자 지 아우구 키 낭 포데무스 페르세베르 지레타멘치? 탐벵 신투 키 아 무이타 데진포르마상. 이스토 파라노이쿠? 코무 보세 콘피르마 우마 페르세프상 쿠안두 파레시 낭 아베르 우마 베르다지 데피니다 소브리 아우구?**
+**Q: Há uma confusão de 'modelos' lá fora, e como podemos ter certeza de algo que não podemos perceber diretamente? Também sinto que há muita desinformação. Estou paranoico? Como você confirma uma percepção quando parece não haver uma verdade definida sobre algo?**
 
 아: 벵, 헤아우멘치 데펜지 지 코무 보세 데피니리아 파라노이아.
+A: Bem, realmente depende de como você definiria paranoia.
 
 이 아키 보세 타우베스 테냐 마이스 우마 코이자 파라 세르 포텐시아우멘치 파라노이쿠, 이 에 우 파투 지 키 아 마이오르 파르치 지 노사 헤알리다지, 코무 이우 자 아폰테이 잉 이누메라스 오카지옹이스, 이스타 지레타멘치 헬라시오나다 아우 치푸 지 팔라브라스 키 우자무스 이 아스 데피니송이스 키 리스 다무스. 두아스 페소아스 포뎅 이스타르 누 메즈무 라두 이 아인다 케레렝 이스트랑굴라르 우마 아 오트라 포르 아우궁 폰투 지 비스타 도그마치쿠, 셍 눙카 우자르 로지카 이 하시오시니우 카우자우 수피시엔치스 파라 페르세베르 키 암바스 이스탕 나 베르다지 지젠두 아 메즈마 코이자, 마스 아페나스 지 지페렌치스 폰투스 지 비스타 도그마치쿠스 센두 키 암바스 이스탕 우잔두 아 메즈마 팔라브라, 마스 텡 데피니송이스 지페렌치스 파라 엘라, 오 우장 데피니송이스 지페렌치스 키, 누 피나우, 시그니피캉 아 메즈마 코이자, 우잔두 우마 팔라브라 심플리스 키 아스 우니리아.
+E aqui você talvez tenha mais uma coisa para ser potencialmente paranoico, e é o fato de que a maior parte de nossa realidade, como eu já apontei em inúmeras ocasiões, está diretamente relacionada ao tipo de palavras que usamos e às definições que lhes damos. Duas pessoas podem estar no mesmo lado e ainda quererem estrangular uma à outra por algum ponto de vista dogmático, sem nunca usar lógica e raciocínio causal suficientes para perceber que ambas estão na verdade dizendo a mesma coisa, mas apenas de diferentes pontos de vista dogmáticos; sendo que ambas estão usando a mesma palavra, mas têm definições diferentes para ela, ou usam definições diferentes que, no final, significam a mesma coisa, usando uma palavra simples que as uniria.
 
 아 아우구마스 페소아스 키 텐뎅 아 우자르 아 팔라브라 '파라노이쿠' 지 우마 마네이라 네가치바, 포르탄투, 이 아 아켈라스 키 우자랑 타우 팔라브라 누 파사두 파라 시그니피카르 아우겡 키 이스타 무이투 마이스 콘시엔치. 시 우자르무스 에스타 우우치마 코무 테르미놀로지아 데피니도라 파라 아 팔라브라, 인탕, 이우 지리아 키 아 카파시다지 지 세르 파라노이쿠 이 베르 아스 인테르-헬라송이스 이 코네숑이스, 우스 메타다두스, 소브 아 크리아상, 우 푼시오나멘투 이 아 수스텐타상 두 문두, 에 심플레즈멘치 우마 마이오르 콘시엔시아, 이 두 메우 폰투 지 비스타 코무 아우키미스타 인테리오르, 아 이스판상 다 콘시엔시아 에 크리치카 파라 시 리베르타르 두 쿠부 트리지멘시오나우.
+Há algumas pessoas que tendem a usar a palavra 'paranoico' de uma maneira negativa, portanto, e há aquelas que usaram tal palavra no passado para significar alguém que está muito mais consciente. Se usarmos esta última como terminologia definidora para a palavra, então, eu diria que a capacidade de ser paranoico e ver as inter-relações e conexões, os metadados, sob a criação, o funcionamento e a sustentação do mundo, é simplesmente uma maior consciência, e do meu ponto de vista como alquimista interior, a expansão da consciência é crítica para se libertar do cubo tridimensional.
 
 쿠안투 아 포르마 코무 보세 콘피르마, 이우 미 헤피루 아 이수 코무 베르다지 이네르제치카, 이 시 보세 레우 메우스 리브루스, 인탕 사베라 키 아 베르다지 이네르제치카 낭 에 아우구 키 시 포사 콘피르마르, 낭 에 도그마, 낭 에 아우구 아 세르 아크레지타두 펠라 페, 낭 에 웅 조구 지 팔라브라스 이 아스 무이타스 데피니송이스 포시베이스 파라 에사스 팔라브라스. 잉 베스 지수, 에 아 페르세프상 페소아우 지레타 우잔두 우스 센치두스 인테르누스, 코무 우마 시네스테지아 지 지페렌치스 센치두스 콤프렌시베이스, 키 포뎅 헤벨라르 아 보세 아 이센시아 이네르제치카 수브자센치 다 헤알리다지. 잉 오트라스 팔라브라스, 우스 센치두스 인테르누스 상 무이투 마이스 프레시주스 두 키 우스 피지쿠스 이스테르누스, 이 데베무스, 포르탄투, 누스 이스포르사르 파라 코메사르 아 우자-루스. 잉 메우스 리브루스, 지스쿠투 코무 코메사르 아 우자르 우 센치두 인테르누 두 센치멘투, 키 에 아 샤비 파라 아 이스판상 지 토두스 우스 센치두스 인테르누스 포시베이스 아우스 세리스 우마누스. 파라 인텐데르 이수, 보세 데비 이스페리멘타르, 낭 아 팔라브라스 파라 이수. 보세 데비 우자르 아스 테크니카스 데스크리타스 네시스 리브루스, 포르탄투.
+Quanto à forma como você confirma, eu me refiro a isso como verdade energética, e se você leu meus livros, então saberá que a verdade energética não é algo que se possa confirmar, não é dogma, não é algo a ser acreditado pela fé, não é um jogo de palavras e as muitas definições possíveis para essas palavras. Em vez disso, é a percepção pessoal direta usando os sentidos internos, como uma sinestesia de diferentes sentidos compreensíveis, que podem revelar a você a essência energética subjacente da realidade. Em outras palavras, os sentidos internos são muito mais precisos do que os físicos externos, e devemos, portanto, nos esforçar para começar a usá-los. Em meus livros, discuto como começar a usar o sentido interno do sentimento, que é a chave para a expansão de todos os sentidos internos possíveis aos seres humanos. Para entender isso, você deve experimentar, não há palavras para isso. Você deve usar as técnicas descritas nesses livros, portanto.
 
+---
 ---
 
 **크: 프레시주 일리미나르 토두스 우스 프라제리스 시 키제르 프로그레지르 잉 미냐 조르나다 이스피리투아우?**
+**Q: Preciso eliminar todos os prazeres se quiser progredir em minha jornada espiritual?**
 
 아: 데펜덴두 두 폰투 지 비스타, 에스타 에 우마 페르군타 지피시우 지 헤스폰데르. 우 키 케루 지제르 콩 이수 에 키, 시 펜사르무스 누 문두 이 누 키 데베무스 파제르 넬리 아페나스 펠루 키 레무스, 우 키 인텐데무스 다 인테르미나베우 쿠안치다지 지 도그마스 잉콘트라두스 포르 아이, 인탕 아 무이타스 오프송이스 포시베이스, 이 보세 잉콘트라라 이누메라스 하종이스 펠라스 쿠아이스 데베리아 파제르 아우구 이 이누메라스 하종이스 펠라스 쿠아이스 낭 데베리아.
+A: Dependendo do ponto de vista, esta é uma pergunta difícil de responder. O que quero dizer com isso é que, se pensarmos no mundo e no que devemos fazer nele apenas pelo que lemos, o que entendemos da interminável quantidade de dogmas encontrados por aí, então há muitas opções possíveis, e você encontrará inúmeras razões pelas quais deveria fazer algo e inúmeras razões pelas quais não deveria.
 
 두 메우 폰투 지 비스타, 누 인탄투, 아 헤스포스타 에 벵 심플리스, 마스 인보우비 파제르 잉 베스 지 레르.
+Do meu ponto de vista, no entanto, a resposta é bem simples, mas envolve fazer em vez de ler.
 
 안치스 지 인트라르 니수, 아슈 마이스 임포르탄치 키 보세 시 페르군치 우 키 케르 지제르 콩 "조르나다 이스피리투아우". 시 보세 푸데르 헤스폰데르 아 에사 페르군타 파라 시 메즈무, 포데라 이덴치피카르 파라 온지 데제자 이르 이, 콩 우 템푸, 데스코브리르 우 키 프레시자 파제르 파라 셰가르 라.
+Antes de entrar nisso, acho mais importante que você se pergunte o que quer dizer com "jornada espiritual". Se você puder responder a essa pergunta para si mesmo, poderá identificar para onde deseja ir e, com o tempo, descobrir o que precisa fazer para chegar lá.
 
 두 메우 폰투 지 비스타 코무 아우키미스타 인테리오르, 우 도그마 낭 데젬페냐 아브솔루타멘치 네늉 파페우 네스타 오 잉 쿠아우케르 오트라 케스탕. 시 보세 레우 아우궁 두스 메우스 리브루스, 사베라 키 텐투 콘센트라르 아 마이오르 파르치 두스 메우스 이스포르수스 잉 텐타르 인시나르 오트라스 테크니카스, 잉 오포지상 아우스 프린시피우스 도그마치쿠스 키 에사스 테크니카스 포상 테르 아네샤다스 아 엘라스.
+Do meu ponto de vista como alquimista interior, o dogma não desempenha absolutamente nenhum papel nesta ou em qualquer outra questão. Se você leu algum dos meus livros, saberá que tento concentrar a maior parte dos meus esforços em tentar ensinar outras técnicas, em oposição aos princípios dogmáticos que essas técnicas possam ter anexadas a elas.
 
 포르 이젬플루, 누 메우 리브루, _우 카미뉴 두 프로제치스타_, 지스쿠투 우 모비멘투 펠루스 싱쿠 프리메이루스 코모두스 두 프로제치스타. 데스크레부 파수 아 파수 우 키 에 네세사리우 파라 아트라베사르 에시스 싱쿠 코모두스, 이 포르 키 에 탕 임포르탄치 키 웅 아우키미스타 인테리오르, 코무 프로제치스타, 우스 아트라베시. 보세 포데리아 지제르 키 엘리스 상 심플레즈멘치 우 아우파 이 우 오메가 다 조르나다 이스피리투아우 파라 우 아우키미스타 인테리오르.
+Por exemplo, no meu livro, _O Caminho do Projetista_, discuto o movimento pelos cinco primeiros cômodos do projetista. Descrevo passo a passo o que é necessário para atravessar esses cinco cômodos, e por que é tão importante que um alquimista interior, como projetista, os atravesse. Você poderia dizer que eles são simplesmente o Alfa e o Ômega da jornada espiritual para o alquimista interior.
 
 아우 텐타르 아트라베사르 에시스 싱쿠 코모두스, 보세 포지 데스코브리르, 포르 이젬플루, 키 아 우마 그란지 지피쿠우다지 잉 이제쿠타르 아우구마스 다스 테크니카스 인보우비다스 네스치 모비멘투 인테리오르. 시 오베르 그란지 지피쿠우다지 아키, 이우 이스플리쿠 키, 파라 웅 아우키미스타 인테리오르, 타우 지피쿠우다지 벵 다 파우타 지 이네르지아. 파라 코히지르 에사 파우타 지 이네르지아, 이스투 에, 파라 가냐르 마이스 이네르지아, 보세 프레시자 아프렌데르 아 트라발랴르 콩 아 이네르지아 지레타멘치, 센두 우 마이스 임포르탄치 아프렌데르 아 페르세베르 우 플루슈 지 이네르지아 아 메지다 키 엘리 엔트라, 시르쿨라 이 사이 지 노수스 코르푸스. 트라발랴르 콩 아 이네르지아, 세르 카파스 지 센치르 아 이네르지아 이 세르 카파스 지 페르세베르 아 이네르지아 아 메지다 키 엘라 플루이 덴트루 이 아우 세우 헤도르 에, 포르탄투, 우 마이스 임포르탄치.
+Ao tentar atravessar esses cinco cômodos, você pode descobrir, por exemplo, que há uma grande dificuldade em executar algumas das técnicas envolvidas neste movimento interior. Se houver grande dificuldade aqui, eu explico que, para um alquimista interior, tal dificuldade vem da falta de energia. Para corrigir essa falta de energia, isto é, para ganhar mais energia, você precisa aprender a trabalhar com a energia diretamente, sendo o mais importante aprender a perceber o fluxo de energia à medida que ele entra, circula e sai de nossos corpos. Trabalhar com a energia, ser capaz de sentir a energia e ser capaz de perceber a energia à medida que ela flui dentro e ao seu redor é, portanto, o mais importante.
 
 쿠안두 보세 푸데르 파제르 이수, 사베라 지레타멘치, 오 세자, 아트라베스 다 이스페리엔시아 지레타, 온지 이 코무 이스타 페르덴두 이네르지아. 아 아켈리스 키 포뎅 잉콘트라르 세르타스 아송이스 잉크리베우멘치 헤비고란치스, 이스페시아우멘치 시 치베렝 콘세기두 도미나르 세르타스 테크니카스, 잉쿠안투 오트루스 포뎅 아샤르 키 상 인프라케시두스 포르 타이스 아송이스 이 센치멘투스, 낭 임포르타 우 키 파상. 토두스 상 지페렌치스, 낭 아 아브솔루투스.
+Quando você puder fazer isso, saberá diretamente, ou seja, através da experiência direta, onde e como está perdendo energia. Há aqueles que podem encontrar certas ações incrivelmente revigorantes, especialmente se tiverem conseguido dominar certas técnicas, enquanto outros podem achar que são enfraquecidos por tais ações e sentimentos, não importa o que façam. Todos são diferentes, não há absolutos.
 
 우 키 케루 지제르 에 키 낭 포수 헤스폰데르 아 에스타 페르군타 포르 보세, 포수 아페나스 인시나르-리 코무 페르세베르 아 이네르지아 지레타멘치 잉 세우 코르푸 이, 잉 세기다, 다르-리 우마 타레파 키 페르미치라 키 보세 시 토르니 이스피리투아우멘치 데스페르타두 두 폰투 지 비스타 두 아우키미스타 인테리오르. 아우 헤알리자르 에사스 타레파스 (에사 아상 인테리오르), 보세 인프렌타라 아 네세시다지 지 데젠보우베르, 만테르 이 아르마제나르 이네르지아. 에 소멘치 네스치 모멘투, 쿠안두 보세 포지 트라발랴르 콩 에사 이네르지아 지레타멘치 이 페르세베르 우스 가뉴스 오 아스 페르다스 지 세르타스 이모송이스 인텐사스 이 아송이스 이시탄치스, 키 사베라 시 이수 에 우 키 프레시자 파제르 파라 아반사르 이스피리투아우멘치.
+O que quero dizer é que não posso responder a esta pergunta por você, posso apenas ensinar-lhe como perceber a energia diretamente em seu corpo e, em seguida, dar-lhe uma tarefa que permitirá que você se torne espiritualmente despertado do ponto de vista do alquimista interior. Ao realizar essas tarefas (essa ação interior), você enfrentará a necessidade de desenvolver, manter e armazenar energia. É somente neste momento, quando você pode trabalhar com essa energia diretamente e perceber os ganhos ou as perdas de certas emoções intensas e ações excitantes, que saberá se isso é o que precisa fazer para avançar espiritualmente.
 
 이스페루 키 보세 인텐다 우 키 이스토 텐탄두 지제르. 낭 에 키 이우 이스테자 텐탄두 세르 지피시우, 인탕, 포르 파보르, 미 페르도이 시 보세 이스타바 프로쿠란두 우마 헤스포스타 하피다. 나 베르다지, 이스토 텐탄두 다르-리 아 우니카 헤스포스타 키 임포르타, 아 우니카 헤스포스타 베르다데이라멘치 포시베우 이 에사 에 아 헤스포스타 키 낭 벵 지 리브루스, 지 오트라스 페소아스, 마스 아트라베스 지 수아 프로프리아 아상 이 페르세프상 지레타스.
+Espero que você entenda o que estou tentando dizer. Não é que eu esteja tentando ser difícil, então, por favor, me perdoe se você estava procurando uma resposta rápida. Na verdade, estou tentando dar-lhe a única resposta que importa, a única resposta verdadeiramente possível; e essa é a resposta que não vem de livros, de outras pessoas, mas através de sua própria ação e percepção diretas.
 
 낭 아 아브솔루투스, 낭 아 프레투스 이 브랑쿠스, 카다 페소아 에 우마 인지비두알리다지 이 카다 페소아 에 리브리. 이수 시그니피카 키 우 키 푼시오나 파라 우마 페소아 포지 낭 푼시오나르 파라 오트라, 이 우 키 포지 푼시오나르 파라 밍 포지 낭 푼시오나르 파라 보세. 포르탄투, 에 임페라치부 아지르 알렝 두 도그마 이 잉콘트라르 우 세우 프로프리우 카미뉴, 웅 카미뉴 이킬리브라두 키 아카우미 탄투 아 수아 멘치 쿠안투 우 세우 코르푸 이네르제치쿠. 이스페루 키 보세 인텐다 우 키 케루 지제르.
+Não há absolutos, não há pretos e brancos, cada pessoa é uma individualidade e cada pessoa é livre. Isso significa que o que funciona para uma pessoa pode não funcionar para outra, e o que pode funcionar para mim pode não funcionar para você. Portanto, é imperativo agir além do dogma e encontrar o seu próprio caminho, um caminho equilibrado que acalme tanto a sua mente quanto o seu corpo energético. Espero que você entenda o que quero dizer.
 
+---
 ---
 
 **크: 아스 포르사스 아르콘치카스 헤크루탕 페소아스 코무 아젠치스 파라 세렝 우자다스 잉 수아 아젠다?**
+**Q: As forças Arconticas recrutam pessoas como agentes para serem usadas em sua agenda?**
 
 아: 아 멜료르 마네이라 지 콘세이투아르 이수, 시 보세 낭 콘세기 페르세베르 에시스 이벤투스 지레타멘치, 에 펜사르 나 인플루엔시아 아르콘치카 코무 우마 이스페시 지 누벵 오 멘치 키 포이/포이 데포지타다 잉 시마 다 멘치 오리지나우 다 우마니다지.
+A: A melhor maneira de conceituar isso, se você não consegue perceber esses eventos diretamente, é pensar na influência Arcontica como uma espécie de nuvem ou mente que foi/foi depositada em cima da mente original da humanidade.
 
 코무 타우, 우 아르콘치 낭 헤크루타 프로프리아멘치 지투, 마스 아 아켈리스 키 상, 지 파투, 마이스 나투라우멘치 프레지스포스투스 아우 메즈무 치푸 지 아상 키 우 아르콘치 이 아 멘치 아르콘치카 프로제탕. 오트라 마네이라 지 지제르 이수 세리아 키 아우구마스 페소아스 상 마이스 프레지스포스타스 아 신토니자르 아 프레켄시아 지 하지우 두 아르콘치, 이 아우구마스 데사스 페소아스, 데비두 아 우마 잉클리나상 잉 수아 나투레자, 상 마이스 아프타스 아 고스타르 데사 프레켄시아.
+Como tal, o Arconte não recruta propriamente dito, mas há aqueles que são, de fato, mais naturalmente predispostos ao mesmo tipo de ação que o Arconte e a mente Arcontica projetam. Outra maneira de dizer isso seria que algumas pessoas são mais predispostas a sintonizar a frequência de rádio do Arconte, e algumas dessas pessoas, devido a uma inclinação em sua natureza, são mais aptas a gostar dessa frequência.
 
 에시스 세리스 상 제라우멘치 페소아스 키 텡 마이스 인테레시 네사스 메즈마스 잉클리나송이스 지 카라테르 키 아 누벵 아르콘치카 인스치가. 잉 제라우, 탐벵 에 베르다지 키 아스 페소아스 키 상 마이스 벵-수세지다스 네시 아스펙투 텐뎅 아 세르 아우타멘치 임플라카베이스, 이 에사 쿠알리다지 텐지 아 프로테제-라스, 아테 세르투 폰투, 다 그란지 페르다 이네르제치카 키 포데리아 호바르 토다 아 '수아' 이네르지아 아우 시 알리냐렝 탕 프로푼다멘치 콩 우 아르콘치.
+Esses seres são geralmente pessoas que têm mais interesse nessas mesmas inclinações de caráter que a nuvem Arcontica instiga. Em geral, também é verdade que as pessoas que são mais bem-sucedidas nesse aspecto tendem a ser altamente implacáveis, e essa qualidade tende a protegê-las, até certo ponto, da grande perda energética que poderia roubar toda a 'sua' energia ao se alinharem tão profundamente com o Arconte.
 
 마스 타우 알리냐멘투 콩 아 누벵 아르콘치카, 아 프레켄시아 지 하지우 두 아르콘치, 눙카 다라 아 에사스 페소아스 나다 마이스 두 키 아스 코이자스 마테리알리스타스 키 엘라스 파사랑 아 아마르. 포르 이젬플루, 에 코무 테르 우마 비스타 헤아우멘치 보아 누 인페르누, 잉 베스 지 사베르 코무 사이르 콤플레타멘치 두 인페르누 이 데이샤르 아 그라비다지 데스치 루가르 파라 트라스 파라 셈프리. 우 아르콘치 도미나 에스치 문두, 우 문두 마테리아우, 크리아두 포르 수아 인플루엔시아, 이 코무 타우 포지 프로포르시오나르 세르투 수세수 마테리아우 지 아코르두 콩 타우 알리냐멘투. 마스 에시 수세수 에 아페나스 마테리아우 이 카레시 지 아우구 지그누 지 웅 베르다데이루 인지비두. 우 아르콘치, 포르탄투, 포지 우자르 타이스 코이자스 파라 헤크루타르, 데젠보우베르 웅 알리냐멘투 콩, 세르투스 인지비두스. 이수, 지 무이타스 마네이라스, 낭 에 웅 헤크루타멘투 아치부 다 마네이라 코무 에 인텐지두 펠라 마이오리아 다스 페소아스, 에, 잉 베스 지수, 우마 온다, 우마 코헨치, 콩 아 쿠아우 아우궁스 포뎅 이스콜례르 플루이르 잉 마이오르 오 메노르 그라우.
+Mas tal alinhamento com a nuvem Arcontica, a frequência de rádio do Arconte, nunca dará a essas pessoas nada mais do que as coisas materialistas que elas passaram a amar. Por exemplo, é como ter uma vista realmente boa no inferno, em vez de saber como sair completamente do inferno e deixar a gravidade deste lugar para trás para sempre. O Arconte domina este mundo, o mundo material, criado por sua influência, e como tal pode proporcionar certo sucesso material de acordo com tal alinhamento. Mas esse sucesso é apenas material e carece de algo digno de um verdadeiro indivíduo. O Arconte, portanto, pode usar tais coisas para recrutar, desenvolver um alinhamento com, certos indivíduos. Isso, de muitas maneiras, não é um recrutamento ativo da maneira como é entendido pela maioria das pessoas, é, em vez disso, uma onda, uma corrente, com a qual alguns podem escolher fluir em maior ou menor grau.
 
+---
 ---
 
 **크: 우 키 이우 낭 콘시구 인텐데르 에 포르 키 우 아르콘치 프레시자 시 알리멘타르 다 우마니다지? 신투-미 탕 프레주 아스 베지스.**
+**Q: O que eu não consigo entender é por que o Arconte precisa se alimentar da humanidade? Sinto-me tão preso às vezes.**
 
 아: 토다 비다, 세자 오르가니카 오 낭 오르가니카, 프레시자 시 알리멘타르 지 이네르지아 파라 시 수스텐타르. 셍 에시 콘수무, 코메사라 아 데즈바네세르 이 모헤르.
+A: Toda vida, seja orgânica ou não orgânica, precisa se alimentar de energia para se sustentar. Sem esse consumo, começará a desvanecer e morrer.
 
 아싱 코무 아 나투레자 오르가니카, 우스 세리스 낭 오르가니쿠스 포뎅 시 토르나르 무이투 이스페시알리자두스 잉 세우스 아비투스 이 잉 세우 콘수무. 잉쿠안투 아 세르투스 세리스 낭 오르가니쿠스 키 포뎅 시 알리멘타르 지 이네르지아 나투라우 누 암비엔치, 우 키 지 세르타 포르마 포데리아무스 펜사르 넬리스 코무 센두 아우구 파레시두 콩 플란타스, 아 오트루스 키 시 이스페시알리자랑 이 시 토르나랑 콘수미도리스 지 이네르지아 콘시엔치, 이 포데무스 펜사르 넬리스 코무 우스 프레다도리스 두 문두 오르가니쿠. 우 아르콘치 에 우마 인치다지 지 나투레자 마이스 프레다토리아.
+Assim como a natureza orgânica, os seres não orgânicos podem se tornar muito especializados em seus hábitos e em seu consumo. Enquanto há certos seres não orgânicos que podem se alimentar de energia natural no ambiente, o que de certa forma poderíamos pensar neles como sendo algo parecido com plantas, há outros que se especializaram e se tornaram consumidores de energia consciente, e podemos pensar neles como os predadores do mundo orgânico. O Arconte é uma entidade de natureza mais predatória.
 
 엘리 누스 이스크라비자 포르키, 셍 우 콘수무 다 우마니다지, 낭 오브테리아 우 수스텐투 지 키 프레시자 파라 이지스치르, 이 우 소우 네그루 로구 우 헤이빈지카리아. 이 시 포르 카파스 지 콘수미르 마이스 이 데스칠라르 에시 수스텐투, 포지 아테 이볼루이르, 트란즈무타르-시, 파라 오르뎅스 수페리오리스, 아싱 코무 노스 포데무스.
+Ele nos escraviza porque, sem o consumo da humanidade, não obteria o sustento de que precisa para existir, e o Sol Negro logo o reivindicaria. E se for capaz de consumir mais e destilar esse sustento, pode até evoluir, transmutar-se, para ordens superiores, assim como nós podemos.
 
 세르타멘치 포수 미 이덴치피카르 콩 우 세우 센치멘투 지 이스타르 프레주, 마스 아 이센시아 두 키 아 아우키미아 인테르나 텡 아 지제르 에 키 노스, 세리스 우마누스, 소무스 무이투 마이스 포데로주스 두 키 페르세베무스. 아친지무스 우마 온둘라상 템포라리아, 이 페르미타-미 인파치자르, 템포라리아, 나 코헨치 두 마르 이스쿠루. 마스 포데무스 수페라르 에시 데자피우, 이 아 멜료르 마네이라 지 파제-루, 노바멘치 지 아코르두 콩 아 아우키미아 인테르나, 에 아트라베스 다 콘텐상 이네르제치카 이 다 카파시다지 지 트라발랴르 콩 아 이네르지아.
+Certamente posso me identificar com o seu sentimento de estar preso, mas a essência do que a alquimia interna tem a dizer é que nós, seres humanos, somos muito mais poderosos do que percebemos. Atingimos uma ondulação temporária, e permita-me enfatizar, temporária, na corrente do Mar Escuro. Mas podemos superar esse desafio, e a melhor maneira de fazê-lo, novamente de acordo com a alquimia interna, é através da contenção energética e da capacidade de trabalhar com a energia.
 
 포르 파보르, 인텐다 키 에스타 시투아상 ‘아투아우’ 에 웅 데자피우, 에 우마 아벤투라, 에 아 마이오르 아벤투라 이 우 마이오르 프레젠치 포시베우 포르키 누스 임푸우시오나 무이투 알렝 지 투두 키 포데리아무스 테르 누스 토르나두 시 낭 포세무스 테스타두스 펠루 우니베르수 데사 마네이라.
+Por favor, entenda que esta situação ‘atual’ é um desafio, é uma aventura, é a maior aventura e o maior presente possível porque nos impulsiona muito além de tudo que poderíamos ter nos tornado se não fôssemos testados pelo universo dessa maneira.
 
+---
 ---
 
 **크: 우 코르푸 이모르타우 잉 노스 에 아페타두 펠루 템푸? 시 싱, 인탕 투두 우 키 이스타무스 텐탄두 아우칸사르 네스치 문두 에 잉 방, 포이스 자 소무스 푸루스 잉 세르투 센치두. 타우베스 이스테자무스 아키 아페나스 파라 쿠우치바르 아 임파치아, 센두 키 노수 코르푸 오리지나우 낭 인텐지 타우 소프리멘투, 낭 시 헬라시오나 콩 타우 도르.**
+**Q: O corpo imortal em nós é afetado pelo tempo? Se sim, então tudo o que estamos tentando alcançar neste mundo é em vão, pois já somos puros em certo sentido. Talvez estejamos aqui apenas para cultivar a empatia, sendo que nosso corpo original não entende tal sofrimento, não se relaciona com tal dor.**
 
 아: 지 아코르두 콩 우 키 우스 아우키미스타스 인테르누스 아크레지탕 (마스 인센치부 보세 아 잉콘트라르 수아 프로프리아 베르다지), 우 키 보세 포지 샤마르 지 코르푸 이모르타우, 에, 잉 이센시아, 우마 크리아상 아시덴타우 키 낭 이지스치아 안치스 지 나세르무스 나 지멘상 피지카.
+A: De acordo com o que os alquimistas internos acreditam (mas incentivo você a encontrar sua própria verdade), o que você pode chamar de corpo imortal, é, em essência, uma criação acidental que não existia antes de nascermos na dimensão física.
 
 코무 멘시오네이 누 리브루 두 쿠르수, _우 카미뉴 두 프로제치스타_, 우 키 보세 포지 샤마르 지 코르푸 이모르타우 에 아우구 키 이우 포데리아 샤마르 지 "우 판타즈마 나 마키나". 시 포르 우 카주 키 우 키 보세 인텐지 포르 코르푸 이모르타우 에 우 키 이우 인텐두 코무 우 판타즈마 나 마키나, 인탕 포수 지제르 키, 두 폰투 지 비스타 두 아우키미스타 인테르누, 우 판타즈마 나 마키나 에 아우구 키 프레시자 세르 데젠보우비두, 낭 아우구 키 세자 웅 지레이투 지 나센사. 아싱 센두, 우 판타즈마 나 마키나 에 아우구 키 프레시자 세르 트라발랴두, 아우구 키 프레시자 세르 이볼루이두, 포르 아싱 지제르. 아 우니카 마네이라 지 파제르 이수 에 아프렌데르 아 트라발랴르 콩 이네르지아, 이 임보라 쿠우치바르 아 임파치아 포사 세르 콘시데라두 웅 세르투 아스펙투 두 트라발류 콩 아 이네르지아, 아인다 아 마이스 아스펙투스 아 아프렌데르 이 프라치카르, 코무 아 카파시다지 지 아브소르베르 이 헤피나르 아 이네르지아 이 데포이스 우자르 에사 이네르지아 파라 시 모베르 펠라스 살라스 두 프로제치스타.
+Como mencionei no livro do curso, _O Caminho do Projetista_, o que você pode chamar de corpo imortal é algo que eu poderia chamar de "o fantasma na máquina". Se for o caso que o que você entende por corpo imortal é o que eu entendo como o fantasma na máquina, então posso dizer que, do ponto de vista do alquimista interno, o fantasma na máquina é algo que precisa ser desenvolvido, não algo que seja um direito de nascença. Assim sendo, o fantasma na máquina é algo que precisa ser trabalhado, algo que precisa ser evoluído, por assim dizer. A única maneira de fazer isso é aprender a trabalhar com energia, e embora cultivar a empatia possa ser considerado um certo aspecto do trabalho com a energia, ainda há mais aspectos a aprender e praticar, como a capacidade de absorver e refinar a energia e depois usar essa energia para se mover pelas salas do projetista.
 
+---
 ---
 
 **크: 보세 지스 키 아 이네르지아 에 아 샤비, 이 콩 마이스 이네르지아 테레무스 마이스 포쿠. 마스 시 우 템푸 리네아르 낭 이지스치, 포르 키 레바 템푸 파라 아쿠물라르 이네르지아?**
+**Q: Você diz que a energia é a chave, e com mais energia teremos mais foco. Mas se o tempo linear não existe, por que leva tempo para acumular energia?**
 
 아: 에스타 에 우마 페르군타 무이투 보아, 이 아 헤스포스타 텡 아 베르 콩 아스 레이스 지멘시오나이스, 이 에, 신세라멘치, 우마 페르군타 무이투 지피시우 지 헤스폰데르 다 페르스펙치바 우마나 오 세자, 우 인텐지멘투 우마누 제라우 두 이스파수 이 두 템푸.
+A: Esta é uma pergunta muito boa, e a resposta tem a ver com as leis dimensionais, e é, sinceramente, uma pergunta muito difícil de responder da perspectiva humana; ou seja, o entendimento humano geral do espaço e do tempo.
 
 텐테이 이스플리카르 이수 안치스, 지젠두 키 노수 푸투루 에 데시지두 포르 노스, 이 아인다 아싱 낭 에. 포데리아무스 지제르, 네시 센치두, 파라 텐타르 이스플리카르 에사 케스탕, 키 네스치 모멘투 테무스 오 포무스 카파지스 지 아드키리르 이네르지아 수피시엔치 파라 누스 토르나르무스 비덴치스 이 아우키미스타스, 마스 아우 메즈무 템푸 낭 우 피제무스 무이타스 포시빌리다지스 이지스텡 덴트루 다스 무우치플라스 리냐스 두 템푸 다스 쿠아이스 파제무스 파르치.
+Tentei explicar isso antes, dizendo que nosso futuro é decidido por nós, e ainda assim não é. Poderíamos dizer, nesse sentido, para tentar explicar essa questão, que neste momento temos ou fomos capazes de adquirir energia suficiente para nos tornarmos videntes e alquimistas, mas ao mesmo tempo não o fizemos; muitas possibilidades existem dentro das múltiplas linhas do tempo das quais fazemos parte.
 
 마스 카다 리냐 두 템푸 낭 이스타 피샤 지 세르타 포르마, 포르키 우 문두 헤케르 이스폰타네이다지 파라 크레세르, 이 에스타 에 아 우니카 레이 키 보세 포지 잉콘트라르 코무 우마 레이 우니베르사우 키 포데리아 세르 지타 코무 프레젠치 잉 프라치카멘치 토다스 아스 지멘송이스. 우 템푸, 포르탄투, 데자피아 아 하시오날리다지 아우 아친지르 웅 이스타두 잉 키 투두 이지스치 시무우타네아멘치 이, 아인다 아싱, 이스타 잉 콘스탄치 이스타두 지 무단사, 웅 플루슈 프로보카두 펠라 이스폰타네이다지 에 투두 지 우마 베스 이 에 이스폰타네우.
+Mas cada linha do tempo não está fixa de certa forma, porque o mundo requer espontaneidade para crescer, e esta é a única lei que você pode encontrar como uma lei universal que poderia ser dita como presente em praticamente todas as dimensões. O tempo, portanto, desafia a racionalidade ao atingir um estado em que tudo existe simultaneamente e, ainda assim, está em constante estado de mudança, um fluxo provocado pela espontaneidade; é tudo de uma vez e é espontâneo.
 
 아싱, 아 이스폰타네이다지 이 우 크레시멘투 낭 상 우마 케스탕 지 템푸 리네아르, 마스 상 마이스 세멜랸치스 아스 이스플로종이스 이스폰타네아스 키 상 이스페리멘타다스 두란치 우 아우지 다 크리아치비다지, 이 세우 데젠보우비멘투 잉 쿠아우케르 지멘상, 메즈무 네스타 지멘상, 시그니피카 키 상 트라지다스 인스탄타네아멘치 콩 우마 인텐시다지 키 가란치 수아 소브레비벤시아 헬라치바 지 아코르두 콩 에사 인텐시다지 아 인텐시다지 지 쿠아우케르 이스플로장 크리아치바 이스페시피카 가란치 세우 템푸 헬라치부 지 소브레비벤시아 잉 노사 지멘상 (두라상 다 이지스텐시아).
+Assim, a espontaneidade e o crescimento não são uma questão de tempo linear, mas são mais semelhantes às explosões espontâneas que são experimentadas durante o auge da criatividade, e seu desenvolvimento em qualquer dimensão, mesmo nesta dimensão, significa que são trazidas instantaneamente com uma intensidade que garante sua sobrevivência relativa de acordo com essa intensidade; a intensidade de qualquer explosão criativa específica garante seu tempo relativo de sobrevivência em nossa dimensão (duração da existência).
 
 우 아스펙투 지 노스 메즈무스 키 누스 헤페리무스 코무 인지비두알리다지, 이스타 크레센두. 오 세자, 노사 인지비두알리다지 이스타 데젠보우벤두 우마 인텐시다지 카다 베스 마이오르, 이 에사 인텐시다지 누스 헤페리무스 코무 포데르 오 템푸. 크레세무스 포르키 에 우 만다투 지 토다 이지스텐시아, '우 만다투 두 세우', 코무 이우 우 샤메이 누 리브루 _우 카미뉴 두 데자피아도르 다 모르치_, 마스 노수 크레시멘투, 두 노수 폰투 지 비스타, 에 렌투 이 메토지쿠 포르 카우자 두 파투 지 키 낭 이스타무스 데젠보우비두스 우 수피시엔치 파라 인텐데르 아 베르다데이라 나투레자 두 이스파수 이 두 템푸 아 파르치르 지 웅 폰투 지 비스타, 아 파르치르 지 웅 폰투 지 페르세프상, 알렝 두스 센치두스 피지쿠스. 카다 모멘투 파라 노스 에 코무 우마 이테르니다지 롱가 오 무이투 푸가스, 투두 이수 데비두 아우 아모르테세도르 키 페르미치 키 노수스 센치두스 피지쿠스 페르세방 우 템푸 지 마네이라 마이스 세켄시아우 (마스 헬라치바), 파라 키 포사무스 인텐데르 아스 콤플레시다지스 두 템푸/포데르/이네르지아 이 이볼루이르 아 메지다 키 우 파제무스. 마스 타우 세켄시아, 이 잉 세르투 그라우 아 헬라치비다지 데스치 데젠보우비멘투, 에 우마 일루장, 마스 우마 일루장 네세사리아 키 누스 페르미치 코메사르 아 인텐데르 아스 콤플레시다지스 이 우 포데르 이네렌치 아 노사 인지비두알리다지.
+O aspecto de nós mesmos que nos referimos como individualidade, está crescendo. Ou seja, nossa individualidade está desenvolvendo uma intensidade cada vez maior, e essa intensidade nos referimos como poder ou tempo. Crescemos porque é o mandato de toda existência, 'o mandato do céu', como eu o chamei no livro _O Caminho do Desafiador da Morte_, mas nosso crescimento, do nosso ponto de vista, é lento e metódico por causa do fato de que não estamos desenvolvidos o suficiente para entender a verdadeira natureza do espaço e do tempo a partir de um ponto de vista, a partir de um ponto de percepção, além dos sentidos físicos. Cada momento para nós é como uma eternidade longa ou muito fugaz, tudo isso devido ao amortecedor que permite que nossos sentidos físicos percebam o tempo de maneira mais sequencial (mas relativa), para que possamos entender as complexidades do tempo/poder/energia e evoluir à medida que o fazemos. Mas tal sequência, e em certo grau a relatividade deste desenvolvimento, é uma ilusão, mas uma ilusão necessária que nos permite começar a entender as complexidades e o poder inerente à nossa individualidade.
 
 카다 모멘투 에 웅 모멘투 콤플레투 키 콘텡 토두 우 푸투루 이 파사두, 이 아인다 잉 카다 웅 데시스 폰투스 지 모멘투 아 이스폰타네이다지, 우 키 시그니피카 키 노부스 폰투스 지 모멘투 상 크리아두스 지 우마 포르마, 지 웅 제이투 키 소 포지 세르 헤페리두 코무 오르가니쿠.
+Cada momento é um momento completo que contém todo o futuro e passado, e ainda em cada um desses pontos de momento há espontaneidade, o que significa que novos pontos de momento são criados de uma forma, de um jeito que só pode ser referido como orgânico.
 
 쿠안두 아쿠물라무스 이네르지아, 이스타무스 헤아우멘치 아쿠물란두 인텐시다지 (두 폰투 지 비스타 우마누) 이 에사 인텐시다지 텡 아 포시빌리다지 지 세기르 잉 무이타스 지레송이스 이스폰타네아스 잉 쿠아우케르 폰투 지 모멘투. 이수 가란치 이볼루상 이 크레시멘투, 리베르다지, 이 페르미치 키 아 인지비두알리다지 잉 데젠보우비멘투 아프렌다 아 트라발랴르 콩 이네르지아, 키 에 인텐시다지, 키 네스타 지멘상 파르치쿨라르, 두 폰투 지 비스타 하시오나우 우마누, 에 페르세비다 코무 아우구 키 시 데젠보우비 나 마이오르 파르치 포르 메이우 지 우마 오르뎅 렌타 이 프로그레시바 나 지레상 키 이마지나무스 세르 아페나스 우마, 키 에 파라 프렌치 누 템푸.
+Quando acumulamos energia, estamos realmente acumulando intensidade (do ponto de vista humano) e essa intensidade tem a possibilidade de seguir em muitas direções espontâneas em qualquer ponto de momento. Isso garante evolução e crescimento, liberdade, e permite que a individualidade em desenvolvimento aprenda a trabalhar com energia, que é intensidade, que nesta dimensão particular, do ponto de vista racional humano, é percebida como algo que se desenvolve na maior parte por meio de uma ordem lenta e progressiva na direção que imaginamos ser apenas uma, que é para frente no tempo.
 
 오트라 마네이라 지 이수 아콘테세르, 지 에사 인텐시다지 시 데젠보우베르, 에 포르 메이우 지 우마 그란지 파이스카 지 크리아치비다지 이 이모상, 키 에 웅 치푸 지 이스폰타네이다지 이 크리아치비다지 페이타 카르니 덴트루 데스타 헤알리다지 지멘시오나우 아 크리아치비다지 에 아 이스폰타네이다지 페이타 카르니. 포르탄투, 아 하장 파라 아 두알리다지, 아 콘트라지상, 엔트리 테르 키 트라발랴르 누 데젠보우비멘투 다 이네르지아, 잉쿠안투 아우 메즈무 템푸 테무스 토다 아 이네르지아 지 키 프레시자무스 지 아코르두 콩 쿠아우케르 리냐 두 템푸 키 이스타무스 세긴두, 센두 키 토두 우 템푸 에, 잉 이센시아, 아고라, 텡 투두 아 베르 콩 우 데젠보우비멘투 다 인지비두알리다지 아트라베스 다 이스폰타네이다지 지 아코르두 콩 에스타 로칼리자상 지멘시오나우 이스페시피카, 이 코무 에스타 로칼리자상 지멘시오나우 이스프레사 인텐시다지 (크레시멘투).
+Outra maneira de isso acontecer, de essa intensidade se desenvolver, é por meio de uma grande faísca de criatividade e emoção, que é um tipo de espontaneidade e criatividade feita carne dentro desta realidade dimensional; a criatividade é a espontaneidade feita carne. Portanto, a razão para a dualidade, a contradição, entre ter que trabalhar no desenvolvimento da energia, enquanto ao mesmo tempo temos toda a energia de que precisamos de acordo com qualquer linha do tempo que estamos seguindo, sendo que todo o tempo é, em essência, agora, tem tudo a ver com o desenvolvimento da individualidade através da espontaneidade de acordo com esta localização dimensional específica, e como esta localização dimensional expressa intensidade (crescimento).
 
 이스타무스 아키 파라 이볼루이르, 파라 누스 트란즈무타르무스, 노사 인지비두알리다지 덴트루 두스 리미치스 데스타 지멘상 프리메이루, 이 아 메지다 키 우 파제무스, 테무스 아 포시빌리다지 지 누스 모베르 파라 오트라스 지멘송이스 키 포뎅 테르 레이스 지페렌치스, 키 포뎅 이스프레사르 인텐시다지 지 마네이라스 지페렌치스.
+Estamos aqui para evoluir, para nos transmutarmos, nossa individualidade dentro dos limites desta dimensão primeiro, e à medida que o fazemos, temos a possibilidade de nos mover para outras dimensões que podem ter leis diferentes, que podem expressar intensidade de maneiras diferentes.
 
 템푸 이 이스파수 상 우마 일루장, 우마 일루장 데스타 지멘상 이 두스 모베이스 (아스 코이자스 키 보세 포데리아 지제르) 키 포뎅 세르 잉콘트라두스 덴트루 데스타 지멘상, 이 토두스 에시스 모베이스 이 일루종이스 포뎅 세르 우자두스 파라 누스 아주다르 아 이볼루이르, 단두-누스 우마 이스트루투라 파라 코메사르.
+Tempo e espaço são uma ilusão, uma ilusão desta dimensão e dos móveis (as coisas que você poderia dizer) que podem ser encontrados dentro desta dimensão, e todos esses móveis e ilusões podem ser usados para nos ajudar a evoluir, dando-nos uma estrutura para começar.
 
 테무스 토다 아 이네르지아 지 키 프레시자무스, 마스 탐벵 소무스 리브리스, 이스폰타네우스. 타이스 콘트라지송이스 하시오나이스, 시 이스플로라다스 펠루스 센치두스 인테르누스, 이벤투아우멘치 레바랑 아 웅 인텐지멘투 이네르제치쿠 키 페르미치 페르세베르 코무 에 포시베우 키 데바무스 트라발랴르 아우 롱구 두 템푸 파라 아드키리르 이네르지아, 잉쿠안투 아우 메즈무 템푸 테무스 토다 아 이네르지아 지 키 프레시자무스. 에스타 두알리다지, 키 파레시 콘트라지제르 토다스 아스 레이스 하시오나이스 코녜시다스, 아카바라 누스 인시난두 소브리 아 베르다데이라 나투레자 다 이지스텐시아, 소브리 아 트란즈무타상.
+Temos toda a energia de que precisamos, mas também somos livres, espontâneos. Tais contradições racionais, se exploradas pelos sentidos internos, eventualmente levarão a um entendimento energético que permite perceber como é possível que devamos trabalhar ao longo do tempo para adquirir energia, enquanto ao mesmo tempo temos toda a energia de que precisamos. Esta dualidade, que parece contradizer todas as leis racionais conhecidas, acabará nos ensinando sobre a verdadeira natureza da existência, sobre a transmutação.
 
 **크: 우 테마 낭 에 카르테지아누. 시 우 템푸 낭 에 리네아르, 시 낭 에 세켄시아우, 아 비다 우마나 포데리아 세르 인텐지다 코무 텐두 메모리아스 세켄시아이스, 마스 낭 키 우스 이벤투스 데스타 비다 오코헤랑 세켄시아우멘치?**
+**Q: O tema não é cartesiano. Se o tempo não é linear, se não é sequencial, a vida humana poderia ser entendida como tendo memórias sequenciais, mas não que os eventos desta vida ocorreram sequencialmente?**
 
 아: 바지카멘치 싱, 에 우 키 아콘테시 우 템푸 토두. 아 이지스텐시아 지 우마 페르스펙치바 피지카 (우잔두 우스 센치두스 피지쿠스) 에 아파렌테멘치 '리네아르', 마스 코무 무이투스 이스투두스 자 아폰타랑, 우스 센치두스 상 팔류스 잉 무이투스 아스펙투스, 포이스 페르뎅 우마 그란지 파르치, 이 우 키 페르세벵 에 포스테리오르멘치 아우테라두 누 세레브루 파라 토르나-루 마이스 아세시베우 낭 아페나스 아우 프로프리우 세레브루 피지쿠, 마스 탐벵 아스 크렌사스 다 에포카.
+A: Basicamente sim, é o que acontece o tempo todo. A existência de uma perspectiva física (usando os sentidos físicos) é aparentemente 'linear', mas como muitos estudos já apontaram, os sentidos são falhos em muitos aspectos, pois perdem uma grande parte, e o que percebem é posteriormente alterado no cérebro para torná-lo mais acessível não apenas ao próprio cérebro físico, mas também às crenças da época.
 
 포르탄투, 파라 노스, 테무스 메모리아스 세켄시아이스 포르키 낭 포데무스 페르세베르 우 파사두 지레타멘치 (아 메모리아 에, 나 헤알리다지, 웅 제스타우트 두 펜사멘투 무이투 인스타베우, 코무 쿠아우케르 인베스치가도르 폴리시아우 아폰타라) 오 우 푸투루. 노수 파사두 낭 이스타 아키, 탐포쿠 우 노수 푸투루, 마스 지제무스 키 렘브라무스 웅 파사두 이 인페리무스 웅 푸투루 이 네가무스 오 페르미치무스 아 노스 메즈무스 아 카파시다지 지 페르세베르 쿠아우케르 웅 지 아코르두 콩 우 키 아크레지타무스 세르 베르다데이루. 잉 웅 문두 하시오나우, 우 파사두 이스타 데피니두, 이 우 푸투루 에 프로바베우. 마스 알렝 두스 싱쿠 센치두스 피지쿠스, 아 마이스 파라 페르세베르 이 아 일루장 지 "세켄시알리다지" 카이 로구 누 이니시우, 센두 키 아 이스타빌리다지 데사스 메모리아스 파사다스 이 아 그란지 프로바빌리다지 카오치카 두 푸투루 아수멩 노바 누안시, 코무 시 포지 데스코브리르 잉 쿠아우케르 이스투두 콘피아베우 이 베르다데이라멘치 아베르투 지 프레코그니상 이 인두상 지 트란시.
+Portanto, para nós, temos memórias sequenciais porque não podemos perceber o passado diretamente (a memória é, na realidade, um gestalt do pensamento muito instável, como qualquer investigador policial apontará) ou o futuro. Nosso passado não está aqui, tampouco o nosso futuro, mas dizemos que lembramos um passado e inferimos um futuro e negamos ou permitimos a nós mesmos a capacidade de perceber qualquer um de acordo com o que acreditamos ser verdadeiro. Em um mundo racional, o passado está definido, e o futuro é provável. Mas além dos cinco sentidos físicos, há mais para perceber e a ilusão de "sequencialidade" cai logo no início, sendo que a estabilidade dessas memórias passadas e a grande probabilidade caótica do futuro assumem nova nuance, como se pode descobrir em qualquer estudo confiável e verdadeiramente aberto de precognição e indução de transe.
 
 우 아모르테세도르 다 피지칼리다지 누스 페르미치 테르 메모리아스 세켄시아이스 잉 웅 우니베르수 온지 우 템푸 리네아르 에 우마 일루장, 오 오트라 마네이라 지 지제르 이수 심플레즈멘치 에 지제르 키 아 세켄시아 리네아르 에 우마 일루장 두스 센치두스 피지쿠스 우마누스 이 다스 이스트루투라스 지 크렌사 다 에포카.
+O amortecedor da fisicalidade nos permite ter memórias sequenciais em um universo onde o tempo linear é uma ilusão, ou outra maneira de dizer isso simplesmente é dizer que a sequência linear é uma ilusão dos sentidos físicos humanos E das estruturas de crença da época.
 
 아키 포지 세르 온지 엔트라 우 앙굴루 카르테지아누 아 멘치 낭 이스타 세파라다 두 코르푸, 마스 이지스텡 그라다송이스. 우 이우 피지쿠 이지스치 잉 우마 로칼리자상 지멘시오나우, 잉쿠안투 오트라스 파르치스 데시 이우 키 낭 상 피지카스 이지스텡 잉 오트라스, 이 에 아 멘치 키 코넥타 (포지 코넥타르) 토다스 아스 파르치스. 마스, 아우 콘트라리우 두 키 아우궁스 카르테지아누스 포뎅 아크레지타르, 아 멘치 낭 이스타 세파라다 두 코르푸 에, 잉 베스 지수 (펠루 메누스 지 아코르두 콩 우스 아우키미스타스 인테르누스), 우마 리가상 셰이아 지 그라다송이스 피나스 키 코넥타 무이타스 로칼리자송이스 지멘시오나이스 두 이우 인테이루 에 잉 이센시아 우 판타즈마 나 마키나, 에 우 토두 세파라두 아트라베스 두 이스파수 이 두 템푸.
+Aqui pode ser onde entra o ângulo cartesiano; a mente não está separada do corpo, mas existem gradações. O eu físico existe em uma localização dimensional, enquanto outras partes desse eu que não são físicas existem em outras, e é a mente que conecta (pode conectar) todas as partes. Mas, ao contrário do que alguns cartesianos podem acreditar, a mente não está separada do corpo; é, em vez disso (pelo menos de acordo com os alquimistas internos), uma ligação cheia de gradações finas que conecta muitas localizações dimensionais do eu inteiro; é em essência o fantasma na máquina, é o todo separado através do espaço e do tempo.
 
+---
 ---
 
 **크: 셰게이 아 아우구마스 콩클루종이스:**
+**Q: Cheguei a algumas conclusões:**
 
 **1.** **에스타 헤알리다지 에 마**
+**1.** **Esta realidade é má**
 
 **2.** **코무 에스치 우니베르수 포이 프로제타두, 이수 시그니피카 키 카다 팔랴 키 베무스 나 나투레자 탐벵 포이 프로제타다**
+**2.** **Como este universo foi projetado, isso significa que cada falha que vemos na natureza também foi projetada**
 
 **3.** **에스치 문두 낭 에 우마 이스콜라 오 프로제타두 파라 누스 아주다르 아 이볼루이르. 포이 프로제타두 파라 프로두지르 이모상 네가치바 (메두, 도르 이 소프리멘투)**
+**3.** **Este mundo não é uma escola ou projetado para nos ajudar a evoluir. Foi projetado para produzir emoção negativa (medo, dor e sofrimento)**
 
 **4.** **아 우마니다지 포이 크리아다 파라 프로두지르 아인다 마이스 로즈[^5] 지 쿠알리다지 두 키 포데리아 세르 콜리두.**
+**4.** **A humanidade foi criada para produzir ainda mais loosh[^5] de qualidade do que poderia ser colhido.**
 
 **인탕, 미냐 페르군타 에: 코무 포데무스 이스카파르 데스타 헤알리다지? 이 시 보세 텡 아스 헤스포스타스 파라 아우구마스 데사스 페르군타스, 포르 키 세우 트라발류 낭 에 센수라두?**
+**Então, minha pergunta é: como podemos escapar desta realidade? E se você tem as respostas para algumas dessas perguntas, por que seu trabalho não é censurado?**
 
 **세이 키 잉 세우스 리브루스 보세 아피르마 테르 아스 헤스포스타스. 아인다 아싱, 보세 이스타 아키 네스타 헤알리다지, 인탕 이스토 웅 포쿠 콘푸주 쿠안투 아스 수아스 아피르마송이스. 보세 이스타 벤덴두 세우스 리브루스, 인탕 오브비아멘치 프레시자 지 지녜이루. 포르탄투, 포수 콩클루이르 키 보세 아인다 파스 파르치 데스타 헤알리다지 이 아인다 파스 파르치 데스치 시스테마.**
+**Sei que em seus livros você afirma ter as respostas. Ainda assim, você está aqui nesta realidade, então estou um pouco confuso quanto às suas afirmações. Você está vendendo seus livros, então obviamente precisa de dinheiro. Portanto, posso concluir que você ainda faz parte desta realidade e ainda faz parte deste sistema.**
 
 **펠루 키 베주, 닝겡 텡 아 헤스포스타. 미냐 프로바? 우 문두 아인다 이지스치, 이 아인다 소무스 이스크라부스 미제라베이스.**
+**Pelo que vejo, ninguém tem a resposta. Minha prova? O mundo ainda existe, e ainda somos escravos miseráveis.**
 
 아: 수아스 콩클루종이스 이 페르군타스 상 발리다스, 잉크리베우멘치 콘시자스 이 프로푼다스.
+A: Suas conclusões e perguntas são válidas, incrivelmente concisas e profundas.
 
 이우 포데리아 코메사르 지젠두 키 이수 파르치 메우 코라상, 잉쿠안투 아우 메즈무 템푸 신투 우마 아피니다지 포르키 탐벵 콤파르칠류 무이타스 다스 크렌사스 키 보세 텡, 잉 세르타 메지다. 마스 시 메우 코라상 시 파르치시, 인탕 낭 아베리아 헤스포스타, 네늉 콘테이네르 이네르제치쿠, 네뉴마 리베르다지, 펠루 메누스 파라 밍.
+Eu poderia começar dizendo que isso parte meu coração, enquanto ao mesmo tempo sinto uma afinidade porque também compartilho muitas das crenças que você tem, em certa medida. Mas se meu coração se partisse, então não haveria resposta, nenhum contêiner energético, nenhuma liberdade, pelo menos para mim.
 
 파라 이스플리카르 펠루 메누스 에스치 폰투, 데이시-미 코메사르 지젠두 키 시구 웅 콘준투 지 프린시피우스 키 미 헤피루 코무 아우키미아 인테리오르. 에시스 프린시피우스 상 바제아두스 나 프레미사 지 키 우 문두 에 로지쿠 이, 포르탄투, 데비 푼시오나르 잉 아우궁 그라우 덴트루 지 웅 이스타두 지 이킬리브리우.
+Para explicar pelo menos este ponto, deixe-me começar dizendo que sigo um conjunto de princípios que me refiro como alquimia interior. Esses princípios são baseados na premissa de que o mundo é lógico e, portanto, deve funcionar em algum grau dentro de um estado de equilíbrio.
 
 에시 이킬리브리우 아피르마 푼다멘타우멘치 키, 파라 토두스 우스 말리스 키 베무스 누 문두, 이지스텡 지 파투 포르사스 이킬리브라도라스 키 상 헤프레젠타다스 네시 메즈무 문두, 키 상 우 오포스투 데스치 마우 이 두 소프리멘투.
+Esse equilíbrio afirma fundamentalmente que, para todos os males que vemos no mundo, existem de fato forças equilibradoras que são representadas nesse mesmo mundo, que são o oposto deste mal e do sofrimento.
 
 아고라, 에시 이킬리브리우 넹 셈프리 에 이구아우, 나 베르다지, 파라 키 우 크레시멘투 아콘테사, 에사 이구아우다지 (에시 이킬리브리우) 낭 포지 세르 수스텐타다 인데피니다멘치, 포이스 잉 세르투스 모멘투스 우 마우 두 문두 파레세라 트리운파르, 잉쿠안투 잉 오트루스 모멘투스 아 본다지 두 문두 파레세라 트리운파르. 아트라베스 데스치 리제이루 데제킬리브리우, 오코히 모비멘투, 이 타우 모비멘투 제라 크레시멘투. 마스, 지 모두 제라우, 시 올랴르무스 파라 우 문두 아트라베스 지 우마 페르스펙치바 롱가, 인탕 지 파투 아 이킬리브리우 네스치 문두, 지 모두 키, 콩 우 템푸, 탄투 우 마우 쿠안투 아 본다지, 소브 아 페르스펙치바 우마나, 시 이킬리브라랑.
+Agora, esse equilíbrio nem sempre é igual, na verdade, para que o crescimento aconteça, essa igualdade (esse equilíbrio) não pode ser sustentada indefinidamente, pois em certos momentos o mal do mundo parecerá triunfar, enquanto em outros momentos a bondade do mundo parecerá triunfar. Através deste ligeiro desequilíbrio, ocorre movimento, e tal movimento gera crescimento. Mas, de modo geral, se olharmos para o mundo através de uma perspectiva longa, então de fato há equilíbrio neste mundo, de modo que, com o tempo, tanto o mal quanto a bondade, sob a perspectiva humana, se equilibrarão.
 
 이지스텡 인탕 세르투스 프린시피우스 푼다멘타이스 키 코스투무 헤페치르, 키 이스포뉴, 키 낭 상 미냐 데스코베르타, 키 세르타멘치 낭 상 메우 코녜시멘투 이스클루지부, 마스 키 이눈시우, 포르키 헤프레젠탕 에시스 프린시피우스 푼다멘타이스 다 아우키미아 인테리오르 키 텐투 세기르 우 멜료르 키 포수.
+Existem então certos princípios fundamentais que costumo repetir, que exponho, que não são minha descoberta, que certamente não são meu conhecimento exclusivo, mas que enuncio, porque representam esses princípios fundamentais da alquimia interior que tento seguir o melhor que posso.
 
 에시스 프린시피우스 푼다멘타이스 헤아우멘치 지젱 키 에스타 테하 에 우마 이스콜라, 키 아 두레자 이 아 아스페레자 데스치 암비엔치 시그니피캉 키 에스타 에 우마 이스콜라 무이투 보아. 마스, 코무 토다스 아스 푼송이스 나 나투레자, 낭 아 데스페르지시우, 이 무이타스 베지스 아콘테시 키 이지스텡 무이타스 파세타스 지페렌치스, 지페렌치스 프레켄시아스 오 지멘송이스, 포르사스 아투안치스, 시 프레페리르, 키 트라발량 준타스 파라 크리아르 웅 이코시스테마 잉크리베우멘치 콤플레슈 키 페르미치 무이투스 치푸스 지페렌치스 지 크레시멘투.
+Esses princípios fundamentais realmente dizem que esta terra é uma escola, que a dureza e a aspereza deste ambiente significam que esta é uma escola muito boa. Mas, como todas as funções na natureza, não há desperdício, e muitas vezes acontece que existem muitas facetas diferentes, diferentes frequências ou dimensões, forças atuantes, se preferir, que trabalham juntas para criar um ecossistema incrivelmente complexo que permite muitos tipos diferentes de crescimento.
 
 파수 파르치 데시 시스테마, 눙카 지시 키 에라 히쿠 오 키 낭 프레시자바 지 지녜이루. 투두 우 키 이우 지시 에 키 푸이 샤마두 파라 이수, 메우 샤마두 네스치 시스테마 (지멘상) 두 쿠아우 파수 파르치, 에스치 시스테마 이코노미쿠, 에 우 시스테마 덴트루 두 쿠아우 데부 트라발랴르 이 잉콘트라르 메우 루가르... 아트라베스 두 메우 샤마두. 이 에시 샤마두, 코무 쿠아우케르 프로피상, 프레시자 세르 카파스 지 프로베르 파라 밍 이 메우스 엔치스 케리두스. 이수 낭 프레수퐁이 키 이우 낭 우자레이 테크니카스 키 지스쿠투 잉 메우스 리브루스 파라 멜료라르 미냐스 샨시스, 마스 셈프리 시그니피카라 키 파수 파르치 지 웅 시스테마, 소 우마누 이 이스토 수제이투 아스 레이스 데스타 지멘상 이 다 우마니다지, 코무 토두스 노스 소무스.
+Faço parte desse sistema, nunca disse que era rico ou que não precisava de dinheiro. Tudo o que eu disse é que fui chamado para isso, meu chamado neste sistema (dimensão) do qual faço parte, este sistema econômico, é o sistema dentro do qual devo trabalhar e encontrar meu lugar... através do meu chamado. E esse chamado, como qualquer profissão, precisa ser capaz de prover para mim e meus entes queridos. Isso não pressupõe que eu não usarei técnicas que discuto em meus livros para melhorar minhas chances, mas sempre significará que faço parte de um sistema, sou humano e estou sujeito às leis desta dimensão e da humanidade, como todos nós somos.
 
 코무 팔레스트란치, 센두 에시 우 메우 샤마두, 지시 아 오트루스 키, 다 미냐 페르스펙치바 코무 아우겡 키 미 헤피루 코무 웅 아우키미스타 인테리오르, 이지스치 아우구 코무 우마 그란지 포르사, 우마 포르사 오브스쿠라 키 지 파투 이스타 시 알리멘탄두 지 아스펙투스 다 우마니다지. 마스 파수 케스탕 지 데스타카르, 이 이수 에 무이투 임포르탄치, 키 에사 포르사, 에사 인치다지 비바, 텡 탄투 지레이투 지 비베르 이 시 알리멘타르, 지 크레세르 이 이볼루이르 알렝 지 수아 포지상 지멘시오나우 아투아우, 쿠안투 쿠아우케르 세르 비부 네스타 테하. 소무스 토두스 이구아이스 네시 센치두, 이 탐벵 에 우 카주 지 키, 지 우마 페르스펙치바 마이스 암플라, 에시 세르 낭 에 마우 지 포르마 아우구마, 엘리 이스타 아페나스 센두 우 키 데비 세르 이 파젠두 우 키 데비 파라 소브레비베르 이 이볼루이르.
+Como palestrante, sendo esse o meu chamado, disse a outros que, da minha perspectiva como alguém que me refiro como um alquimista interior, existe algo como uma grande força, uma força obscura que de fato está se alimentando de aspectos da humanidade. Mas faço questão de destacar, e isso é muito importante, que essa força, essa entidade viva, tem tanto direito de viver e se alimentar, de crescer e evoluir além de sua posição dimensional atual, quanto qualquer ser vivo nesta terra. Somos todos iguais nesse sentido, e também é o caso de que, de uma perspectiva mais ampla, esse ser não é mal de forma alguma, ele está apenas sendo o que deve ser e fazendo o que deve para sobreviver e evoluir.
 
 에시 포지 세르 웅 프린시피우 지피시우 지 인텐데르, 이스페시아우멘치 시 보세 아크레지타 키 아 나투레자 에 우마 그란지 이 말레볼라 루타 온지 아스 코이자스 코멩 이 상 코미다스, 이 토두스 데벵 루타르 이 소프레르 파라 페르마네세르 비부스. 마스 보세 데비 페르세베르 키 에사 에 아페나스 우마 페르스펙치바 모데르나 오시덴타우 이, 노바멘치, 펠루 메누스 두 메우 폰투 지 비스타, 에사 낭 에 아 코헤타. 포이스, 나 나투레자, 쿠안두 시 아프렌지 아 코뭉가르 콩 엘라, 아 낭 아페나스 소브레비베르, 마스 플루이르 콩 엘라, 잉 오포지상 아 루타르 콘트라 엘라 코무 무이타스 베지스 베무스 잉 피우메스 오 프로그라마스 지 소브레비벤시아 온지 아스 페소아스 파레셍 루타르 인피니타멘치 파라 소브레비베르 포르 아페나스 아우궁스 지아스. 쿠안두 시 콘세기 플루이르 잉 베스 지 아페나스 루타르 파라 소브레비베르, 아 웅 잉크리베우 이킬리브리우 이 파스 아모로자 키 포뎅 세르 아우칸사두스. 쿠안두 에시 플루슈 (에사 파스 아모로자) 아콘테시, 낭 아 루타, 넹 세파라상, 넹 소프리멘투, 아페나스 웅 치푸 지 아모르 이 에스타지 웅 아모르 인테르미나베우 (아가피) 이 이킬리브리우. 시 두비다 지 밍, 인탕 오브세르비 우스 포부스 카사도리스-콜레토리스, 쿠우투라스 나치바스, 이 우 키 우 오시덴치 샤마 지 "프리미치부스". 라 보세 잉콘트라라, 세르타멘치 낭 잉 토두스 우스 루가리스, 마스 보세 포데라 잉콘트라르, 시 올랴르 프로푼다멘치, 우마 우마니다지 키 포지 플루이르 콩 아 나투레자, 키 이스타 잉 에스타지 누스 브라수스 다 망이 테하.
+Esse pode ser um princípio difícil de entender, especialmente se você acredita que a natureza é uma grande e malévola luta onde as coisas comem e são comidas, e todos devem lutar e sofrer para permanecer vivos. Mas você deve perceber que essa é apenas uma perspectiva moderna ocidental e, novamente, pelo menos do meu ponto de vista, essa não é a correta. Pois, na natureza, quando se aprende a comungar com ela, a não apenas sobreviver, mas fluir com ela, em oposição a lutar contra ela como muitas vezes vemos em filmes ou programas de sobrevivência onde as pessoas parecem lutar infinitamente para sobreviver por apenas alguns dias. Quando se consegue fluir em vez de apenas lutar para sobreviver, há um incrível equilíbrio e paz amorosa que podem ser alcançados. Quando esse fluxo (essa paz amorosa) acontece, não há luta, nem separação, nem sofrimento, apenas um tipo de amor e êxtase; um amor interminável (agape) e equilíbrio. Se duvida de mim, então observe os povos caçadores-coletores, culturas nativas, e o que o Ocidente chama de "primitivos". Lá você encontrará, certamente não em todos os lugares, mas você poderá encontrar, se olhar profundamente, uma humanidade que pode fluir com a natureza, que está em êxtase nos braços da mãe Terra.
 
 노바멘치, 다 미냐 페르스펙치바, 우 가투 키 코미 우 하투 낭 에 마우. 넹 에 우 오멩 오 물례르 키 포지 코뭉가르 콩 아 나투레자, 토르나르-시 웅 콩 엘라, 이스판지르 세우스 센치두스 인테리오리스 이 토르나르-시 엘라. 타이스 크리아투라스 플루엥 이 페르세벵 콩 아모르 잉 세우스 코라송이스, 이 세이 키 낭 포수 프로바르 이수 아 보세, 이수 소 포지 세르 이스페리엔시아두 (이 에 포르 이수 키 셈프리 지구 키 인시누 테크니카 이 텐투 미 아파스타르 두 도그마), 키 엘리스 낭 상 멜료리스 두 키 우 하투 키 코멩, 이 키 탐벵 웅 지아 시 토르나랑 알리멘투 파라 우스 파렌치스 두 하투. 토두스 상 이구아이스, 토두스 이스탕 잉 아모르, 투두 에 웅 이 플루이 잉 웅 인트렐라사멘투 지 콘시엔시아 이 이스판상 다 이센시아.
+Novamente, da minha perspectiva, o gato que come o rato não é mal. Nem é o homem ou mulher que pode comungar com a natureza, tornar-se um com ela, expandir seus sentidos interiores e tornar-se ela. Tais criaturas fluem e percebem com amor em seus corações, e sei que não posso provar isso a você, isso só pode ser experienciado (e é por isso que sempre digo que ensino técnica e tento me afastar do dogma), que eles não são melhores do que o rato que comem, e que também um dia se tornarão alimento para os parentes do rato. Todos são iguais, todos estão em amor, tudo é um e flui em um entrelaçamento de consciência e expansão da essência.
 
 쿠안투 아 이우 테르 우마 솔루상 키 낭 에 탕 그란지오자, 펠루 파투 지 이우 아인다 이스타르 아키 이 우 문두 낭 이스타르 콘세르타두, 프레수퐁이 키 아 솔루상 에 우마 헤스포스타 파시우 지 아페르타르 웅 보탕, 키 에사 솔루상 에 데스치나다 아 토두스 이 키 우 문두 프레시자 지 콘세르투. 셈프리 포이 우 카주 지 이우 파제르 케스탕 지 이스크레베르 소브리 코이자스 키 피스 오 세자, 눙카 이스크레베르 소브리 아우구 키 이우 낭 테냐 페이투.
+Quanto a eu ter uma solução que não é tão grandiosa, pelo fato de eu ainda estar aqui e o mundo não estar consertado, pressupõe que a solução é uma resposta fácil de apertar um botão, que essa solução é destinada a todos e que o mundo precisa de conserto. Sempre foi o caso de eu fazer questão de escrever sobre coisas que fiz; ou seja, nunca escrever sobre algo que eu não tenha feito.
 
 마스, 콩 아 푸블리카상 데스타 트릴로지아 지 리브루스, _우 마그눙 오푸스, 우 카미뉴 두 프로제치스타_ 이 _우 카미뉴 두 데자피아도르 다 모르치_, 데부 아드미치르 키 푸이 포르사두 아 사이르 다 미냐 조나 지 콘포르투, 포이스 치비 키 이스크레베르 소브리 코이자스 나스 쿠아이스 아인다 이스토 트라발랸두. 데부 프로제타르 이 베르, 우잔두 아켈리스 센치두스 인테르누스 키 멘시오네이 안테리오르멘치, 이 프로제타르 알렝 지 온지 이스토 파라 다르 우마 이마젱 마이스 콘시자 이 코에자 지 온지 토두스 아켈리스 키 시 데파랑 콩 미냐스 팔라브라스 (데스치누?) 데벵 이르, 프레시장 이르, 시 이스치베렝 인테르나멘치 인스피라두스 아 세기르 네사 지레상. 아싱, 이지스텡 테크니카스 콩 아스 쿠아이스 아인다 루투, 이 포르 이젬플루, 이스토 트라발랸두 파라 수페라르 아켈라스 살라스 소브리 아스 쿠아이스 팔루 잉 _우 카미뉴 두 프로제치스타_. 세르타멘치, 소 웅 트라발류 잉 프로그레수, 코무 토두스 노스 아인다 네스타 테하.
+Mas, com a publicação desta trilogia de livros, _O Magnum Opus, O Caminho do Projetista_ e _O Caminho do Desafiador da Morte_, devo admitir que fui forçado a sair da minha zona de conforto, pois tive que escrever sobre coisas nas quais ainda estou trabalhando. Devo projetar e ver, usando aqueles sentidos internos que mencionei anteriormente, e projetar além de onde estou para dar uma imagem mais concisa e coesa de onde todos aqueles que se deparam com minhas palavras (destino?) devem ir, precisam ir, se estiverem internamente inspirados a seguir nessa direção. Assim, existem técnicas com as quais ainda luto, e por exemplo, estou trabalhando para superar aquelas salas sobre as quais falo em _O Caminho do Projetista_. Certamente, sou um trabalho em progresso, como todos nós ainda nesta terra.
 
 루투 펠라 리베르다지, 인텐덴두 키 아 리베르다지 파라 밍 코무 우마누, 코무 인지비두, 에 우마 루타, 웅 포쿠, 키 낭 미 토르나 멜료르 키 우 하투 오 우 아르콘치. 아싱, 지 세르타 페르스펙치바, 메우 크레시멘투, 메우 데젠보우비멘투 아우 롱구 두 템푸 네스치 루가르 지멘시오나우 온지 아 오르뎅 세켄시아우 리네아르 에 탕 임포르탄치, 포지 시그니피카르 키 세라 마이스 지피시우 파라 아우궁스, 이 탐벵 포지 시그니피카르 키 세라 마이스 파시우 파라 오트루스 마스 투두 에 이구아우 누 피나우. 누 피나우, 아 우니카 코이자 키 헤아우멘치 임포르타 에 우 포쿠 다 아텐상 이 아 아상 임페카베우, 우 키 시그니피카 키 시구 카미뉴스, 웅 카미뉴, 키 아피르마 키 잉쿠안투 이스치베르 누 시스테마, 데부 다르 이 헤세베르 잉 이구아우 메지다.
+Luto pela liberdade, entendendo que a liberdade para mim como humano, como indivíduo, é uma luta, um foco, que não me torna melhor que o rato ou o Arconte. Assim, de certa perspectiva, meu crescimento, meu desenvolvimento ao longo do tempo neste lugar dimensional onde a ordem sequencial linear é tão importante, pode significar que será mais difícil para alguns, e também pode significar que será mais fácil para outros; mas tudo é igual no final. No final, a única coisa que realmente importa é o foco da atenção e a ação impecável, o que significa que sigo caminhos, um caminho, que afirma que enquanto estiver no sistema, devo dar e receber em igual medida.
 
 마스, 데포이스 지 투두 지투 이 페이투, 에사 루타 에 미냐, 코무 아 수아 루타 에 소멘치 수아. 이우 팔루 이 콩 에사스 팔라브라스 텐투 다르, 포이스 데부 헤세베르, 이 보세 파스 페르군타스 무이투 지피세이스 키 파레셍 헤세베르, 마스 나 헤알리다지 당, 포르키 나 헤스포스타 아 에사스 페르군타스 오트라스 페소아스 시 베네피시앙 다 수아 페르스피카시아. 이 토두스 노스 파제무스 (보세, 이우 이 토두스 노스 네스타 테하) 우 멜료르 키 포데무스 콩 아스 카르타스 키 누스 포랑 다다스.
+Mas, depois de tudo dito e feito, essa luta é minha, como a sua luta é somente sua. Eu falo e com essas palavras tento dar, pois devo receber, e você faz perguntas muito difíceis que parecem receber, mas na realidade dão, porque na resposta a essas perguntas outras pessoas se beneficiam da sua perspicácia. E todos nós fazemos (você, eu e todos nós nesta terra) o melhor que podemos com as cartas que nos foram dadas.
 
 싱, 누 문두 아 아 네세시다지 지 지녜이루, 마스 우 아르테장 낭 크리아 아페나스 펠루 지녜이루, 사벤두 키 이스타 데스트루인두 아우구 파라 크리아르 오트라 코이자. 엘리 오 엘라 크리아 포르키 이스타 덴트루 다 헤소난시아 지 수아 아우마 에 우 키 데벵 파제르, 에 아 포르사 빙쿨라치바 이 아 그라비다지 지 수아 이지스텐시아 아투아우 덴트루 데스타 지멘상. 마스 에사 그라비다지 낭 에 말레피카, 넹 우 아르테장, 넹 우 가투, 에 아페나스 아 그라비다지 데스타 이지스텐시아 지멘시오나우 이 덴트루 델라 아 아모르 이 이킬리브리우. 우마 베스 인텐지두 이수, 인탕 아 베르다데이라 코무냥 포지 코메사르.
+Sim, no mundo há a necessidade de dinheiro, mas o artesão não cria apenas pelo dinheiro, sabendo que está destruindo algo para criar outra coisa. Ele ou ela cria porque está dentro da ressonância de sua alma; é o que devem fazer, é a força vinculativa e a gravidade de sua existência atual dentro desta dimensão. Mas essa gravidade não é maléfica, nem o artesão, nem o gato, é apenas a gravidade desta existência dimensional e dentro dela há amor e equilíbrio. Uma vez entendido isso, então a verdadeira comunhão pode começar.
 
 우 파투 지 우 문두 이지스치르, 지 아인다 이지스치르, 에 펠루 메누스 다 미냐 페르스펙치바, 낭 우마 프로바 지 키 낭 아 헤스포스타 누 콤바치 아 아우궁 마우 그란지오주, 마스 프로바 두 파투 지 키 아 콤플레시다지 데스치 시스테마 문지아우 이 아 인텐시다지 이 잉크리베우 발리다지 넬리 상 이멘수라베이스. 에 우 카주, 인탕, 지 키 우 문두 낭 이스타 아키 파라 세르 아눌라두 오 콘세르타두. 우 문두, 지 아코르두 콩 아 아우키미아 인테리오르, 데비 세르 수페라두, 데비 세르 아트라베사두 다 멜료르 마네이라 포시베우 파라 우 인지비두 에 우마 조르나다 인지비두아우. 우 문두 낭 이스타 아키 파라 세르 콘세르타두, 에 웅 시스테마 페르페이투, 우마 포르자, 키 낭 임포르타 우 케, 셈프리 크리아라 마이스 지 시 메즈무 잉쿠안투, 아우 메즈무 템푸, 헤피나 아 이센시아 이지스텐치 델리.
+O fato de o mundo existir, de ainda existir, é pelo menos da minha perspectiva, não uma prova de que não há resposta no combate a algum mal grandioso, mas prova do fato de que a complexidade deste sistema mundial e a intensidade e incrível validade nele são imensuráveis. É o caso, então, de que o mundo não está aqui para ser anulado ou consertado. O mundo, de acordo com a alquimia interior, deve ser superado, deve ser atravessado da melhor maneira possível para o indivíduo; é uma jornada individual. O mundo não está aqui para ser consertado, é um sistema perfeito, uma forja, que não importa o quê, sempre criará mais de si mesmo enquanto, ao mesmo tempo, refina a essência existente dele.
 
 멘시오네이 누 이니시우 다 미냐 헤스포스타 키 메우 코라상 낭 포지 시 파르치르. 메우 코라상 낭 포지 시 파르치르 포르 카우자 두 콘피나멘투 이네르제치쿠, 키 에 우마 테크니카 우칠리자다 나 아우키미아 인테리오르, 파라 텐타르 우자르 아 포르자 데스치 문두 아 핑 지 보아르 리브레멘치 펠루 코즈무스. 에사 테크니카 포스툴라 키 토다스 아스 이스플로종이스 이모시오나이스 프레시장 세르 콘치다스 포르키 타이스 이스플로종이스 상 이네르지아, 이 에사 이네르지아 데비 세르 콘치다 이 우자다 다 마네이라 마이스 소브리아 포시베우. 이, 페르미타-미 아크레센타르, 파르치 데시 콘피나멘투 시그니피카 키 눙카 이스페루 벤세르 미냐 바탈랴 페소아우 이 인지비두아우, 마스 아페나스 카이르 루탄두, 포르 아싱 지제르.
+Mencionei no início da minha resposta que meu coração não pode se partir. Meu coração não pode se partir por causa do confinamento energético, que é uma técnica utilizada na alquimia interior, para tentar usar a forja deste mundo a fim de voar livremente pelo cosmos. Essa técnica postula que todas as explosões emocionais precisam ser contidas porque tais explosões são energia, e essa energia deve ser contida e usada da maneira mais sóbria possível. E, permita-me acrescentar, parte desse confinamento significa que nunca espero vencer minha batalha pessoal e individual, mas apenas cair lutando, por assim dizer.
 
 쿠안투 아우 포르케 지 메우 트라발류 낭 세르 센수라두, 에 포르키 헤아우멘치 낭 소 나다 넹 닝겡. 켕 바이 오비르 아우겡 키 우 문두 마우 코녜시, 이 두스 키 코녜셍, 쿠안투스 인텐데랑 이 프라치카랑? 다켈라스 포르사스 키 시 오퐁잉 아우 크레시멘투 이 데젠보우비멘투 다 우마니다지, 보세 포지 테르 세르테자 지 우마 코이자, 이 에 키 엘라스 수베스치망 토두스 노스.
+Quanto ao porquê de meu trabalho não ser censurado, é porque realmente não sou nada nem ninguém. Quem vai ouvir alguém que o mundo mal conhece, e dos que conhecem, quantos entenderão e praticarão? Daquelas forças que se opõem ao crescimento e desenvolvimento da humanidade, você pode ter certeza de uma coisa, e é que elas subestimam todos nós.
 
+---
 ---
 
 [^4]: “그로크” 에 우마 팔라브라 쿠냐다 포르 호베르트 아. 에인레잉 누 리브루 _웅 이스트라뉴 누마 테하 이스트라냐_. 잉 웅 센치두 푼다멘타우, 시그니피카 인텐데르 아우구 잉 웅 니베우 프로푼두 이 인투이치부 테르 우마 이스페시 지 코네샹 이 코무니카상 주빌로자 콩 우 오트루.
+[^4]: “Grok” é uma palavra cunhada por Robert A. Heinlein no livro _Um Estranho numa Terra Estranha_. Em um sentido fundamental, significa entender algo em um nível profundo e intuitivo; ter uma espécie de conexão e comunicação jubilosa com o outro.
 
 [^5]: “로즈” 에 웅 테르무 쿠냐두 포르 호베르트 몬호이 파라 시 헤페리르 아 이네르지아 이스피리투아우 오 프시키카 키 웅 인지비두 (오멩 오 아니마우) 프로두스 나 루타. 로즈 에 우마 폰치 지 알리멘투 우자다 포르 세르투스 세리스 트란즈지멘시오나이스 파라 프롤롱가르 수아스 프로프리아스 비다스.
+[^5]: “Loosh” é um termo cunhado por Robert Monroe para se referir à energia espiritual ou psíquica que um indivíduo (homem ou animal) produz na luta. Loosh é uma fonte de alimento usada por certos seres transdimensionais para prolongar suas próprias vidas.
 
 ## 콩클루장
+## CONCLUSÃO
 
 타우베스 보세 자 테냐 오비두 에사 이스토리아 안치스, 콘타다 지 마네이라스 지페렌치스. 에 아 이스토리아 지 웅 세르 마지쿠 포데로주, 우마 크리아투라 지 포데르 이 푸레자 나투라우 탕 수르프렌덴치스 키 눙카 코녜세우, 잉 토다 아 수아 이지스텐시아, 나다 알렝 지 리베르다지 이 레베자.
+Talvez você já tenha ouvido essa história antes, contada de maneiras diferentes. É a história de um ser mágico poderoso, uma criatura de poder e pureza natural tão surpreendentes que nunca conheceu, em toda a sua existência, nada além de liberdade e leveza.
 
 탕 브릴랸치 에라 아 루스 데사 크리아투라 키 엘라 브릴랴바 펠루스 문두스, 이 데비두 아 에사 이노센시아 이 포데르, 아트라이우 콩 우 템푸 아 아텐상 다켈리스 키 코녜시앙 아 루타, 다켈리스 키 프레시자방 시 알리멘타르 두스 오트루스 파라 소브레비베르, 다켈리스 키 치냥 키 루타르 이 이스타방 콘스탄테멘치 루탄두... 다켈리스 키 아고라 코비사방 아켈라 이노센시아, 아켈라 루스, 아켈리 아세수 파시우 아 이네르지아 푸라.
+Tão brilhante era a luz dessa criatura que ela brilhava pelos mundos, e devido a essa inocência e poder, atraiu com o tempo a atenção daqueles que conheciam a luta, daqueles que precisavam se alimentar dos outros para sobreviver, daqueles que tinham que lutar e estavam constantemente lutando... daqueles que agora cobiçavam aquela inocência, aquela luz, aquele acesso fácil à energia pura.
 
 이 아싱, 우마 이스쿠리당 베이우 이 시 인스탈로 소브리 아 레베자 두 세르. 페고 아켈라 레베자 마지카 파시우멘치, 쿠아지 셍 헤지스텐시아, 포르키 에사 레베자, 펠루 파투 지 눙카 테르 코녜시두 아 루타, 에라 우마 프레자 파시우. 낭 치냐 코무 리다르 콩 아 그라비다지 지 세우 프리메이루 잉콘트루 콩 우마 포르마 지 비다 프레다토리아.
+E assim, uma escuridão veio e se instalou sobre a leveza do ser. Pegou aquela leveza mágica facilmente, quase sem resistência, porque essa leveza, pelo fato de nunca ter conhecido a luta, era uma presa fácil. Não tinha como lidar com a gravidade de seu primeiro encontro com uma forma de vida predatória.
 
 데비두 아 나투레자 두 아타키 데시 프레다도르 이 아우 콘수무 수브세켄치, 콩 우 템푸, 아 레베자 두 세르 코메소 아 인텐데르 우 페주 다 이센시아 마테리아우, 이 렌타멘치 아 프린시피우, 낭 코무 우마 이스페시 지 비그 방그, 마스 코무 웅 세우 키 이스쿠레시 렌타멘치 아 노이치, 쿠안두 우 소우 시 퐁이 렌타멘치 누 마르, 에사 루스 오트로라 푸라 비로 수아 카베사 다 푸라 레베자, 잉쿠안투 코메사바 아 크레세르 잉 덴시다지. 이 렌타멘치, 코무 우마 프루타 키 아포드레시 데바가르, 코메소 아 아크레지타르, 아 페르세베르 아트라베스 지 웅 노부 이 크레센치 콘준투 지 메카니즈무스 페르세프치부스 키 에랑 탕 피지쿠스 쿠안투 이스타바 시 토르난두, 키 아 레베자 두 세르 에라 우마 일루장, 웅 소뉴 로쿠, 웅 미투, 우마 일루장 톨라.
+Devido à natureza do ataque desse predador e ao consumo subsequente, com o tempo, a leveza do ser começou a entender o peso da essência material, e lentamente a princípio, não como uma espécie de Big Bang, mas como um céu que escurece lentamente à noite, quando o sol se põe lentamente no mar, essa luz outrora pura virou sua cabeça da pura leveza, enquanto começava a crescer em densidade. E lentamente, como uma fruta que apodrece devagar, começou a acreditar, a perceber através de um novo e crescente conjunto de mecanismos perceptivos que eram tão físicos quanto estava se tornando, que a leveza do ser era uma ilusão, um sonho louco, um mito, uma ilusão tola.
 
 이 아우 피나우 두 지아, 아켈라 안치가 레베자, 아켈리 세르 지 루스, 코메소 아 센치르 우 페주 이 아 그라비다지 지 웅 노부 치푸 지 이지스텐시아, 잉쿠안투 에라 푸샤두 파라 웅 노부 루가르, 우마 테하, 키 파레시아 페자다 이 두라. 노바스 도리스 포랑 센치다스 펠라 프리메이라 베스, 우 노부 메두 이 아 루타 포랑 프로바두스 펠라 프리메이라 베스.
+E ao final do dia, aquela antiga leveza, aquele ser de luz, começou a sentir o peso e a gravidade de um novo tipo de existência, enquanto era puxado para um novo lugar, uma terra, que parecia pesada e dura. Novas dores foram sentidas pela primeira vez, o novo medo e a luta foram provados pela primeira vez.
 
 이 잉크리베우멘치, 우마 파르치 델라 시 헤고지조, 포이스 네사 노바 그라비다지 잉콘트로 노바스 포르마스 지 세르 눙카 안치스 이마지나다스. 지 마이오르 인테레시 포이 우마 콤프렌상 지피시우 지 데피니르 소브리 우 파투 지 키 아고라 코비사바 키 아고라 코녜시아 우 데제주. 에사 그라비다지 트로시 우마 마사 잉크리베우 이 웅 노부 센치멘투 샤마두 도르, 이 웅 노부 이 아인다 이스트라냐멘치 파밀리아르 센치멘투 샤마두 프라제르. 마스 우 마이스 임포르탄치, 우 마이스 수르프렌덴치, 에시 이벤투 솜브리우 데우 아 에시 세르 잉 이스판상 우 동 다 인지비두알리다지!
+E incrivelmente, uma parte dela se regozijou, pois nessa nova gravidade encontrou novas formas de ser nunca antes imaginadas. De maior interesse foi uma compreensão difícil de definir sobre o fato de que agora cobiçava; que agora conhecia o desejo. Essa gravidade trouxe uma massa incrível e um novo sentimento chamado dor, e um novo e ainda estranhamente familiar sentimento chamado prazer. Mas o mais importante, o mais surpreendente, esse evento sombrio deu a esse ser em expansão o dom da individualidade!
 
 키 프레젠치 잉크리베우 포이 아 프린시피우. 마스 아 마우지상 데사 노바 페자데스, 키 토르노 에사 인지비두알리다지 포시베우, 시그니피카바 키 에시 세르 헤셍-이볼루이두, 헤셍-트란즈무타두 잉 이지스텐시아, 이리아 이스케세르, 셈프리 이스케세르. 쿠안투 마이스 시 토르나바 시 메즈무, 쿠안투 마이스 시 비아 이 아스 헤플레숑이스 지 시 메즈무 아우 세우 헤도르, 마이스 페자두 피카바 이 마이스 이스케시아 다 레베자 두 세우 세르 이니시아우. 누 피나우, 아 우니카 마네이라 지 렘브라르 지 수아스 오리젱스 에라 크리아르 이스토리아스, 미투스, 소브리 우 키 자 포이 이 우 키 이스페라바 키 포시 노바멘치. 아싱, 우마 파르치 델리 테미아 이 데제자바 아 모르치, 아 메지다 키 아 미스투라 다스 포르사스 덴트루 지 시 잉콘트라바 마네이라스 지 이르 알렝 두 프라제르 파라 헤토르나르 아 웅 템푸 이스케시두.
+Que presente incrível foi a princípio. Mas a maldição dessa nova pesadez, que tornou essa individualidade possível, significava que esse ser recém-evoluído, recém-transmutado em existência, iria esquecer, sempre esquecer. Quanto mais se tornava si mesmo, quanto mais se via e às reflexões de si mesmo ao seu redor, mais pesado ficava e mais esquecia da leveza do seu ser inicial. No final, a única maneira de lembrar de suas origens era criar histórias, mitos, sobre o que já foi e o que esperava que fosse novamente. Assim, uma parte dele temia e desejava a morte, à medida que a mistura das forças dentro de si encontrava maneiras de ir além do prazer para retornar a um tempo esquecido.
 
 우 아시마 에 웅 브레비 헤주무 다 이스토리아 데사 레베자 이 다 셰가다 다 누벵 이스쿠라. 에 아 이스토리아 지 켕 에라무스 이 두 키 누스 토르나무스 아포스 우 아르콘치. 에스타 에 아 이스토리아 두 에뎅 이 두 핑 다 이노센시아, 이 파라 아 마이오리아 다스 쿠우투라스, 에 웅 모멘투 솜브리우, 웅 노부 코메수, 마스 웅 모멘투 솜브리우. 마스 파라 세르투스 그루푸스, 그루푸스 오쿠우투스 네스치 템푸 모데르누, 에스타 에 우마 이스토리아 베르다데이라, 낭 웅 미투, 알렝 지수, 에 우마 이스토리아 지 이킬리브리우 이 타우베스 아 콘세상 두 마이오르 프레젠치 포시베우, 아 인지비두알리다지.
+O acima é um breve resumo da história dessa leveza e da chegada da nuvem escura. É a história de quem éramos e do que nos tornamos após o Arconte. Esta é a história do Éden e do fim da inocência, e para a maioria das culturas, é um momento sombrio, um novo começo, mas um momento sombrio. Mas para certos grupos, grupos ocultos neste tempo moderno, esta é uma história verdadeira, não um mito, além disso, é uma história de equilíbrio e talvez a concessão do maior presente possível, a individualidade.
 
 세자 포르키 토두스 엘리스 포뎅 베르, 오 포르키 잉 수아스 필레이라스 텡 아켈리스 키 포뎅 베르, 에사스 소시에다지스 세크레타스 사벵 키 에스타 에 아 이스토리아 지 웅 노부 코메수, 아 이스토리아 다 마네이라 지 이킬리브라르 아스 포르사스, 포르키 데비두 아우 브릴류 다 루스, 아켈라 루스 키 자 포이, 이 아켈라 푸라 하지아상 델라, 포이 크리아두 웅 바쿠 나 바스치당 지 투두 키 에. 이 타우 하지아상 페스, 테비 키 파제르, 클라마르 포르 우마 이스쿠리당 데즐룸브란치 지 이구아우 메지다. 아 레베자 클라모 포르 이스쿠리당 이 페자데스, 포르키 잉쿠안투 타우 하지아상 에라 우마 펠리시다지 콤플레타 잉 세르투 센치두, 타우 페르페이상 낭 페르미치아 모비멘투, 타우 페르페이상 에라 이스타치카, 이 데비두 아 에사 파우타 지 모비멘투, 에라 웅 치푸 지 인페르누 에라 웅 베쿠 셍 사이다. 파라 우 베르다데이루 모비멘투 오코헤르, 데비 아베르 웅 치푸 지 데제킬리브리우 이니시아우 키 임푸하/푸샤 에사 브릴랸테스 잉 모비멘투, 키 포르사 에사 폴라리다지 이니시아우 파라 론지 지 수아 포지상 이스타치카, 파라 우마 노바 콘피구라상, 파라 웅 노부 이킬리브리우. 타우 헤콘피구라상 지 이네르지아 에 이볼루상, 트란즈무타상, 모비멘투... 비다.
+Seja porque todos eles podem ver, ou porque em suas fileiras têm aqueles que podem ver, essas sociedades secretas sabem que esta é a história de um novo começo, a história da maneira de equilibrar as forças, porque devido ao brilho da luz, aquela luz que já foi, e aquela pura radiação dela, foi criado um vácuo na vastidão de Tudo Que É. E tal radiação fez, teve que fazer, clamar por uma escuridão deslumbrante de igual medida. A leveza clamou por escuridão e pesadez, porque enquanto tal radiação era uma felicidade completa em certo sentido, tal perfeição não permitia movimento, tal perfeição era estática, e devido a essa falta de movimento, era um tipo de inferno; era um beco sem saída. Para o verdadeiro movimento ocorrer, deve haver um tipo de desequilíbrio inicial que empurra/puxa essa brilhantez em movimento, que força essa polaridade inicial para longe de sua posição estática, para uma nova configuração, para um novo equilíbrio. Tal reconfiguração de energia é evolução, transmutação, movimento... vida.
 
 아 루스 피나우멘치 코메소 아 인텐데르 아 그라비다지, 아 두레자, 아 도르, 아 인지비두알리다지 이 탐벵 아 베르다데이라 알레그리아... 펠라 프리메이라 베스, 아 베르다데이라 알레그리아.
+A luz finalmente começou a entender a gravidade, a dureza, a dor, a individualidade e também a verdadeira alegria... pela primeira vez, a verdadeira alegria.
 
 지 마네이라 렌타 이 메토지카, 아 이스쿠리당 코메소 아 시 아가하르 아 루스 이, 다 미스투라 지 암부스, 아 이센시아 마테리아우 포이 아 포에이라 페가조자 키 포이 크리아다. 에사 포에이라 시 아가호 아 레베자, 토르노-아 마이스 페자다, 트로시-아 아 테하 키 이스타바 셰이아 데사 포에이라 페자다, 이 콩 우 템푸 크레세우 잉 콤플레시다지 아테 키 피나우멘치 아 카르니, 잉 토다 아 수아 인트리카데자, 세르코 이 인세호 콤플레타멘치 아 루스. 이 아 메지다 키 아 이센시아 코르포레아 시 이스타빌리자바 코무 웅 코르푸 마테리아우, 아켈라 인지비두알리다지 잉 콘스탄치 이볼루상 코메소 아 인텐데르, 콩 이구아우 메지다, 아스 알레그리아스 이 우스 소프리멘투스 다 카르니. 아고라 코녜시아 베르다데이라멘치 아 플레샹 두스 멤브루스, 아 두레자 다 테하, 우 오호르 다 도르 이 두 소프리멘투, 마스 탐벵, 아 카리시아 지 우마 브리자, 우 데제주 포르 오트라 카르니, 웅 토키, 이 인탕 수스텐투, 코미다, 콘수무, 프레다도르 이 프레자. 이 쿠안두 우 소우 이스타바 프레스치스 아 시 포르 누 오리존치 네스치 프리메이루 지아, 아켈라 '노바 카르니' 피나우멘치 코메소 아 시 베르, 아 헤플레치르-시 지 포르마 탕 클라라, 이 주스투 쿠안두 아켈라 이스쿠리당 카이우, 웅 노부 인지비두 나세우 나켈라 이스쿠리당, 자 키 에스치 노부 세르 크리아두 비우 클라라멘치 우 헤플레슈 지 시 메즈무 잉 투두 아우 세우 헤도르.
+De maneira lenta e metódica, a escuridão começou a se agarrar à luz e, da mistura de ambos, a essência material foi a poeira pegajosa que foi criada. Essa poeira se agarrou à leveza, tornou-a mais pesada, trouxe-a à terra que estava cheia dessa poeira pesada, e com o tempo cresceu em complexidade até que finalmente a carne, em toda a sua intricadeza, cercou e encerrou completamente a luz. E à medida que a essência corpórea se estabilizava como um corpo material, aquela individualidade em constante evolução começou a entender, com igual medida, as alegrias e os sofrimentos da carne. Agora conhecia verdadeiramente a flexão dos membros, a dureza da terra, o horror da dor e do sofrimento, mas também, a carícia de uma brisa, o desejo por outra carne, um toque, e então sustento, comida, consumo, predador e presa. E quando o sol estava prestes a se pôr no horizonte neste primeiro dia, aquela 'nova carne' finalmente começou a se ver, a refletir-se de forma tão clara, e justo quando aquela escuridão caiu, um novo indivíduo nasceu naquela escuridão, já que este novo ser criado viu claramente o reflexo de si mesmo em tudo ao seu redor.
 
 마스 에스타 낭 에 아 수아 이스토리아. 수아 이스토리아 헤아우멘치 코메사 누 지아 세긴치. 아 메지다 키 우 소우 나시 잉 웅 노부 지아, 아켈리 인지비두 페이투 카르니 에 켕 보세 에.
+Mas esta não é a sua história. Sua história realmente começa no dia seguinte. À medida que o sol nasce em um novo dia, aquele indivíduo feito carne é quem você é.
 
 보세 에, 무이투 프로바베우멘치, 웅 인지비두 키 낭 텡 렘브란사 클라라 지 테르 시두 루스 콤플레타, 아켈라 폰치 키 아인다 에라/에 덴트루 지 보세. 이 지 파투, 보세 자 낭 포지 마이스 세르 콘시데라두 아페나스 아켈라 폰치, 포르키 아 콘피구라상 지 켕 보세 에 아고라 에 우마 콤비나상 다켈라 루스 이 다켈라 이스쿠리당, 낭 아 코무 보우타르 아트라스, 낭 임포르타 우 키 아스 노바스 이스토리아스 지강. 오, 파라 콜로카르 잉 테르무스 클라루스, 보세 포데리아 지제르 키, 다 토탈리다지 지 켕 보세 에, 우마 파르치 데사 이센시아 토타우 이스타 아고라 프레자 잉 웅 프라그멘투 지 이지스텐시아 헤페리두 코무 피지칼리다지. 이 인펠리즈멘치, 에 에시 프라그멘투 키 콘트롤라 아 마이오르 파르치 지 켕 보세 에, 엘리 프렌지 보세, 에사 토탈리다지, 잉 웅 시클루 지 비다 이 모르치. 마스 에 에시 프라그멘투 키 탐벵 리 다 인지비두알리다지, 키 리 콘페리 이킬리브리우 지 마네이라스 이네스페라다스, 이 에 아트라베스 데시 이킬리브리우 이 인지비두알리다지 키 아 베르다데이라 알레그리아 이 아 베르다데이라 리베르다지 상 잉콘트라다스.
+Você é, muito provavelmente, um indivíduo que não tem lembrança clara de ter sido luz completa, aquela fonte que ainda era/é dentro de você. E de fato, você já não pode mais ser considerado apenas aquela fonte, porque a configuração de quem você é agora é uma combinação daquela luz e daquela escuridão, não há como voltar atrás, não importa o que as novas histórias digam. Ou, para colocar em termos claros, você poderia dizer que, da totalidade de quem você é, uma parte dessa essência total está agora presa em um fragmento de existência referido como fisicalidade. E infelizmente, é esse fragmento que controla a maior parte de quem você é, ele prende você, essa totalidade, em um ciclo de vida e morte. Mas é esse fragmento que também lhe dá individualidade, que lhe confere equilíbrio de maneiras inesperadas, e é através desse equilíbrio e individualidade que a verdadeira alegria e a verdadeira liberdade são encontradas.
 
 에스타 에 우마 헤알리다지 데스코녜시다 잉 그란지 파르치 누스 템푸스 모데르누스, 에 우마 일루장, 우마 헬리지앙. 투두 우 키 보세 텡 아고라 에 우마 이스토리아, 우마 렌다, 웅 미투 아 세르 아크레지타두 소멘치 펠라 페. 투두 우 키 헤스타 에 우마 사가, 헤콘타다 잉 우마 무우치플리시다지 지 콤비나송이스 소브리 아우구 키 수포스타멘치 보세 자 포이 이 키 낭 에 마이스, 타우베스 포르 카우자 지 웅 페카두 오리지나우. 우마 파불라 키, 아우 세르 콘타다 이 헤콘타다, 콘포르미 에스치 지아 시 이스텐지 잉 웅 템푸 아파렌테멘치 인테르미나베우 온지 아스 이스타송이스 벵 이 방. 이 콘포르미 우 템푸 시 이스텐지 이테르나멘치 아우 롱구 데스치 지아 키 눙카 파레시 아카바르, 에사 파불라 무다 카다 베스 마이스. 에스타 사가 인테르미나베우멘치 헤콘타다 파리아 보세 아크레지타르 아고라 키 포지 헤토르나르 아켈라 루스, 키 지 아우구마 포르마 헤토르나르 아켈라 루스 에 우 키 보세 프레시자 파제르, 키 보세 지 파투 헤토르나라 아 엘라, 누 지아 잉 키 피나우멘치 카이르 이 모헤르 이 시 데즈벤실랴르 다 카르니. 마스 에사 이스토리아 소지냐 눙카 포지 헤스폰데르 아스 페르군타스 덴트루 지 보세, 우스 데제주스 덴트루 지 보세, 아스 콘트라지송이스 키 파레셍 세르 아 프로프리아 이센시아 지 보세.
+Esta é uma realidade desconhecida em grande parte nos tempos modernos, é uma ilusão, uma religião. Tudo o que você tem agora é uma história, uma lenda, um mito a ser acreditado somente pela fé. Tudo o que resta é uma saga, recontada em uma multiplicidade de combinações sobre algo que supostamente você já foi e que não é mais, talvez por causa de um pecado original. Uma fábula que, ao ser contada e recontada, conforme este dia se estende em um tempo aparentemente interminável onde as estações vêm e vão. E conforme o tempo se estende eternamente ao longo deste dia que nunca parece acabar, essa fábula muda cada vez mais. Esta saga interminavelmente recontada faria você acreditar agora que pode retornar àquela luz, que de alguma forma retornar àquela luz é o que você precisa fazer, que você de fato retornará a ela, no dia em que finalmente cair e morrer e se desvencilhar da carne. Mas essa história sozinha nunca pode responder às perguntas dentro de você, os desejos dentro de você, as contradições que parecem ser a própria essência de você.
 
 소프레무스 이 루타무스, 이 아인다 아싱, 네사 루타, 잉콘트라무스 우마 이스페시 지 에스타지 나 도르, 나 이스페란사, 나 아벤투라, 나 펠리시다지 두 노부 데자피우. 지제무스 아 노스 메즈무스, 그라사스 아 에사스 이스토리아스 헤콘타다스 키 시 토르나랑 노사 테올로지아, 키 데비 세르 아 루스 덴트루 지 노스 키 누스 페르미치 잉콘트라르 알레그리아 이 에스타지 메즈무 네스타 루타 아스 베지스 오히베우. 이 아 아우구마 베르다지 니수, 마스 아 베르다지 이네르제치카 에 키 우 키 소무스 낭 에 아페나스 아 루스, 아 루스 키 자 포이, 이 탐벵 낭 에 아 이스쿠리당. 소무스, 잉 베스 지수, 우마 콤비나상, 우마 미스투라. 우 에스타지 잉 노스 이스타 덴트루 지 노스 포르키 탐벵 아 소프리멘투, 아 벨레자 잉 노스 이스타 잉 노스 포르키 탐벵 아 페이우라. 포데무스 베르 이 아프레시아르 아 레베자 포르키 탐벵 포데무스 세르 인보우투스 펠라 이스쿠리당. 이 에 아 데스코베르타 데시 이킬리브리우 덴트루 지 노스, 아 데스코베르타 지 키 소무스 아우구 키 눙카 포지 보우타르 아우 키 에라, 마스 키 소무스 지 파투 웅 이킬리브리우 지 루스 이 이스쿠리당, 키 에 아 베르다데이라 샤비 파라 아 데스코베르타 이 우 아우보레세르 지 마이스 웅 지아.
+Sofremos e lutamos, e ainda assim, nessa luta, encontramos uma espécie de êxtase na dor, na esperança, na aventura, na felicidade do novo desafio. Dizemos a nós mesmos, graças a essas histórias recontadas que se tornaram nossa teologia, que deve ser a luz dentro de nós que nos permite encontrar alegria e êxtase mesmo nesta luta às vezes horrível. E há alguma verdade nisso, mas a verdade energética é que o que somos não é apenas a luz, a luz que já foi, e também não é a escuridão. Somos, em vez disso, uma combinação, uma mistura. O êxtase em nós está dentro de nós porque também há sofrimento, a beleza em nós está em nós porque também há feiura. Podemos ver e apreciar a leveza porque também podemos ser envoltos pela escuridão. E é a descoberta desse equilíbrio dentro de nós, a descoberta de que somos algo que nunca pode voltar ao que era, mas que somos de fato um equilíbrio de luz e escuridão, que é a verdadeira chave para a descoberta e o alvorecer de mais um dia.
 
 마스 아 마이오리아 지 노스 아인다 이스타 피르메멘치 프레자 누스 시클루스 데스치 인테르미나베우 세군두 지아, 포르키 타우 이킬리브리우 아인다 낭 포이 잉콘트라두. 토두스 노스 소프레무스 네스치 세군두 지아 키 파레시 시 이스텐데르 인테르미나베우멘치 잉쿠안투 우스 시클루스 두 템푸 벵 이 방 이 데포이스 벵 노바멘치. 잉가나무스 아 노스 메즈무스, 이 에사 트라파사 에 카우자다 포르 웅 데제킬리브리우 덴트루 지 노스, 웅 데제킬리브리우 키 나 벨랴 테올로지아 누스 지스 키 데베무스 테르 페 나 크렌사 지 키 소무스 지 아우구마 포르마 루스 잉카프술라다 나 이스쿠리당, 우마 루스 루탄두 파라 헤토르나르 아우 키 에라 이 데비 세르 노바멘치. 이수 에 우마 일루장 이 델리리우 크리아두스 포르 웅 아르쿠 지 이스토리아 잉 콘스탄치 무단사, 카우자두스 펠루 콘타르 이 헤콘타르 지 웅 지아 아고라 이스케시두.
+Mas a maioria de nós ainda está firmemente presa nos ciclos deste interminável segundo dia, porque tal equilíbrio ainda não foi encontrado. Todos nós sofremos neste segundo dia que parece se estender interminavelmente enquanto os ciclos do tempo vêm e vão e depois vêm novamente. Enganamos a nós mesmos, e essa trapaça é causada por um desequilíbrio dentro de nós, um desequilíbrio que na velha teologia nos diz que devemos ter fé na crença de que somos de alguma forma luz encapsulada na escuridão, uma luz lutando para retornar ao que era e deve ser novamente. Isso é uma ilusão e delírio criados por um arco de história em constante mudança, causados pelo contar e recontar de um dia agora esquecido.
 
 이 인테레산테멘치, 아 메지다 키 에스치 세군두 지아 프로그리지, 우마 노바 이스페시 지 헬리지앙 이스타 나센두. 우마 헬리지앙 키 리 지스 키 우 아르쿠 안테리오르 지 헤토르나르 아 루스, 아테 메즈무 이수 에 일루장. 아 노바 테올로지아 리 지스 키 아 카르니 에 투두 우 키 이지스치. 엘라 그리타 다 토히 지 세우 나시멘투 키 소무스 웅 오브제투 이 나다 마이스, 키 누 핑 지 노사 카르니 아베라 마이스 이스쿠리당, 낭 루스. 암바스 에사스 이스토리아스, 크리아다스 펠루 아르쿠 두 헤콘타르, 이스탕 이하다스.
+E interessantemente, à medida que este segundo dia progride, uma nova espécie de religião está nascendo. Uma religião que lhe diz que o arco anterior de retornar à luz, até mesmo isso é ilusão. A nova teologia lhe diz que a carne é tudo o que existe. Ela grita da torre de seu nascimento que somos um objeto e nada mais, que no fim de nossa carne haverá mais escuridão, não luz. Ambas essas histórias, criadas pelo arco do recontar, estão erradas.
 
 아켈리스 키 포뎅 베르 사벵 키 낭 아 보우타. 낭 소무스 마이스 루스 잉카프술라다 나 이스쿠리당, 이 낭 소무스 아페나스 마키나스 지 카르니 잉 웅 문두 푸라멘치 마테리아우. 소무스 아 미스투라 지 루스 이 이스쿠리당 키 크리오 아우구 노부, 웅 세르 무우치지멘시오나우 키 포이 프레주 나 카르니 지 아페나스 우마 페케나 지멘상. 이 노수 아르쿠 다 이스토리아 낭 에 소브리 보우타르 아우 데제킬리브리우 다 루스 푸라 셍 이스쿠리당, 오 다 이스쿠리당 푸라 셍 루스, 에 소브리 인텐데르 페르페이타멘치 에사 노바 콘피구라상 이 트란스포르마-라 잉 우마 포르사 베르다데이라멘치 이킬리브라다, 키 인탕 포사 세르 레바다 알렝 다 루스 이 이스쿠리당 파라 노바스 지멘송이스, 노부스 루가리스, 노바스 헤알리다지스 포시베이스 키 이지젱 웅 포데르 마이오르 두 키 아 루스 푸라 오 아 이스쿠리당 푸라 포데리앙 헤우니르 소지냐스.
+Aqueles que podem ver SABEM que não há volta. Não somos mais luz encapsulada na escuridão, e não somos apenas máquinas de carne em um mundo puramente material. Somos a mistura de luz e escuridão que criou algo novo, um ser multidimensional que foi preso na carne de apenas uma pequena dimensão. E nosso arco da história não é sobre voltar ao desequilíbrio da luz pura sem escuridão, ou da escuridão pura sem luz, é sobre entender perfeitamente essa nova configuração e transformá-la em uma força verdadeiramente equilibrada, que então possa ser levada além da luz e escuridão para novas dimensões, novos lugares, novas realidades possíveis que exigem um poder maior do que a luz pura ou a escuridão pura poderiam reunir sozinhas.
 
 콘세켄테멘치, 노사 이스토리아 푸투라 낭 에 소브리 데호타르 아우구마 이스쿠리당 파라 헤토르나르 아 루스, 낭 에 소브리 데호타르 아우궁 치푸 지 루스 이 인프라케세르 아 일루장 파라 헤토르나르 아 노사 베르다데이라 이스쿠리당, 마스 에 우마 이스토리아 낭 이스크리타 온지 보세 데비 헤오르가니자르, 헤콘피구라르, 도미나르, 우마 노바 콘피구라상, 키 페르미치라 키 보세 레비 아 이센시아 토타우 지 세우 노부 세르 무우치지멘시오나우 네스치 세군두 지아, 파라 오트루 지아, 우 테르세이루 지아. 에사 노바 헤알리자상 데비 레바르 보세 알렝 다 이프노지 두스 시클루스 인테르미나베이스 두 세군두 지아.
+Consequentemente, nossa história futura não é sobre derrotar alguma escuridão para retornar à luz, não é sobre derrotar algum tipo de luz e enfraquecer a ilusão para retornar à nossa verdadeira escuridão, mas é uma história não escrita onde você deve reorganizar, reconfigurar, dominar, uma nova configuração, que permitirá que você leve a essência total de seu novo ser multidimensional neste segundo dia, para outro dia, o terceiro dia. Essa nova realização deve levar você além da hipnose dos ciclos intermináveis do segundo dia.
 
 에 소멘치 아우 아반사르 파라 에스치 테르세이루 지아 키 보세 잉콘트라라 아 베르다데이라 리베르다지 알렝 두스 시클루스 다스 이스타송이스, 알렝 두스 시클루스 지 비다 이 모르치, 이 아테 메즈무 알렝 지 토다스 아스 폴라리다지스 이스타치카스. 보세 낭 데비 아페나스 렘브라르 우마 안치가 루스 이스케시다 보세 데비 크리아르 웅 노부 알리냐멘투, 데비 오르데나르 우 케브라-카베사 지 켕 보세 에 잉 우마 노바 콘피구라상, 알렝 다 루스 오푸스칸치 이 다 이스쿠리당 덴사, 오 인탕 에시 테르세이루 지아 눙카 셰가라 파라 보세. 보세 에 웅 치푸 이스트라뉴 지 케브라-카베사, 웅 키 데비 세르 헤콘피구라두 아테 시 토르나르 우마 샤비, 보세 에 웅 세르 키 데비 세르 헤아한자두 잉 노부스 이 인수스페이투스 파드롱이스. 보세 에 우마 샤비 키 아브리 노바스 포르타스 파라 루가리스 이니마지나베이스 지 베르다데이라 리베르다지.
+É somente ao avançar para este terceiro dia que você encontrará a verdadeira liberdade além dos ciclos das estações, além dos ciclos de vida e morte, e até mesmo além de todas as polaridades estáticas. Você não deve apenas lembrar uma antiga luz esquecida; você deve criar um novo alinhamento, deve ordenar o quebra-cabeça de quem você é em uma nova configuração, além da luz ofuscante e da escuridão densa, ou então esse terceiro dia nunca chegará para você. Você é um tipo estranho de quebra-cabeça, um que deve ser reconfigurado até se tornar uma chave, você é um ser que deve ser rearranjado em novos e insuspeitos padrões. Você é uma chave que abre novas portas para lugares inimagináveis de verdadeira liberdade.
 
 이 파라 파제르 이수 보세 데비 포카르 수아 아텐상 이 렘브라르 지 포카르 에사 아텐상, 헤페치다멘치, 누 "데제주" 포르 에시 테르세이루 지아. 보세 데비 콘센트라르 에사 아텐상 잉 우마 지멘상 토타우멘치 노바 키 이스타 알렝 지 암바스 아스 폴라리다지스 이 알렝 두 시클루 지 비다 이 모르치. 에사 에 아 콘트라지상 데사 노바 샤비, 에 아 카파시다지 지 코메사르 웅 노부 지아, 데이샨두 파라 트라스 토두스 우스 시클루스, 아테 메즈무 우 시클루 지 비다 이 모르치. 이 보세 데비 만테르 에사 아텐상 포카다 지 타우 마네이라, 지 우마 마네이라 델리베라다, 프레시자 이 수스텐타다, 포르키 시 낭 우 피제르, 아 그라비다지 두 세군두 지아 파라 보세 이스케세르, 엘라 누스 파스 아 토두스 이스케세르, 에사 에 아 마네이라 다 그라비다지... 이스케세르.
+E para fazer isso você deve focar sua atenção e lembrar de focar essa atenção, repetidamente, no "desejo" por esse terceiro dia. Você deve concentrar essa atenção em uma dimensão totalmente nova que está além de ambas as polaridades e além do ciclo de vida e morte. Essa é a contradição dessa nova chave, é a capacidade de começar um novo dia, deixando para trás todos os ciclos, até mesmo o ciclo de vida e morte. E você deve manter essa atenção focada de tal maneira, de uma maneira deliberada, precisa e sustentada, porque se não o fizer, a gravidade do segundo dia fará você esquecer, ela nos faz a todos esquecer, essa é a maneira da gravidade... esquecer.
 
 아 그라비다지 데스치 루가르, 우 데자피우 데스치 세군두 지아, 에 우 데자피우 지 올랴르 지 우마 노바 마네이라 아테 키 보세 포사 베르, 이 인탕 눙카 이스케세르 우 포데르 이 아스 콩클루종이스 데스타 노바 비장, 낭 포르 낭 이스케세르 우 키 보세 베, 마스 포르 낭 이스케세르 코무 베르.
+A gravidade deste lugar, o desafio deste segundo dia, é o desafio de olhar de uma nova maneira até que você possa ver, e então nunca esquecer o poder e as conclusões desta nova visão, não por não esquecer o que você vê, mas por não esquecer como ver.
 
 에사 그라비다지 에 노수 데자피우, 엘라 누스 파스 데즈비아르 우 올랴르, 올랴르 파라 바이슈 포르키 페자 노사 카베사. 엘라 누스 파스 이그노라르, 이비타르, 네글리젠시아르, 헤제이타르, 데스프레자르, 낭 다르 아텐상 아켈라 파이스카 인테리오르 잉코모다 크리아다 펠라 미스투라 지 루스 이 이스쿠리당 키 누스 지스 파라 올랴르 잉 보우타 두 칸투 이스트라뉴, 파라 누스 마라빌랴르무스 콩 토타우 델레이치 소브리 쿠아이스 비종이스 포데리아무스 콘템플라르 시 아페나스 콘세기세무스 이스칼라르 아켈라 프로시마 몬타냐 이 올랴르 알렝 다 프로시마 크리스타.
+Essa gravidade é nosso desafio, ela nos faz desviar o olhar, olhar para baixo porque pesa nossa cabeça. Ela nos faz ignorar, evitar, negligenciar, rejeitar, desprezar, não dar atenção àquela faísca interior incômoda criada pela mistura de luz e escuridão que nos diz para olhar em volta do canto estranho, para nos maravilharmos com total deleite sobre quais visões poderíamos contemplar se apenas conseguíssemos escalar aquela próxima montanha e olhar além da próxima crista.
 
 파라 콤바테르 에사 그라비다지, 데베무스 크리아르 임푸우수, 코무 웅 포게치 데이샨두 아 테하, 데베무스 코메사르 데바가르, 루탄두 콘트라 아 그란지 마사 데스치 루가르 잉쿠안투 수비무스 렌타멘치 카다 베스 마이스 아우투 이 아 우마 벨로시다지 카다 베스 마이오르. 파라 파제르 이수, 데베무스 우자르 투두 우 키 이스치베르 지스포니베우 파라 노스, 포르키 시 아 노사 아텐상 팔랴르, 시 이스케세르무스, 시 데스프레자르무스 오 이그노라르무스, 노수 포게치 시 데즈비아라, 이 네사 헤비라보우타 엘리 포지 메르굴랴르 나 테하 이 카이르, 파젠두-누스 코메사르 지 노부 데즈지 우 프린시피우.
+Para combater essa gravidade, devemos criar impulso, como um foguete deixando a Terra, devemos começar devagar, lutando contra a grande massa deste lugar enquanto subimos lentamente cada vez mais alto e a uma velocidade cada vez maior. Para fazer isso, devemos usar tudo o que estiver disponível para nós, porque se a nossa atenção falhar, se esquecermos, se desprezarmos ou ignorarmos, nosso foguete se desviará, e nessa reviravolta ele pode mergulhar na Terra e cair, fazendo-nos começar de novo desde o princípio.
 
 아우키미스타스 인테르누스 데스코브리랑, 코무 우스 마구스 안치구스, 키 아 포데르 나 팔라브라 이스크리타. 팔라브라스 토르나다스 솔리다스, 마테리아이스, 수아스 비브라송이스 아우테라다스, 이데이아스 아노타다스, 트란즈무타다스 잉 마테리아 피지카, 엘라스 낭 상 파시우멘치 이스케시다스. 아 팔라브라 잉 타부아스 지 아르질라, 잉 파피루, 잉 파페우 콩 친타, 오 메즈무 콩 친타 지지타우 잉 타블레트스 일레트로니쿠스, 포지 누스 아주다르 아 렘브라르, 이 네시 헤코르다르, 아 베르다데이라 마지아. 보세 데비 렘브라르, 렘브라르.
+Alquimistas internos descobriram, como os magos antigos, que há poder na palavra escrita. Palavras tornadas sólidas, materiais, suas vibrações alteradas, ideias anotadas, transmutadas em matéria física, elas não são facilmente esquecidas. A palavra em tábuas de argila, em papiro, em papel com tinta, ou mesmo com tinta digital em tablets eletrônicos, pode nos ajudar a lembrar, e nesse recordar, há verdadeira magia. Você deve lembrar, lembrar.
 
 우 아우키미스타 인테르누 우자 에사 마지아 파라 렘브라르, 파라 포카르 수아 아텐상 크레센치 이 임플라카베우. 데사 포르마, 엘리스 콘세겡 올랴르 파라 우 프리메이루 지아 이, 아트라베스 델리, 코녜세르 아 베르다데이라 나투레자 두 세군두 지아, 우 지아 아투아우. 마스, 우 마이스 임포르탄치, 엘리스 콘세겡 데사 포르마 렘브라르 이 아스피라르 아 웅 노부 지아, 웅 테르세이루 지아. 아트라베스 데사 마지아, 엘리스 포뎅 포카르 수아 아텐상 이 올랴르 데사 노바 마네이라 아테 키 포상 베르, 아테 키 포상 베르 우 테르세이루 지아, 파라 키, 쿠안두 이수 포르 페이투, 우 카미뉴 코메시 아 시 아브리르 파라 엘리스.
+O alquimista interno usa essa magia para lembrar, para focar sua atenção crescente e implacável. Dessa forma, eles conseguem olhar para o primeiro dia e, através dele, conhecer a verdadeira natureza do segundo dia, o dia atual. Mas, o mais importante, eles conseguem dessa forma lembrar e aspirar a um novo dia, um terceiro dia. Através dessa magia, eles podem focar sua atenção e olhar dessa nova maneira até que possam ver, até que possam ver o terceiro dia, para que, quando isso for feito, o caminho comece a se abrir para eles.
 
 누 피나우, 에 에사 노바 지레상, 에사 노바 콘피구라상, 키 에 마이스 임포르탄치, 포르키 에 우 우니쿠 모두 지 헤아우멘치 이스카파르 다 그라비다지 데스치 노부 데자피우 다 카르니. 마스 우 트루키 낭 에 데스프레자르 아 카르니 나 이스페란사 지 보우타르 아 루스 푸라 노바멘치. 우 카미뉴 에, 잉 베스 지수, 트란스포르마르 에사 카르니 잉 아우구 노부, 우마 노바 콩글로메라상 이네르제치카, 콘피구라상, 포르마상, 우마 샤비, 키 페르미치라 아켈리스 키 부스캉 에시 테르세이루 지아 세렝 베르다데이라멘치 리브리스 펠라 프리메이라 베스. 에스타 에 아 우니카 베스 키 아 리베르다지 에 포시베우 파라 노스, 포르키 에 아 우니카 베스 키 테무스 아 샨시 지 누스 토르나르무스 인지비두아이스 우 수피시엔치 파라 코녜세르 아 베르다데이라 리베르다지.
+No final, é essa nova direção, essa nova configuração, que é mais importante, porque é o único modo de realmente escapar da gravidade deste novo desafio da carne. Mas o truque não é desprezar a carne na esperança de voltar à luz pura novamente. O caminho é, em vez disso, transformar essa carne em algo novo, uma nova conglomeração energética, configuração, formação, uma chave, que permitirá àqueles que buscam esse terceiro dia serem verdadeiramente livres pela primeira vez. Esta é a única vez que a liberdade é possível para nós, porque é a única vez que temos a chance de nos tornarmos individuais o suficiente para conhecer a verdadeira liberdade.
 
 에사스 파사젱스 텡 우 오브제치부 지 아주다-루 네시 센치두. 파라 아주다-루 아 렘브라르 지 올랴르 나 지레상 두 테르세이루 지아, 파라 키, 쿠안두 이스치베르 시 센친두 칸사두, 쿠안두 아 페자데스 두 문두 우 피제르 이스케세르, 쿠안두 엘라 데즈비아르 수아 아텐상 데사 노바 마네이라 지 올랴르 키 포지 시 트란스포르마르 잉 베르, 보세 포사 우자르 에사스 팔라브라스, 이스크리타스 이 트란스포르마다스 잉 이센시아 마테리아우, 파라 렘브라르.
+Essas passagens têm o objetivo de ajudá-lo nesse sentido. Para ajudá-lo a lembrar de olhar na direção do terceiro dia, para que, quando estiver se sentindo cansado, quando a pesadez do mundo o fizer esquecer, quando ela desviar sua atenção dessa nova maneira de olhar que pode se transformar em ver, você possa usar essas palavras, escritas e transformadas em essência material, para lembrar.
 
 렘브리-시 셈프리, 렘브리-시.
+Lembre-se sempre, lembre-se.
 
 **우마 베스 키 우 포쿠 다 아텐상 시 토르나 임플라카베우, 투두 에 포시베우.**
+**Uma vez que o foco da atenção se torna implacável, tudo é possível.**
 _― 아우궁 아우키미스타 인테르누_
+_― ALGUM ALQUIMISTA INTERNO_
 
 **“보세 포데리아 미 지제르, 포르 파보르, 파라 쿠아우 카미뉴 데부 이르 다키?"**
+**“Você poderia me dizer, por favor, para qual caminho devo ir daqui?"**
 **"이수 데펜지 무이투 지 온지 보세 케르 셰가르," 지시 우 가투.**
+**"Isso depende muito de onde você quer chegar," disse o Gato.**
 **"이우 낭 미 임포르투 무이투 콩 우 루가르 -" 지시 알리시.**
+**"Eu não me importo muito com o lugar -" disse Alice.**
 **"인탕 낭 임포르타 우 카미뉴 키 보세 토미," 지시 우 가투.**
+**"Então não importa o caminho que você tome," disse o Gato.**
 **"- 콘탄투 키 이우 셰기 잉 아우궁 루가르," 알리시 아크레센토 코무 이스플리카상.**
+**"- contanto que eu chegue EM ALGUM LUGAR," Alice acrescentou como explicação.**
 **"아, 보세 콩 세르테자 파라 이수," 지시 우 가투, "시 보세 아페나스 카미냐르 우 수피시엔치."**
+**"Ah, você com certeza fará isso," disse o Gato, "se você apenas caminhar o suficiente."**
 _― 레위스 카호우, 아스 아벤투라스 지 알리시 누 파이스 다스 마라빌랴스_
+_― LEWIS CARROLL, AS AVENTURAS DE ALICE NO PAÍS DAS MARAVILHAS_

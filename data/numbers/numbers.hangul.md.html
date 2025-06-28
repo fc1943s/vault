@@ -622,52 +622,89 @@ document.addEventListener('DOMContentLoaded', function() {
         </header>
 
         <div id = "chapter-0" class = "chapter">
-  <p id = "para-1">아 01 01 브 02 02 크 03 03 드 04 04 이 05 05 프 06 06 그 07 07 08 08 이 09 09</p>
-<p id = "para-2">즈 10 01 크 11 02 르 12 03 응 13 04 응 14 05 우 15 06 프 16 07 크 17 08 흐 18 09</p>
-<p id = "para-3">스 19 01 트 20 02 우 21 03 브 22 04 23 05 스 24 06 이 25 07 스 26 08</p>
-<p id = "para-4">1 아 즈 스 2 브 크 트 (11 -&gt; 2) 3 크 르 우 4 드 응 브 (22 -&gt; 4) 5 이 응 6 프 우 스 (33 -&gt; 6) 7 그 프 이 8 크 스 9 이 흐</p>
-<p id = "para-5"><a href = "https://en.wikipedia.org/wiki/Luoshu_Square">https://en.wikipedia.org/wiki/Luoshu_Square</a></p>
-<p id = "para-6">에리 이스 아 심플리 아우고리틍 잉 후스트 타트 콘베르트스 아 레테르 프롱 티 피르스트 세트 투 티 세콘드 세트:</p>
-<pre><span style="color:#323232;">픙 콘베르트_레테르(크: 샤르) -&gt; 샤르 {</span>
+  <p id = "para-1">아 01 01 a 01 01 브 02 02 b 02 02 크 03 03 c 03 03 드 04 04 d 04 04 이 05 05 e 05 05 프 06 06 f 06 06 그 07 07 g 07 07 08 08 h 08 08 이 09 09 i 09 09</p>
+<p id = "para-2">즈 10 01 j 10 01 크 11 02 k 11 02 르 12 03 l 12 03 응 13 04 m 13 04 응 14 05 n 14 05 우 15 06 o 15 06 프 16 07 p 16 07 크 17 08 q 17 08 흐 18 09 r 18 09</p>
+<p id = "para-3">스 19 01 s 19 01 트 20 02 t 20 02 우 21 03 u 21 03 브 22 04 v 22 04 23 05 w 23 05 스 24 06 x 24 06 이 25 07 y 25 07 스 26 08 z 26 08</p>
+<p id = "para-4">1 아 즈 스 1 a j s 2 브 크 트 (11 -&gt; 2) 2 b k t (11 -&gt; 2) 3 크 르 우 3 c l u 4 드 응 브 (22 -&gt; 4) 4 d m v (22 -&gt; 4) 5 이 응 5 e n w 6 프 우 스 (33 -&gt; 6) 6 f o x (33 -&gt; 6) 7 그 프 이 7 g p y 8 크 스 8 h q z 9 이 흐 9 i r</p>
+<p id = "para-5"><a href = "https://en.wikipedia.org/wiki/Luoshu_Square">https://en.wikipedia.org/wiki/Luoshu_Square</a> <a href = "https://en.wikipedia.org/wiki/Luoshu_Square">https://en.wikipedia.org/wiki/Luoshu_Square</a></p>
+<p id = "para-6">에리 이스 아 심플리 아우고리틍 잉 후스트 타트 콘베르트스 아 레테르 프롱 티 피르스트 세트 투 티 세콘드 세트: Here is a simple algorithm in Rust that converts a letter from the first set to the second set:</p>
+<pre><span style="color:#323232;">```rust</span>
+<span style="color:#323232;">픙 콘베르트_레테르(크: 샤르) -&gt; 샤르 {</span>
+<span style="color:#323232;">fn convert_letter(c: char) -&gt; char {</span>
 <span style="color:#323232;">레트 오프세트 = (크 아스 우8 - &#39;아&#39; 아스 우8) * 2 + 1</span>
+<span style="color:#323232;">let offset = (c as u8 - &#39;a&#39; as u8) * 2 + 1;</span>
 <span style="color:#323232;">(오프세트 아스 샤르).투_우페르카지().네스트().운으라프()</span>
+<span style="color:#323232;">(offset as char).to_uppercase().next().unwrap()</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
-</pre><p id = "para-7">안드 에리 이스 티 아우고리틍 투 콘베르트 아 레테르 프롱 티 세콘드 세트 바크 투 티 피르스트 세트:</p>
-<pre><span style="color:#323232;">픙 콘베르트_레테르_바크(크: 샤르) -&gt; 샤르 {</span>
+</pre><pre>
+<span style="color:#323232;">안드 에리 이스 티 아우고리틍 투 콘베르트 아 레테르 프롱 티 세콘드 세트 바크 투 티 피르스트 세트:</span>
+<span style="color:#323232;">And here is the algorithm to convert a letter from the second set back to the first set:</span>
+
+<span style="color:#323232;">```후스트</span>
+<span style="color:#323232;">```rust</span>
+<span style="color:#323232;">픙 콘베르트_레테르_바크(크: 샤르) -&gt; 샤르 {</span>
+<span style="color:#323232;">fn convert_letter_back(c: char) -&gt; char {</span>
 <span style="color:#323232;">레트 오프세트 = (크 아스 우8 - &#39;아&#39; 아스 우8) / 2</span>
+<span style="color:#323232;">let offset = (c as u8 - &#39;A&#39; as u8) / 2;</span>
 <span style="color:#323232;">(오프세트 아스 샤르 + &#39;아&#39; 아스 우8) 아스 샤르</span>
+<span style="color:#323232;">(offset as char + &#39;a&#39; as u8) as char</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 
 <span style="color:#323232;">아세르트_이크!(콘베르트_투_눔베르(&quot;아브크&quot;), 123)</span>
+<span style="color:#323232;">assert_eq!(convert_to_number(&quot;abc&quot;), 123);</span>
 <span style="color:#323232;">아세르트_이크!(콘베르트_투_눔베르(&quot;즈스트&quot;), 578)</span>
+<span style="color:#323232;">assert_eq!(convert_to_number(&quot;jst&quot;), 578);</span>
 <span style="color:#323232;">아세르트_이크!(콘베르트_투_레테르(123), &quot;아브크&quot;)</span>
+<span style="color:#323232;">assert_eq!(convert_to_letter(123), &quot;abc&quot;);</span>
 <span style="color:#323232;">아세르트_이크!(콘베르트_투_레테르(578), &quot;즈스트&quot;)</span>
+<span style="color:#323232;">assert_eq!(convert_to_letter(578), &quot;jst&quot;);</span>
 
 
 
 <span style="color:#323232;">픙 콘베르트_투_눔베르(스: &amp;스트르) -&gt; 우32 {</span>
+<span style="color:#323232;">fn convert_to_number(s: &amp;str) -&gt; u32 {</span>
 <span style="color:#323232;">레트 무트 헤주우트 = 0</span>
+<span style="color:#323232;">let mut result = 0;</span>
 <span style="color:#323232;">포르 크 잉 스.샤르스() {</span>
+<span style="color:#323232;">for c in s.chars() {</span>
 <span style="color:#323232;">레트 오프세트 = (크 아스 우32) - (&#39;아&#39; 아스 우32)</span>
+<span style="color:#323232;">let offset = (c as u32) - (&#39;a&#39; as u32);</span>
 <span style="color:#323232;">헤주우트 = 헤주우트 * 10 + (오프세트 / 3) + 1</span>
+<span style="color:#323232;">result = result * 10 + (offset / 3) + 1;</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">헤주우트</span>
+<span style="color:#323232;">result</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 <span style="color:#323232;">픙 콘베르트_투_레테르(응: 우32) -&gt; 스트링그 {</span>
+<span style="color:#323232;">fn convert_to_letter(n: u32) -&gt; String {</span>
 <span style="color:#323232;">레트 무트 헤주우트 = 스트링그::네()</span>
+<span style="color:#323232;">let mut result = String::new();</span>
 <span style="color:#323232;">레트 무트 응 = 응</span>
+<span style="color:#323232;">let mut n = n;</span>
 <span style="color:#323232;">일리 응 &gt; 0 {</span>
+<span style="color:#323232;">while n &gt; 0 {</span>
 <span style="color:#323232;">레트 지지트 = (응 % 10) 아스 우8 - 1</span>
+<span style="color:#323232;">let digit = (n % 10) as u8 - 1;</span>
 <span style="color:#323232;">응 /= 10</span>
+<span style="color:#323232;">n /= 10;</span>
 <span style="color:#323232;">헤주우트.푸즈(((지지트 * 3) + &#39;아&#39; 아스 우8) 아스 샤르)</span>
+<span style="color:#323232;">result.push(((digit * 3) + &#39;a&#39; as u8) as char);</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 <span style="color:#323232;">헤주우트.샤르스().헤브().콜렉트()</span>
+<span style="color:#323232;">result.chars().rev().collect()</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
 
+</pre><pre>
 </pre>
 </div>
 

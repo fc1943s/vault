@@ -622,11 +622,17 @@ document.addEventListener('DOMContentLoaded', function() {
         </header>
 
         <div id = "chapter-0" class = "chapter">
-  <pre><span style="color:#323232;">제트-시우지텡 -파트 . -헤쿠르시 -필리 | 에리-오브젝트 { $_.이스텐시옹 -이크 &#39;.므드&#39; } | 포레아시-오브젝트 {</span>
+  <pre><span style="color:#323232;">```ps1</span>
+<span style="color:#323232;">제트-시우지텡 -파트 . -헤쿠르시 -필리 | 에리-오브젝트 { $_.이스텐시옹 -이크 &#39;.므드&#39; } | 포레아시-오브젝트 {</span>
+<span style="color:#323232;">Get-ChildItem -Path . -Recurse -File | Where-Object { $_.Extension -eq &#39;.md&#39; } | ForEach-Object {</span>
 <span style="color:#323232;">$헬라치베파트 = $_.푸우나미.헤플라시((헤조우비-파트 .).파트 + &#39;\&#39;, &#39;&#39;)</span>
+<span style="color:#323232;">$relativePath = $_.FullName.Replace((Resolve-Path .).Path + &#39;\&#39;, &#39;&#39;)</span>
 <span style="color:#323232;">리치-오트푸트 $헬라치베파트</span>
+<span style="color:#323232;">Write-Output $relativePath</span>
+<span style="color:#323232;">}</span>
 <span style="color:#323232;">}</span>
 
+</pre><pre>
 </pre>
 </div>
 

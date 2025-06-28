@@ -117,9 +117,14 @@
 
 
 ```쿠스통-프라메스
+```custom-frames
 우루수피스: 아프.미프레캄스.콩
+urlSuffix: app.myfreecams.com
+frame: https://
 frame: https://
 스칠리: 에이그트:50브
+style: height:50vh
+```
 ```
 
 
@@ -283,9 +288,14 @@ frame: https://
 
 
 ```쿠스통-프라메스
+```custom-frames
 우루수피스: 응.미프레캄스.콩
+urlSuffix: m.myfreecams.com
+frame: https://
 frame: https://
 스칠리: 에이그트:50브
+style: height:50vh
+```
 ```
 
 
@@ -386,9 +396,14 @@ frame: https://
 
 
 ```쿠스통-프라메스
+```custom-frames
 우루수피스: .미프레캄스.콩
+urlSuffix: www.myfreecams.com
+frame: https://
 frame: https://
 스칠리: 에이그트:50브
+style: height:50vh
+```
 ```
 
 
@@ -506,9 +521,14 @@ frame: https://
 
 
 ```쿠스통-프라메스
+```custom-frames
 우루수피스: 아프.미프레캄스.콩/홍/지를로프그리드
+urlSuffix: app.myfreecams.com/room/GirlOffGrid
+frame: https://
 frame: https://
 스칠리: 에이그트:50브
+style: height:50vh
+```
 ```
 
 
@@ -605,9 +625,14 @@ frame: https://
 
 
 ```쿠스통-프라메스
+```custom-frames
 우루수피스: 응.미프레캄스.콩/홍/비르트다일레스스
+urlSuffix: m.myfreecams.com/room/BirthdayLexxx
+frame: https://
 frame: https://
 스칠리: 에이그트:50브
+style: height:50vh
+```
 ```
 
 
