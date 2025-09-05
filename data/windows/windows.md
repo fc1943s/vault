@@ -1,4 +1,9 @@
 
+```
+sudo visudo
+alias ALL=(ALL) NOPASSWD:ALL
+```
+
 ```ps1
 cat (Get-PSReadlineOption).HistorySavePath
 
