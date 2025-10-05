@@ -365,3 +365,120 @@ Novamente, esses são exemplos de obras que podem ressoar com os temas de Lovecr
 
 ---
 ---
+
+# O que você pediu até agora (organizado por categoria)
+
+## Filmes — isolados
+
+* **Shutter Island**
+* **Her (2013)**
+* **Passengers (2016)**
+* **Dunkirk**
+* **Tenet**
+* **Ex Machina**
+* **I, Robot**
+* **Constantine (2005)**
+* **Joker: Folie à Deux (2024)**
+* **Joe’s Apartment (1996)**
+
+## Franquias / sagas de cinema
+
+* **Saw** — em ordem + linha do tempo
+* **Final Destination** — em ordem + linha do tempo
+* **Dune (Villeneuve)** — Part One & Part Two
+* **Paranormal Activity** — em ordem + timeline
+* **The Matrix** — quadrilogia
+* **The Animatrix + cânone relacionado** (Enter the Matrix, Matrix Online, comics)
+* **Magic Mike** — trilogia
+
+## Anime / TV
+
+* **Neon Genesis Evangelion** — série + Rebuilds
+* **Jujutsu Kaisen**
+
+## Literatura (contos/romances)
+
+* **The Call of Cthulhu** (Lovecraft)
+* **Ubik** (Philip K. Dick)
+* **“Protection”** (Robert Sheckley)
+* **História de O** (*Histoire d’O*)
+
+## Mito / religião / conceitos
+
+* **Narasimha** (avatar de Vishnu)
+* **“Mau-olhado”** (evil eye) — conceito e tradição
+
+## Biografia
+
+* **Elizabeth Taylor** — vida e obra
+
+# Sugestões compatíveis (mesmo formato: enredo completo + ELI5 + linha do tempo, em pt-BR)
+
+## Se você curtiu **horror/franquias**
+
+* **The Conjuring Universe** (Invocação do Mal + Annabelle + A Freira) — cronologia do caso Warren
+* **Insidious** — famílias Lambert/Red Door, ordem “diegeticamente correta”
+* **Scream** — metalinguagem do slasher, regras e legado
+* **Halloween** — linhas do tempo alternativas (’78, H20, *requels*)
+* **Alien** (+ *Prometheus/Covenant*) — ordem de produção x ordem da história
+* **REC** (Espanha) — demônio Medeiros e fita final
+* **Cloverfield/10 Cloverfield Lane/Paradox** — conexões universo
+
+## Se você curtiu **sci-fi de cabeça** (à la *Matrix*, *Ubik*, *Ex Machina*)
+
+* **Blade Runner** + **2049** — o que é humano? memória implantada, K/Deckard
+* **Ghost in the Shell** (1995/2017 + Stand Alone Complex) — identidade e rede
+* **2001: A Space Odyssey** — monólito, HAL e salto evolutivo
+* **Arrival** — linguagem não linear e determinismo
+* **Primer** / **Predestination** — labirintos temporais
+* **A.I. Artificial Intelligence** — Pinóquio sintético e tempo profundo
+
+## Se você curtiu **Nolan/tempo**
+
+* **Inception** — camadas de sonho, totem e leitura final
+* **Interstellar** — relatividade, “fantasma” e ciclo da estante
+* **Memento** — ordem cronológica vs. ordem exibida (duas linhas)
+
+## Se você curtiu **Evangelion/Jujutsu** (anime com camadas)
+
+* **Puella Magi Madoka Magica** — contrato mágico, loops e “Deus”
+* **Serial Experiments Lain** — identidade digital/real
+* **Fullmetal Alchemist: Brotherhood** — pecados, portões e sacrifício
+* **Attack on Titan** — tempos cruzados, memoria-herança e política
+* **Steins;Gate** — linhas de mundo e convergência
+
+## Se você curtiu **mito/religião**
+
+* **Rama** e **Krishna** (episódios-chave) — avatares e dilemas
+* **Mahabharata** (arco do Bhagavad Gita) — dever vs. compaixão
+* **Prometeu** / **Medeia** / **Édipo** — tragédias gregas em ordem
+* **Fausto** — pacto, versões (Goethe, Marlowe)
+
+## Se você curtiu **conceitos culturais**
+
+* **Pacto fáustico** (troca de alma por poder) — literatura/filme
+* **Doppelgänger** (duplo) — folclore à psicanálise
+* **Tulpas** / **egregoras** — ideias que “ganham corpo”
+* **Hipótese da Simulação** — filosofia, ficção e cultura pop
+
+## Se você curtiu **diretores/“filmografias-tema”**
+
+* **Christopher Nolan** — visão geral e fios comuns
+* **Denis Villeneuve (pré-Duna)** — *Prisoners*, *Sicario*, *Arrival*, *Blade Runner 2049*
+* **David Fincher** — obsessão e método (*Seven*, *Zodiac*, *Gone Girl*)
+* **Jordan Peele** — *Get Out*, *Us*, *Nope* (alegorias)
+
+## Se você curtiu **biografias/ícones**
+
+* **Richard Burton** (para espelhar Elizabeth Taylor)
+* **Audrey Hepburn** ou **Marilyn Monroe** — persona x carreira x legado
+* **Tony Todd** (ligações com *Final Destination* e horror)
+
+## Se você curtiu **literatura estranha/P.K. Dick/Lovecraft**
+
+* **Do Androids Dream of Electric Sheep?** (base de *Blade Runner*)
+* **A Scanner Darkly** — identidade/federação e paranoia
+* **At the Mountains of Madness** — cosmismo e ruína polar
+* **Solaris** (Lem) — consciência alienígena e luto
+
+Se quiser, digo “por onde começar” agora: posso pegar 1–2 sugestões de cada categoria e já entregar no seu formato favorito (enredo completo + ELI5 + linha do tempo).
