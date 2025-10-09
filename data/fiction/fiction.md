@@ -481,4 +481,150 @@ Novamente, esses são exemplos de obras que podem ressoar com os temas de Lovecr
 * **At the Mountains of Madness** — cosmismo e ruína polar
 * **Solaris** (Lem) — consciência alienígena e luto
 
-Se quiser, digo “por onde começar” agora: posso pegar 1–2 sugestões de cada categoria e já entregar no seu formato favorito (enredo completo + ELI5 + linha do tempo).
+---
+---
+
+## Filmes — psicológicos / “mind-benders”
+
+- **Memento**
+- **Shutter Island**
+- **Eternal Sunshine of the Spotless Mind**
+- **Black Swan**
+- **Eraserhead**
+- **Parasite**
+- **Vertigo**
+- **Eyes Wide Shut**
+- **Gone Girl**
+- **The House That Jack Built**
+- **Her**
+- **Passengers (2016)**
+- **Scary Movie (2000)**
+- **Magic Mike (trilogia)**
+- **Ben-Hur**
+
+## Filmes — sci-fi / IA / tempo
+
+- **Ex Machina** e **I, Robot**
+- **Dunkirk** e **Tenet**
+- **Arrival**
+- **2001: A Space Odyssey**
+- **Dune** (filmes)
+
+## Franquias de horror (com cronologia)
+
+- **Saw** (linha do tempo)
+- **Final Destination** (linha do tempo)
+- **Paranormal Activity** (linha do tempo)
+- **The Conjuring Universe** (linha do tempo)
+- **Insidious** (linha do tempo)
+- **REC** (linha do tempo)
+- **Alien** (linha do tempo)
+- **Cube** (linha do tempo)
+- **Blade Runner** (duologia + mundo)
+- **The Matrix** (filmes) e **The Animatrix** (canon relacionado)
+- **Constantine** (filme)
+
+## Séries / anime / mangá / web
+
+- **Six Feet Under**
+- **The O.C.**
+- **Alice in Borderland** (série)
+- **Neon Genesis Evangelion**
+- **Serial Experiments Lain**
+- **Jujutsu Kaisen**
+- **Berserk**
+- **Hellsing** (mangá + OVA)
+- **Dragon Ball GT**
+- **Death Note**
+- **Omniscient Reader’s Viewpoint** (webnovel)
+
+## Literatura / clássicos de ficção científica & weird
+
+- **The Call of Cthulhu** (Lovecraft)
+- **Ubik** (Philip K. Dick)
+- **Solaris** (Stanisław Lem)
+- **Rendezvous with Rama** (série, Arthur C. Clarke)
+- **Through the Looking-Glass** (Lewis Carroll)
+- **The Story of O** (Pauline Réage)
+- **Protection** (Robert Sheckley)
+
+## Pessoas / mitologia / conceitos
+
+- **Elizabeth Taylor** (perfil)
+- **Audrey Hepburn** (perfil)
+- **Joker 2** (_Folie à Deux_)
+- **Narasimha** (avatar de Vishnu)
+- **Evil Eye** (mau-olhado / _nazar_)
+- (Meta-pedido: **“interpretações explícitas/ameaçadoras/subtis”** — você pediu isso em cima de Sheckley/“Protection”)
+
+---
+
+# Sugestões compatíveis (prontas pra eu dissecar no mesmo estilo)
+
+## Mind-benders / psico-thrillers (clima de _Memento_, _Black Swan_, _Shutter Island_, _Vertigo_)
+
+- **Mulholland Drive** (Lynch) — identidade em espiral, sonho vs. filme.
+- **Perfect Blue** (Satoshi Kon) — duplo, fama e sanidade (espelha _Black Swan_).
+- **The Prestige** (Nolan) — obsessão e custo do truque (linha do tempo deliciosa).
+- **Enemy** (Villeneuve) — doppelgänger e leitura simbólica pesada.
+- **Oldboy** / **The Handmaiden** (Park Chan-wook) — reviravoltas morais e visuais.
+- **Prisoners** / **Zodiac** (Fincher/Villeneuve) — investigação + ambiguidade.
+
+## Sci-fi filosófica (vibe _Solaris_, _Ubik_, _Arrival_, _2001_)
+
+- **Annihilation** (filme + livro) — auto-desconstrução e “ecologia alien”.
+- **Blindsight** (Peter Watts) — consciência como bug (literatura).
+- **Hyperion** (Dan Simmons) — estrutura em contos + cronologia rica (literatura).
+- **The Three-Body Problem** (Cixin Liu) — civilizações e dilemas de contato.
+- **Permutation City** (Greg Egan) — identidade/simulação até o talo.
+
+## Grandes universos de horror (pra timelinear como _Conjuring_, _Insidious_, _PA_, _REC_, _Alien_)
+
+- **Ringu / The Ring** (J-horror → remakes) — maldição, mídias e versões.
+- **Ju-On / The Grudge** (linhas do tempo cruzadas JP/US).
+- **Hellraiser** (Cenobitas, mitologia e retcons).
+- **Halloween** (várias “linhas” canônicas; ótimo pra mapa).
+- **Evil Dead** (filmes, reboot, _Ash vs. Evil Dead_).
+- **Phantasm** (saga surreal com mitologia própria).
+
+## Anime / mangá “cérebro derretido” (vibe _Lain_, _Eva_, _Death Note_, _Berserk_, _Hellsing_)
+
+- **Paranoia Agent** (Kon) — mito urbano como válvula social.
+- **Texhnolyze** / **Ergo Proxy** — niilismo cyber e filosofia.
+- **Psycho-Pass** — justiça algorítmica (ótimo pra regras e política).
+- **Steins;Gate** — viagens no tempo com regras estritas (linha do tempo).
+- **Monster** — thriller moral sem sobrenatural, mas com densidade absurda.
+- **Devilman Crybaby** — apocalipse emocional (eco com _Berserk_).
+
+## Séries que batem com seus temas (luto, identidade, “jogos”, realidades quebradas)
+
+- **Dark** — árvores genealógicas + loops temporais (perfeito pra timeline).
+- **The Leftovers** — luto e fé (o “espelho adulto” de _Six Feet Under_).
+- **Severance** — memória partida (ética do trabalho como horror).
+- **Mr. Robot** — narrador não confiável + política + identidade.
+
+## Mitologia / conceitos (seguindo **Narasimha** e **Evil Eye**)
+
+- **Kali/Durga** (contrapontos a Narasimha) — teologia da destruição protetiva.
+- **Lilith / Medusa** — arquétipos demonizados e re-leituras modernas.
+- **Ayin Hara / Nazar / Hamsa** (comparativo intercultural do mau-olhado).
+- **Psicologia do “olhar que mata”** em cinema (de _Peeping Tom_ a _It Follows_).
+
+## Perfis clássicos (no espírito **Elizabeth Taylor** / **Audrey Hepburn**)
+
+- **Ingrid Bergman** — fases europeia/hollywoodiana + _Casablanca_/_Stromboli_.
+- **Marlene Dietrich** — persona andrógina e política do star system.
+- **Vivien Leigh** — glória e doença (arte x saúde mental).
+- **Jeanne Moreau** — Nouvelle Vague e metamorfoses de persona.
+
+## Franchises de ação/sci-fi pra cronologias gostosas
+
+- **Terminator** (linhas temporais múltiplas).
+- **Mad Max** (continuidade x mito do “road warrior”).
+- **Planet of the Apes** (saga clássica vs. trilogia moderna).
+- **Predator** (e crossovers com _Alien_).
+- **Ghost in the Shell** (mangas, filmes e séries — várias “continuações canônicas”).
+
+---
+---
+
