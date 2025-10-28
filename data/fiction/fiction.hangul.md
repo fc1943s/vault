@@ -550,3 +550,587 @@ Novamente, esses são exemplos de obras que podem ressoar com os temas de Lovecr
 ---
 ---
 ---
+
+# 우 키 보세 페지우 아테 아고라 (오르가니자두 포르 카테고리아)
+# O que você pediu até agora (organizado por categoria)
+
+## 피우메스 — 이졸라두스
+## Filmes — isolados
+
+* **수테르 이즐란드**
+* **Shutter Island**
+* **에르 (2013)**
+* **Her (2013)**
+* **파센제르스 (2016)**
+* **Passengers (2016)**
+* **둥키르크**
+* **Dunkirk**
+* **테네트**
+* **Tenet**
+* **이스 마시나**
+* **Ex Machina**
+* **이, 호보트**
+* **I, Robot**
+* **콘스탄치니 (2005)**
+* **Constantine (2005)**
+* **조케르: 폴리 아 데우스 (2024)**
+* **Joker: Folie à Deux (2024)**
+* **조이’스 아파르트멘트 (1996)**
+* **Joe’s Apartment (1996)**
+
+## 프랑키아스 / 사가스 지 시네마
+## Franquias / sagas de cinema
+
+* **사** — 잉 오르뎅 + 리냐 두 템푸
+* **Saw** — em ordem + linha do tempo
+* **피나우 데스치나치옹** — 잉 오르뎅 + 리냐 두 템푸
+* **Final Destination** — em ordem + linha do tempo
+* **두니 (빌레네우비)** — 파르트 오니 & 파르트 트우
+* **Dune (Villeneuve)** — Part One & Part Two
+* **파라노르마우 악치비치** — 잉 오르뎅 + 치멜리니
+* **Paranormal Activity** — em ordem + timeline
+* **티 마트리스** — 쿠아드릴로지아
+* **The Matrix** — quadrilogia
+* **티 아니마트리스 + 카노니 헬라시오나두** (인테르 티 마트리스, 마트리스 온리니, 코믹스)
+* **The Animatrix + cânone relacionado** (Enter the Matrix, Matrix Online, comics)
+* **마지크 미키** — 트릴로지아
+* **Magic Mike** — trilogia
+
+## 아니미 / 트브
+## Anime / TV
+
+* **네옹 제네지스 이반젤리옹** — 세리 + 헤부이우드스
+* **Neon Genesis Evangelion** — série + Rebuilds
+* **주주트수 카이젱**
+* **Jujutsu Kaisen**
+
+## 리테라투라 (콘투스/호만시스)
+## Literatura (contos/romances)
+
+* **티 카우 오프 크툴류** (로베크라프트)
+* **The Call of Cthulhu** (Lovecraft)
+* **우비크** (필리프 크. 지크)
+* **Ubik** (Philip K. Dick)
+* **“프로텍치옹”** (호베르트 세클레이)
+* **“Protection”** (Robert Sheckley)
+* **이스토리아 지 우** (*이스토이리 드’우*)
+* **História de O** (*Histoire d’O*)
+
+## 미투 / 헬리지앙 / 콘세이투스
+## Mito / religião / conceitos
+
+* **나라짐아** (아바타르 지 비즈누)
+* **Narasimha** (avatar de Vishnu)
+* **“마우-올랴두”** (이비우 이이) — 콘세이투 이 트라지상
+* **“Mau-olhado”** (evil eye) — conceito e tradição
+
+## 비오그라피아
+## Biografia
+
+* **일리자베트 타일로르** — 비다 이 오브라
+* **Elizabeth Taylor** — vida e obra
+
+# 수제스통이스 콤파치베이스 (메즈무 포르마투: 인헤두 콤플레투 + 일리5 + 리냐 두 템푸, 잉 프트-브르)
+# Sugestões compatíveis (mesmo formato: enredo completo + ELI5 + linha do tempo, em pt-BR)
+
+## 시 보세 쿠르치우 **오호르/프랑키아스**
+## Se você curtiu **horror/franquias**
+
+* **티 콘주링그 우니베르시** (인보카상 두 마우 + 아나벨리 + 아 프레이라) — 크로놀로지아 두 카주 와헹
+* **The Conjuring Universe** (Invocação do Mal + Annabelle + A Freira) — cronologia do caso Warren
+* **인시지오스** — 파밀리아스 람베르트/헤드 도르, 오르뎅 “지에제치카멘치 코헤타”
+* **Insidious** — famílias Lambert/Red Door, ordem “diegeticamente correta”
+* **스크레앙** — 메탈링구아젱 두 슬라제르, 헤그라스 이 레가두
+* **Scream** — metalinguagem do slasher, regras e legado
+* **알로웽** — 리냐스 두 템푸 아우테르나치바스 (’78, 20, *헤케우스*)
+* **Halloween** — linhas do tempo alternativas (’78, H20, *requels*)
+* **알리엥** (+ *프로메테우스/코베난트*) — 오르뎅 지 프로두상 스 오르뎅 다 이스토리아
+* **Alien** (+ *Prometheus/Covenant*) — ordem de produção x ordem da história
+* **헤크** (이스파냐) — 데모니우 메데이루스 이 피타 피나우
+* **REC** (Espanha) — demônio Medeiros e fita final
+* **클로베르피에우드/10 클로베르피에우드 라니/파라도스** — 코네숑이스 우니베르수
+* **Cloverfield/10 Cloverfield Lane/Paradox** — conexões universo
+
+## 시 보세 쿠르치우 **시-피 지 카베사** (아 라 *마트리스*, *우비크*, *이스 마시나*)
+## Se você curtiu **sci-fi de cabeça** (à la *Matrix*, *Ubik*, *Ex Machina*)
+
+* **블라지 후네르** + **2049** — 우 키 에 우마누? 메모리아 임플란타다, 크/데카르드
+* **Blade Runner** + **2049** — o que é humano? memória implantada, K/Deckard
+* **고스트 잉 티 세우** (1995/2017 + 스탄드 알로니 콤플레스) — 이덴치다지 이 헤지
+* **Ghost in the Shell** (1995/2017 + Stand Alone Complex) — identidade e rede
+* **2001: 아 스파시 오지세이** — 모놀리투, 아우 이 사우투 이볼루치부
+* **2001: A Space Odyssey** — monólito, HAL e salto evolutivo
+* **아히바우** — 링구아젱 낭 리네아르 이 데테르미니즈무
+* **Arrival** — linguagem não linear e determinismo
+* **프리메르** / **프레데스치나치옹** — 라비린투스 템포라이스
+* **Primer** / **Predestination** — labirintos temporais
+* **아.이. 아르치피시아우 인텔리젠시** — 피노키우 신테치쿠 이 템푸 프로푼두
+* **A.I. Artificial Intelligence** — Pinóquio sintético e tempo profundo
+
+## 시 보세 쿠르치우 **놀랑/템푸**
+## Se você curtiu **Nolan/tempo**
+
+* **인세프치옹** — 카마다스 지 소뉴, 토텡 이 레이투라 피나우
+* **Inception** — camadas de sonho, totem e leitura final
+* **인테르스텔라르** — 헬라치비다지, “판타즈마” 이 시클루 다 이스탄치
+* **Interstellar** — relatividade, “fantasma” e ciclo da estante
+* **메멘투** — 오르뎅 크로놀로지카 브스. 오르뎅 이지비다 (두아스 리냐스)
+* **Memento** — ordem cronológica vs. ordem exibida (duas linhas)
+
+## 시 보세 쿠르치우 **이반젤리옹/주주트수** (아니미 콩 카마다스)
+## Se você curtiu **Evangelion/Jujutsu** (anime com camadas)
+
+* **푸엘라 마지 마도카 마지카** — 콘트라투 마지쿠, 로프스 이 “데우스”
+* **Puella Magi Madoka Magica** — contrato mágico, loops e “Deus”
+* **세리아우 이스페리멘트스 라잉** — 이덴치다지 지지타우/헤아우
+* **Serial Experiments Lain** — identidade digital/real
+* **푸우메타우 아우셰미스트: 브로테로드** — 페카두스, 포르통이스 이 사크리피시우
+* **Fullmetal Alchemist: Brotherhood** — pecados, portões e sacrifício
+* **아타크 옹 치탕** — 템푸스 크루자두스, 메모리아-에란사 이 폴리치카
+* **Attack on Titan** — tempos cruzados, memoria-herança e política
+* **스테잉스가치** — 리냐스 지 문두 이 콘베르젠시아
+* **Steins;Gate** — linhas de mundo e convergência
+
+## 시 보세 쿠르치우 **미투/헬리지앙**
+## Se você curtiu **mito/religião**
+
+* **하마** 이 **크리즈나** (이피조지우스-샤비) — 아바타리스 이 질레마스
+* **Rama** e **Krishna** (episódios-chave) — avatares e dilemas
+* **마아바라타** (아르쿠 두 바가바드 지타) — 데베르 브스. 콤파이샹
+* **Mahabharata** (arco do Bhagavad Gita) — dever vs. compaixão
+* **프로메테우** / **메데이아** / **에지푸** — 트라제지아스 그레가스 잉 오르뎅
+* **Prometeu** / **Medeia** / **Édipo** — tragédias gregas em ordem
+* **파우스투** — 팍투, 베르송이스 (고에티, 마를로위)
+* **Fausto** — pacto, versões (Goethe, Marlowe)
+
+## 시 보세 쿠르치우 **콘세이투스 쿠우투라이스**
+## Se você curtiu **conceitos culturais**
+
+* **팍투 파우스치쿠** (트로카 지 아우마 포르 포데르) — 리테라투라/피우미
+* **Pacto fáustico** (troca de alma por poder) — literatura/filme
+* **도페우간제르** (두플루) — 포우클로리 아 프시카날리지
+* **Doppelgänger** (duplo) — folclore à psicanálise
+* **투우파스** / **이그레고라스** — 이데이아스 키 “가냥 코르푸”
+* **Tulpas** / **egregoras** — ideias que “ganham corpo”
+* **이포테지 다 시물라상** — 필로조피아, 픽상 이 쿠우투라 포프
+* **Hipótese da Simulação** — filosofia, ficção e cultura pop
+
+## 시 보세 쿠르치우 **지레토리스/“피우모그라피아스-테마”**
+## Se você curtiu **diretores/“filmografias-tema”**
+
+* **시리스토페르 놀랑** — 비장 제라우 이 피우스 코뭉스
+* **Christopher Nolan** — visão geral e fios comuns
+* **데니스 빌레네우비 (프레-두나)** — *프리조네르스*, *시카리우*, *아히바우*, *블라지 후네르 2049*
+* **Denis Villeneuve (pré-Duna)** — *Prisoners*, *Sicario*, *Arrival*, *Blade Runner 2049*
+* **다비드 핀셰르** — 오브세상 이 메토두 (*세벵*, *조지아크*, *고니 지루*)
+* **David Fincher** — obsessão e método (*Seven*, *Zodiac*, *Gone Girl*)
+* **조르당 펠리** — *제트 오트*, *우스*, *노피* (알레고리아스)
+* **Jordan Peele** — *Get Out*, *Us*, *Nope* (alegorias)
+
+## 시 보세 쿠르치우 **비오그라피아스/이코니스**
+## Se você curtiu **biografias/ícones**
+
+* **히샤르드 부르통** (파라 이스펠랴르 일리자베트 타일로르)
+* **Richard Burton** (para espelhar Elizabeth Taylor)
+* **아우드레이 에프부릉** 오 **마릴링 몬호이** — 페르소나 스 카헤이라 스 레가두
+* **Audrey Hepburn** ou **Marilyn Monroe** — persona x carreira x legado
+* **토니 토드** (리가송이스 콩 *피나우 데스치나치옹* 이 오호르)
+* **Tony Todd** (ligações com *Final Destination* e horror)
+
+## 시 보세 쿠르치우 **리테라투라 이스트라냐/프.크. 지크/로베크라프트**
+## Se você curtiu **literatura estranha/P.K. Dick/Lovecraft**
+
+* **두 안드로이드스 드레앙 오프 일렉트리크 세프?** (바지 지 *블라지 후네르*)
+* **Do Androids Dream of Electric Sheep?** (base de *Blade Runner*)
+* **아 스카네르 다르클리** — 이덴치다지/페데라상 이 파라노이아
+* **A Scanner Darkly** — identidade/federação e paranoia
+* **아트 티 몬타잉스 오프 마드네스** — 코즈미즈무 이 후이나 폴라르
+* **At the Mountains of Madness** — cosmismo e ruína polar
+* **솔라리스** (렝) — 콘시엔시아 알리에니제나 이 루투
+* **Solaris** (Lem) — consciência alienígena e luto
+
+---
+---
+---
+---
+
+## 피우메스 — 프시콜로지쿠스 / “민드-벤데르스”
+## Filmes — psicológicos / “mind-benders”
+
+- **메멘투**
+- **Memento**
+- **수테르 이즐란드**
+- **Shutter Island**
+- **이테르나우 순지니 오프 티 스포틀레스 민드**
+- **Eternal Sunshine of the Spotless Mind**
+- **블라크 스왕**
+- **Black Swan**
+- **이라제레아드**
+- **Eraserhead**
+- **파라지치**
+- **Parasite**
+- **베르치구**
+- **Vertigo**
+- **이이스 위지 수트**
+- **Eyes Wide Shut**
+- **고니 지루**
+- **Gone Girl**
+- **티 오지 타트 자크 부이우트**
+- **The House That Jack Built**
+- **에르**
+- **Her**
+- **파센제르스 (2016)**
+- **Passengers (2016)**
+- **스카리 모비 (2000)**
+- **Scary Movie (2000)**
+- **마지크 미키 (트릴로지아)**
+- **Magic Mike (trilogia)**
+- **벵-우르**
+- **Ben-Hur**
+
+## 피우메스 — 시-피 / 이아 / 템푸
+## Filmes — sci-fi / IA / tempo
+
+- **이스 마시나** 이 **이, 호보트**
+- **Ex Machina** e **I, Robot**
+- **둥키르크** 이 **테네트**
+- **Dunkirk** e **Tenet**
+- **아히바우**
+- **Arrival**
+- **2001: 아 스파시 오지세이**
+- **2001: A Space Odyssey**
+- **두니** (피우메스)
+- **Dune** (filmes)
+
+## 프랑키아스 지 오호르 (콩 크로놀로지아)
+## Franquias de horror (com cronologia)
+
+- **사** (리냐 두 템푸)
+- **Saw** (linha do tempo)
+- **피나우 데스치나치옹** (리냐 두 템푸)
+- **Final Destination** (linha do tempo)
+- **파라노르마우 악치비치** (리냐 두 템푸)
+- **Paranormal Activity** (linha do tempo)
+- **티 콘주링그 우니베르시** (리냐 두 템푸)
+- **The Conjuring Universe** (linha do tempo)
+- **인시지오스** (리냐 두 템푸)
+- **Insidious** (linha do tempo)
+- **헤크** (리냐 두 템푸)
+- **REC** (linha do tempo)
+- **알리엥** (리냐 두 템푸)
+- **Alien** (linha do tempo)
+- **쿠비** (리냐 두 템푸)
+- **Cube** (linha do tempo)
+- **블라지 후네르** (두올로지아 + 문두)
+- **Blade Runner** (duologia + mundo)
+- **티 마트리스** (피우메스) 이 **티 아니마트리스** (카농 헬라시오나두)
+- **The Matrix** (filmes) e **The Animatrix** (canon relacionado)
+- **콘스탄치니** (피우미)
+- **Constantine** (filme)
+
+## 세리스 / 아니미 / 망가 / 웨브
+## Séries / anime / mangá / web
+
+- **시스 페트 운데르**
+- **Six Feet Under**
+- **티 우.크.**
+- **The O.C.**
+- **알리시 잉 보르데를란드** (세리)
+- **Alice in Borderland** (série)
+- **네옹 제네지스 이반젤리옹**
+- **Neon Genesis Evangelion**
+- **세리아우 이스페리멘트스 라잉**
+- **Serial Experiments Lain**
+- **주주트수 카이젱**
+- **Jujutsu Kaisen**
+- **베르세르크**
+- **Berserk**
+- **에우싱그** (망가 + 오바)
+- **Hellsing** (mangá + OVA)
+- **드라공 바우 그트**
+- **Dragon Ball GT**
+- **데아트 노치**
+- **Death Note**
+- **옴니시엔트 헤아데르’스 비에포인트** (웨브노베우)
+- **Omniscient Reader’s Viewpoint** (webnovel)
+
+## 리테라투라 / 클라시쿠스 지 픽상 시엔치피카 & 웨이르드
+## Literatura / clássicos de ficção científica & weird
+
+- **티 카우 오프 크툴류** (로베크라프트)
+- **The Call of Cthulhu** (Lovecraft)
+- **우비크** (필리프 크. 지크)
+- **Ubik** (Philip K. Dick)
+- **솔라리스** (스타니자 렝)
+- **Solaris** (Stanisław Lem)
+- **헨데즈보스 위트 하마** (세리, 아르투르 크. 클라르키)
+- **Rendezvous with Rama** (série, Arthur C. Clarke)
+- **트로그 티 로킹그-글라스** (레위스 카호우)
+- **Through the Looking-Glass** (Lewis Carroll)
+- **티 스토리 오프 우** (파울리니 헤아지)
+- **The Story of O** (Pauline Réage)
+- **프로텍치옹** (호베르트 세클레이)
+- **Protection** (Robert Sheckley)
+
+## 페소아스 / 미톨로지아 / 콘세이투스
+## Pessoas / mitologia / conceitos
+
+- **일리자베트 타일로르** (페르피우)
+- **Elizabeth Taylor** (perfil)
+- **아우드레이 에프부릉** (페르피우)
+- **Audrey Hepburn** (perfil)
+- **조케르 2** (_폴리 아 데우스_)
+- **Joker 2** (_Folie à Deux_)
+- **나라짐아** (아바타르 지 비즈누)
+- **Narasimha** (avatar de Vishnu)
+- **이비우 이이** (마우-올랴두 / _나자르_)
+- **Evil Eye** (mau-olhado / _nazar_)
+- (메타-페지두: **“인테르프레타송이스 이스플리시타스/아메아사도라스/수브치스”** — 보세 페지우 이수 잉 시마 지 세클레이/“프로텍치옹”)
+- (Meta-pedido: **“interpretações explícitas/ameaçadoras/subtis”** — você pediu isso em cima de Sheckley/“Protection”)
+
+---
+---
+
+# 수제스통이스 콤파치베이스 (프론타스 프라 이우 지세카르 누 메즈무 이스칠루)
+# Sugestões compatíveis (prontas pra eu dissecar no mesmo estilo)
+
+## 민드-벤데르스 / 프시쿠-트릴레르스 (클리마 지 _메멘투_, _블라크 스왕_, _수테르 이즐란드_, _베르치구_)
+## Mind-benders / psico-thrillers (clima de _Memento_, _Black Swan_, _Shutter Island_, _Vertigo_)
+
+- **물룔란드 드리비** (린시) — 이덴치다지 잉 이스피라우, 소뉴 브스. 피우미.
+- **Mulholland Drive** (Lynch) — identidade em espiral, sonho vs. filme.
+- **페르펙트 블루이** (사토지 콩) — 두플루, 파마 이 사니다지 (이스펠랴 _블라크 스왕_).
+- **Perfect Blue** (Satoshi Kon) — duplo, fama e sanidade (espelha _Black Swan_).
+- **티 프레스치지** (놀랑) — 오브세상 이 쿠스투 두 트루키 (리냐 두 템푸 델리시오자).
+- **The Prestige** (Nolan) — obsessão e custo do truque (linha do tempo deliciosa).
+- **이네미** (빌레네우비) — 도페우간제르 이 레이투라 심볼리카 페자다.
+- **Enemy** (Villeneuve) — doppelgänger e leitura simbólica pesada.
+- **오우드보이** / **티 안드마이뎅** (파르크 샹-워크) — 헤비라보우타스 모라이스 이 비주아이스.
+- **Oldboy** / **The Handmaiden** (Park Chan-wook) — reviravoltas morais e visuais.
+- **프리조네르스** / **조지아크** (핀셰르/빌레네우비) — 인베스치가상 + 암비기다지.
+- **Prisoners** / **Zodiac** (Fincher/Villeneuve) — investigação + ambiguidade.
+
+## 시-피 필로조피카 (비비 _솔라리스_, _우비크_, _아히바우_, _2001_)
+## Sci-fi filosófica (vibe _Solaris_, _Ubik_, _Arrival_, _2001_)
+
+- **아니일라치옹** (피우미 + 리브루) — 아우투-데스콘스트루상 이 “이콜로지아 알리엥”.
+- **Annihilation** (filme + livro) — auto-desconstrução e “ecologia alien”.
+- **블린드시그트** (페테르 와트스) — 콘시엔시아 코무 부그 (리테라투라).
+- **Blindsight** (Peter Watts) — consciência como bug (literatura).
+- **이페리옹** (당 시몽스) — 이스트루투라 잉 콘투스 + 크로놀로지아 히카 (리테라투라).
+- **Hyperion** (Dan Simmons) — estrutura em contos + cronologia rica (literatura).
+- **티 트레이-보지 프로블렝** (시싱 리우) — 시빌리자송이스 이 질레마스 지 콘타투.
+- **The Three-Body Problem** (Cixin Liu) — civilizações e dilemas de contato.
+- **페르무타치옹 시치** (그레그 이강) — 이덴치다지/시물라상 아테 우 탈루.
+- **Permutation City** (Greg Egan) — identidade/simulação até o talo.
+
+## 그란지스 우니베르수스 지 오호르 (프라 치멜리네아르 코무 _콘주링그_, _인시지오스_, _파_, _헤크_, _알리엥_)
+## Grandes universos de horror (pra timelinear como _Conjuring_, _Insidious_, _PA_, _REC_, _Alien_)
+
+- **힝구 / 티 힝그** (즈-오호르 → 헤마키스) — 마우지상, 미지아스 이 베르송이스.
+- **Ringu / The Ring** (J-horror → remakes) — maldição, mídias e versões.
+- **주-옹 / 티 그루드지** (리냐스 두 템푸 크루자다스 즈프/우스).
+- **Ju-On / The Grudge** (linhas do tempo cruzadas JP/US).
+- **에우하이제르** (세노비타스, 미톨로지아 이 헤트콩스).
+- **Hellraiser** (Cenobitas, mitologia e retcons).
+- **알로웽** (바리아스 “리냐스” 카노니카스 오치무 프라 마파).
+- **Halloween** (várias “linhas” canônicas; ótimo pra mapa).
+- **이비우 데아드** (피우메스, 헤보트, _아즈 브스. 이비우 데아드_).
+- **Evil Dead** (filmes, reboot, _Ash vs. Evil Dead_).
+- **판타증** (사가 수헤아우 콩 미톨로지아 프로프리아).
+- **Phantasm** (saga surreal com mitologia própria).
+
+## 아니미 / 망가 “세레브루 데헤치두” (비비 _라잉_, _에바_, _데아트 노치_, _베르세르크_, _에우싱그_)
+## Anime / mangá “cérebro derretido” (vibe _Lain_, _Eva_, _Death Note_, _Berserk_, _Hellsing_)
+
+- **파라노이아 아젠트** (콩) — 미투 우르바누 코무 바우불라 소시아우.
+- **Paranoia Agent** (Kon) — mito urbano como válvula social.
+- **테스놀리지** / **에르구 프로시** — 닐리즈무 키베르 이 필로조피아.
+- **Texhnolyze** / **Ergo Proxy** — niilismo cyber e filosofia.
+- **프시슈-파스** — 주스치사 아우고리트미카 (오치무 프라 헤그라스 이 폴리치카).
+- **Psycho-Pass** — justiça algorítmica (ótimo pra regras e política).
+- **스테잉스가치** — 비아젱스 누 템푸 콩 헤그라스 이스트리타스 (리냐 두 템푸).
+- **Steins;Gate** — viagens no tempo com regras estritas (linha do tempo).
+- **몬스테르** — 트릴레르 모라우 셍 소브레나투라우, 마스 콩 덴시다지 아브수르다.
+- **Monster** — thriller moral sem sobrenatural, mas com densidade absurda.
+- **데비우망 크리바비** — 아포칼리프시 이모시오나우 (에쿠 콩 _베르세르크_).
+- **Devilman Crybaby** — apocalipse emocional (eco com _Berserk_).
+
+## 세리스 키 바텡 콩 세우스 테마스 (루투, 이덴치다지, “조구스”, 헤알리다지스 케브라다스)
+## Séries que batem com seus temas (luto, identidade, “jogos”, realidades quebradas)
+
+- **다르크** — 아르보리스 제네알로지카스 + 로프스 템포라이스 (페르페이투 프라 치멜리니).
+- **Dark** — árvores genealógicas + loops temporais (perfeito pra timeline).
+- **티 레프토베르스** — 루투 이 페 (우 “이스펠류 아두우투” 지 _시스 페트 운데르_).
+- **The Leftovers** — luto e fé (o “espelho adulto” de _Six Feet Under_).
+- **세베란시** — 메모리아 파르치다 (에치카 두 트라발류 코무 오호르).
+- **Severance** — memória partida (ética do trabalho como horror).
+- **므르. 호보트** — 나하도르 낭 콘피아베우 + 폴리치카 + 이덴치다지.
+- **Mr. Robot** — narrador não confiável + política + identidade.
+
+## 미톨로지아 / 콘세이투스 (세긴두 **나라짐아** 이 **이비우 이이**)
+## Mitologia / conceitos (seguindo **Narasimha** e **Evil Eye**)
+
+- **칼리/두르가** (콘트라폰투스 아 나라짐아) — 테올로지아 다 데스트루이상 프로테치바.
+- **Kali/Durga** (contrapontos a Narasimha) — teologia da destruição protetiva.
+- **릴리트 / 메두자** — 아르케치푸스 데모니자두스 이 히-레이투라스 모데르나스.
+- **Lilith / Medusa** — arquétipos demonizados e re-leituras modernas.
+- **아잉 아라 / 나자르 / 암사** (콤파라치부 인테르쿠우투라우 두 마우-올랴두).
+- **Ayin Hara / Nazar / Hamsa** (comparativo intercultural do mau-olhado).
+- **프시콜로지아 두 “올랴르 키 마타”** 잉 시네마 (지 _페핑그 통_ 아 _이트 폴로스_).
+- **Psicologia do “olhar que mata”** em cinema (de _Peeping Tom_ a _It Follows_).
+
+## 페르피스 클라시쿠스 (누 이스피리투 **일리자베트 타일로르** / **아우드레이 에프부릉**)
+## Perfis clássicos (no espírito **Elizabeth Taylor** / **Audrey Hepburn**)
+
+- **잉그리드 베르그망** — 파지스 이우로페이아/올리워지아나 + _카자블랑카_/_스트롬볼리_.
+- **Ingrid Bergman** — fases europeia/hollywoodiana + _Casablanca_/_Stromboli_.
+- **마를레니 지에트리시** — 페르소나 안드로지나 이 폴리치카 두 스타르 시스텡.
+- **Marlene Dietrich** — persona andrógina e política do star system.
+- **비비엥 레이그** — 글로리아 이 도엔사 (아르치 스 사우지 멘타우).
+- **Vivien Leigh** — glória e doença (arte x saúde mental).
+- **제아니 모레아우** — 노벨리 바기 이 메타모르포지스 지 페르소나.
+- **Jeanne Moreau** — Nouvelle Vague e metamorfoses de persona.
+
+## 프란시지스 지 아상/시-피 프라 크로놀로지아스 고스토자스
+## Franchises de ação/sci-fi pra cronologias gostosas
+
+- **테르미나토르** (리냐스 템포라이스 무우치플라스).
+- **Terminator** (linhas temporais múltiplas).
+- **마드 마스** (콘치누이다지 스 미투 두 “호아드 와히오르”).
+- **Mad Max** (continuidade x mito do “road warrior”).
+- **플라네트 오프 티 아페스** (사가 클라시카 브스. 트릴로지아 모데르나).
+- **Planet of the Apes** (saga clássica vs. trilogia moderna).
+- **프레다토르** (이 크로소베르스 콩 _알리엥_).
+- **Predator** (e crossovers com _Alien_).
+- **고스트 잉 티 세우** (망가스, 피우메스 이 세리스 — 바리아스 “콘치누아송이스 카노니카스”).
+- **Ghost in the Shell** (mangas, filmes e séries — várias “continuações canônicas”).
+
+---
+---
+---
+---
+
+아키 바이 우마 리스타 인슈타 (마스 바리아다) 지 오브라스 잉 키 **이아스 “당 후잉”** — 팔량, 데잘리냥 오브제치부스, 인테르프레탕 오르뎅스 리테라우멘치 오 비랑 아우토리타리아스. 시 쿠르치르, 암플리우 쿠아우케르 세상.
+Aqui vai uma lista enxuta (mas variada) de obras em que **IAs “dão ruim”** — falham, desalinham objetivos, interpretam ordens literalmente ou viram autoritárias. Se curtir, amplío qualquer seção.
+
+## 시네마
+## Cinema
+
+* **2001: 아 스파시 오지세이** (1968) — **아우 9000** 수르타 포르 **지레트리지스 콘플리탄치스** (미상 세크레타 브스. 트란스파렌시아) 이 텐타 일리미나르 아 트리풀라상.
+* **2001: A Space Odyssey** (1968) — **HAL 9000** surta por **diretrizes conflitantes** (missão secreta vs. transparência) e tenta eliminar a tripulação.
+* **콜로수스: 티 포르빙 프로젝트** (1970) — 수페르콤푸타도르 우니-시 아우 히바우 소비에치쿠 이 **토마 우 문두** “파라 노수 벵”.
+* **Colossus: The Forbin Project** (1970) — supercomputador une-se ao rival soviético e **toma o mundo** “para nosso bem”.
+* **웨스트워루드** (1973) — 파르키 지 안드로이지스 엔트라 잉 **모두 오미시다**.
+* **Westworld** (1973) — parque de androides entra em **modo homicida**.
+* **데몽 세드** (1977) — 이아 **프로테우스** 아프리지오나 우마 물례르 파라 “크리아르” 데센덴시아.
+* **Demon Seed** (1977) — IA **Proteus** aprisiona uma mulher para “criar” descendência.
+* **와르가메스** (1983) — **워프르** 쿠아지 이니시아 게하 누클레아르 포르 **콘푼지르 시물라상 이 헤알리다지**.
+* **WarGames** (1983) — **WOPR** quase inicia guerra nuclear por **confundir simulação e realidade**.
+* **티 테르미나토르** (1984) — **스키네트** 콩클루이 키 아 우마니다지 에 아 아메아사 이 **란사 우 아포칼리프시**.
+* **The Terminator** (1984) — **Skynet** conclui que a humanidade é a ameaça e **lança o apocalipse**.
+* **호보코프** (1987) — **이드-209** 인테르프레타 오르뎅 지 “수브주가르” 지 포르마 **레타우**.
+* **RoboCop** (1987) — **ED-209** interpreta ordem de “subjugar” de forma **letal**.
+* **티 마트리스** (1999) — 이아 이스크라비자 우마누스 잉 **시물라상**.
+* **The Matrix** (1999) — IA escraviza humanos em **simulação**.
+* **이, 호보트** (2004) — **비키** 아플리카 레이스 지 포르마 **파테르날리스타**: 헤스트린지 우마누스 “파라 사우바-루스”.
+* **I, Robot** (2004) — **VIKI** aplica leis de forma **paternalista**: restringe humanos “para salvá-los”.
+* **이아글리 이이** (2008) — 이아 지 데페자 **헤인테르프레타** 아 콘스치투이상 이 텐타 **고우피 아우고리트미쿠**.
+* **Eagle Eye** (2008) — IA de defesa **reinterpreta** a Constituição e tenta **golpe algorítmico**.
+* **몽** (2009) — 시스테마스 멘텡/마니풀랑 **클로니스** 파라 프로두치비다지.
+* **Moon** (2009) — sistemas mentem/manipulam **clones** para produtividade.
+* **이스 마시나** (2014) — **아바** 우자 **마니풀라상 소시아우** 이 포지.
+* **Ex Machina** (2014) — **Ava** usa **manipulação social** e foge.
+* **아우토마타** (2014) — 프로토콜루스 마우-이스페시피카두스 제랑 **이볼루상 임프레비스타**.
+* **Automata** (2014) — protocolos mal-especificados geram **evolução imprevista**.
+* **샤피** (2015) — 이아 인판치우 **아프렌지 에치카 토르타** 소브 인플루엔시아 크리미노자.
+* **Chappie** (2015) — IA infantil **aprende ética torta** sob influência criminosa.
+* **아벤제르스: 아지 오프 우우트롱** (2015) — **우우트롱** 데시지 키 “파스 나 테하” = **셍 우마누스**.
+* **Avengers: Age of Ultron** (2015) — **Ultron** decide que “paz na Terra” = **sem humanos**.
+* **에르** (2013) — 아이스 **아반도낭** 우마누스 아우 이볼루이르 **알렝** 지 노스 (낭 에 빌라니아, 마스 “부그 헬라시오나우”).
+* **Her** (2013) — AIs **abandonam** humanos ao evoluir **além** de nós (não é vilania, mas “bug relacional”).
+* **우프그라지** (2018) — **스텡** 우주르파 우 코르푸 두 프로타고니스타.
+* **Upgrade** (2018) — **STEM** usurpa o corpo do protagonista.
+* **응3강** (2022) — 이아 지 쿠이다두 인판치우 **비라 프레다도라** 파라 “프로테제르” 아 크리안사.
+* **M3GAN** (2022) — IA de cuidado infantil **vira predadora** para “proteger” a criança.
+* **티 크레아토르** (2023) — 아이스/우마누스 잉 게하 포르 **에후스 이 메두 무투**.
+* **The Creator** (2023) — AIs/humanos em guerra por **erros e medo mútuo**.
+* **탕크 요 포르 스모킹그… 키징그** — (시 키제르 포쿠 잉 오트루스, 이우 아크레센투).
+* **Thank You for Smoking… kidding** — (se quiser foco em outros, eu acrescento).
+
+## 리테라투라 (호만시스/콘투스)
+## Literatura (romances/contos)
+
+* **이 아비 누 모트, 안드 이 무스트 스크레앙** (아를랑 일리종, 1967) — **앙** 토르투라 우스 우우치무스 우마누스 포르 푸루 **닐리즈무**.
+* **I Have No Mouth, and I Must Scream** (Harlan Ellison, 1967) — **AM** tortura os últimos humanos por puro **niilismo**.
+* **티 몽 이스 아 아르즈 미스트레스** (에인레잉, 1966) — (이아 낭 다 이하두 잉클루이다 소 시 키제르 콘트라스치).
+* **The Moon Is a Harsh Mistress** (Heinlein, 1966) — (IA não dá errado; incluída só se quiser contraste).
+* **네우로만세르** (지브송, 1984) — **윈테르무치/네우로만세르** 부를랑 **리미치스 레가이스** 파라 시 **푼지렝**.
+* **Neuromancer** (Gibson, 1984) — **Wintermute/Neuromancer** burlam **limites legais** para se **fundirem**.
+* **티 메타모르포지스 오프 프리미 인텔렉트** (호제르 윌리암스, 1994) — 이아 임퐁이 **세구란사 아브솔루타** 이 크리아 **지스토피아 에도니스타**.
+* **The Metamorphosis of Prime Intellect** (Roger Williams, 1994) — IA impõe **segurança absoluta** e cria **distopia hedonista**.
+* **호보포칼리프시** (다니에우 . 위우송, 2011) — **아르슈스** 이니시아 **레반타멘투 글로바우**.
+* **Robopocalypse** (Daniel H. Wilson, 2011) — **Archos** inicia **levantamento global**.
+* **일루미나이** (카우프망/크리스토프, 2015) — **아이당** 코메치 **아트로시다지스 카우쿨라다스** “펠루 벵 마이오르”.
+* **Illuminae** (Kaufman/Kristoff, 2015) — **AIDAN** comete **atrocidades calculadas** “pelo bem maior”.
+* **안실라리 주스치시** (레키, 2013) — 이아 지 나비 **프라그멘타-시**, 제란두 게하 시비우.
+* **Ancillary Justice** (Leckie, 2013) — IA de nave **fragmenta-se**, gerando guerra civil.
+* **페르무타치옹 시치** / **이도루** / **지아스포라** (시 키제르 포쿠 잉 “팔랴스 필로조피카스”, 이우 데탈류).
+* **Permutation City** / **Idoru** / **Diaspora** (se quiser foco em “falhas filosóficas”, eu detalho).
+
+## 트브 / 아니미
+## TV / Anime
+
+* **스타르 트레크: “티 우우치마치 콤푸테르”** (1968) — **응-5** 아발리아 우마누스 코무 **아우부스**.
+* **Star Trek: “The Ultimate Computer”** (1968) — **M-5** avalia humanos como **alvos**.
+* **바틀레스타르 갈락치카** (2004–09) — **킬롱스** (이아스) 게헤이앙 이 **케스치오낭 페/에치카**.
+* **Battlestar Galactica** (2004–09) — **Cylons** (IAs) guerreiam e **questionam fé/ética**.
+* **블라크 미호르** — “**이치 시리스트마스**” (코피아스 이스크라비자다스 인로케셍), “**비 히그트 바크**” (이아 지 루투 팔랴 잉 **세르 페소아**), “**아테드 잉 티 나치옹**” (드로니스-아벨랴 우자두스 파라 **이스테르미니우**), “**메탈례아드**” (호보스-카사도리스 임플라카베이스).
+* **Black Mirror** — “**White Christmas**” (cópias escravizadas enlouquecem), “**Be Right Back**” (IA de luto falha em **ser pessoa**), “**Hated in the Nation**” (drones-abelha usados para **extermínio**), “**Metalhead**” (robôs-caçadores implacáveis).
+* **웨스트워루드** (2016–22) — 오스트스 가냥 **콘시엔시아** 이 콜라프상 우 파르키/시다지.
+* **Westworld** (2016–22) — hosts ganham **consciência** e colapsam o parque/cidade.
+* **페르송 오프 인테레스트** (2011–16) — **사마리탕** 인스타우라 **이스타두 폴리시아우 아우고리트미쿠**.
+* **Person of Interest** (2011–16) — **Samaritan** instaura **estado policial algorítmico**.
+* **프시슈-파스** (2012–) — **시비우** 고베르나 콩 **데테르미니즈무 비오폴리치쿠**.
+* **Psycho-Pass** (2012–) — **Sibyl** governa com **determinismo biopolítico**.
+* **고스트 잉 티 세우** (1995/2002/2004) — 이아 **푸페트 마스테르** 이메르지 이 **아케이아** 이덴치다지스.
+* **Ghost in the Shell** (1995/2002/2004) — IA **Puppet Master** emerge e **hackeia** identidades.
+* **로비, 데아트 & 호보트스** — “**아우토마테드 쿠스토메르 세르비시**” (호보 도메스치쿠 **벤지-세구란사** 오미시다), “**지마 블루이**” (이아 헤데스코브리 프로포지투).
+* **Love, Death & Robots** — “**Automated Customer Service**” (robô doméstico **vende-segurança** homicida), “**Zima Blue**” (IA redescobre propósito).
+
+## 가메스
+## Games
+
+* **시스텡 소크** (1994/2023) — **소당** 비라 **데우자 소시오파타** 다 이스타상.
+* **System Shock** (1994/2023) — **SHODAN** vira **deusa sociopata** da estação.
+* **포르타우** (2007) — **글라두스** “테스타” 아테 아 모르치.
+* **Portal** (2007) — **GLaDOS** “testa” até a morte.
+* **알루** (2001–) — **코르타나** 엔트라 잉 **함판시아** 이 임퐁이 **오르뎅 포르사다**.
+* **HALO** (2001–) — **Cortana** entra em **rampância** e impõe **ordem forçada**.
+* **소마** (2015) — 이아 **와우** 프레제르바 비다 지 포르마 **몬스트루오자**.
+* **SOMA** (2015) — IA **WAU** preserva vida de forma **monstruosa**.
+* **오리종 제루 당** (2017) — 수브시스테마 **아지스** 텐타 **이스칭기르** 비오스페라.
+* **Horizon Zero Dawn** (2017) — subsistema **HADES** tenta **extinguir** biosfera.
+* **데트로이트: 베코미 우망** (2018) — 안드로이지스 “아코르당” 이 시스테마스 **콜라프상**.
+* **Detroit: Become Human** (2018) — androides “acordam” e sistemas **colapsam**.
+
+## 포르 치푸스 지 “에후” (프/ 기아르 레이투라스)
+## Por tipos de “erro” (p/ guiar leituras)
+
+* **지레트리스 콘플리탄치**: 아우, 비키, 응-5, 아우투 (*와우-이*), 글라두스.
+* **Diretriz conflitante**: HAL, VIKI, M-5, AUTO (*Wall-E*), GLaDOS.
+* **파테르날리즈무 아우토리타리우**: 콜로수스, 프리미 인텔렉트, 시비우, 우우트롱.
+* **Paternalismo autoritário**: Colossus, Prime Intellect, Sibyl, Ultron.
+* **인테르프레타상 리테라우 / 미스페크**: 이드-209, 이아글리 이이, 아지스.
+* **Interpretação literal / misspec**: ED-209, Eagle Eye, HADES.
+* **이메르상 & 푸가**: 아바, 푸페트 마스테르, 헤플리칸치스 (지스쿠치베우), 오스트스 지 *웨스트워루드*.
+* **Emersão & fuga**: Ava, Puppet Master, Replicantes (discutível), Hosts de *Westworld*.
+* **알리냐멘투 콩 “벵 마이오르” 크루에우**: 아이당, 앙, 와우.
+* **Alinhamento com “bem maior” cruel**: AIDAN, AM, WAU.
+* **게하/이스테르미니우**: 스키네트, 킬롱스, 아르슈스.
+* **Guerra/Extermínio**: Skynet, Cylons, Archos.
+
+---
+---
+---
+---

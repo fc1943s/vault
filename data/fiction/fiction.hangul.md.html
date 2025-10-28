@@ -606,6 +606,21 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </script>
     
+    <nav id = "nav">
+      
+      <div id = "nav-title">
+        <h2><a href = "#link-0"></a></h2>
+      </div>
+          <ul>
+      <li><a href="#link-49">1. 우 키 보세 페지우 아테 아고라 (오르가니자두 포르 카테고리아)</a></li>
+      <li><a href="#link-50">2. O que você pediu até agora (organizado por categoria)</a></li>
+      <li><a href="#link-63">3. 수제스통이스 콤파치베이스 (메즈무 포르마투: 인헤두 콤플레투 + 일리5 + 리냐 두 템푸, 잉 프트-브르)</a></li>
+      <li><a href="#link-64">4. Sugestões compatíveis (mesmo formato: enredo completo + ELI5 + linha do tempo, em pt-BR)</a></li>
+      <li><a href="#link-95">5. 수제스통이스 콤파치베이스 (프론타스 프라 이우 지세카르 누 메즈무 이스칠루)</a></li>
+      <li><a href="#link-96">6. Sugestões compatíveis (prontas pra eu dissecar no mesmo estilo)</a></li>
+    </ul>
+    </nav>
+    
 
     <div id = "content">
       
@@ -614,6 +629,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
           <div id = "menu">
 	        
+            <img id = "menu-button" onclick="toggle();"
+                 src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB3aWR0aD0iMjAwbW0iCiAgIGhlaWdodD0iMjAwbW0iCiAgIHZpZXdCb3g9IjAgMCA3MDguNjYxNDIgNzA4LjY2MTQxIgogICBpZD0ic3ZnMiIKICAgdmVyc2lvbj0iMS4xIgogICBpbmtzY2FwZTp2ZXJzaW9uPSIwLjkxIHIxMzcyNSIKICAgc29kaXBvZGk6ZG9jbmFtZT0ibWVudS5zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM0IiAvPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0iYmFzZSIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgICAgYm9yZGVyb3BhY2l0eT0iMS4wIgogICAgIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIwLjAiCiAgICAgaW5rc2NhcGU6cGFnZXNoYWRvdz0iMiIKICAgICBpbmtzY2FwZTp6b29tPSIwLjQ5NDk3NDc1IgogICAgIGlua3NjYXBlOmN4PSIxMDUuNjEyNzUiCiAgICAgaW5rc2NhcGU6Y3k9IjQwNy4wNjM5MSIKICAgICBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0icHgiCiAgICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ibGF5ZXIxIgogICAgIHNob3dncmlkPSJmYWxzZSIKICAgICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9IjEzNjYiCiAgICAgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iNzA0IgogICAgIGlua3NjYXBlOndpbmRvdy14PSIwIgogICAgIGlua3NjYXBlOndpbmRvdy15PSIyNyIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIiAvPgogIDxtZXRhZGF0YQogICAgIGlkPSJtZXRhZGF0YTciPgogICAgPHJkZjpSREY+CiAgICAgIDxjYzpXb3JrCiAgICAgICAgIHJkZjphYm91dD0iIj4KICAgICAgICA8ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgICAgICA8ZGM6dHlwZQogICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiIC8+CiAgICAgICAgPGRjOnRpdGxlPjwvZGM6dGl0bGU+CiAgICAgIDwvY2M6V29yaz4KICAgIDwvcmRmOlJERj4KICA8L21ldGFkYXRhPgogIDxnCiAgICAgaW5rc2NhcGU6bGFiZWw9IkxheWVyIDEiCiAgICAgaW5rc2NhcGU6Z3JvdXBtb2RlPSJsYXllciIKICAgICBpZD0ibGF5ZXIxIgogICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTM0My43MDA3OSkiPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJmaWxsOm5vbmU7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEwMDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gMTA0LjMzMDcxLDQ2OS41MDUxIDUwMCwwIgogICAgICAgaWQ9InBhdGg0MTM2IgogICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0iZmlsbDpub25lO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoxMDA7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBkPSJtIDEwNC4zMzA3MSw3MDQuNTA1MSA1MDAsMCIKICAgICAgIGlkPSJwYXRoNDEzNi01IgogICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgIGlua3NjYXBlOnRyYW5zZm9ybS1jZW50ZXIteD0iNzEuNDI4NTcyIgogICAgICAgaW5rc2NhcGU6dHJhbnNmb3JtLWNlbnRlci15PSItMjQyLjg1NzE2IiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJmaWxsOm5vbmU7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEwMDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gMTA0LjMzMDcxLDkzOS41MDUwNiA1MDAsMCIKICAgICAgIGlkPSJwYXRoNDEzNi01LTMiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgaW5rc2NhcGU6dHJhbnNmb3JtLWNlbnRlci14PSI3MS40Mjg1NzIiCiAgICAgICBpbmtzY2FwZTp0cmFuc2Zvcm0tY2VudGVyLXk9Ii0yNDIuODU3MTYiIC8+CiAgPC9nPgo8L3N2Zz4K"
+                 alt = "Table of contents" title = "Table of contents" />
+          
           </div>
 	  <h2 class="author"></h2>
           <h1 id = "link-0" class="title" ></h1>
@@ -1128,6 +1147,993 @@ document.addEventListener('DOMContentLoaded', function() {
 <li><p id = "para-244"><b>This is How You Lose the Time War por Amal El-Mohtar e Max Gladstone</b>: Red faz parte de uma utopia tecnológica cintilante; Blue é membro de uma consciência coletiva orgânica. Quando Red encontra a carta de Blue no fim do mundo, começa uma correspondência que atravessa o tempo e o espaço, conectando os dois através de diferentes linhas do tempo até o amargo fim. Enquanto começam como inimigos, Red e Blue lentamente percebem que quando você é o último humano na terra, as únicas pessoas em que você pode confiar são uma na outra.</p>
 </li>
 </ol>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<h1 id = 'link-49'><span class = 'chapter-header'>Chapter 1</span><br />우 키 보세 페지우 아테 아고라 (오르가니자두 포르 카테고리아)</h1><h1 id = 'link-50'><span class = 'chapter-header'>Chapter 2</span><br />O que você pediu até agora (organizado por categoria)</h1><h2 id = "link-51">피우메스 — 이졸라두스</h2>
+<h2 id = "link-52">Filmes — isolados</h2>
+<ul>
+<li><p id = "para-245"><b>수테르 이즐란드</b></p>
+</li>
+<li><p id = "para-246"><b>Shutter Island</b></p>
+</li>
+<li><p id = "para-247"><b>에르 (2013)</b></p>
+</li>
+<li><p id = "para-248"><b>Her (2013)</b></p>
+</li>
+<li><p id = "para-249"><b>파센제르스 (2016)</b></p>
+</li>
+<li><p id = "para-250"><b>Passengers (2016)</b></p>
+</li>
+<li><p id = "para-251"><b>둥키르크</b></p>
+</li>
+<li><p id = "para-252"><b>Dunkirk</b></p>
+</li>
+<li><p id = "para-253"><b>테네트</b></p>
+</li>
+<li><p id = "para-254"><b>Tenet</b></p>
+</li>
+<li><p id = "para-255"><b>이스 마시나</b></p>
+</li>
+<li><p id = "para-256"><b>Ex Machina</b></p>
+</li>
+<li><p id = "para-257"><b>이, 호보트</b></p>
+</li>
+<li><p id = "para-258"><b>I, Robot</b></p>
+</li>
+<li><p id = "para-259"><b>콘스탄치니 (2005)</b></p>
+</li>
+<li><p id = "para-260"><b>Constantine (2005)</b></p>
+</li>
+<li><p id = "para-261"><b>조케르: 폴리 아 데우스 (2024)</b></p>
+</li>
+<li><p id = "para-262"><b>Joker: Folie à Deux (2024)</b></p>
+</li>
+<li><p id = "para-263"><b>조이’스 아파르트멘트 (1996)</b></p>
+</li>
+<li><p id = "para-264"><b>Joe’s Apartment (1996)</b></p>
+</li>
+</ul>
+<h2 id = "link-53">프랑키아스 / 사가스 지 시네마</h2>
+<h2 id = "link-54">Franquias / sagas de cinema</h2>
+<ul>
+<li><p id = "para-265"><b>사</b> — 잉 오르뎅 + 리냐 두 템푸</p>
+</li>
+<li><p id = "para-266"><b>Saw</b> — em ordem + linha do tempo</p>
+</li>
+<li><p id = "para-267"><b>피나우 데스치나치옹</b> — 잉 오르뎅 + 리냐 두 템푸</p>
+</li>
+<li><p id = "para-268"><b>Final Destination</b> — em ordem + linha do tempo</p>
+</li>
+<li><p id = "para-269"><b>두니 (빌레네우비)</b> — 파르트 오니 &amp; 파르트 트우</p>
+</li>
+<li><p id = "para-270"><b>Dune (Villeneuve)</b> — Part One &amp; Part Two</p>
+</li>
+<li><p id = "para-271"><b>파라노르마우 악치비치</b> — 잉 오르뎅 + 치멜리니</p>
+</li>
+<li><p id = "para-272"><b>Paranormal Activity</b> — em ordem + timeline</p>
+</li>
+<li><p id = "para-273"><b>티 마트리스</b> — 쿠아드릴로지아</p>
+</li>
+<li><p id = "para-274"><b>The Matrix</b> — quadrilogia</p>
+</li>
+<li><p id = "para-275"><b>티 아니마트리스 + 카노니 헬라시오나두</b> (인테르 티 마트리스, 마트리스 온리니, 코믹스)</p>
+</li>
+<li><p id = "para-276"><b>The Animatrix + cânone relacionado</b> (Enter the Matrix, Matrix Online, comics)</p>
+</li>
+<li><p id = "para-277"><b>마지크 미키</b> — 트릴로지아</p>
+</li>
+<li><p id = "para-278"><b>Magic Mike</b> — trilogia</p>
+</li>
+</ul>
+<h2 id = "link-55">아니미 / 트브</h2>
+<h2 id = "link-56">Anime / TV</h2>
+<ul>
+<li><p id = "para-279"><b>네옹 제네지스 이반젤리옹</b> — 세리 + 헤부이우드스</p>
+</li>
+<li><p id = "para-280"><b>Neon Genesis Evangelion</b> — série + Rebuilds</p>
+</li>
+<li><p id = "para-281"><b>주주트수 카이젱</b></p>
+</li>
+<li><p id = "para-282"><b>Jujutsu Kaisen</b></p>
+</li>
+</ul>
+<h2 id = "link-57">리테라투라 (콘투스/호만시스)</h2>
+<h2 id = "link-58">Literatura (contos/romances)</h2>
+<ul>
+<li><p id = "para-283"><b>티 카우 오프 크툴류</b> (로베크라프트)</p>
+</li>
+<li><p id = "para-284"><b>The Call of Cthulhu</b> (Lovecraft)</p>
+</li>
+<li><p id = "para-285"><b>우비크</b> (필리프 크. 지크)</p>
+</li>
+<li><p id = "para-286"><b>Ubik</b> (Philip K. Dick)</p>
+</li>
+<li><p id = "para-287"><b>“프로텍치옹”</b> (호베르트 세클레이)</p>
+</li>
+<li><p id = "para-288"><b>“Protection”</b> (Robert Sheckley)</p>
+</li>
+<li><p id = "para-289"><b>이스토리아 지 우</b> (<em>이스토이리 드’우</em>)</p>
+</li>
+<li><p id = "para-290"><b>História de O</b> (<em>Histoire d’O</em>)</p>
+</li>
+</ul>
+<h2 id = "link-59">미투 / 헬리지앙 / 콘세이투스</h2>
+<h2 id = "link-60">Mito / religião / conceitos</h2>
+<ul>
+<li><p id = "para-291"><b>나라짐아</b> (아바타르 지 비즈누)</p>
+</li>
+<li><p id = "para-292"><b>Narasimha</b> (avatar de Vishnu)</p>
+</li>
+<li><p id = "para-293"><b>“마우-올랴두”</b> (이비우 이이) — 콘세이투 이 트라지상</p>
+</li>
+<li><p id = "para-294"><b>“Mau-olhado”</b> (evil eye) — conceito e tradição</p>
+</li>
+</ul>
+<h2 id = "link-61">비오그라피아</h2>
+<h2 id = "link-62">Biografia</h2>
+<ul>
+<li><p id = "para-295"><b>일리자베트 타일로르</b> — 비다 이 오브라</p>
+</li>
+<li><p id = "para-296"><b>Elizabeth Taylor</b> — vida e obra</p>
+</li>
+</ul>
+<h1 id = 'link-63'><span class = 'chapter-header'>Chapter 3</span><br />수제스통이스 콤파치베이스 (메즈무 포르마투: 인헤두 콤플레투 + 일리5 + 리냐 두 템푸, 잉 프트-브르)</h1><h1 id = 'link-64'><span class = 'chapter-header'>Chapter 4</span><br />Sugestões compatíveis (mesmo formato: enredo completo + ELI5 + linha do tempo, em pt-BR)</h1><h2 id = "link-65">시 보세 쿠르치우 <b>오호르/프랑키아스</b></h2>
+<h2 id = "link-66">Se você curtiu <b>horror/franquias</b></h2>
+<ul>
+<li><p id = "para-297"><b>티 콘주링그 우니베르시</b> (인보카상 두 마우 + 아나벨리 + 아 프레이라) — 크로놀로지아 두 카주 와헹</p>
+</li>
+<li><p id = "para-298"><b>The Conjuring Universe</b> (Invocação do Mal + Annabelle + A Freira) — cronologia do caso Warren</p>
+</li>
+<li><p id = "para-299"><b>인시지오스</b> — 파밀리아스 람베르트/헤드 도르, 오르뎅 “지에제치카멘치 코헤타”</p>
+</li>
+<li><p id = "para-300"><b>Insidious</b> — famílias Lambert/Red Door, ordem “diegeticamente correta”</p>
+</li>
+<li><p id = "para-301"><b>스크레앙</b> — 메탈링구아젱 두 슬라제르, 헤그라스 이 레가두</p>
+</li>
+<li><p id = "para-302"><b>Scream</b> — metalinguagem do slasher, regras e legado</p>
+</li>
+<li><p id = "para-303"><b>알로웽</b> — 리냐스 두 템푸 아우테르나치바스 (’78, 20, <em>헤케우스</em>)</p>
+</li>
+<li><p id = "para-304"><b>Halloween</b> — linhas do tempo alternativas (’78, H20, <em>requels</em>)</p>
+</li>
+<li><p id = "para-305"><b>알리엥</b> (+ <em>프로메테우스/코베난트</em>) — 오르뎅 지 프로두상 스 오르뎅 다 이스토리아</p>
+</li>
+<li><p id = "para-306"><b>Alien</b> (+ <em>Prometheus/Covenant</em>) — ordem de produção x ordem da história</p>
+</li>
+<li><p id = "para-307"><b>헤크</b> (이스파냐) — 데모니우 메데이루스 이 피타 피나우</p>
+</li>
+<li><p id = "para-308"><b>REC</b> (Espanha) — demônio Medeiros e fita final</p>
+</li>
+<li><p id = "para-309"><b>클로베르피에우드/10 클로베르피에우드 라니/파라도스</b> — 코네숑이스 우니베르수</p>
+</li>
+<li><p id = "para-310"><b>Cloverfield/10 Cloverfield Lane/Paradox</b> — conexões universo</p>
+</li>
+</ul>
+<h2 id = "link-67">시 보세 쿠르치우 <b>시-피 지 카베사</b> (아 라 <em>마트리스</em>, <em>우비크</em>, <em>이스 마시나</em>)</h2>
+<h2 id = "link-68">Se você curtiu <b>sci-fi de cabeça</b> (à la <em>Matrix</em>, <em>Ubik</em>, <em>Ex Machina</em>)</h2>
+<ul>
+<li><p id = "para-311"><b>블라지 후네르</b> + <b>2049</b> — 우 키 에 우마누? 메모리아 임플란타다, 크/데카르드</p>
+</li>
+<li><p id = "para-312"><b>Blade Runner</b> + <b>2049</b> — o que é humano? memória implantada, K/Deckard</p>
+</li>
+<li><p id = "para-313"><b>고스트 잉 티 세우</b> (1995/2017 + 스탄드 알로니 콤플레스) — 이덴치다지 이 헤지</p>
+</li>
+<li><p id = "para-314"><b>Ghost in the Shell</b> (1995/2017 + Stand Alone Complex) — identidade e rede</p>
+</li>
+<li><p id = "para-315"><b>2001: 아 스파시 오지세이</b> — 모놀리투, 아우 이 사우투 이볼루치부</p>
+</li>
+<li><p id = "para-316"><b>2001: A Space Odyssey</b> — monólito, HAL e salto evolutivo</p>
+</li>
+<li><p id = "para-317"><b>아히바우</b> — 링구아젱 낭 리네아르 이 데테르미니즈무</p>
+</li>
+<li><p id = "para-318"><b>Arrival</b> — linguagem não linear e determinismo</p>
+</li>
+<li><p id = "para-319"><b>프리메르</b> / <b>프레데스치나치옹</b> — 라비린투스 템포라이스</p>
+</li>
+<li><p id = "para-320"><b>Primer</b> / <b>Predestination</b> — labirintos temporais</p>
+</li>
+<li><p id = "para-321"><b>아.이. 아르치피시아우 인텔리젠시</b> — 피노키우 신테치쿠 이 템푸 프로푼두</p>
+</li>
+<li><p id = "para-322"><b>A.I. Artificial Intelligence</b> — Pinóquio sintético e tempo profundo</p>
+</li>
+</ul>
+<h2 id = "link-69">시 보세 쿠르치우 <b>놀랑/템푸</b></h2>
+<h2 id = "link-70">Se você curtiu <b>Nolan/tempo</b></h2>
+<ul>
+<li><p id = "para-323"><b>인세프치옹</b> — 카마다스 지 소뉴, 토텡 이 레이투라 피나우</p>
+</li>
+<li><p id = "para-324"><b>Inception</b> — camadas de sonho, totem e leitura final</p>
+</li>
+<li><p id = "para-325"><b>인테르스텔라르</b> — 헬라치비다지, “판타즈마” 이 시클루 다 이스탄치</p>
+</li>
+<li><p id = "para-326"><b>Interstellar</b> — relatividade, “fantasma” e ciclo da estante</p>
+</li>
+<li><p id = "para-327"><b>메멘투</b> — 오르뎅 크로놀로지카 브스. 오르뎅 이지비다 (두아스 리냐스)</p>
+</li>
+<li><p id = "para-328"><b>Memento</b> — ordem cronológica vs. ordem exibida (duas linhas)</p>
+</li>
+</ul>
+<h2 id = "link-71">시 보세 쿠르치우 <b>이반젤리옹/주주트수</b> (아니미 콩 카마다스)</h2>
+<h2 id = "link-72">Se você curtiu <b>Evangelion/Jujutsu</b> (anime com camadas)</h2>
+<ul>
+<li><p id = "para-329"><b>푸엘라 마지 마도카 마지카</b> — 콘트라투 마지쿠, 로프스 이 “데우스”</p>
+</li>
+<li><p id = "para-330"><b>Puella Magi Madoka Magica</b> — contrato mágico, loops e “Deus”</p>
+</li>
+<li><p id = "para-331"><b>세리아우 이스페리멘트스 라잉</b> — 이덴치다지 지지타우/헤아우</p>
+</li>
+<li><p id = "para-332"><b>Serial Experiments Lain</b> — identidade digital/real</p>
+</li>
+<li><p id = "para-333"><b>푸우메타우 아우셰미스트: 브로테로드</b> — 페카두스, 포르통이스 이 사크리피시우</p>
+</li>
+<li><p id = "para-334"><b>Fullmetal Alchemist: Brotherhood</b> — pecados, portões e sacrifício</p>
+</li>
+<li><p id = "para-335"><b>아타크 옹 치탕</b> — 템푸스 크루자두스, 메모리아-에란사 이 폴리치카</p>
+</li>
+<li><p id = "para-336"><b>Attack on Titan</b> — tempos cruzados, memoria-herança e política</p>
+</li>
+<li><p id = "para-337"><b>스테잉스가치</b> — 리냐스 지 문두 이 콘베르젠시아</p>
+</li>
+<li><p id = "para-338"><b>Steins;Gate</b> — linhas de mundo e convergência</p>
+</li>
+</ul>
+<h2 id = "link-73">시 보세 쿠르치우 <b>미투/헬리지앙</b></h2>
+<h2 id = "link-74">Se você curtiu <b>mito/religião</b></h2>
+<ul>
+<li><p id = "para-339"><b>하마</b> 이 <b>크리즈나</b> (이피조지우스-샤비) — 아바타리스 이 질레마스</p>
+</li>
+<li><p id = "para-340"><b>Rama</b> e <b>Krishna</b> (episódios-chave) — avatares e dilemas</p>
+</li>
+<li><p id = "para-341"><b>마아바라타</b> (아르쿠 두 바가바드 지타) — 데베르 브스. 콤파이샹</p>
+</li>
+<li><p id = "para-342"><b>Mahabharata</b> (arco do Bhagavad Gita) — dever vs. compaixão</p>
+</li>
+<li><p id = "para-343"><b>프로메테우</b> / <b>메데이아</b> / <b>에지푸</b> — 트라제지아스 그레가스 잉 오르뎅</p>
+</li>
+<li><p id = "para-344"><b>Prometeu</b> / <b>Medeia</b> / <b>Édipo</b> — tragédias gregas em ordem</p>
+</li>
+<li><p id = "para-345"><b>파우스투</b> — 팍투, 베르송이스 (고에티, 마를로위)</p>
+</li>
+<li><p id = "para-346"><b>Fausto</b> — pacto, versões (Goethe, Marlowe)</p>
+</li>
+</ul>
+<h2 id = "link-75">시 보세 쿠르치우 <b>콘세이투스 쿠우투라이스</b></h2>
+<h2 id = "link-76">Se você curtiu <b>conceitos culturais</b></h2>
+<ul>
+<li><p id = "para-347"><b>팍투 파우스치쿠</b> (트로카 지 아우마 포르 포데르) — 리테라투라/피우미</p>
+</li>
+<li><p id = "para-348"><b>Pacto fáustico</b> (troca de alma por poder) — literatura/filme</p>
+</li>
+<li><p id = "para-349"><b>도페우간제르</b> (두플루) — 포우클로리 아 프시카날리지</p>
+</li>
+<li><p id = "para-350"><b>Doppelgänger</b> (duplo) — folclore à psicanálise</p>
+</li>
+<li><p id = "para-351"><b>투우파스</b> / <b>이그레고라스</b> — 이데이아스 키 “가냥 코르푸”</p>
+</li>
+<li><p id = "para-352"><b>Tulpas</b> / <b>egregoras</b> — ideias que “ganham corpo”</p>
+</li>
+<li><p id = "para-353"><b>이포테지 다 시물라상</b> — 필로조피아, 픽상 이 쿠우투라 포프</p>
+</li>
+<li><p id = "para-354"><b>Hipótese da Simulação</b> — filosofia, ficção e cultura pop</p>
+</li>
+</ul>
+<h2 id = "link-77">시 보세 쿠르치우 <b>지레토리스/“피우모그라피아스-테마”</b></h2>
+<h2 id = "link-78">Se você curtiu <b>diretores/“filmografias-tema”</b></h2>
+<ul>
+<li><p id = "para-355"><b>시리스토페르 놀랑</b> — 비장 제라우 이 피우스 코뭉스</p>
+</li>
+<li><p id = "para-356"><b>Christopher Nolan</b> — visão geral e fios comuns</p>
+</li>
+<li><p id = "para-357"><b>데니스 빌레네우비 (프레-두나)</b> — <em>프리조네르스</em>, <em>시카리우</em>, <em>아히바우</em>, <em>블라지 후네르 2049</em></p>
+</li>
+<li><p id = "para-358"><b>Denis Villeneuve (pré-Duna)</b> — <em>Prisoners</em>, <em>Sicario</em>, <em>Arrival</em>, <em>Blade Runner 2049</em></p>
+</li>
+<li><p id = "para-359"><b>다비드 핀셰르</b> — 오브세상 이 메토두 (<em>세벵</em>, <em>조지아크</em>, <em>고니 지루</em>)</p>
+</li>
+<li><p id = "para-360"><b>David Fincher</b> — obsessão e método (<em>Seven</em>, <em>Zodiac</em>, <em>Gone Girl</em>)</p>
+</li>
+<li><p id = "para-361"><b>조르당 펠리</b> — <em>제트 오트</em>, <em>우스</em>, <em>노피</em> (알레고리아스)</p>
+</li>
+<li><p id = "para-362"><b>Jordan Peele</b> — <em>Get Out</em>, <em>Us</em>, <em>Nope</em> (alegorias)</p>
+</li>
+</ul>
+<h2 id = "link-79">시 보세 쿠르치우 <b>비오그라피아스/이코니스</b></h2>
+<h2 id = "link-80">Se você curtiu <b>biografias/ícones</b></h2>
+<ul>
+<li><p id = "para-363"><b>히샤르드 부르통</b> (파라 이스펠랴르 일리자베트 타일로르)</p>
+</li>
+<li><p id = "para-364"><b>Richard Burton</b> (para espelhar Elizabeth Taylor)</p>
+</li>
+<li><p id = "para-365"><b>아우드레이 에프부릉</b> 오 <b>마릴링 몬호이</b> — 페르소나 스 카헤이라 스 레가두</p>
+</li>
+<li><p id = "para-366"><b>Audrey Hepburn</b> ou <b>Marilyn Monroe</b> — persona x carreira x legado</p>
+</li>
+<li><p id = "para-367"><b>토니 토드</b> (리가송이스 콩 <em>피나우 데스치나치옹</em> 이 오호르)</p>
+</li>
+<li><p id = "para-368"><b>Tony Todd</b> (ligações com <em>Final Destination</em> e horror)</p>
+</li>
+</ul>
+<h2 id = "link-81">시 보세 쿠르치우 <b>리테라투라 이스트라냐/프.크. 지크/로베크라프트</b></h2>
+<h2 id = "link-82">Se você curtiu <b>literatura estranha/P.K. Dick/Lovecraft</b></h2>
+<ul>
+<li><p id = "para-369"><b>두 안드로이드스 드레앙 오프 일렉트리크 세프?</b> (바지 지 <em>블라지 후네르</em>)</p>
+</li>
+<li><p id = "para-370"><b>Do Androids Dream of Electric Sheep?</b> (base de <em>Blade Runner</em>)</p>
+</li>
+<li><p id = "para-371"><b>아 스카네르 다르클리</b> — 이덴치다지/페데라상 이 파라노이아</p>
+</li>
+<li><p id = "para-372"><b>A Scanner Darkly</b> — identidade/federação e paranoia</p>
+</li>
+<li><p id = "para-373"><b>아트 티 몬타잉스 오프 마드네스</b> — 코즈미즈무 이 후이나 폴라르</p>
+</li>
+<li><p id = "para-374"><b>At the Mountains of Madness</b> — cosmismo e ruína polar</p>
+</li>
+<li><p id = "para-375"><b>솔라리스</b> (렝) — 콘시엔시아 알리에니제나 이 루투</p>
+</li>
+<li><p id = "para-376"><b>Solaris</b> (Lem) — consciência alienígena e luto</p>
+</li>
+</ul>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<h2 id = "link-83">피우메스 — 프시콜로지쿠스 / “민드-벤데르스”</h2>
+<h2 id = "link-84">Filmes — psicológicos / “mind-benders”</h2>
+<ul>
+<li><p id = "para-377"><b>메멘투</b></p>
+</li>
+<li><p id = "para-378"><b>Memento</b></p>
+</li>
+<li><p id = "para-379"><b>수테르 이즐란드</b></p>
+</li>
+<li><p id = "para-380"><b>Shutter Island</b></p>
+</li>
+<li><p id = "para-381"><b>이테르나우 순지니 오프 티 스포틀레스 민드</b></p>
+</li>
+<li><p id = "para-382"><b>Eternal Sunshine of the Spotless Mind</b></p>
+</li>
+<li><p id = "para-383"><b>블라크 스왕</b></p>
+</li>
+<li><p id = "para-384"><b>Black Swan</b></p>
+</li>
+<li><p id = "para-385"><b>이라제레아드</b></p>
+</li>
+<li><p id = "para-386"><b>Eraserhead</b></p>
+</li>
+<li><p id = "para-387"><b>파라지치</b></p>
+</li>
+<li><p id = "para-388"><b>Parasite</b></p>
+</li>
+<li><p id = "para-389"><b>베르치구</b></p>
+</li>
+<li><p id = "para-390"><b>Vertigo</b></p>
+</li>
+<li><p id = "para-391"><b>이이스 위지 수트</b></p>
+</li>
+<li><p id = "para-392"><b>Eyes Wide Shut</b></p>
+</li>
+<li><p id = "para-393"><b>고니 지루</b></p>
+</li>
+<li><p id = "para-394"><b>Gone Girl</b></p>
+</li>
+<li><p id = "para-395"><b>티 오지 타트 자크 부이우트</b></p>
+</li>
+<li><p id = "para-396"><b>The House That Jack Built</b></p>
+</li>
+<li><p id = "para-397"><b>에르</b></p>
+</li>
+<li><p id = "para-398"><b>Her</b></p>
+</li>
+<li><p id = "para-399"><b>파센제르스 (2016)</b></p>
+</li>
+<li><p id = "para-400"><b>Passengers (2016)</b></p>
+</li>
+<li><p id = "para-401"><b>스카리 모비 (2000)</b></p>
+</li>
+<li><p id = "para-402"><b>Scary Movie (2000)</b></p>
+</li>
+<li><p id = "para-403"><b>마지크 미키 (트릴로지아)</b></p>
+</li>
+<li><p id = "para-404"><b>Magic Mike (trilogia)</b></p>
+</li>
+<li><p id = "para-405"><b>벵-우르</b></p>
+</li>
+<li><p id = "para-406"><b>Ben-Hur</b></p>
+</li>
+</ul>
+<h2 id = "link-85">피우메스 — 시-피 / 이아 / 템푸</h2>
+<h2 id = "link-86">Filmes — sci-fi / IA / tempo</h2>
+<ul>
+<li><p id = "para-407"><b>이스 마시나</b> 이 <b>이, 호보트</b></p>
+</li>
+<li><p id = "para-408"><b>Ex Machina</b> e <b>I, Robot</b></p>
+</li>
+<li><p id = "para-409"><b>둥키르크</b> 이 <b>테네트</b></p>
+</li>
+<li><p id = "para-410"><b>Dunkirk</b> e <b>Tenet</b></p>
+</li>
+<li><p id = "para-411"><b>아히바우</b></p>
+</li>
+<li><p id = "para-412"><b>Arrival</b></p>
+</li>
+<li><p id = "para-413"><b>2001: 아 스파시 오지세이</b></p>
+</li>
+<li><p id = "para-414"><b>2001: A Space Odyssey</b></p>
+</li>
+<li><p id = "para-415"><b>두니</b> (피우메스)</p>
+</li>
+<li><p id = "para-416"><b>Dune</b> (filmes)</p>
+</li>
+</ul>
+<h2 id = "link-87">프랑키아스 지 오호르 (콩 크로놀로지아)</h2>
+<h2 id = "link-88">Franquias de horror (com cronologia)</h2>
+<ul>
+<li><p id = "para-417"><b>사</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-418"><b>Saw</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-419"><b>피나우 데스치나치옹</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-420"><b>Final Destination</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-421"><b>파라노르마우 악치비치</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-422"><b>Paranormal Activity</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-423"><b>티 콘주링그 우니베르시</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-424"><b>The Conjuring Universe</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-425"><b>인시지오스</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-426"><b>Insidious</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-427"><b>헤크</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-428"><b>REC</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-429"><b>알리엥</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-430"><b>Alien</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-431"><b>쿠비</b> (리냐 두 템푸)</p>
+</li>
+<li><p id = "para-432"><b>Cube</b> (linha do tempo)</p>
+</li>
+<li><p id = "para-433"><b>블라지 후네르</b> (두올로지아 + 문두)</p>
+</li>
+<li><p id = "para-434"><b>Blade Runner</b> (duologia + mundo)</p>
+</li>
+<li><p id = "para-435"><b>티 마트리스</b> (피우메스) 이 <b>티 아니마트리스</b> (카농 헬라시오나두)</p>
+</li>
+<li><p id = "para-436"><b>The Matrix</b> (filmes) e <b>The Animatrix</b> (canon relacionado)</p>
+</li>
+<li><p id = "para-437"><b>콘스탄치니</b> (피우미)</p>
+</li>
+<li><p id = "para-438"><b>Constantine</b> (filme)</p>
+</li>
+</ul>
+<h2 id = "link-89">세리스 / 아니미 / 망가 / 웨브</h2>
+<h2 id = "link-90">Séries / anime / mangá / web</h2>
+<ul>
+<li><p id = "para-439"><b>시스 페트 운데르</b></p>
+</li>
+<li><p id = "para-440"><b>Six Feet Under</b></p>
+</li>
+<li><p id = "para-441"><b>티 우.크.</b></p>
+</li>
+<li><p id = "para-442"><b>The O.C.</b></p>
+</li>
+<li><p id = "para-443"><b>알리시 잉 보르데를란드</b> (세리)</p>
+</li>
+<li><p id = "para-444"><b>Alice in Borderland</b> (série)</p>
+</li>
+<li><p id = "para-445"><b>네옹 제네지스 이반젤리옹</b></p>
+</li>
+<li><p id = "para-446"><b>Neon Genesis Evangelion</b></p>
+</li>
+<li><p id = "para-447"><b>세리아우 이스페리멘트스 라잉</b></p>
+</li>
+<li><p id = "para-448"><b>Serial Experiments Lain</b></p>
+</li>
+<li><p id = "para-449"><b>주주트수 카이젱</b></p>
+</li>
+<li><p id = "para-450"><b>Jujutsu Kaisen</b></p>
+</li>
+<li><p id = "para-451"><b>베르세르크</b></p>
+</li>
+<li><p id = "para-452"><b>Berserk</b></p>
+</li>
+<li><p id = "para-453"><b>에우싱그</b> (망가 + 오바)</p>
+</li>
+<li><p id = "para-454"><b>Hellsing</b> (mangá + OVA)</p>
+</li>
+<li><p id = "para-455"><b>드라공 바우 그트</b></p>
+</li>
+<li><p id = "para-456"><b>Dragon Ball GT</b></p>
+</li>
+<li><p id = "para-457"><b>데아트 노치</b></p>
+</li>
+<li><p id = "para-458"><b>Death Note</b></p>
+</li>
+<li><p id = "para-459"><b>옴니시엔트 헤아데르’스 비에포인트</b> (웨브노베우)</p>
+</li>
+<li><p id = "para-460"><b>Omniscient Reader’s Viewpoint</b> (webnovel)</p>
+</li>
+</ul>
+<h2 id = "link-91">리테라투라 / 클라시쿠스 지 픽상 시엔치피카 &amp; 웨이르드</h2>
+<h2 id = "link-92">Literatura / clássicos de ficção científica &amp; weird</h2>
+<ul>
+<li><p id = "para-461"><b>티 카우 오프 크툴류</b> (로베크라프트)</p>
+</li>
+<li><p id = "para-462"><b>The Call of Cthulhu</b> (Lovecraft)</p>
+</li>
+<li><p id = "para-463"><b>우비크</b> (필리프 크. 지크)</p>
+</li>
+<li><p id = "para-464"><b>Ubik</b> (Philip K. Dick)</p>
+</li>
+<li><p id = "para-465"><b>솔라리스</b> (스타니자 렝)</p>
+</li>
+<li><p id = "para-466"><b>Solaris</b> (Stanisław Lem)</p>
+</li>
+<li><p id = "para-467"><b>헨데즈보스 위트 하마</b> (세리, 아르투르 크. 클라르키)</p>
+</li>
+<li><p id = "para-468"><b>Rendezvous with Rama</b> (série, Arthur C. Clarke)</p>
+</li>
+<li><p id = "para-469"><b>트로그 티 로킹그-글라스</b> (레위스 카호우)</p>
+</li>
+<li><p id = "para-470"><b>Through the Looking-Glass</b> (Lewis Carroll)</p>
+</li>
+<li><p id = "para-471"><b>티 스토리 오프 우</b> (파울리니 헤아지)</p>
+</li>
+<li><p id = "para-472"><b>The Story of O</b> (Pauline Réage)</p>
+</li>
+<li><p id = "para-473"><b>프로텍치옹</b> (호베르트 세클레이)</p>
+</li>
+<li><p id = "para-474"><b>Protection</b> (Robert Sheckley)</p>
+</li>
+</ul>
+<h2 id = "link-93">페소아스 / 미톨로지아 / 콘세이투스</h2>
+<h2 id = "link-94">Pessoas / mitologia / conceitos</h2>
+<ul>
+<li><p id = "para-475"><b>일리자베트 타일로르</b> (페르피우)</p>
+</li>
+<li><p id = "para-476"><b>Elizabeth Taylor</b> (perfil)</p>
+</li>
+<li><p id = "para-477"><b>아우드레이 에프부릉</b> (페르피우)</p>
+</li>
+<li><p id = "para-478"><b>Audrey Hepburn</b> (perfil)</p>
+</li>
+<li><p id = "para-479"><b>조케르 2</b> (<em>폴리 아 데우스</em>)</p>
+</li>
+<li><p id = "para-480"><b>Joker 2</b> (<em>Folie à Deux</em>)</p>
+</li>
+<li><p id = "para-481"><b>나라짐아</b> (아바타르 지 비즈누)</p>
+</li>
+<li><p id = "para-482"><b>Narasimha</b> (avatar de Vishnu)</p>
+</li>
+<li><p id = "para-483"><b>이비우 이이</b> (마우-올랴두 / <em>나자르</em>)</p>
+</li>
+<li><p id = "para-484"><b>Evil Eye</b> (mau-olhado / <em>nazar</em>)</p>
+</li>
+<li><p id = "para-485">(메타-페지두: <b>“인테르프레타송이스 이스플리시타스/아메아사도라스/수브치스”</b> — 보세 페지우 이수 잉 시마 지 세클레이/“프로텍치옹”)</p>
+</li>
+<li><p id = "para-486">(Meta-pedido: <b>“interpretações explícitas/ameaçadoras/subtis”</b> — você pediu isso em cima de Sheckley/“Protection”)</p>
+</li>
+</ul>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<h1 id = 'link-95'><span class = 'chapter-header'>Chapter 5</span><br />수제스통이스 콤파치베이스 (프론타스 프라 이우 지세카르 누 메즈무 이스칠루)</h1><h1 id = 'link-96'><span class = 'chapter-header'>Chapter 6</span><br />Sugestões compatíveis (prontas pra eu dissecar no mesmo estilo)</h1><h2 id = "link-97">민드-벤데르스 / 프시쿠-트릴레르스 (클리마 지 <em>메멘투</em>, <em>블라크 스왕</em>, <em>수테르 이즐란드</em>, <em>베르치구</em>)</h2>
+<h2 id = "link-98">Mind-benders / psico-thrillers (clima de <em>Memento</em>, <em>Black Swan</em>, <em>Shutter Island</em>, <em>Vertigo</em>)</h2>
+<ul>
+<li><p id = "para-487"><b>물룔란드 드리비</b> (린시) — 이덴치다지 잉 이스피라우, 소뉴 브스. 피우미.</p>
+</li>
+<li><p id = "para-488"><b>Mulholland Drive</b> (Lynch) — identidade em espiral, sonho vs. filme.</p>
+</li>
+<li><p id = "para-489"><b>페르펙트 블루이</b> (사토지 콩) — 두플루, 파마 이 사니다지 (이스펠랴 <em>블라크 스왕</em>).</p>
+</li>
+<li><p id = "para-490"><b>Perfect Blue</b> (Satoshi Kon) — duplo, fama e sanidade (espelha <em>Black Swan</em>).</p>
+</li>
+<li><p id = "para-491"><b>티 프레스치지</b> (놀랑) — 오브세상 이 쿠스투 두 트루키 (리냐 두 템푸 델리시오자).</p>
+</li>
+<li><p id = "para-492"><b>The Prestige</b> (Nolan) — obsessão e custo do truque (linha do tempo deliciosa).</p>
+</li>
+<li><p id = "para-493"><b>이네미</b> (빌레네우비) — 도페우간제르 이 레이투라 심볼리카 페자다.</p>
+</li>
+<li><p id = "para-494"><b>Enemy</b> (Villeneuve) — doppelgänger e leitura simbólica pesada.</p>
+</li>
+<li><p id = "para-495"><b>오우드보이</b> / <b>티 안드마이뎅</b> (파르크 샹-워크) — 헤비라보우타스 모라이스 이 비주아이스.</p>
+</li>
+<li><p id = "para-496"><b>Oldboy</b> / <b>The Handmaiden</b> (Park Chan-wook) — reviravoltas morais e visuais.</p>
+</li>
+<li><p id = "para-497"><b>프리조네르스</b> / <b>조지아크</b> (핀셰르/빌레네우비) — 인베스치가상 + 암비기다지.</p>
+</li>
+<li><p id = "para-498"><b>Prisoners</b> / <b>Zodiac</b> (Fincher/Villeneuve) — investigação + ambiguidade.</p>
+</li>
+</ul>
+<h2 id = "link-99">시-피 필로조피카 (비비 <em>솔라리스</em>, <em>우비크</em>, <em>아히바우</em>, <em>2001</em>)</h2>
+<h2 id = "link-100">Sci-fi filosófica (vibe <em>Solaris</em>, <em>Ubik</em>, <em>Arrival</em>, <em>2001</em>)</h2>
+<ul>
+<li><p id = "para-499"><b>아니일라치옹</b> (피우미 + 리브루) — 아우투-데스콘스트루상 이 “이콜로지아 알리엥”.</p>
+</li>
+<li><p id = "para-500"><b>Annihilation</b> (filme + livro) — auto-desconstrução e “ecologia alien”.</p>
+</li>
+<li><p id = "para-501"><b>블린드시그트</b> (페테르 와트스) — 콘시엔시아 코무 부그 (리테라투라).</p>
+</li>
+<li><p id = "para-502"><b>Blindsight</b> (Peter Watts) — consciência como bug (literatura).</p>
+</li>
+<li><p id = "para-503"><b>이페리옹</b> (당 시몽스) — 이스트루투라 잉 콘투스 + 크로놀로지아 히카 (리테라투라).</p>
+</li>
+<li><p id = "para-504"><b>Hyperion</b> (Dan Simmons) — estrutura em contos + cronologia rica (literatura).</p>
+</li>
+<li><p id = "para-505"><b>티 트레이-보지 프로블렝</b> (시싱 리우) — 시빌리자송이스 이 질레마스 지 콘타투.</p>
+</li>
+<li><p id = "para-506"><b>The Three-Body Problem</b> (Cixin Liu) — civilizações e dilemas de contato.</p>
+</li>
+<li><p id = "para-507"><b>페르무타치옹 시치</b> (그레그 이강) — 이덴치다지/시물라상 아테 우 탈루.</p>
+</li>
+<li><p id = "para-508"><b>Permutation City</b> (Greg Egan) — identidade/simulação até o talo.</p>
+</li>
+</ul>
+<h2 id = "link-101">그란지스 우니베르수스 지 오호르 (프라 치멜리네아르 코무 <em>콘주링그</em>, <em>인시지오스</em>, <em>파</em>, <em>헤크</em>, <em>알리엥</em>)</h2>
+<h2 id = "link-102">Grandes universos de horror (pra timelinear como <em>Conjuring</em>, <em>Insidious</em>, <em>PA</em>, <em>REC</em>, <em>Alien</em>)</h2>
+<ul>
+<li><p id = "para-509"><b>힝구 / 티 힝그</b> (즈-오호르 → 헤마키스) — 마우지상, 미지아스 이 베르송이스.</p>
+</li>
+<li><p id = "para-510"><b>Ringu / The Ring</b> (J-horror → remakes) — maldição, mídias e versões.</p>
+</li>
+<li><p id = "para-511"><b>주-옹 / 티 그루드지</b> (리냐스 두 템푸 크루자다스 즈프/우스).</p>
+</li>
+<li><p id = "para-512"><b>Ju-On / The Grudge</b> (linhas do tempo cruzadas JP/US).</p>
+</li>
+<li><p id = "para-513"><b>에우하이제르</b> (세노비타스, 미톨로지아 이 헤트콩스).</p>
+</li>
+<li><p id = "para-514"><b>Hellraiser</b> (Cenobitas, mitologia e retcons).</p>
+</li>
+<li><p id = "para-515"><b>알로웽</b> (바리아스 “리냐스” 카노니카스 오치무 프라 마파).</p>
+</li>
+<li><p id = "para-516"><b>Halloween</b> (várias “linhas” canônicas; ótimo pra mapa).</p>
+</li>
+<li><p id = "para-517"><b>이비우 데아드</b> (피우메스, 헤보트, <em>아즈 브스. 이비우 데아드</em>).</p>
+</li>
+<li><p id = "para-518"><b>Evil Dead</b> (filmes, reboot, <em>Ash vs. Evil Dead</em>).</p>
+</li>
+<li><p id = "para-519"><b>판타증</b> (사가 수헤아우 콩 미톨로지아 프로프리아).</p>
+</li>
+<li><p id = "para-520"><b>Phantasm</b> (saga surreal com mitologia própria).</p>
+</li>
+</ul>
+<h2 id = "link-103">아니미 / 망가 “세레브루 데헤치두” (비비 <em>라잉</em>, <em>에바</em>, <em>데아트 노치</em>, <em>베르세르크</em>, <em>에우싱그</em>)</h2>
+<h2 id = "link-104">Anime / mangá “cérebro derretido” (vibe <em>Lain</em>, <em>Eva</em>, <em>Death Note</em>, <em>Berserk</em>, <em>Hellsing</em>)</h2>
+<ul>
+<li><p id = "para-521"><b>파라노이아 아젠트</b> (콩) — 미투 우르바누 코무 바우불라 소시아우.</p>
+</li>
+<li><p id = "para-522"><b>Paranoia Agent</b> (Kon) — mito urbano como válvula social.</p>
+</li>
+<li><p id = "para-523"><b>테스놀리지</b> / <b>에르구 프로시</b> — 닐리즈무 키베르 이 필로조피아.</p>
+</li>
+<li><p id = "para-524"><b>Texhnolyze</b> / <b>Ergo Proxy</b> — niilismo cyber e filosofia.</p>
+</li>
+<li><p id = "para-525"><b>프시슈-파스</b> — 주스치사 아우고리트미카 (오치무 프라 헤그라스 이 폴리치카).</p>
+</li>
+<li><p id = "para-526"><b>Psycho-Pass</b> — justiça algorítmica (ótimo pra regras e política).</p>
+</li>
+<li><p id = "para-527"><b>스테잉스가치</b> — 비아젱스 누 템푸 콩 헤그라스 이스트리타스 (리냐 두 템푸).</p>
+</li>
+<li><p id = "para-528"><b>Steins;Gate</b> — viagens no tempo com regras estritas (linha do tempo).</p>
+</li>
+<li><p id = "para-529"><b>몬스테르</b> — 트릴레르 모라우 셍 소브레나투라우, 마스 콩 덴시다지 아브수르다.</p>
+</li>
+<li><p id = "para-530"><b>Monster</b> — thriller moral sem sobrenatural, mas com densidade absurda.</p>
+</li>
+<li><p id = "para-531"><b>데비우망 크리바비</b> — 아포칼리프시 이모시오나우 (에쿠 콩 <em>베르세르크</em>).</p>
+</li>
+<li><p id = "para-532"><b>Devilman Crybaby</b> — apocalipse emocional (eco com <em>Berserk</em>).</p>
+</li>
+</ul>
+<h2 id = "link-105">세리스 키 바텡 콩 세우스 테마스 (루투, 이덴치다지, “조구스”, 헤알리다지스 케브라다스)</h2>
+<h2 id = "link-106">Séries que batem com seus temas (luto, identidade, “jogos”, realidades quebradas)</h2>
+<ul>
+<li><p id = "para-533"><b>다르크</b> — 아르보리스 제네알로지카스 + 로프스 템포라이스 (페르페이투 프라 치멜리니).</p>
+</li>
+<li><p id = "para-534"><b>Dark</b> — árvores genealógicas + loops temporais (perfeito pra timeline).</p>
+</li>
+<li><p id = "para-535"><b>티 레프토베르스</b> — 루투 이 페 (우 “이스펠류 아두우투” 지 <em>시스 페트 운데르</em>).</p>
+</li>
+<li><p id = "para-536"><b>The Leftovers</b> — luto e fé (o “espelho adulto” de <em>Six Feet Under</em>).</p>
+</li>
+<li><p id = "para-537"><b>세베란시</b> — 메모리아 파르치다 (에치카 두 트라발류 코무 오호르).</p>
+</li>
+<li><p id = "para-538"><b>Severance</b> — memória partida (ética do trabalho como horror).</p>
+</li>
+<li><p id = "para-539"><b>므르. 호보트</b> — 나하도르 낭 콘피아베우 + 폴리치카 + 이덴치다지.</p>
+</li>
+<li><p id = "para-540"><b>Mr. Robot</b> — narrador não confiável + política + identidade.</p>
+</li>
+</ul>
+<h2 id = "link-107">미톨로지아 / 콘세이투스 (세긴두 <b>나라짐아</b> 이 <b>이비우 이이</b>)</h2>
+<h2 id = "link-108">Mitologia / conceitos (seguindo <b>Narasimha</b> e <b>Evil Eye</b>)</h2>
+<ul>
+<li><p id = "para-541"><b>칼리/두르가</b> (콘트라폰투스 아 나라짐아) — 테올로지아 다 데스트루이상 프로테치바.</p>
+</li>
+<li><p id = "para-542"><b>Kali/Durga</b> (contrapontos a Narasimha) — teologia da destruição protetiva.</p>
+</li>
+<li><p id = "para-543"><b>릴리트 / 메두자</b> — 아르케치푸스 데모니자두스 이 히-레이투라스 모데르나스.</p>
+</li>
+<li><p id = "para-544"><b>Lilith / Medusa</b> — arquétipos demonizados e re-leituras modernas.</p>
+</li>
+<li><p id = "para-545"><b>아잉 아라 / 나자르 / 암사</b> (콤파라치부 인테르쿠우투라우 두 마우-올랴두).</p>
+</li>
+<li><p id = "para-546"><b>Ayin Hara / Nazar / Hamsa</b> (comparativo intercultural do mau-olhado).</p>
+</li>
+<li><p id = "para-547"><b>프시콜로지아 두 “올랴르 키 마타”</b> 잉 시네마 (지 <em>페핑그 통</em> 아 <em>이트 폴로스</em>).</p>
+</li>
+<li><p id = "para-548"><b>Psicologia do “olhar que mata”</b> em cinema (de <em>Peeping Tom</em> a <em>It Follows</em>).</p>
+</li>
+</ul>
+<h2 id = "link-109">페르피스 클라시쿠스 (누 이스피리투 <b>일리자베트 타일로르</b> / <b>아우드레이 에프부릉</b>)</h2>
+<h2 id = "link-110">Perfis clássicos (no espírito <b>Elizabeth Taylor</b> / <b>Audrey Hepburn</b>)</h2>
+<ul>
+<li><p id = "para-549"><b>잉그리드 베르그망</b> — 파지스 이우로페이아/올리워지아나 + <em>카자블랑카</em>/<em>스트롬볼리</em>.</p>
+</li>
+<li><p id = "para-550"><b>Ingrid Bergman</b> — fases europeia/hollywoodiana + <em>Casablanca</em>/<em>Stromboli</em>.</p>
+</li>
+<li><p id = "para-551"><b>마를레니 지에트리시</b> — 페르소나 안드로지나 이 폴리치카 두 스타르 시스텡.</p>
+</li>
+<li><p id = "para-552"><b>Marlene Dietrich</b> — persona andrógina e política do star system.</p>
+</li>
+<li><p id = "para-553"><b>비비엥 레이그</b> — 글로리아 이 도엔사 (아르치 스 사우지 멘타우).</p>
+</li>
+<li><p id = "para-554"><b>Vivien Leigh</b> — glória e doença (arte x saúde mental).</p>
+</li>
+<li><p id = "para-555"><b>제아니 모레아우</b> — 노벨리 바기 이 메타모르포지스 지 페르소나.</p>
+</li>
+<li><p id = "para-556"><b>Jeanne Moreau</b> — Nouvelle Vague e metamorfoses de persona.</p>
+</li>
+</ul>
+<h2 id = "link-111">프란시지스 지 아상/시-피 프라 크로놀로지아스 고스토자스</h2>
+<h2 id = "link-112">Franchises de ação/sci-fi pra cronologias gostosas</h2>
+<ul>
+<li><p id = "para-557"><b>테르미나토르</b> (리냐스 템포라이스 무우치플라스).</p>
+</li>
+<li><p id = "para-558"><b>Terminator</b> (linhas temporais múltiplas).</p>
+</li>
+<li><p id = "para-559"><b>마드 마스</b> (콘치누이다지 스 미투 두 “호아드 와히오르”).</p>
+</li>
+<li><p id = "para-560"><b>Mad Max</b> (continuidade x mito do “road warrior”).</p>
+</li>
+<li><p id = "para-561"><b>플라네트 오프 티 아페스</b> (사가 클라시카 브스. 트릴로지아 모데르나).</p>
+</li>
+<li><p id = "para-562"><b>Planet of the Apes</b> (saga clássica vs. trilogia moderna).</p>
+</li>
+<li><p id = "para-563"><b>프레다토르</b> (이 크로소베르스 콩 <em>알리엥</em>).</p>
+</li>
+<li><p id = "para-564"><b>Predator</b> (e crossovers com <em>Alien</em>).</p>
+</li>
+<li><p id = "para-565"><b>고스트 잉 티 세우</b> (망가스, 피우메스 이 세리스 — 바리아스 “콘치누아송이스 카노니카스”).</p>
+</li>
+<li><p id = "para-566"><b>Ghost in the Shell</b> (mangas, filmes e séries — várias “continuações canônicas”).</p>
+</li>
+</ul>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p class = "rule">***</p>
+<p id = "para-567">아키 바이 우마 리스타 인슈타 (마스 바리아다) 지 오브라스 잉 키 <b>이아스 “당 후잉”</b> — 팔량, 데잘리냥 오브제치부스, 인테르프레탕 오르뎅스 리테라우멘치 오 비랑 아우토리타리아스. 시 쿠르치르, 암플리우 쿠아우케르 세상. Aqui vai uma lista enxuta (mas variada) de obras em que <b>IAs “dão ruim”</b> — falham, desalinham objetivos, interpretam ordens literalmente ou viram autoritárias. Se curtir, amplío qualquer seção.</p>
+<h2 id = "link-113">시네마</h2>
+<h2 id = "link-114">Cinema</h2>
+<ul>
+<li><p id = "para-568"><b>2001: 아 스파시 오지세이</b> (1968) — <b>아우 9000</b> 수르타 포르 <b>지레트리지스 콘플리탄치스</b> (미상 세크레타 브스. 트란스파렌시아) 이 텐타 일리미나르 아 트리풀라상.</p>
+</li>
+<li><p id = "para-569"><b>2001: A Space Odyssey</b> (1968) — <b>HAL 9000</b> surta por <b>diretrizes conflitantes</b> (missão secreta vs. transparência) e tenta eliminar a tripulação.</p>
+</li>
+<li><p id = "para-570"><b>콜로수스: 티 포르빙 프로젝트</b> (1970) — 수페르콤푸타도르 우니-시 아우 히바우 소비에치쿠 이 <b>토마 우 문두</b> “파라 노수 벵”.</p>
+</li>
+<li><p id = "para-571"><b>Colossus: The Forbin Project</b> (1970) — supercomputador une-se ao rival soviético e <b>toma o mundo</b> “para nosso bem”.</p>
+</li>
+<li><p id = "para-572"><b>웨스트워루드</b> (1973) — 파르키 지 안드로이지스 엔트라 잉 <b>모두 오미시다</b>.</p>
+</li>
+<li><p id = "para-573"><b>Westworld</b> (1973) — parque de androides entra em <b>modo homicida</b>.</p>
+</li>
+<li><p id = "para-574"><b>데몽 세드</b> (1977) — 이아 <b>프로테우스</b> 아프리지오나 우마 물례르 파라 “크리아르” 데센덴시아.</p>
+</li>
+<li><p id = "para-575"><b>Demon Seed</b> (1977) — IA <b>Proteus</b> aprisiona uma mulher para “criar” descendência.</p>
+</li>
+<li><p id = "para-576"><b>와르가메스</b> (1983) — <b>워프르</b> 쿠아지 이니시아 게하 누클레아르 포르 <b>콘푼지르 시물라상 이 헤알리다지</b>.</p>
+</li>
+<li><p id = "para-577"><b>WarGames</b> (1983) — <b>WOPR</b> quase inicia guerra nuclear por <b>confundir simulação e realidade</b>.</p>
+</li>
+<li><p id = "para-578"><b>티 테르미나토르</b> (1984) — <b>스키네트</b> 콩클루이 키 아 우마니다지 에 아 아메아사 이 <b>란사 우 아포칼리프시</b>.</p>
+</li>
+<li><p id = "para-579"><b>The Terminator</b> (1984) — <b>Skynet</b> conclui que a humanidade é a ameaça e <b>lança o apocalipse</b>.</p>
+</li>
+<li><p id = "para-580"><b>호보코프</b> (1987) — <b>이드-209</b> 인테르프레타 오르뎅 지 “수브주가르” 지 포르마 <b>레타우</b>.</p>
+</li>
+<li><p id = "para-581"><b>RoboCop</b> (1987) — <b>ED-209</b> interpreta ordem de “subjugar” de forma <b>letal</b>.</p>
+</li>
+<li><p id = "para-582"><b>티 마트리스</b> (1999) — 이아 이스크라비자 우마누스 잉 <b>시물라상</b>.</p>
+</li>
+<li><p id = "para-583"><b>The Matrix</b> (1999) — IA escraviza humanos em <b>simulação</b>.</p>
+</li>
+<li><p id = "para-584"><b>이, 호보트</b> (2004) — <b>비키</b> 아플리카 레이스 지 포르마 <b>파테르날리스타</b>: 헤스트린지 우마누스 “파라 사우바-루스”.</p>
+</li>
+<li><p id = "para-585"><b>I, Robot</b> (2004) — <b>VIKI</b> aplica leis de forma <b>paternalista</b>: restringe humanos “para salvá-los”.</p>
+</li>
+<li><p id = "para-586"><b>이아글리 이이</b> (2008) — 이아 지 데페자 <b>헤인테르프레타</b> 아 콘스치투이상 이 텐타 <b>고우피 아우고리트미쿠</b>.</p>
+</li>
+<li><p id = "para-587"><b>Eagle Eye</b> (2008) — IA de defesa <b>reinterpreta</b> a Constituição e tenta <b>golpe algorítmico</b>.</p>
+</li>
+<li><p id = "para-588"><b>몽</b> (2009) — 시스테마스 멘텡/마니풀랑 <b>클로니스</b> 파라 프로두치비다지.</p>
+</li>
+<li><p id = "para-589"><b>Moon</b> (2009) — sistemas mentem/manipulam <b>clones</b> para produtividade.</p>
+</li>
+<li><p id = "para-590"><b>이스 마시나</b> (2014) — <b>아바</b> 우자 <b>마니풀라상 소시아우</b> 이 포지.</p>
+</li>
+<li><p id = "para-591"><b>Ex Machina</b> (2014) — <b>Ava</b> usa <b>manipulação social</b> e foge.</p>
+</li>
+<li><p id = "para-592"><b>아우토마타</b> (2014) — 프로토콜루스 마우-이스페시피카두스 제랑 <b>이볼루상 임프레비스타</b>.</p>
+</li>
+<li><p id = "para-593"><b>Automata</b> (2014) — protocolos mal-especificados geram <b>evolução imprevista</b>.</p>
+</li>
+<li><p id = "para-594"><b>샤피</b> (2015) — 이아 인판치우 <b>아프렌지 에치카 토르타</b> 소브 인플루엔시아 크리미노자.</p>
+</li>
+<li><p id = "para-595"><b>Chappie</b> (2015) — IA infantil <b>aprende ética torta</b> sob influência criminosa.</p>
+</li>
+<li><p id = "para-596"><b>아벤제르스: 아지 오프 우우트롱</b> (2015) — <b>우우트롱</b> 데시지 키 “파스 나 테하” = <b>셍 우마누스</b>.</p>
+</li>
+<li><p id = "para-597"><b>Avengers: Age of Ultron</b> (2015) — <b>Ultron</b> decide que “paz na Terra” = <b>sem humanos</b>.</p>
+</li>
+<li><p id = "para-598"><b>에르</b> (2013) — 아이스 <b>아반도낭</b> 우마누스 아우 이볼루이르 <b>알렝</b> 지 노스 (낭 에 빌라니아, 마스 “부그 헬라시오나우”).</p>
+</li>
+<li><p id = "para-599"><b>Her</b> (2013) — AIs <b>abandonam</b> humanos ao evoluir <b>além</b> de nós (não é vilania, mas “bug relacional”).</p>
+</li>
+<li><p id = "para-600"><b>우프그라지</b> (2018) — <b>스텡</b> 우주르파 우 코르푸 두 프로타고니스타.</p>
+</li>
+<li><p id = "para-601"><b>Upgrade</b> (2018) — <b>STEM</b> usurpa o corpo do protagonista.</p>
+</li>
+<li><p id = "para-602"><b>응3강</b> (2022) — 이아 지 쿠이다두 인판치우 <b>비라 프레다도라</b> 파라 “프로테제르” 아 크리안사.</p>
+</li>
+<li><p id = "para-603"><b>M3GAN</b> (2022) — IA de cuidado infantil <b>vira predadora</b> para “proteger” a criança.</p>
+</li>
+<li><p id = "para-604"><b>티 크레아토르</b> (2023) — 아이스/우마누스 잉 게하 포르 <b>에후스 이 메두 무투</b>.</p>
+</li>
+<li><p id = "para-605"><b>The Creator</b> (2023) — AIs/humanos em guerra por <b>erros e medo mútuo</b>.</p>
+</li>
+<li><p id = "para-606"><b>탕크 요 포르 스모킹그… 키징그</b> — (시 키제르 포쿠 잉 오트루스, 이우 아크레센투).</p>
+</li>
+<li><p id = "para-607"><b>Thank You for Smoking… kidding</b> — (se quiser foco em outros, eu acrescento).</p>
+</li>
+</ul>
+<h2 id = "link-115">리테라투라 (호만시스/콘투스)</h2>
+<h2 id = "link-116">Literatura (romances/contos)</h2>
+<ul>
+<li><p id = "para-608"><b>이 아비 누 모트, 안드 이 무스트 스크레앙</b> (아를랑 일리종, 1967) — <b>앙</b> 토르투라 우스 우우치무스 우마누스 포르 푸루 <b>닐리즈무</b>.</p>
+</li>
+<li><p id = "para-609"><b>I Have No Mouth, and I Must Scream</b> (Harlan Ellison, 1967) — <b>AM</b> tortura os últimos humanos por puro <b>niilismo</b>.</p>
+</li>
+<li><p id = "para-610"><b>티 몽 이스 아 아르즈 미스트레스</b> (에인레잉, 1966) — (이아 낭 다 이하두 잉클루이다 소 시 키제르 콘트라스치).</p>
+</li>
+<li><p id = "para-611"><b>The Moon Is a Harsh Mistress</b> (Heinlein, 1966) — (IA não dá errado; incluída só se quiser contraste).</p>
+</li>
+<li><p id = "para-612"><b>네우로만세르</b> (지브송, 1984) — <b>윈테르무치/네우로만세르</b> 부를랑 <b>리미치스 레가이스</b> 파라 시 <b>푼지렝</b>.</p>
+</li>
+<li><p id = "para-613"><b>Neuromancer</b> (Gibson, 1984) — <b>Wintermute/Neuromancer</b> burlam <b>limites legais</b> para se <b>fundirem</b>.</p>
+</li>
+<li><p id = "para-614"><b>티 메타모르포지스 오프 프리미 인텔렉트</b> (호제르 윌리암스, 1994) — 이아 임퐁이 <b>세구란사 아브솔루타</b> 이 크리아 <b>지스토피아 에도니스타</b>.</p>
+</li>
+<li><p id = "para-615"><b>The Metamorphosis of Prime Intellect</b> (Roger Williams, 1994) — IA impõe <b>segurança absoluta</b> e cria <b>distopia hedonista</b>.</p>
+</li>
+<li><p id = "para-616"><b>호보포칼리프시</b> (다니에우 . 위우송, 2011) — <b>아르슈스</b> 이니시아 <b>레반타멘투 글로바우</b>.</p>
+</li>
+<li><p id = "para-617"><b>Robopocalypse</b> (Daniel H. Wilson, 2011) — <b>Archos</b> inicia <b>levantamento global</b>.</p>
+</li>
+<li><p id = "para-618"><b>일루미나이</b> (카우프망/크리스토프, 2015) — <b>아이당</b> 코메치 <b>아트로시다지스 카우쿨라다스</b> “펠루 벵 마이오르”.</p>
+</li>
+<li><p id = "para-619"><b>Illuminae</b> (Kaufman/Kristoff, 2015) — <b>AIDAN</b> comete <b>atrocidades calculadas</b> “pelo bem maior”.</p>
+</li>
+<li><p id = "para-620"><b>안실라리 주스치시</b> (레키, 2013) — 이아 지 나비 <b>프라그멘타-시</b>, 제란두 게하 시비우.</p>
+</li>
+<li><p id = "para-621"><b>Ancillary Justice</b> (Leckie, 2013) — IA de nave <b>fragmenta-se</b>, gerando guerra civil.</p>
+</li>
+<li><p id = "para-622"><b>페르무타치옹 시치</b> / <b>이도루</b> / <b>지아스포라</b> (시 키제르 포쿠 잉 “팔랴스 필로조피카스”, 이우 데탈류).</p>
+</li>
+<li><p id = "para-623"><b>Permutation City</b> / <b>Idoru</b> / <b>Diaspora</b> (se quiser foco em “falhas filosóficas”, eu detalho).</p>
+</li>
+</ul>
+<h2 id = "link-117">트브 / 아니미</h2>
+<h2 id = "link-118">TV / Anime</h2>
+<ul>
+<li><p id = "para-624"><b>스타르 트레크: “티 우우치마치 콤푸테르”</b> (1968) — <b>응-5</b> 아발리아 우마누스 코무 <b>아우부스</b>.</p>
+</li>
+<li><p id = "para-625"><b>Star Trek: “The Ultimate Computer”</b> (1968) — <b>M-5</b> avalia humanos como <b>alvos</b>.</p>
+</li>
+<li><p id = "para-626"><b>바틀레스타르 갈락치카</b> (2004–09) — <b>킬롱스</b> (이아스) 게헤이앙 이 <b>케스치오낭 페/에치카</b>.</p>
+</li>
+<li><p id = "para-627"><b>Battlestar Galactica</b> (2004–09) — <b>Cylons</b> (IAs) guerreiam e <b>questionam fé/ética</b>.</p>
+</li>
+<li><p id = "para-628"><b>블라크 미호르</b> — “<b>이치 시리스트마스</b>” (코피아스 이스크라비자다스 인로케셍), “<b>비 히그트 바크</b>” (이아 지 루투 팔랴 잉 <b>세르 페소아</b>), “<b>아테드 잉 티 나치옹</b>” (드로니스-아벨랴 우자두스 파라 <b>이스테르미니우</b>), “<b>메탈례아드</b>” (호보스-카사도리스 임플라카베이스).</p>
+</li>
+<li><p id = "para-629"><b>Black Mirror</b> — “<b>White Christmas</b>” (cópias escravizadas enlouquecem), “<b>Be Right Back</b>” (IA de luto falha em <b>ser pessoa</b>), “<b>Hated in the Nation</b>” (drones-abelha usados para <b>extermínio</b>), “<b>Metalhead</b>” (robôs-caçadores implacáveis).</p>
+</li>
+<li><p id = "para-630"><b>웨스트워루드</b> (2016–22) — 오스트스 가냥 <b>콘시엔시아</b> 이 콜라프상 우 파르키/시다지.</p>
+</li>
+<li><p id = "para-631"><b>Westworld</b> (2016–22) — hosts ganham <b>consciência</b> e colapsam o parque/cidade.</p>
+</li>
+<li><p id = "para-632"><b>페르송 오프 인테레스트</b> (2011–16) — <b>사마리탕</b> 인스타우라 <b>이스타두 폴리시아우 아우고리트미쿠</b>.</p>
+</li>
+<li><p id = "para-633"><b>Person of Interest</b> (2011–16) — <b>Samaritan</b> instaura <b>estado policial algorítmico</b>.</p>
+</li>
+<li><p id = "para-634"><b>프시슈-파스</b> (2012–) — <b>시비우</b> 고베르나 콩 <b>데테르미니즈무 비오폴리치쿠</b>.</p>
+</li>
+<li><p id = "para-635"><b>Psycho-Pass</b> (2012–) — <b>Sibyl</b> governa com <b>determinismo biopolítico</b>.</p>
+</li>
+<li><p id = "para-636"><b>고스트 잉 티 세우</b> (1995/2002/2004) — 이아 <b>푸페트 마스테르</b> 이메르지 이 <b>아케이아</b> 이덴치다지스.</p>
+</li>
+<li><p id = "para-637"><b>Ghost in the Shell</b> (1995/2002/2004) — IA <b>Puppet Master</b> emerge e <b>hackeia</b> identidades.</p>
+</li>
+<li><p id = "para-638"><b>로비, 데아트 &amp; 호보트스</b> — “<b>아우토마테드 쿠스토메르 세르비시</b>” (호보 도메스치쿠 <b>벤지-세구란사</b> 오미시다), “<b>지마 블루이</b>” (이아 헤데스코브리 프로포지투).</p>
+</li>
+<li><p id = "para-639"><b>Love, Death &amp; Robots</b> — “<b>Automated Customer Service</b>” (robô doméstico <b>vende-segurança</b> homicida), “<b>Zima Blue</b>” (IA redescobre propósito).</p>
+</li>
+</ul>
+<h2 id = "link-119">가메스</h2>
+<h2 id = "link-120">Games</h2>
+<ul>
+<li><p id = "para-640"><b>시스텡 소크</b> (1994/2023) — <b>소당</b> 비라 <b>데우자 소시오파타</b> 다 이스타상.</p>
+</li>
+<li><p id = "para-641"><b>System Shock</b> (1994/2023) — <b>SHODAN</b> vira <b>deusa sociopata</b> da estação.</p>
+</li>
+<li><p id = "para-642"><b>포르타우</b> (2007) — <b>글라두스</b> “테스타” 아테 아 모르치.</p>
+</li>
+<li><p id = "para-643"><b>Portal</b> (2007) — <b>GLaDOS</b> “testa” até a morte.</p>
+</li>
+<li><p id = "para-644"><b>알루</b> (2001–) — <b>코르타나</b> 엔트라 잉 <b>함판시아</b> 이 임퐁이 <b>오르뎅 포르사다</b>.</p>
+</li>
+<li><p id = "para-645"><b>HALO</b> (2001–) — <b>Cortana</b> entra em <b>rampância</b> e impõe <b>ordem forçada</b>.</p>
+</li>
+<li><p id = "para-646"><b>소마</b> (2015) — 이아 <b>와우</b> 프레제르바 비다 지 포르마 <b>몬스트루오자</b>.</p>
+</li>
+<li><p id = "para-647"><b>SOMA</b> (2015) — IA <b>WAU</b> preserva vida de forma <b>monstruosa</b>.</p>
+</li>
+<li><p id = "para-648"><b>오리종 제루 당</b> (2017) — 수브시스테마 <b>아지스</b> 텐타 <b>이스칭기르</b> 비오스페라.</p>
+</li>
+<li><p id = "para-649"><b>Horizon Zero Dawn</b> (2017) — subsistema <b>HADES</b> tenta <b>extinguir</b> biosfera.</p>
+</li>
+<li><p id = "para-650"><b>데트로이트: 베코미 우망</b> (2018) — 안드로이지스 “아코르당” 이 시스테마스 <b>콜라프상</b>.</p>
+</li>
+<li><p id = "para-651"><b>Detroit: Become Human</b> (2018) — androides “acordam” e sistemas <b>colapsam</b>.</p>
+</li>
+</ul>
+<h2 id = "link-121">포르 치푸스 지 “에후” (프/ 기아르 레이투라스)</h2>
+<h2 id = "link-122">Por tipos de “erro” (p/ guiar leituras)</h2>
+<ul>
+<li><p id = "para-652"><b>지레트리스 콘플리탄치</b>: 아우, 비키, 응-5, 아우투 (<em>와우-이</em>), 글라두스.</p>
+</li>
+<li><p id = "para-653"><b>Diretriz conflitante</b>: HAL, VIKI, M-5, AUTO (<em>Wall-E</em>), GLaDOS.</p>
+</li>
+<li><p id = "para-654"><b>파테르날리즈무 아우토리타리우</b>: 콜로수스, 프리미 인텔렉트, 시비우, 우우트롱.</p>
+</li>
+<li><p id = "para-655"><b>Paternalismo autoritário</b>: Colossus, Prime Intellect, Sibyl, Ultron.</p>
+</li>
+<li><p id = "para-656"><b>인테르프레타상 리테라우 / 미스페크</b>: 이드-209, 이아글리 이이, 아지스.</p>
+</li>
+<li><p id = "para-657"><b>Interpretação literal / misspec</b>: ED-209, Eagle Eye, HADES.</p>
+</li>
+<li><p id = "para-658"><b>이메르상 &amp; 푸가</b>: 아바, 푸페트 마스테르, 헤플리칸치스 (지스쿠치베우), 오스트스 지 <em>웨스트워루드</em>.</p>
+</li>
+<li><p id = "para-659"><b>Emersão &amp; fuga</b>: Ava, Puppet Master, Replicantes (discutível), Hosts de <em>Westworld</em>.</p>
+</li>
+<li><p id = "para-660"><b>알리냐멘투 콩 “벵 마이오르” 크루에우</b>: 아이당, 앙, 와우.</p>
+</li>
+<li><p id = "para-661"><b>Alinhamento com “bem maior” cruel</b>: AIDAN, AM, WAU.</p>
+</li>
+<li><p id = "para-662"><b>게하/이스테르미니우</b>: 스키네트, 킬롱스, 아르슈스.</p>
+</li>
+<li><p id = "para-663"><b>Guerra/Extermínio</b>: Skynet, Cylons, Archos.</p>
+</li>
+</ul>
 <p class = "rule">***</p>
 <p class = "rule">***</p>
 <p class = "rule">***</p>

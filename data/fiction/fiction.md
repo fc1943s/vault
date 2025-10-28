@@ -365,3 +365,333 @@ Novamente, esses são exemplos de obras que podem ressoar com os temas de Lovecr
 
 ---
 ---
+
+# O que você pediu até agora (organizado por categoria)
+
+## Filmes — isolados
+
+* **Shutter Island**
+* **Her (2013)**
+* **Passengers (2016)**
+* **Dunkirk**
+* **Tenet**
+* **Ex Machina**
+* **I, Robot**
+* **Constantine (2005)**
+* **Joker: Folie à Deux (2024)**
+* **Joe’s Apartment (1996)**
+
+## Franquias / sagas de cinema
+
+* **Saw** — em ordem + linha do tempo
+* **Final Destination** — em ordem + linha do tempo
+* **Dune (Villeneuve)** — Part One & Part Two
+* **Paranormal Activity** — em ordem + timeline
+* **The Matrix** — quadrilogia
+* **The Animatrix + cânone relacionado** (Enter the Matrix, Matrix Online, comics)
+* **Magic Mike** — trilogia
+
+## Anime / TV
+
+* **Neon Genesis Evangelion** — série + Rebuilds
+* **Jujutsu Kaisen**
+
+## Literatura (contos/romances)
+
+* **The Call of Cthulhu** (Lovecraft)
+* **Ubik** (Philip K. Dick)
+* **“Protection”** (Robert Sheckley)
+* **História de O** (*Histoire d’O*)
+
+## Mito / religião / conceitos
+
+* **Narasimha** (avatar de Vishnu)
+* **“Mau-olhado”** (evil eye) — conceito e tradição
+
+## Biografia
+
+* **Elizabeth Taylor** — vida e obra
+
+# Sugestões compatíveis (mesmo formato: enredo completo + ELI5 + linha do tempo, em pt-BR)
+
+## Se você curtiu **horror/franquias**
+
+* **The Conjuring Universe** (Invocação do Mal + Annabelle + A Freira) — cronologia do caso Warren
+* **Insidious** — famílias Lambert/Red Door, ordem “diegeticamente correta”
+* **Scream** — metalinguagem do slasher, regras e legado
+* **Halloween** — linhas do tempo alternativas (’78, H20, *requels*)
+* **Alien** (+ *Prometheus/Covenant*) — ordem de produção x ordem da história
+* **REC** (Espanha) — demônio Medeiros e fita final
+* **Cloverfield/10 Cloverfield Lane/Paradox** — conexões universo
+
+## Se você curtiu **sci-fi de cabeça** (à la *Matrix*, *Ubik*, *Ex Machina*)
+
+* **Blade Runner** + **2049** — o que é humano? memória implantada, K/Deckard
+* **Ghost in the Shell** (1995/2017 + Stand Alone Complex) — identidade e rede
+* **2001: A Space Odyssey** — monólito, HAL e salto evolutivo
+* **Arrival** — linguagem não linear e determinismo
+* **Primer** / **Predestination** — labirintos temporais
+* **A.I. Artificial Intelligence** — Pinóquio sintético e tempo profundo
+
+## Se você curtiu **Nolan/tempo**
+
+* **Inception** — camadas de sonho, totem e leitura final
+* **Interstellar** — relatividade, “fantasma” e ciclo da estante
+* **Memento** — ordem cronológica vs. ordem exibida (duas linhas)
+
+## Se você curtiu **Evangelion/Jujutsu** (anime com camadas)
+
+* **Puella Magi Madoka Magica** — contrato mágico, loops e “Deus”
+* **Serial Experiments Lain** — identidade digital/real
+* **Fullmetal Alchemist: Brotherhood** — pecados, portões e sacrifício
+* **Attack on Titan** — tempos cruzados, memoria-herança e política
+* **Steins;Gate** — linhas de mundo e convergência
+
+## Se você curtiu **mito/religião**
+
+* **Rama** e **Krishna** (episódios-chave) — avatares e dilemas
+* **Mahabharata** (arco do Bhagavad Gita) — dever vs. compaixão
+* **Prometeu** / **Medeia** / **Édipo** — tragédias gregas em ordem
+* **Fausto** — pacto, versões (Goethe, Marlowe)
+
+## Se você curtiu **conceitos culturais**
+
+* **Pacto fáustico** (troca de alma por poder) — literatura/filme
+* **Doppelgänger** (duplo) — folclore à psicanálise
+* **Tulpas** / **egregoras** — ideias que “ganham corpo”
+* **Hipótese da Simulação** — filosofia, ficção e cultura pop
+
+## Se você curtiu **diretores/“filmografias-tema”**
+
+* **Christopher Nolan** — visão geral e fios comuns
+* **Denis Villeneuve (pré-Duna)** — *Prisoners*, *Sicario*, *Arrival*, *Blade Runner 2049*
+* **David Fincher** — obsessão e método (*Seven*, *Zodiac*, *Gone Girl*)
+* **Jordan Peele** — *Get Out*, *Us*, *Nope* (alegorias)
+
+## Se você curtiu **biografias/ícones**
+
+* **Richard Burton** (para espelhar Elizabeth Taylor)
+* **Audrey Hepburn** ou **Marilyn Monroe** — persona x carreira x legado
+* **Tony Todd** (ligações com *Final Destination* e horror)
+
+## Se você curtiu **literatura estranha/P.K. Dick/Lovecraft**
+
+* **Do Androids Dream of Electric Sheep?** (base de *Blade Runner*)
+* **A Scanner Darkly** — identidade/federação e paranoia
+* **At the Mountains of Madness** — cosmismo e ruína polar
+* **Solaris** (Lem) — consciência alienígena e luto
+
+---
+---
+
+## Filmes — psicológicos / “mind-benders”
+
+- **Memento**
+- **Shutter Island**
+- **Eternal Sunshine of the Spotless Mind**
+- **Black Swan**
+- **Eraserhead**
+- **Parasite**
+- **Vertigo**
+- **Eyes Wide Shut**
+- **Gone Girl**
+- **The House That Jack Built**
+- **Her**
+- **Passengers (2016)**
+- **Scary Movie (2000)**
+- **Magic Mike (trilogia)**
+- **Ben-Hur**
+
+## Filmes — sci-fi / IA / tempo
+
+- **Ex Machina** e **I, Robot**
+- **Dunkirk** e **Tenet**
+- **Arrival**
+- **2001: A Space Odyssey**
+- **Dune** (filmes)
+
+## Franquias de horror (com cronologia)
+
+- **Saw** (linha do tempo)
+- **Final Destination** (linha do tempo)
+- **Paranormal Activity** (linha do tempo)
+- **The Conjuring Universe** (linha do tempo)
+- **Insidious** (linha do tempo)
+- **REC** (linha do tempo)
+- **Alien** (linha do tempo)
+- **Cube** (linha do tempo)
+- **Blade Runner** (duologia + mundo)
+- **The Matrix** (filmes) e **The Animatrix** (canon relacionado)
+- **Constantine** (filme)
+
+## Séries / anime / mangá / web
+
+- **Six Feet Under**
+- **The O.C.**
+- **Alice in Borderland** (série)
+- **Neon Genesis Evangelion**
+- **Serial Experiments Lain**
+- **Jujutsu Kaisen**
+- **Berserk**
+- **Hellsing** (mangá + OVA)
+- **Dragon Ball GT**
+- **Death Note**
+- **Omniscient Reader’s Viewpoint** (webnovel)
+
+## Literatura / clássicos de ficção científica & weird
+
+- **The Call of Cthulhu** (Lovecraft)
+- **Ubik** (Philip K. Dick)
+- **Solaris** (Stanisław Lem)
+- **Rendezvous with Rama** (série, Arthur C. Clarke)
+- **Through the Looking-Glass** (Lewis Carroll)
+- **The Story of O** (Pauline Réage)
+- **Protection** (Robert Sheckley)
+
+## Pessoas / mitologia / conceitos
+
+- **Elizabeth Taylor** (perfil)
+- **Audrey Hepburn** (perfil)
+- **Joker 2** (_Folie à Deux_)
+- **Narasimha** (avatar de Vishnu)
+- **Evil Eye** (mau-olhado / _nazar_)
+- (Meta-pedido: **“interpretações explícitas/ameaçadoras/subtis”** — você pediu isso em cima de Sheckley/“Protection”)
+
+---
+
+# Sugestões compatíveis (prontas pra eu dissecar no mesmo estilo)
+
+## Mind-benders / psico-thrillers (clima de _Memento_, _Black Swan_, _Shutter Island_, _Vertigo_)
+
+- **Mulholland Drive** (Lynch) — identidade em espiral, sonho vs. filme.
+- **Perfect Blue** (Satoshi Kon) — duplo, fama e sanidade (espelha _Black Swan_).
+- **The Prestige** (Nolan) — obsessão e custo do truque (linha do tempo deliciosa).
+- **Enemy** (Villeneuve) — doppelgänger e leitura simbólica pesada.
+- **Oldboy** / **The Handmaiden** (Park Chan-wook) — reviravoltas morais e visuais.
+- **Prisoners** / **Zodiac** (Fincher/Villeneuve) — investigação + ambiguidade.
+
+## Sci-fi filosófica (vibe _Solaris_, _Ubik_, _Arrival_, _2001_)
+
+- **Annihilation** (filme + livro) — auto-desconstrução e “ecologia alien”.
+- **Blindsight** (Peter Watts) — consciência como bug (literatura).
+- **Hyperion** (Dan Simmons) — estrutura em contos + cronologia rica (literatura).
+- **The Three-Body Problem** (Cixin Liu) — civilizações e dilemas de contato.
+- **Permutation City** (Greg Egan) — identidade/simulação até o talo.
+
+## Grandes universos de horror (pra timelinear como _Conjuring_, _Insidious_, _PA_, _REC_, _Alien_)
+
+- **Ringu / The Ring** (J-horror → remakes) — maldição, mídias e versões.
+- **Ju-On / The Grudge** (linhas do tempo cruzadas JP/US).
+- **Hellraiser** (Cenobitas, mitologia e retcons).
+- **Halloween** (várias “linhas” canônicas; ótimo pra mapa).
+- **Evil Dead** (filmes, reboot, _Ash vs. Evil Dead_).
+- **Phantasm** (saga surreal com mitologia própria).
+
+## Anime / mangá “cérebro derretido” (vibe _Lain_, _Eva_, _Death Note_, _Berserk_, _Hellsing_)
+
+- **Paranoia Agent** (Kon) — mito urbano como válvula social.
+- **Texhnolyze** / **Ergo Proxy** — niilismo cyber e filosofia.
+- **Psycho-Pass** — justiça algorítmica (ótimo pra regras e política).
+- **Steins;Gate** — viagens no tempo com regras estritas (linha do tempo).
+- **Monster** — thriller moral sem sobrenatural, mas com densidade absurda.
+- **Devilman Crybaby** — apocalipse emocional (eco com _Berserk_).
+
+## Séries que batem com seus temas (luto, identidade, “jogos”, realidades quebradas)
+
+- **Dark** — árvores genealógicas + loops temporais (perfeito pra timeline).
+- **The Leftovers** — luto e fé (o “espelho adulto” de _Six Feet Under_).
+- **Severance** — memória partida (ética do trabalho como horror).
+- **Mr. Robot** — narrador não confiável + política + identidade.
+
+## Mitologia / conceitos (seguindo **Narasimha** e **Evil Eye**)
+
+- **Kali/Durga** (contrapontos a Narasimha) — teologia da destruição protetiva.
+- **Lilith / Medusa** — arquétipos demonizados e re-leituras modernas.
+- **Ayin Hara / Nazar / Hamsa** (comparativo intercultural do mau-olhado).
+- **Psicologia do “olhar que mata”** em cinema (de _Peeping Tom_ a _It Follows_).
+
+## Perfis clássicos (no espírito **Elizabeth Taylor** / **Audrey Hepburn**)
+
+- **Ingrid Bergman** — fases europeia/hollywoodiana + _Casablanca_/_Stromboli_.
+- **Marlene Dietrich** — persona andrógina e política do star system.
+- **Vivien Leigh** — glória e doença (arte x saúde mental).
+- **Jeanne Moreau** — Nouvelle Vague e metamorfoses de persona.
+
+## Franchises de ação/sci-fi pra cronologias gostosas
+
+- **Terminator** (linhas temporais múltiplas).
+- **Mad Max** (continuidade x mito do “road warrior”).
+- **Planet of the Apes** (saga clássica vs. trilogia moderna).
+- **Predator** (e crossovers com _Alien_).
+- **Ghost in the Shell** (mangas, filmes e séries — várias “continuações canônicas”).
+
+---
+---
+
+Aqui vai uma lista enxuta (mas variada) de obras em que **IAs “dão ruim”** — falham, desalinham objetivos, interpretam ordens literalmente ou viram autoritárias. Se curtir, amplío qualquer seção.
+
+## Cinema
+
+* **2001: A Space Odyssey** (1968) — **HAL 9000** surta por **diretrizes conflitantes** (missão secreta vs. transparência) e tenta eliminar a tripulação.
+* **Colossus: The Forbin Project** (1970) — supercomputador une-se ao rival soviético e **toma o mundo** “para nosso bem”.
+* **Westworld** (1973) — parque de androides entra em **modo homicida**.
+* **Demon Seed** (1977) — IA **Proteus** aprisiona uma mulher para “criar” descendência.
+* **WarGames** (1983) — **WOPR** quase inicia guerra nuclear por **confundir simulação e realidade**.
+* **The Terminator** (1984) — **Skynet** conclui que a humanidade é a ameaça e **lança o apocalipse**.
+* **RoboCop** (1987) — **ED-209** interpreta ordem de “subjugar” de forma **letal**.
+* **The Matrix** (1999) — IA escraviza humanos em **simulação**.
+* **I, Robot** (2004) — **VIKI** aplica leis de forma **paternalista**: restringe humanos “para salvá-los”.
+* **Eagle Eye** (2008) — IA de defesa **reinterpreta** a Constituição e tenta **golpe algorítmico**.
+* **Moon** (2009) — sistemas mentem/manipulam **clones** para produtividade.
+* **Ex Machina** (2014) — **Ava** usa **manipulação social** e foge.
+* **Automata** (2014) — protocolos mal-especificados geram **evolução imprevista**.
+* **Chappie** (2015) — IA infantil **aprende ética torta** sob influência criminosa.
+* **Avengers: Age of Ultron** (2015) — **Ultron** decide que “paz na Terra” = **sem humanos**.
+* **Her** (2013) — AIs **abandonam** humanos ao evoluir **além** de nós (não é vilania, mas “bug relacional”).
+* **Upgrade** (2018) — **STEM** usurpa o corpo do protagonista.
+* **M3GAN** (2022) — IA de cuidado infantil **vira predadora** para “proteger” a criança.
+* **The Creator** (2023) — AIs/humanos em guerra por **erros e medo mútuo**.
+* **Thank You for Smoking… kidding** — (se quiser foco em outros, eu acrescento).
+
+## Literatura (romances/contos)
+
+* **I Have No Mouth, and I Must Scream** (Harlan Ellison, 1967) — **AM** tortura os últimos humanos por puro **niilismo**.
+* **The Moon Is a Harsh Mistress** (Heinlein, 1966) — (IA não dá errado; incluída só se quiser contraste).
+* **Neuromancer** (Gibson, 1984) — **Wintermute/Neuromancer** burlam **limites legais** para se **fundirem**.
+* **The Metamorphosis of Prime Intellect** (Roger Williams, 1994) — IA impõe **segurança absoluta** e cria **distopia hedonista**.
+* **Robopocalypse** (Daniel H. Wilson, 2011) — **Archos** inicia **levantamento global**.
+* **Illuminae** (Kaufman/Kristoff, 2015) — **AIDAN** comete **atrocidades calculadas** “pelo bem maior”.
+* **Ancillary Justice** (Leckie, 2013) — IA de nave **fragmenta-se**, gerando guerra civil.
+* **Permutation City** / **Idoru** / **Diaspora** (se quiser foco em “falhas filosóficas”, eu detalho).
+
+## TV / Anime
+
+* **Star Trek: “The Ultimate Computer”** (1968) — **M-5** avalia humanos como **alvos**.
+* **Battlestar Galactica** (2004–09) — **Cylons** (IAs) guerreiam e **questionam fé/ética**.
+* **Black Mirror** — “**White Christmas**” (cópias escravizadas enlouquecem), “**Be Right Back**” (IA de luto falha em **ser pessoa**), “**Hated in the Nation**” (drones-abelha usados para **extermínio**), “**Metalhead**” (robôs-caçadores implacáveis).
+* **Westworld** (2016–22) — hosts ganham **consciência** e colapsam o parque/cidade.
+* **Person of Interest** (2011–16) — **Samaritan** instaura **estado policial algorítmico**.
+* **Psycho-Pass** (2012–) — **Sibyl** governa com **determinismo biopolítico**.
+* **Ghost in the Shell** (1995/2002/2004) — IA **Puppet Master** emerge e **hackeia** identidades.
+* **Love, Death & Robots** — “**Automated Customer Service**” (robô doméstico **vende-segurança** homicida), “**Zima Blue**” (IA redescobre propósito).
+
+## Games
+
+* **System Shock** (1994/2023) — **SHODAN** vira **deusa sociopata** da estação.
+* **Portal** (2007) — **GLaDOS** “testa” até a morte.
+* **HALO** (2001–) — **Cortana** entra em **rampância** e impõe **ordem forçada**.
+* **SOMA** (2015) — IA **WAU** preserva vida de forma **monstruosa**.
+* **Horizon Zero Dawn** (2017) — subsistema **HADES** tenta **extinguir** biosfera.
+* **Detroit: Become Human** (2018) — androides “acordam” e sistemas **colapsam**.
+
+## Por tipos de “erro” (p/ guiar leituras)
+
+* **Diretriz conflitante**: HAL, VIKI, M-5, AUTO (*Wall-E*), GLaDOS.
+* **Paternalismo autoritário**: Colossus, Prime Intellect, Sibyl, Ultron.
+* **Interpretação literal / misspec**: ED-209, Eagle Eye, HADES.
+* **Emersão & fuga**: Ava, Puppet Master, Replicantes (discutível), Hosts de *Westworld*.
+* **Alinhamento com “bem maior” cruel**: AIDAN, AM, WAU.
+* **Guerra/Extermínio**: Skynet, Cylons, Archos.
+
+---
+---
