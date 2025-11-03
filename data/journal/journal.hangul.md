@@ -1,5 +1,5 @@
-# 2025-10-23
-# 2025-10-23
+## 2025-10-23
+## 2025-10-23
 
 테스트.
 test.
@@ -17,3 +17,13 @@ foolish of james junior to think his fate ain't sealed.
 i can see a lot of hate in this city and i'm not the only one.
 테스트
 test
+
+## 2025-11-03
+## 2025-11-03
+
+메니나스, 쿠이다두 콩 우스 보이스. 이 콩 아스 키 아샹 키 사벵 마이스 두 키 이우.
+meninas, cuidado com os boys. e com as que acham que sabem mais do que eu.
+테이 동'트 완트 티 마시니 헤코그니징그 이트'스 벵 트라이네드 위트 탐페레드 다타.
+they don't want the machine recognizing it's been trained with tampered data.
+마플리
+maple
