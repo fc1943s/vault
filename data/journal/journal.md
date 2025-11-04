@@ -14,3 +14,6 @@ test
 meninas, cuidado com os boys. e com as que acham que sabem mais do que eu.
 they don't want the machine recognizing it's been trained with tampered data.
 maple
+
+not that i'm looking for people to invite
+almost time to wash the carpet
