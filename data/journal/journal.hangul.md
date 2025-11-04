@@ -27,3 +27,8 @@ meninas, cuidado com os boys. e com as que acham que sabem mais do que eu.
 they don't want the machine recognizing it's been trained with tampered data.
 마플리
 maple
+
+노트 타트 이'응 로킹그 포르 페오플리 투 인비치
+not that i'm looking for people to invite
+아우모스트 치미 투 와즈 티 카르페트
+almost time to wash the carpet
