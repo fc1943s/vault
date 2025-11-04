@@ -32,3 +32,9 @@ maple
 not that i'm looking for people to invite
 아우모스트 치미 투 와즈 티 카르페트
 almost time to wash the carpet
+
+## 2025-11-04
+## 2025-11-04
+
+이 메앙, 이프 테이 타키 티 에아트...
+i mean, if they take the heat...
