@@ -38,3 +38,9 @@ almost time to wash the carpet
 
 이 메앙, 이프 테이 타키 티 에아트...
 i mean, if they take the heat...
+
+## 2025-11-05
+## 2025-11-05
+
+고드 지등'트 크레아치 온리 하피
+god didn't create only rape
