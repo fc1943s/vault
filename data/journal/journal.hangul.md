@@ -44,3 +44,15 @@ i mean, if they take the heat...
 
 고드 지등'트 크레아치 온리 하피
 god didn't create only rape
+나이우 블루이
+nail blue
+루아 +1
+lua +1
+
+## 2025-11-06
+## 2025-11-06
+
+티 에이스트
+the heist
+오트푸트 티 샨지스 투 마키 티 네 프# 신타스 ("스 |> (풍 스 ->스.프)" -> "스 |> _.프" (이트 워우드 비 "스 |> 풍 스 => 스.프")) 잉 스피라우 잉 므드 지프 포릉
+output the changes to make the new f# syntax ("x |> (fun x ->x.P)" -> "x |> _.P" (it would be "x |> fun x => x.P")) in spiral in md diff form

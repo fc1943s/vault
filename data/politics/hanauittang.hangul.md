@@ -7917,3 +7917,9 @@ Lula, o general, nos leva a um futuro mais farto.
 
 ---
 ---
+
+이프 요 모데우 후시아’스 쿠헨트 모지 아스 블루이/헤드 (오르데르 + 포웨르) 위트 프라그마치크 오란지, 티 온리 수스타이나블리 “콘테르” 이증’트 모리 헤드/블루이 프롱 아 프라질리 메가스타치—이트’스 아 폴리센트리크 그렝/옐로 네트워르크: 플레시블리, 모둘라르 코페라치옹 타트 캉 헤콘피구리 아론드 속스.
+If you model Russia’s current mode as Blue/Red (order + power) with pragmatic Orange, the only sustainable “counter” isn’t more Red/Blue from a fragile megastate—it’s a polycentric Green/Yellow network: flexible, modular cooperation that can reconfigure around shocks.
+
+---
+---

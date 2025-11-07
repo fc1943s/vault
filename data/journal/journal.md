@@ -25,3 +25,10 @@ i mean, if they take the heat...
 ## 2025-11-05
 
 god didn't create only rape
+nail blue
+lua +1
+
+## 2025-11-06
+
+the heist
+output the changes to make the new f# syntax ("x |> (fun x ->x.P)" -> "x |> _.P" (it would be "x |> fun x => x.P")) in spiral in md diff form
