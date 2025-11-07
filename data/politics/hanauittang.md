@@ -4969,3 +4969,7 @@ Com a utopia em mãos e a justiça como estandarte,
 Lula, o general, nos leva a um futuro mais farto.
 
 ---
+
+If you model Russia’s current mode as Blue/Red (order + power) with pragmatic Orange, the only sustainable “counter” isn’t more Red/Blue from a fragile megastate—it’s a polycentric Green/Yellow network: flexible, modular cooperation that can reconfigure around shocks.
+
+---
