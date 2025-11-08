@@ -32,3 +32,12 @@ lua +1
 
 the heist
 output the changes to make the new f# syntax ("x |> (fun x ->x.P)" -> "x |> _.P" (it would be "x |> fun x => x.P")) in spiral in md diff form
+
+## 2025-11-07
+
+tainted!!! tainted!!!! taint!!!! taint!!!!!
+
+## 2025-11-08
+
+only petty shit to scavenge
+hey proof i'm truly sorry

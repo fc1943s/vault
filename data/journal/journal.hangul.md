@@ -56,3 +56,17 @@ lua +1
 the heist
 오트푸트 티 샨지스 투 마키 티 네 프# 신타스 ("스 |> (풍 스 ->스.프)" -> "스 |> _.프" (이트 워우드 비 "스 |> 풍 스 => 스.프")) 잉 스피라우 잉 므드 지프 포릉
 output the changes to make the new f# syntax ("x |> (fun x ->x.P)" -> "x |> _.P" (it would be "x |> fun x => x.P")) in spiral in md diff form
+
+## 2025-11-07
+## 2025-11-07
+
+타인테드!!! 타인테드!!!! 타인트!!!! 타인트!!!!!
+tainted!!! tainted!!!! taint!!!! taint!!!!!
+
+## 2025-11-08
+## 2025-11-08
+
+온리 페치 시트 투 스카벤지
+only petty shit to scavenge
+에이 프로프 이'응 트룰리 소히
+hey proof i'm truly sorry
