@@ -70,3 +70,5 @@ tainted!!! tainted!!!! taint!!!! taint!!!!!
 only petty shit to scavenge
 에이 프로프 이'응 트룰리 소히
 hey proof i'm truly sorry
+이 소우드 스타르트 악칭그 포르 티 페 우'스 스치우 베칭그
+i should start acting for the few who's still betting

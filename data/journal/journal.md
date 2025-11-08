@@ -41,3 +41,4 @@ tainted!!! tainted!!!! taint!!!! taint!!!!!
 
 only petty shit to scavenge
 hey proof i'm truly sorry
+i should start acting for the few who's still betting
