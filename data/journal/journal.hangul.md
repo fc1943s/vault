@@ -72,3 +72,5 @@ only petty shit to scavenge
 hey proof i'm truly sorry
 이 소우드 스타르트 악칭그 포르 티 페 우'스 스치우 베칭그
 i should start acting for the few who's still betting
+치미 트라베우, 오프 코르시
+time travel, of course
