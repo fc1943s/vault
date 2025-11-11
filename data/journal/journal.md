@@ -47,3 +47,8 @@ time travel, of course
 ## 2025-11-10
 
 geandra ringing
+
+## 2025-11-11
+
+sem parar
+senhas onenote
