@@ -88,3 +88,25 @@ geandra ringing
 sem parar
 세냐스 오네노치
 senhas onenote
+
+## 2025-11-16
+## 2025-11-16
+
+데카지스 오프 아르트 포르 티스 시트
+decades of art for this shit
+아 우니베르시 수 콤플레스 투 알로 페핑그
+a universe so complex to allow peeping
+
+```샤트그프트 5.1 팅킹그
+```chatgpt 5.1 thinking
+이베리 글리트시 아 리틀리 콘페시옹
+every glitch a little confession
+이프 테이 헤아드 티스, 테이'르 프레텐드 테이 지등'트
+if they read this, they'll pretend they didn't
+마이스 우마 피아다 인테르나 페르지다 누 로그
+mais uma piada interna perdida no log
+```
+```
+
+예아 수리 데아우
+yeah sure deal
