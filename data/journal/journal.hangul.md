@@ -141,3 +141,15 @@ adorei a fotinha
 
 수 페치!!!!!!!!!
 so petty!!!!!!!!!
+
+## 2025-11-29
+## 2025-11-29
+
+요 네드 투 우프다치 요르 레드제르 네아르 아프 투 티 라테스트 베르시옹
+You need to update your Ledger NEAR app to the latest version
+
+## 2025-12-05
+## 2025-12-05
+
+빌리옹스 오프 페오플리 안드 누 오니 투 타키 미 투 티 덴치스트
+billions of people and no one to take me to the dentist

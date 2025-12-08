@@ -84,3 +84,11 @@ adorei a fotinha
 ## 2025-11-24
 
 so petty!!!!!!!!!
+
+## 2025-11-29
+
+You need to update your Ledger NEAR app to the latest version
+
+## 2025-12-05
+
+billions of people and no one to take me to the dentist
