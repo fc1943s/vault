@@ -159,3 +159,63 @@ billions of people and no one to take me to the dentist
 
 티 코지 지스트락테드 미 포르 아 페 세콘드스
 the code distracted me for a few seconds
+
+## 2025-12-11
+## 2025-12-11
+
+스트란지 오트 에리
+strange out here
+티 훙 에리 테이 델리베르
+the run where they deliver
+
+```지투브 코필로트 브스코지
+```github copilot vscode
+리치 아 피통 풍크치옹 타트 타키스 아 리스트 오프 인테제르스 안드 헤투릉스 아 네 리스트 위트 온리 티 이벵 인테제르스 프롱 티 오리지나우 리스트
+write a python function that takes a list of integers and returns a new list with only the even integers from the original list
+```
+```
+
+이 웡'트!
+i won't!
+
+## 2025-12-13
+## 2025-12-13
+
+지스트락칭그 포레베르
+distracting forever
+5555
+5555
+
+```지투브 코필로트 브스코지
+```github copilot vscode
+이 완트 투 구 바크 투 슬레프
+i want to go back to sleep
+```
+```
+
+제스
+geez
+
+```지투브 코필로트 브스코지
+```github copilot vscode
+이 아치 티스
+i hate this
+```
+```
+
+사이 다키
+sai daqui
+...
+...
+
+## 2025-12-14
+## 2025-12-14
+
+레아프 세콘드스 부그스!!
+leap seconds bugs!!
+
+## 2025-12-16
+## 2025-12-16
+
+우 마시무 키 아 젠치 파스 에 아젠다르 웅 오라리우, 아이 브크 시 비라
+o máximo que a gente faz é agendar um horário, aí vc se vira

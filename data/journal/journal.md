@@ -96,3 +96,40 @@ billions of people and no one to take me to the dentist
 ## 2025-12-09
 
 the code distracted me for a few seconds
+
+## 2025-12-11
+
+strange out here
+the run where they deliver
+
+```github copilot vscode
+write a python function that takes a list of integers and returns a new list with only the even integers from the original list
+```
+
+i won't!
+
+## 2025-12-13
+
+distracting forever
+5555
+
+```github copilot vscode
+i want to go back to sleep
+```
+
+geez
+
+```github copilot vscode
+i hate this
+```
+
+sai daqui
+...
+
+## 2025-12-14
+
+leap seconds bugs!!
+
+## 2025-12-16
+
+o máximo que a gente faz é agendar um horário, aí vc se vira
