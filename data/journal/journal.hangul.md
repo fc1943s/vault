@@ -219,3 +219,33 @@ leap seconds bugs!!
 
 우 마시무 키 아 젠치 파스 에 아젠다르 웅 오라리우, 아이 브크 시 비라
 o máximo que a gente faz é agendar um horário, aí vc se vira
+
+## 2025-12-18
+## 2025-12-18
+
+티 모테르 푸케르 헤에아르시스 티 모멘트 포르 테이르 인치리 리피, 투 타키 테이르 치미
+the mother fucker rehearses the moment for their entire life, to take their time
+
+## 2025-12-19
+## 2025-12-19
+
+동'트 제트 마드 쿠스 요 웡'트 비 미
+don't get mad cuz you won't be me
+이트'스 수 고드 투 아비 아 홍, 이벵 토그 테이 아비 오지스
+it's so good to have a room, even though they have houses
+
+## 2025-12-24
+## 2025-12-24
+
+위'르 케프 문싱그 테지 호아시스 치우 이트'스 그론드
+we'll keep munching these roaches til it's ground
+이 주스트 와나 사이 이 로비 에르 아우 티 치미, 부트 이'스 아우헤아지 도잉그 타트
+i just wanna say i love her all the time, but he's already doing that
+이 워르크 위트 티 두지 아우 다이
+i work with the dude all day
+이우 팔레이 키 우 방쿠 에 메우! 카카카카카카카카
+eu falei que o banco é meu! kakakakakakakaka
+이 네드 아 카르 투 드리비 1크 큼스 투 부이 아 모지, 아 모토르키클리 투 구 투 므크도나우드스, 에리'스 산타
+i need a car to drive 1k kms to buy a mouse, a motorcycle to go to mcdonalds, where's santa
+테리'스 아우수 티 와르 요투비 비데우
+there's also the war youtube video
