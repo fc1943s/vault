@@ -133,3 +133,21 @@ leap seconds bugs!!
 ## 2025-12-16
 
 o máximo que a gente faz é agendar um horário, aí vc se vira
+
+## 2025-12-18
+
+the mother fucker rehearses the moment for their entire life, to take their time
+
+## 2025-12-19
+
+don't get mad cuz you won't be me
+it's so good to have a room, even though they have houses
+
+## 2025-12-24
+
+we'll keep munching these roaches til it's ground
+i just wanna say i love her all the time, but he's already doing that
+i work with the dude all day
+eu falei que o banco é meu! kakakakakakakaka
+i need a car to drive 1k kms to buy a mouse, a motorcycle to go to mcdonalds, where's santa
+there's also the war youtube video
