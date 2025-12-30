@@ -249,3 +249,143 @@ eu falei que o banco é meu! kakakakakakakaka
 i need a car to drive 1k kms to buy a mouse, a motorcycle to go to mcdonalds, where's santa
 테리'스 아우수 티 와르 요투비 비데우
 there's also the war youtube video
+5.2 이스 투르드, 헤데플로이이이이이이이이
+5.2 is turd, redeployyyyyyyyyyyyyyy
+
+## 2025-12-29
+## 2025-12-29
+
+// 토두: 수이시지 보크
+// TODO: suicide book
+이 노트
+why not
+
+## 2025-12-?
+## 2025-12-?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+---
