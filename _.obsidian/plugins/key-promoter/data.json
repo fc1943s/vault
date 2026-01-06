@@ -6,9 +6,9 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "editor:open-link-in-new-leaf": 11,
-    "workspace:new-tab": 11,
-    "app:toggle-default-new-pane-mode": 11,
+    "editor:open-link-in-new-leaf": 13,
+    "workspace:new-tab": 13,
+    "app:toggle-default-new-pane-mode": 13,
     "workspace:undo-close-pane": 32,
     "obsidian-git:backup-and-close": 32,
     "workspace:close": 32,
@@ -16,10 +16,10 @@
     "workspace:close-others": 32,
     "workspace:close-tab-group": 32,
     "workspace:close-others-tab-group": 32,
-    "workspace:copy-path": 235,
-    "workspace:copy-url": 236,
-    "file-explorer:duplicate-file": 235,
-    "obsidian-linter:paste-as-plain-text": 61,
+    "workspace:copy-path": 236,
+    "workspace:copy-url": 237,
+    "file-explorer:duplicate-file": 236,
+    "obsidian-linter:paste-as-plain-text": 64,
     "app:go-back": 18,
     "open-with-default-app:show": 4,
     "obsidian-git:delete-repo": 4,
@@ -40,10 +40,11 @@
     "workspace:split-vertical": 3,
     "switcher:open": 1,
     "bases:new-file": 1,
-    "bases:copy-table": 6
+    "bases:copy-table": 7,
+    "terminal:open-documentation.readme": 1
   },
   "keyboardStatistics": {
-    "file-explorer:new-file": 3,
+    "file-explorer:new-file": 5,
     "file-explorer:reveal-active-file": 2
   }
 }

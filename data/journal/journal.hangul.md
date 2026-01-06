@@ -260,17 +260,47 @@ there's also the war youtube video
 이 노트
 why not
 
-## 2025-12-?
-## 2025-12-?
+## 2026-01-01
+## 2026-01-01
 
+히프그레프 이스 노트 인스탈레드! 아크놀레드제드, 요 캉 인스타우 노.
+ripgrep is not installed! acknowledged, you can install now.
+토탈리 멘타우, 티스 비트시
+totally mental, this bitch
+우그
+ugh
 
+## 2026-01-02
+## 2026-01-02
 
+이트'스 아 바비!
+it's a baby!
 
+## 2026-01-03
+## 2026-01-03
 
+이트 워우드 비 프레직타블리 이프 시 로치 아 트라크 투 이아트 아 트리플리 셰다르 잉 아우 오르데르스
+it would be predictable if she wrote a track to eat a triple cheddar in all orders
+셍 풀리뉴
+sem pulinho
+타키 아와이 티 올리 클리크
+take away the whole click
 
+## 2026-01-05
+## 2026-01-05
 
+시'스 노트 둠브 아프테라우
+she's not dumb afterall
 
+## 2026-01-06
+## 2026-01-06
 
+이 싱케드 티스 시프, 이트 와스 미!
+i sinked this ship, it was me!
+이'르 비 티 라스트, 이 동'트 카리
+i'll be the last, i don't care
+스치우 아 멘타우 파치엔트, 위우 아비 투 스테아우 타트
+still a mental patient, will have to steal that
 
 
 
