@@ -158,16 +158,31 @@ there's also the war youtube video
 // TODO: suicide book
 why not
 
-## 2025-12-?
+## 2026-01-01
 
+ripgrep is not installed! acknowledged, you can install now.
+totally mental, this bitch
+ugh
 
+## 2026-01-02
 
+it's a baby!
 
+## 2026-01-03
 
+it would be predictable if she wrote a track to eat a triple cheddar in all orders
+sem pulinho
+take away the whole click
 
+## 2026-01-05
 
+she's not dumb afterall
 
+## 2026-01-06
 
+i sinked this ship, it was me!
+i'll be the last, i don't care
+still a mental patient, will have to steal that
 
 
 

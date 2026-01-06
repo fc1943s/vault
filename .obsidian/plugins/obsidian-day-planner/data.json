@@ -29,7 +29,5 @@
   "icals": [],
   "colorOverrides": [],
   "releaseNotes": true,
-  "taskStatusOnCreation": " ",
-  "showDataviewMigrationWarning": true,
-  "unscheduledTasksHeight": 100
+  "taskStatusOnCreation": " "
 }
