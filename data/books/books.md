@@ -1,3 +1,15 @@
+```
+python ".\m4binder\m4binder.py" `
+  --mode single `
+  --input-folder . `
+  --output-file book.m4b `
+  --metadata-source openlibrary `
+  --title "title" `
+  --author "author"
+```
+
+---
+
 ## detail in pt-br how to restore old dusty books, a hair dryer blowing hot ait didn’t work
 
 < Restaurar livros antigos e empoeirados requer cuidado e paciência. O uso de um secador de cabelo com ar quente não é recomendado, pois pode danificar ainda mais o livro. Siga os passos abaixo para limpar e restaurar livros antigos com segurança:

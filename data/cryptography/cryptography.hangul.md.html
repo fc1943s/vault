@@ -622,67 +622,141 @@ document.addEventListener('DOMContentLoaded', function() {
         </header>
 
         <div id = "chapter-0" class = "chapter">
-  <pre><span style="color:#323232;">```clj</span>
+  <pre><span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(마프 #(카지 (모드 (+ (* %1 6) 11) 91) 0 1 12 6 (샤르 %)) [10 22 21 10])</span>
 <span style="color:#323232;">(map #(case (mod (+ (* %1 6) 11) 91) 0 1 12 6 (char %)) [10 22 21 10])</span>
 
+<span style="color:#323232;"> (\넬리니 \ \ \넬리니)</span>
+<span style="color:#323232;">;; (\newline \ \ \newline)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(마프 #(샤르 (모드 (+ (* %1 6) 11) 91)) [10 22 21 10])</span>
 <span style="color:#323232;">(map #(char (mod (+ (* %1 6) 11) 91)) [10 22 21 10])</span>
 <span style="color:#323232;">(&quot;그&quot; &quot;4&quot; &quot;.&quot; &quot;그&quot;)</span>
 <span style="color:#323232;">(&quot;G&quot; &quot;4&quot; &quot;.&quot; &quot;G&quot;)</span>
 
+<span style="color:#323232;"> (\그 \4 \. \그)</span>
+<span style="color:#323232;">;; (\G \4 \. \G)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(마프 #(레트 [크 (모드 (+ (* % 6) 35) 91)] (이프 (= 크 35) \# (샤르 크))) [10 22 21 10])</span>
 <span style="color:#323232;">(map #(let [c (mod (+ (* % 6) 35) 91)] (if (= c 35) \# (char c))) [10 22 21 10])</span>
 
+<span style="color:#323232;"> (\ \르 \프 \)</span>
+<span style="color:#323232;">;; (\ \L \F \)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(마프 #(샤르 (모드 (+ (* % 10 10) 10) 10)) [10 10 10 10])</span>
 <span style="color:#323232;">(map #(char (mod (+ (* % 10 10) 10) 10)) [10 10 10 10])</span>
 
+<span style="color:#323232;"> (\ \ \ \)</span>
+<span style="color:#323232;">;; (\ \ \ \)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(-&gt;&gt; [3 14 0 14] (마프 #(샤르 (모드 (+ (* % 7) 97) 256))))</span>
 <span style="color:#323232;">(-&gt;&gt; [3 14 0 14] (map #(char (mod (+ (* % 7) 97) 256))))</span>
 
+<span style="color:#323232;"> (\브 \앙 \아 \앙)</span>
+<span style="color:#323232;">;; (\v \Ã \a \Ã)</span>
+
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (마프 #(샤르 (모드 (+ (* % 19 29) 124) 127))))</span>
 <span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (map #(char (mod (+ (* % 19 29) 124) 127))))</span>
 
+<span style="color:#323232;"> (\아 \( \ \()</span>
+<span style="color:#323232;">;; (\a \( \ \()</span>
+
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (마프 #(샤르 (모드 (+ (* % 19 29) 97) 127))))</span>
 <span style="color:#323232;">(-&gt;&gt; [23 1 12 1] (map #(char (mod (+ (* % 19 29) 97) 127))))</span>
 
+<span style="color:#323232;"> (\프 \헤투릉 \이 \헤투릉)</span>
+<span style="color:#323232;">;; (\F \return \i \return)</span>
+
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(-&gt;&gt; [1 12 0 1] (마프 #(샤르 (모드 (+ (* (헤두시 * [1 % 2 3]) % 31) 96) 127))))</span>
 <span style="color:#323232;">(-&gt;&gt; [1 12 0 1] (map #(char (mod (+ (* (reduce * [1 % 2 3]) % 31) 96) 127))))</span>
 
+<span style="color:#323232;"> (\ \스 \` \)</span>
+<span style="color:#323232;">;; (\ \S \` \)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(-&gt;&gt; [2 1 13 1] (헤두시 * [1 2 3]) (* 31) (+ 96) (모드 127) (샤르))</span>
 <span style="color:#323232;">(-&gt;&gt; [2 1 13 1] (reduce * [1 2 3]) (* 31) (+ 96) (mod 127) (char))</span>
 
 
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* % 7) 96))))</span>
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (map #(char (+ (* % 7) 96))))</span>
 <span style="color:#323232;">(&quot;그&quot; &quot;그&quot; &quot;»&quot; &quot;그&quot;)</span>
 <span style="color:#323232;">(&quot;g&quot; &quot;g&quot; &quot;»&quot; &quot;g&quot;)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* % (헤두시 * (타키 % (이테라치 잉크 2)))) 96))))</span>
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (map #(char (+ (* % (reduce * (take % (iterate inc 2)))) 96))))</span>
-<span style="color:#323232;">(&quot;브&quot; &quot;브&quot; &quot;ࡠ&quot; &quot;브&quot;)</span>
-<span style="color:#323232;">(&quot;b&quot; &quot;b&quot; &quot;ࡠ&quot; &quot;b&quot;)</span>
+<span style="color:#323232;">(&quot;브&quot; &quot;브&quot; &quot;&quot; &quot;브&quot;)</span>
+<span style="color:#323232;">(&quot;b&quot; &quot;b&quot; &quot;&quot; &quot;b&quot;)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* (비트-안드 % 23) (비트-오르 % 23)) 96))))</span>
 <span style="color:#323232;">=&gt;(-&gt;&gt; [1 1 13 1] (map #(char (+ (* (bit-and % 23) (bit-or % 23)) 96))))</span>
 <span style="color:#323232;">(&quot;&quot; &quot;&quot; &quot;우&quot; &quot;&quot;)</span>
 <span style="color:#323232;">(&quot;w&quot; &quot;w&quot; &quot;û&quot; &quot;w&quot;)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">=&gt;(데픙 프 [응] (이프 (&lt;= 응 0) 1 (* 응 (프 (- 응 1))))) (-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (프 %) 96))))</span>
 <span style="color:#323232;">=&gt;(defn f [n] (if (&lt;= n 0) 1 (* n (f (- n 1))))) (-&gt;&gt; [1 1 13 1] (map #(char (+ (f %) 96))))</span>
 <span style="color:#323232;">(&quot;아&quot; &quot;아&quot; &quot;챠&quot; &quot;아&quot;)</span>
 <span style="color:#323232;">(&quot;a&quot; &quot;a&quot; &quot;챠&quot; &quot;a&quot;)</span>
 
+</pre><pre>
+
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">=&gt;(레트 [응1 [[1 2] [3 4]] 응2 [[5 6] [7 8]]] (-&gt;&gt; [1 1 13 1] (마프 #(샤르 (+ (* % (제트-잉 응1 [0 0])) (제트-잉 응2 [0 1]) 96)))))</span>
 <span style="color:#323232;">=&gt;(let [m1 [[1 2] [3 4]] m2 [[5 6] [7 8]]] (-&gt;&gt; [1 1 13 1] (map #(char (+ (* % (get-in m1 [0 0])) (get-in m2 [0 1]) 96)))))</span>
 <span style="color:#323232;">(&quot;그&quot; &quot;그&quot; &quot;스&quot; &quot;그&quot;)</span>
 <span style="color:#323232;">(&quot;g&quot; &quot;g&quot; &quot;s&quot; &quot;g&quot;)</span>
+
+<span style="color:#323232;"> (\그 \4 \. \그)</span>
+<span style="color:#323232;">;; (\G \4 \. \G)</span>
 
 </pre><pre>
 <span style="color:#323232;">```이스</span>

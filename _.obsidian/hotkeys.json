@@ -71,6 +71,13 @@
         "Mod"
       ],
       "key": "R"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "K"
     }
   ],
   "editor:focus-left": [
@@ -80,6 +87,13 @@
         "Mod"
       ],
       "key": "L"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
     }
   ],
   "editor:focus-bottom": [
@@ -257,5 +271,6 @@
       ],
       "key": "B"
     }
-  ]
+  ],
+  "obsidian-linter:lint-file": []
 }

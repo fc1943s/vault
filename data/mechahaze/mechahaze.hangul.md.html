@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="">
+    
+    <title></title>
+    <style type = "text/css">
+      body {
+    font-family: "Linux Libertine", "Georgia", serif;
+    text-align: justify;
+    font-size: 100%;
+}
+
+p {
+    text-indent: 1.25em;
+    margin:0;
+    hyphens: auto;
+}
+
+blockquote {
+    margin: 1em;
+    font-style: italic;
+}
+code {
+    font-size: 80%;
+    font-family: "Linux Libertine Mono", monospace;
+    background-color: #F0F0F0;
+}
+pre {
+    font-family: "Linux Libertine Mono", monospace;
+    text-align: left;
+    margin: 1em;
+    padding-top: 0;
+    background-color: #F0F0F0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+/* Try to disable hyphenation in titles */
+h1, h2, h3, h4, h5, h5 {
+    adobe-hyphenate: none;
+    -ms-hyphens: none; /* Trident (Windows) */
+    -moz-hyphens: none; /* Gecko (Firefox) */
+    -webkit-hyphens: none; /* Webkit */
+    -epub-hyphens: none; /* EPUB 3 */
+    hyphens: none; /* Futur standard */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    font-family: Linux Biolinum, sans-serif;
+    font-variant: small-caps;
+}
+
+/* Title of a part */
+h1.part {
+    font-size: 250%;
+    text-align: center;
+}
+
+/* The `Part X` section of a part */
+h2.part {
+    font-size: 175%;
+    text-align: center;
+}
+
+/* The "Chapter X" section of a chapter */
+span.chapter-header {
+    font-size: 75%;
+}
+
+/* Title of the book */
+h1.title {
+    text-align: center;
+    font-size: 300%;
+}
+/* Author */
+h2.author {
+    text-align: right;
+    font-size:  200%;
+}
+
+/* Subtitle */
+h2.subtitle {
+    text-align: center;
+    font-size: 200%;
+}
+
+/* When toc is displayed inlined */
+#toc ol, #toc ul {
+    padding: 0;
+    margin-left: 1em;
+}
+#toc li {
+    list-style-type: none;
+    margin: 0; padding: 0;
+}
+
+#toc li:before {
+    content: none;
+}
+
+#cover img {
+    width: 100%;
+    max-height: 100%;
+}
+
+.image {
+    margin: auto;
+    width: 80%;
+}
+
+.image img {
+    width: 100%;
+    max-height: 100%;
+}
+
+.rule {
+    text-align: center !important;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+/* The number of the note in an expanded footnote (e.g. [3]) */
+.note-number {
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+td.note-number {
+    vertical-align: top;
+}
+
+/* When footnotes (try to) be displayed as margin notes */
+.sidenote {
+    display: block;
+    float: right;
+    width: 30%;
+    border: 1px solid black;
+    margin: 1em;
+    padding: .5em;
+    margin-right: -1.5em;
+}
+
+.sidenote .note-number {
+    float: left;
+}
+
+/* The div class displaying notes at the end of a chapter */
+div.notes {
+    text-align: justify;
+    border-top: thin dashed black;
+    margin-top: 1em;
+}
+
+table.notes {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+table.notes tr td {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+table.notes tr td p {
+    text-indent: 0;
+}
+                 
+/* Every markdown table is included in a <div class = "table"> */
+.table {
+    margin: 1em;
+}
+
+.table table {
+    width: 80%;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+.table table th, .table table td {
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+.table table th {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+
+
+span.initial { 
+    float: left;
+    font-size: 285%;
+    font-weight: bold;
+    margin-right: 0.05em;
+    line-height: 0.8em;
+}
+
+p.first-para {
+    text-indent: 0;
+}
+
+/* Use this for escape narrow space so it is non-breaking */
+.nnbsp {
+    /* white-space: nowrap;*/
+    word-spacing: -0.13em;
+    /* Following necessary for Kobo EPUB3 reader??? */
+    margin: 0;
+    padding: 0;
+}
+
+ body { color: #e8e6e3; background-color: #202324; } a { color: #989693; } pre { background-color: #1b1b1b; padding: 10px; } 
+/* Default  HTML CSS file includes default EPUB CSS file */
+
+/* Colors for the navigation menu (toc) */
+nav {
+    background: #dfcae6;
+    color: black;
+    border-right-color: black;
+}
+
+#nav a:link {
+    color: black;
+}
+
+#nav a:visited {
+    color: black;
+}
+
+/* Colors for top and footer */
+#top {
+    background-color: #444343;
+    color: white;
+}
+
+footer {
+    background-color: #444343;
+    color: white;
+}
+
+footer a, #top a {
+    color: #fc71ff;
+}
+
+footer a:hover, #top a:hover {
+    color: #b743fe;
+}
+
+/* Additional elements, only use for proofreading */
+/* Grammar error */
+.grammar-error {
+    color: red;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+/*    background: #d966ff;*/
+}
+
+.popup_footnote {
+    background-color: #e8e897;
+}
+
+
+p.first-para:first-letter {
+    font-size: 300%;
+    float: left;
+    font-weight: bold;
+    margin-right: 0.05em;
+    line-height: 1em;
+}
+
+/* The nav element corresponding to the navigation menu */
+nav {
+    z-index: 2;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 20%;
+    overflow-y: auto;
+    font-size: 80%;
+    margin-left: 0;
+    border-right-width: 2px;
+    border-right-style: dashed;
+}
+
+#nav code {
+    background-color: transparent;
+}
+
+#nav a:link {
+    text-decoration: none;
+}
+
+#nav a:visited {
+    text-decoration: none;
+}
+
+#nav {
+    text-align: left;
+}
+
+#nav h2 {
+    text-align: center;
+}
+
+#nav li {
+    list-style-type: none;
+    text-indent: -1em;
+}
+
+#nav li:before {
+    content: none;
+}
+
+#nav ul {
+    padding-right: 1em;
+    padding-left: 1.5em;
+}
+
+/* The menu containing the button to display the navigation bar */
+#menu {
+    position: fixed;
+    z-index: 2;
+    top: 0em;
+    left: 1em;
+    transition: left 1s;
+}
+
+#menu img {
+    opacity: 0.5;
+}
+
+#menu img:hover {
+    opacity: 1.0;
+    cursor: pointer;
+}
+
+#menu-button {
+    height: 1.5em;
+    padding: 0.5em;
+}
+
+#book-button {
+    height: 1.5em;
+    padding: 0.5em;
+    float: left;
+}
+
+/* Hide navigation bar */
+#nav {
+    left: -21%;
+    transition: left 1s;
+}
+
+/* The main content of the book */
+#content {
+    overflow-y: auto;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    transition: margin-left 1s;
+}
+
+/* Used for multifiles HTML */
+.prev_chapter {
+    text-align: left;
+    text-indent: 0;
+    margin-bottom: 1em;
+    font-size: 120%;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.next_chapter {
+    text-align: right;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 120%;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+/* Improving readability for the HTML format only */
+p, blockquote, li, .image  {
+    margin-right: auto;
+    max-width: 33em;
+}
+
+blockquote {
+    padding: 1em;
+}
+
+#content {
+    text-align: center;
+}
+
+#page {
+    display: inline-block;
+    text-align: justify;
+    max-width: 33em;
+}
+
+#nav-container {
+    top: 0;
+    width: 100%;
+}
+
+#nav-title {
+    top: 0;
+}
+
+#toolbar {
+    top: 0;
+    float: left;
+}
+
+#toolbar img {
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 2em;
+    margin-bottom: 0;
+}
+
+#top {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+#top p {
+    font-family: "Linux Biolinum";
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+footer, #top {
+    padding-top: .25em;
+    padding-bottom: .25em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    transition: margin-left 1s;
+}
+
+footer a, #top a {
+    text-decoration: none;
+}
+
+footer p, #top p {
+    text-indent: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    max-width: 33em;
+}
+
+.popup_footnote {
+    margin: 2em;
+    padding : 1em;
+    right: 2em;
+    max-width: 20em;
+}
+
+
+ body { color: #e8e6e3; background-color: #202324; } a { color: #989693; } pre { background-color: #1b1b1b; padding: 10px; } 
+
+    </style>
+    <style type = "text/css" media = "print">
+      #page {
+    display: block;
+}
+
+.chapter {
+    page-break-before: always;
+}
+
+#menu {
+    display: none;
+}
+
+#nav {
+    display: none;
+}
+    </style>
+    
+   <script>
+    function on(name) {
+    var elements = document.getElementsByClassName(name);
+    for (var i = 0; i < elements.length; i++) {
+        var elem = elements[i];
+        elem.style.backgroundColor = "pink";
+    }
+}
+function off(name) {
+    var elements = document.getElementsByClassName(name);
+    for (var i = 0; i < elements.length; i++) {
+        var elem = elements[i];
+        elem.style.backgroundColor = "white";
+    }
+}
+
+var display_menu = false;
+function toggle() {
+    if (display_menu == true) {
+        display_menu = false;
+        document.getElementById("nav").style.left = "-21%";
+        document.getElementById("content").style.marginLeft = "0%";
+        document.getElementById("menu").style.left = "1em";
+/*        if(document.getElementById("top")) {
+            document.getElementById("top").style.left = "0";
+        }
+        if(document.getElementById("footer")) {
+            document.getElementById("footer").style.marginLeft = "0%";
+        }*/
+    } else {
+        display_menu = true;
+        document.getElementById("nav").style.left = "0";
+        document.getElementById("content").style.marginLeft = "20%";
+        document.getElementById("menu").style.left = "20%";
+/*        if(document.getElementById("top")) {
+            document.getElementById("top").style.left = "20%";
+        }
+        if(document.getElementById("footer")) {
+            document.getElementById("footer").style.marginLeft = "20%";
+        }*/
+    }
+}
+
+function remove_footnotes() {
+    var footnotes = document.querySelectorAll('.popup_footnote');
+    for (var i = 0; i < footnotes.length; i++) {
+        var f = footnotes[i];
+        if (f.parentNode) {
+            f.parentNode.removeChild(f);
+        }
+    }
+}
+
+function show_footnote(event) {
+    remove_footnotes();
+    var id = event.target.getAttribute("id");
+    var target_id = id.replace("source", "dest");
+    var content = document.getElementById(target_id).innerHTML;
+    var top = Math.round(event.target.getBoundingClientRect().top + event.target.getBoundingClientRect().height);
+    event.target.insertAdjacentHTML('afterend', '<aside class = "popup_footnote" style = "position: fixed; top: '+ top + 'px; ">' + content + '</aside>')
+}
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    var anchors = document.querySelectorAll('.footnote_reference');
+
+    for (var i = 0; i < anchors.length; i++) {
+        var anchor = anchors[i];
+        anchor.addEventListener(
+            "mouseenter",
+            (event) => {
+                show_footnote(event);
+            }
+        );
+        anchor.addEventListener(
+            "mouseleave",
+            (event) => {
+                remove_footnotes();
+            }
+        );
+    }
+});
+
+
+
+
+   </script>
+
+
+  </head>
+  <body>
+    
+<script type = 'application/ld+json'>
+{
+    "@context": "http://schema.org/",
+    "@type": "Book",
+    "author": "",
+    "name": "",
+    
+    
+    
+    
+    
+    "inLanguage": "en"
+}
+</script>
+    
+
+    <div id = "content">
+      
+      <div id = "page">
+        <header>
+
+          <div id = "menu">
+	        
+          </div>
+	  <h2 class="author"></h2>
+          <h1 id = "link-0" class="title" ></h1>
+	  
+	  
+        </header>
+
+        <div id = "chapter-0" class = "chapter">
+  <pre>
+</pre><ol>
+<li><p id = "para-1">이-&gt;1 (2응)</p>
+</li>
+<li><p id = "para-2">i-&gt;1 (2m)</p>
+</li>
+<li><p id = "para-3">1 (10응)</p>
+</li>
+<li><p id = "para-4">1 (10m)</p>
+</li>
+<li><p id = "para-5">1-&gt;2 (2응)</p>
+</li>
+<li><p id = "para-6">1-&gt;2 (2m)</p>
+</li>
+<li><p id = "para-7">2 (10응)</p>
+</li>
+<li><p id = "para-8">2 (10m)</p>
+</li>
+<li><p id = "para-9">2-&gt;3 (2응)</p>
+</li>
+<li><p id = "para-10">2-&gt;3 (2m)</p>
+</li>
+<li><p id = "para-11">3 (10응)</p>
+</li>
+<li><p id = "para-12">3 (10m)</p>
+</li>
+<li><p id = "para-13">3-&gt;4 (2응)</p>
+</li>
+<li><p id = "para-14">3-&gt;4 (2m)</p>
+</li>
+<li><p id = "para-15">4 (10응)</p>
+</li>
+<li><p id = "para-16">4 (10m)</p>
+</li>
+<li><p id = "para-17">4-&gt;5 (2응)</p>
+</li>
+<li><p id = "para-18">4-&gt;5 (2m)</p>
+</li>
+<li><p id = "para-19">5 (10응)</p>
+</li>
+<li><p id = "para-20">5 (10m)</p>
+</li>
+<li><p id = "para-21">5-&gt;6 (2응)</p>
+</li>
+<li><p id = "para-22">5-&gt;6 (2m)</p>
+</li>
+<li><p id = "para-23">6 (10응)</p>
+</li>
+<li><p id = "para-24">6 (10m)</p>
+</li>
+<li><p id = "para-25">6-&gt;이 (2응)</p>
+</li>
+<li><p id = "para-26">6-&gt;i (2m)</p>
+</li>
+<li><p id = "para-27">이-&gt;1 (2응) 바젤리니_소베르 스칭_소프트_카페이니 스칭_흐스_와케푸우네스 스칭_흐스_아드드</p>
+</li>
+<li><p id = "para-28">i-&gt;1 (2m) baseline_sober stim_soft_caffeine stim_rx_wakefulness stim_rx_adhd</p>
+</li>
+<li><p id = "para-29">1 (10응) 스칭_소프트_카페이니 스칭_흐스_아드드 바젤리니_소베르 스칭_흐스_와케푸우네스 임파토젱_므드마_리키</p>
+</li>
+<li><p id = "para-30">1 (10m) stim_soft_caffeine stim_rx_adhd baseline_sober stim_rx_wakefulness empathogen_mdma_like</p>
+</li>
+<li><p id = "para-31">1-&gt;2 (2응) 바젤리니_소베르 스칭_소프트_카페이니 스칭_흐스_아드드 스칭_흐스_와케푸우네스</p>
+</li>
+<li><p id = "para-32">1-&gt;2 (2m) baseline_sober stim_soft_caffeine stim_rx_adhd stim_rx_wakefulness</p>
+</li>
+<li><p id = "para-33">2 (10응) 바젤리니_소베르 스칭_흐스_와케푸우네스 스칭_흐스_아드드 스칭_소프트_카페이니 프시시_클라시크_미크루</p>
+</li>
+<li><p id = "para-34">2 (10m) baseline_sober stim_rx_wakefulness stim_rx_adhd stim_soft_caffeine psych_classic_micro</p>
+</li>
+<li><p id = "para-35">2-&gt;3 (2응) 바젤리니_소베르 카나비스_리그트 세드_벤주_안시올리치크</p>
+</li>
+<li><p id = "para-36">2-&gt;3 (2m) baseline_sober cannabis_light sed_benzo_anxiolytic</p>
+</li>
+<li><p id = "para-37">3 (10응) 바젤리니_소베르 카나비스_리그트 세드_멜라토닝 임파토젱_므드마_리키</p>
+</li>
+<li><p id = "para-38">3 (10m) baseline_sober cannabis_light sed_melatonin empathogen_mdma_like</p>
+</li>
+<li><p id = "para-39">3-&gt;4 (2응) 바젤리니_소베르 카나비스_리그트 세드_벤주_안시올리치크</p>
+</li>
+<li><p id = "para-40">3-&gt;4 (2m) baseline_sober cannabis_light sed_benzo_anxiolytic</p>
+</li>
+<li><p id = "para-41">4 (10응) 카나비스_에아비 바젤리니_소베르 세드_벤주_안시올리치크 세드_멜라토닝 프시시_클라시크_스탄다르드</p>
+</li>
+<li><p id = "para-42">4 (10m) cannabis_heavy baseline_sober sed_benzo_anxiolytic sed_melatonin psych_classic_standard</p>
+</li>
+<li><p id = "para-43">4-&gt;5 (2응) 세드_멜라토닝 세드_이스타미니_슬레프 세드_벤주_이프노치크</p>
+</li>
+<li><p id = "para-44">4-&gt;5 (2m) sed_melatonin sed_histamine_sleep sed_benzo_hypnotic</p>
+</li>
+<li><p id = "para-45">5 (10응) 세드_멜라토닝 세드_이스타미니_슬레프 세드_벤주_이프노치크 오피오이드_아나우제지크_메지카우</p>
+</li>
+<li><p id = "para-46">5 (10m) sed_melatonin sed_histamine_sleep sed_benzo_hypnotic opioid_analgesic_medical</p>
+</li>
+<li><p id = "para-47">5-&gt;6 (2응) 스칭_소프트_카페이니 스칭_흐스_와케푸우네스 세드_멜라토닝</p>
+</li>
+<li><p id = "para-48">5-&gt;6 (2m) stim_soft_caffeine stim_rx_wakefulness sed_melatonin</p>
+</li>
+<li><p id = "para-49">6 (10응) 프시시_클라시크_미크루 바젤리니_소베르 스칭_흐스_와케푸우네스 스칭_소프트_카페이니 프시시_클라시크_스탄다르드 임파토젱_므드마_리키 지소시아치비_리그트</p>
+</li>
+<li><p id = "para-50">6 (10m) psych_classic_micro baseline_sober stim_rx_wakefulness stim_soft_caffeine psych_classic_standard empathogen_mdma_like dissociative_light</p>
+</li>
+<li><p id = "para-51">6-&gt;이 (2응) 바젤리니_소베르 스칭_소프트_카페이니 프시시_클라시크_미크루 세드_멜라토닝</p>
+</li>
+<li><p id = "para-52">6-&gt;i (2m) baseline_sober stim_soft_caffeine psych_classic_micro sed_melatonin</p>
+</li>
+<li><p id = "para-53">이-&gt;1 (2응)</p>
+</li>
+<li><p id = "para-54">i-&gt;1 (2m)</p>
+</li>
+<li><p id = "para-55">20/1 (10응) 스칭_소프트_카페이니 / 카페이니 트웬치 베타</p>
+</li>
+<li><p id = "para-56">20/1 (10m) stim_soft_caffeine / caffeine twenty beta</p>
+</li>
+<li><p id = "para-57">1-&gt;2 (2응)</p>
+</li>
+<li><p id = "para-58">1-&gt;2 (2m)</p>
+</li>
+<li><p id = "para-59">15/2 (10응) 스칭_흐스_와케푸우네스 / 모다피니우 피프텡 베타</p>
+</li>
+<li><p id = "para-60">15/2 (10m) stim_rx_wakefulness / modafinil fifteen beta</p>
+</li>
+<li><p id = "para-61">2-&gt;3 (2응)</p>
+</li>
+<li><p id = "para-62">2-&gt;3 (2m)</p>
+</li>
+<li><p id = "para-63">10/3 (10응) 카나비스_리그트 / 카나비스 텡 아우파</p>
+</li>
+<li><p id = "para-64">10/3 (10m) cannabis_light / cannabis ten alpha</p>
+</li>
+<li><p id = "para-65">3-&gt;4 (2응)</p>
+</li>
+<li><p id = "para-66">3-&gt;4 (2m)</p>
+</li>
+<li><p id = "para-67">07/4 (10응) 카나비스_에아비 / 트크 세벵 테타</p>
+</li>
+<li><p id = "para-68">07/4 (10m) cannabis_heavy / thc seven theta</p>
+</li>
+<li><p id = "para-69">4-&gt;5 (2응)</p>
+</li>
+<li><p id = "para-70">4-&gt;5 (2m)</p>
+</li>
+<li><p id = "para-71">03/5 (10응) 세드_멜라토닝 / 멜라토닝 트레이 데우타</p>
+</li>
+<li><p id = "para-72">03/5 (10m) sed_melatonin / melatonin three delta</p>
+</li>
+<li><p id = "para-73">5-&gt;6 (2응)</p>
+</li>
+<li><p id = "para-74">5-&gt;6 (2m)</p>
+</li>
+<li><p id = "para-75">40/6 (10응) 프시시_클라시크_미크루 / 미크로도지 포르치 가마</p>
+</li>
+<li><p id = "para-76">40/6 (10m) psych_classic_micro / microdose forty gamma</p>
+</li>
+<li><p id = "para-77">6-&gt;이 (2응)</p>
+</li>
+<li><p id = "para-78">6-&gt;i (2m)</p>
+</li>
+</ol>
+<pre>
+</pre>
+</div>
+
+      </div>
+      
+    </div>
+  </body>
+</html>

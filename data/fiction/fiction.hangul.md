@@ -1134,3 +1134,24 @@ Aqui vai uma lista enxuta (mas variada) de obras em que **IAs “dão ruim”** 
 ---
 ---
 ---
+
+우 젱 부지 시에젱 조고
+Wǒ zhēn bùshì xiéshén zǒugǒu
+이'응 헤알리 노트 티 데몽 고드'스 라케이
+I'm Really Not The Demon God's Lackey
+
+---
+---
+---
+---
+
+
+49 05
+49 05
+1 21 41
+1 21 41
+
+---
+---
+---
+---

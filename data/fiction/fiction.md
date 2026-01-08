@@ -695,3 +695,16 @@ Aqui vai uma lista enxuta (mas variada) de obras em que **IAs “dão ruim”** 
 
 ---
 ---
+
+Wǒ zhēn bùshì xiéshén zǒugǒu
+I'm Really Not The Demon God's Lackey
+
+---
+---
+
+
+49 05
+1 21 41
+
+---
+---

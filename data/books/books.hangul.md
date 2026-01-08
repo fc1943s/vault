@@ -1,3 +1,25 @@
+```
+```
+피통 ".\응4빈데르\응4빈데르.피" `
+python ".\m4binder\m4binder.py" `
+--모지 싱글리 `
+--mode single `
+--인푸트-포우데르 . `
+--input-folder . `
+--오트푸트-필리 보크.응4브 `
+--output-file book.m4b `
+--메타다타-소르시 오펜리브라리 `
+--metadata-source openlibrary `
+--치틀리 "치틀리" `
+--title "title" `
+--아우토르 "아우토르"
+--author "author"
+```
+```
+
+---
+---
+
 ## 데타이우 잉 프트-브르 오 투 헤스토리 오우드 두스치 복스, 아 아이르 드리에르 블로윙그 오트 아이트 지등’트 워르크
 ## detail in pt-br how to restore old dusty books, a hair dryer blowing hot ait didn’t work
 

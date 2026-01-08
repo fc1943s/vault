@@ -22,3 +22,7 @@ urlSuffix: artbreeder.com/create/collage
 frame: https://
 style: height:50vh
 ```
+
+```
+Name (ios icon, dark background, icon only, color x y z, svg friendly, very simple yet stunning, something themed)
+```

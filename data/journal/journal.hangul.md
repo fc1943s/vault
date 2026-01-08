@@ -301,8 +301,10 @@ i sinked this ship, it was me!
 i'll be the last, i don't care
 스치우 아 멘타우 파치엔트, 위우 아비 투 스테아우 타트
 still a mental patient, will have to steal that
-
-
+이 미그트 비 리키 트우 아우헤아지 두
+he might be like two already duh
+타 나 오라 데사 갈레리냐 비라르 파페우!!!
+ta na hora dessa galerinha virar papel!!!
 
 
 
