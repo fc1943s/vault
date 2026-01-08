@@ -183,8 +183,8 @@ she's not dumb afterall
 i sinked this ship, it was me!
 i'll be the last, i don't care
 still a mental patient, will have to steal that
-
-
+he might be like two already duh
+ta na hora dessa galerinha virar papel!!!
 
 
 
