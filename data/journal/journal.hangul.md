@@ -329,8 +329,10 @@ it was just to confirm that they need it
 
 주스트 아노테르 다이 에리 이'응 그라테풀 포르 노트 아빙그 투 와키 우프 베지지 요. 고드 루크!
 just another day where i'm grateful for not having to wake up beside you. good luck!
-
-
+안드 요'르 네베르 아비 아 보이시!
+and you'll never have a voice!
+인조이 요르 이헬레반시 아스 요 파지
+enjoy your irrelevance as you fade
 
 
 
