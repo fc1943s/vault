@@ -201,7 +201,7 @@ it was just to confirm that they need it
 ## 2026-01-16
 
 just another day where i'm grateful for not having to wake up beside you. good luck!
-
+and you'll never have a voice!
 
 
 
