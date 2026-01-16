@@ -16,9 +16,9 @@
     "workspace:close-others": 33,
     "workspace:close-tab-group": 33,
     "workspace:close-others-tab-group": 33,
-    "workspace:copy-path": 236,
-    "workspace:copy-url": 237,
-    "file-explorer:duplicate-file": 236,
+    "workspace:copy-path": 237,
+    "workspace:copy-url": 238,
+    "file-explorer:duplicate-file": 237,
     "obsidian-linter:paste-as-plain-text": 64,
     "app:go-back": 18,
     "open-with-default-app:show": 4,
@@ -40,7 +40,7 @@
     "workspace:split-vertical": 3,
     "switcher:open": 1,
     "bases:new-file": 1,
-    "bases:copy-table": 7,
+    "bases:copy-table": 8,
     "terminal:open-documentation.readme": 2
   },
   "keyboardStatistics": {
