@@ -203,8 +203,10 @@ it was just to confirm that they need it
 just another day where i'm grateful for not having to wake up beside you. good luck!
 and you'll never have a voice!
 enjoy your irrelevance as you fade
-
-
+if there were any worth in you your time spent would've turned out into something... meaningful
+it didn't
+and here you are
+=*
 
 
 

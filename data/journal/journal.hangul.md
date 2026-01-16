@@ -333,8 +333,14 @@ just another day where i'm grateful for not having to wake up beside you. good l
 and you'll never have a voice!
 인조이 요르 이헬레반시 아스 요 파지
 enjoy your irrelevance as you fade
-
-
+이프 테리 웨리 아니 워르트 잉 요 요르 치미 스펜트 워우드'비 투르네드 오트 인투 소메팅그... 메아닝그풀
+if there were any worth in you your time spent would've turned out into something... meaningful
+이트 지등'트
+it didn't
+안드 에리 요 아리
+and here you are
+=*
+=*
 
 
 
