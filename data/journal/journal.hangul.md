@@ -306,9 +306,29 @@ he might be like two already duh
 타 나 오라 데사 갈레리냐 비라르 파페우!!!
 ta na hora dessa galerinha virar papel!!!
 
+## 2026-01-08
+## 2026-01-08
 
+티 43 카니바우스, 티스 이스 시크!
+the 43 cannibals, this is sick!
 
+## 2026-01-09
+## 2026-01-09
 
+엘리스 소 데이샹 아콘테세르 시 포르 지 멘치라
+eles só deixam acontecer se for de mentira
+
+## 2026-01-11
+## 2026-01-11
+
+이트 와스 주스트 투 콘피릉 타트 테이 네드 이트
+it was just to confirm that they need it
+
+## 2026-01-16
+## 2026-01-16
+
+주스트 아노테르 다이 에리 이'응 그라테풀 포르 노트 아빙그 투 와키 우프 베지지 요. 고드 루크!
+just another day where i'm grateful for not having to wake up beside you. good luck!
 
 
 

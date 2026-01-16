@@ -186,9 +186,21 @@ still a mental patient, will have to steal that
 he might be like two already duh
 ta na hora dessa galerinha virar papel!!!
 
+## 2026-01-08
 
+the 43 cannibals, this is sick!
 
+## 2026-01-09
 
+eles só deixam acontecer se for de mentira
+
+## 2026-01-11
+
+it was just to confirm that they need it
+
+## 2026-01-16
+
+just another day where i'm grateful for not having to wake up beside you. good luck!
 
 
 
