@@ -198,7 +198,7 @@ eles só deixam acontecer se for de mentira
 
 it was just to confirm that they need it
 
-## 2026-01-16
+## 2026-01-15
 
 just another day where i'm grateful for not having to wake up beside you. good luck!
 and you'll never have a voice!
@@ -208,13 +208,23 @@ it didn't
 and here you are
 =*
 
+## 2026-01-16
 
+it's just a dumb trick!
 
+the show must go on, so yall don't get left with the shells
 
+when the self esteem gets so low you smile while remembering she actually walked those blocks ;~
 
+## 2026-01-21
 
+200ug trip report
+9am
 
+## 2026-01-23
 
+they watch you their whole lives to say: you're on your own!
+thanks for all the fish then
 
 
 

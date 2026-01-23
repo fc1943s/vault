@@ -324,8 +324,8 @@ eles só deixam acontecer se for de mentira
 이트 와스 주스트 투 콘피릉 타트 테이 네드 이트
 it was just to confirm that they need it
 
-## 2026-01-16
-## 2026-01-16
+## 2026-01-15
+## 2026-01-15
 
 주스트 아노테르 다이 에리 이'응 그라테풀 포르 노트 아빙그 투 와키 우프 베지지 요. 고드 루크!
 just another day where i'm grateful for not having to wake up beside you. good luck!
@@ -342,13 +342,33 @@ and here you are
 =*
 =*
 
+## 2026-01-16
+## 2026-01-16
 
+이트'스 주스트 아 둠브 트리크!
+it's just a dumb trick!
 
+티 소 무스트 구 옹, 수 야우 동'트 제트 레프트 위트 티 세우스
+the show must go on, so yall don't get left with the shells
 
+엥 티 세우프 이스텡 제트스 수 로 요 스밀리 일리 헤멤베링그 시 악투알리 와우케드 토지 블록스 응
+when the self esteem gets so low you smile while remembering she actually walked those blocks ;~
 
+## 2026-01-21
+## 2026-01-21
 
+200우그 트리프 헤포르트
+200ug trip report
+9앙
+9am
 
+## 2026-01-23
+## 2026-01-23
 
+테이 와트시 요 테이르 올리 리베스 투 사이: 요'히 옹 요르 옹!
+they watch you their whole lives to say: you're on your own!
+탕크스 포르 아우 티 피즈 텡
+thanks for all the fish then
 
 
 

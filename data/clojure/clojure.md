@@ -21,6 +21,12 @@
 ```
 
 ```clojure
+(let[d[2026 2 5]r 43 e 57400 c(mapv char(mapcat range[48 65 97][58 91 104]))E #(.toEpochDay %)L #(apply java.time.LocalDate/of %)o(L d)y(first d)n(+ y e(-(E o)(E(L[y(quot r 19)(mod r 19)]))))f #(c(mod(quot n %)r))](str(f(* r r))(f r)(f 1)))
+
+;; "W60"
+```
+
+```clojure
 (zero? 0)
 
 ;; true
