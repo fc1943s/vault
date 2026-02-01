@@ -370,9 +370,24 @@ they watch you their whole lives to say: you're on your own!
 탕크스 포르 아우 티 피즈 텡
 thanks for all the fish then
 
+21:45 200우그 트리프 헤포르트
+21:45 200ug trip report
+노팅그 레프트 투 사이!!!!
+nothing left to say!!!!
+누 치미 트라베우 텡?
+no time travel then?
+프루
+pru
+베트
+vet
+우 푸시스 웡'트 리키 이트, 구 포르 티 치우트
+u pussies won't like it, go for the tilt
 
+## 2026-01-24
+## 2026-01-24
 
-
+테지 피우티 비트시스 캉 페프 아우 테이 완트, 부트 오트 오프 미 오지!
+these filthy bitches can peep all they want, but out of my house!
 
 
 

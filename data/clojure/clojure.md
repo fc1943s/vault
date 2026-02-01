@@ -27,6 +27,10 @@
 ```
 
 ```clojure
+
+```
+
+```clojure
 (zero? 0)
 
 ;; true
@@ -73,6 +77,58 @@
 @x
 
 ;; #'user/x
+```
+
+```clojure
+(let [[y1 m1 d1] [2026 1 21] [y2 m2 d2] [2026 4 21] r 43 e 57400 n 19 D (mod r n) b (+ r D) M (quot r n) rr (* r r) A (vec (mapcat range [b 65 97] [(+ b (* M D)) (+ b r) (+ 97 D M)])) c (fn [N p] (char (nth A (mod (quot N p) r)))) s (java.time.LocalDate/of y1 m1 d1) t (java.time.LocalDate/of y2 m2 d2)] (doseq [dt (take-while #(not (.isAfter % t)) (iterate #(.plusDays % 1) s))] (let [y (.getYear dt) N (+ (- y r) e D M (.getDayOfYear dt)) dow (.getDayOfWeek dt) dowS (.getDisplayName dow java.time.format.TextStyle/SHORT java.util.Locale/US)] (printf "%s %s(%d) %c%c%c\n" dt dowS (.getValue dow) (c N rr) (c N r) (c N 1)))) (flush))
+
+;; 2026-01-21 Wed(3) W5S
+;; 2026-01-22 Thu(4) W5T
+;; 2026-01-23 Fri(5) W5U
+;; 2026-01-24 Sat(6) W5V
+;; 2026-01-25 Sun(7) W5W
+;; 2026-01-26 Mon(1) W5X
+;; 2026-01-27 Tue(2) W5Y
+;; 2026-01-28 Wed(3) W5Z
+;; 2026-01-29 Thu(4) W5a
+;; 2026-01-30 Fri(5) W5b
+;; 2026-01-31 Sat(6) W5c
+;; 2026-02-01 Sun(7) W5d
+;; 2026-02-02 Mon(1) W5e
+;; 2026-02-03 Tue(2) W5f
+;; 2026-02-04 Wed(3) W5g
+;; 2026-02-05 Thu(4) W60
+;; 2026-02-06 Fri(5) W61
+;; 2026-02-07 Sat(6) W62
+;; 2026-02-08 Sun(7) W63
+;; 2026-02-09 Mon(1) W64
+;; 2026-02-10 Tue(2) W65
+;; 2026-02-11 Wed(3) W66
+;; 2026-02-12 Thu(4) W67
+;; 2026-02-13 Fri(5) W68
+;; 2026-02-14 Sat(6) W69
+;; 2026-02-15 Sun(7) W6A
+;; 2026-02-16 Mon(1) W6B
+;; 2026-02-17 Tue(2) W6C
+;; 2026-02-18 Wed(3) W6D
+;; 2026-02-19 Thu(4) W6E
+;; 2026-02-20 Fri(5) W6F
+;; 2026-02-21 Sat(6) W6G
+;; 2026-02-22 Sun(7) W6H
+;; 2026-02-23 Mon(1) W6I
+;; 2026-02-24 Tue(2) W6J
+;; 2026-02-25 Wed(3) W6K
+;; 2026-02-26 Thu(4) W6L
+;; 2026-02-27 Fri(5) W6M
+;; 2026-02-28 Sat(6) W6N
+;; 2026-03-01 Sun(7) W6O
+;; 2026-03-02 Mon(1) W6P
+;; 2026-03-03 Tue(2) W6Q
+;; 2026-03-04 Wed(3) W6R
+;; 2026-03-05 Thu(4) W6S
+;; 2026-03-06 Fri(5) W6T
+;; 2026-03-07
+;; ... and 1002 more chars
 ```
 
 ---

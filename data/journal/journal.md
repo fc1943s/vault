@@ -226,9 +226,16 @@ when the self esteem gets so low you smile while remembering she actually walked
 they watch you their whole lives to say: you're on your own!
 thanks for all the fish then
 
+21:45 200ug trip report
+nothing left to say!!!!
+no time travel then?
+pru
+vet
+u pussies won't like it, go for the tilt
 
+## 2026-01-24
 
-
+these filthy bitches can peep all they want, but out of my house!
 
 
 

@@ -640,6 +640,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <span style="font-style:italic;color:#969896;">;; &quot;W60&quot;</span>
 
+</pre><pre>
+
 </pre><pre><span style="color:#323232;">(</span><span style="color:#62a35c;">zero</span><span style="font-weight:bold;color:#a71d5d;">? </span><span style="color:#0086b3;">0</span><span style="color:#323232;">)</span>
 
 <span style="font-style:italic;color:#969896;">;; true</span>
@@ -672,6 +674,56 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color:#323232;">@x</span>
 
 <span style="font-style:italic;color:#969896;">;; #&#39;user/x</span>
+
+</pre><pre><span style="color:#323232;">(</span><span style="font-weight:bold;color:#a71d5d;">let </span><span style="color:#323232;">[[y1 m1 d1] [</span><span style="color:#0086b3;">2026 1 21</span><span style="color:#323232;">] [y2 m2 d2] [</span><span style="color:#0086b3;">2026 4 21</span><span style="color:#323232;">] r </span><span style="color:#0086b3;">43 </span><span style="color:#323232;">e </span><span style="color:#0086b3;">57400 </span><span style="color:#323232;">n </span><span style="color:#0086b3;">19 </span><span style="color:#323232;">D (mod r n) b (</span><span style="font-weight:bold;color:#a71d5d;">+ </span><span style="color:#323232;">r D) M (</span><span style="color:#62a35c;">quot </span><span style="color:#323232;">r n) rr (</span><span style="font-weight:bold;color:#a71d5d;">* </span><span style="color:#323232;">r r) A (</span><span style="color:#62a35c;">vec </span><span style="color:#323232;">(</span><span style="color:#62a35c;">mapcat </span><span style="font-weight:bold;color:#a71d5d;">range </span><span style="color:#323232;">[b </span><span style="color:#0086b3;">65 97</span><span style="color:#323232;">] [(</span><span style="font-weight:bold;color:#a71d5d;">+ </span><span style="color:#323232;">b (</span><span style="font-weight:bold;color:#a71d5d;">* </span><span style="color:#323232;">M D)) (</span><span style="font-weight:bold;color:#a71d5d;">+ </span><span style="color:#323232;">b r) (</span><span style="font-weight:bold;color:#a71d5d;">+ </span><span style="color:#0086b3;">97 </span><span style="color:#323232;">D M)])) c (</span><span style="font-weight:bold;color:#a71d5d;">fn </span><span style="color:#323232;">[N p] (</span><span style="color:#62a35c;">char </span><span style="color:#323232;">(</span><span style="color:#62a35c;">nth </span><span style="color:#323232;">A (mod (</span><span style="color:#62a35c;">quot </span><span style="color:#323232;">N p) r)))) s (java</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#62a35c;">time</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#323232;">LocalDate</span><span style="font-weight:bold;color:#a71d5d;">/</span><span style="color:#323232;">of y1 m1 d1) t (java</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#62a35c;">time</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#323232;">LocalDate</span><span style="font-weight:bold;color:#a71d5d;">/</span><span style="color:#323232;">of y2 m2 d2)] (</span><span style="font-weight:bold;color:#a71d5d;">doseq </span><span style="color:#323232;">[dt (</span><span style="color:#62a35c;">take-while </span><span style="font-weight:bold;color:#a71d5d;">#</span><span style="color:#323232;">(</span><span style="color:#62a35c;">not </span><span style="color:#323232;">(.isAfter % t)) (</span><span style="font-weight:bold;color:#a71d5d;">iterate #</span><span style="color:#323232;">(.plusDays % </span><span style="color:#0086b3;">1</span><span style="color:#323232;">) s))] (</span><span style="font-weight:bold;color:#a71d5d;">let </span><span style="color:#323232;">[y (.getYear dt) N (</span><span style="font-weight:bold;color:#a71d5d;">+ </span><span style="color:#323232;">(</span><span style="font-weight:bold;color:#a71d5d;">- </span><span style="color:#323232;">y r) e D M (.getDayOfYear dt)) dow (.getDayOfWeek dt) dowS (.getDisplayName dow java</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#62a35c;">time</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#62a35c;">format</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#323232;">TextStyle</span><span style="font-weight:bold;color:#a71d5d;">/</span><span style="color:#0086b3;">SHORT </span><span style="color:#323232;">java</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#323232;">util</span><span style="font-weight:bold;color:#a71d5d;">.</span><span style="color:#323232;">Locale</span><span style="font-weight:bold;color:#a71d5d;">/</span><span style="color:#0086b3;">US</span><span style="color:#323232;">)] (</span><span style="color:#62a35c;">printf </span><span style="color:#183691;">&quot;%s %s(%d) %c%c%c</span><span style="color:#0086b3;">\n</span><span style="color:#183691;">&quot; </span><span style="color:#323232;">dt dowS (.getValue dow) (c N rr) (c N r) (c N </span><span style="color:#0086b3;">1</span><span style="color:#323232;">)))) (</span><span style="color:#62a35c;">flush</span><span style="color:#323232;">))</span>
+
+<span style="font-style:italic;color:#969896;">;; 2026-01-21 Wed(3) W5S</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-22 Thu(4) W5T</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-23 Fri(5) W5U</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-24 Sat(6) W5V</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-25 Sun(7) W5W</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-26 Mon(1) W5X</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-27 Tue(2) W5Y</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-28 Wed(3) W5Z</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-29 Thu(4) W5a</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-30 Fri(5) W5b</span>
+<span style="font-style:italic;color:#969896;">;; 2026-01-31 Sat(6) W5c</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-01 Sun(7) W5d</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-02 Mon(1) W5e</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-03 Tue(2) W5f</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-04 Wed(3) W5g</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-05 Thu(4) W60</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-06 Fri(5) W61</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-07 Sat(6) W62</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-08 Sun(7) W63</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-09 Mon(1) W64</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-10 Tue(2) W65</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-11 Wed(3) W66</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-12 Thu(4) W67</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-13 Fri(5) W68</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-14 Sat(6) W69</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-15 Sun(7) W6A</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-16 Mon(1) W6B</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-17 Tue(2) W6C</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-18 Wed(3) W6D</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-19 Thu(4) W6E</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-20 Fri(5) W6F</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-21 Sat(6) W6G</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-22 Sun(7) W6H</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-23 Mon(1) W6I</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-24 Tue(2) W6J</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-25 Wed(3) W6K</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-26 Thu(4) W6L</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-27 Fri(5) W6M</span>
+<span style="font-style:italic;color:#969896;">;; 2026-02-28 Sat(6) W6N</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-01 Sun(7) W6O</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-02 Mon(1) W6P</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-03 Tue(2) W6Q</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-04 Wed(3) W6R</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-05 Thu(4) W6S</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-06 Fri(5) W6T</span>
+<span style="font-style:italic;color:#969896;">;; 2026-03-07</span>
+<span style="font-style:italic;color:#969896;">;; ... and 1002 more chars</span>
 
 </pre><p class = "rule">***</p>
 <p class = "rule">***</p>

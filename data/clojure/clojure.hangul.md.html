@@ -663,6 +663,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </pre><pre>
 <span style="color:#323232;">```클로주리</span>
 <span style="color:#323232;">```clojure</span>
+
+
+</pre><pre>
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
 <span style="color:#323232;">(제루? 0)</span>
 <span style="color:#323232;">(zero? 0)</span>
 
@@ -733,6 +738,107 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <span style="color:#323232;"> #&#39;우제르/스</span>
 <span style="color:#323232;">;; #&#39;user/x</span>
+
+</pre><pre>
+<span style="color:#323232;">```클로주리</span>
+<span style="color:#323232;">```clojure</span>
+<span style="color:#323232;">(레트 [[이1 응1 드1] [2026 1 21] [이2 응2 드2] [2026 4 21] 흐 43 이 57400 응 19 드 (모드 흐 응) 브 (+ 흐 드) 응 (쿠오트 흐 응) 흐흐 (* 흐 흐) 아 (베크 (마프카트 한지 [브 65 97] [(+ 브 (* 응 드)) (+ 브 흐) (+ 97 드 응)])) 크 (픙 [응 프] (샤르 (느트 아 (모드 (쿠오트 응 프) 흐)))) 스 (자바.치미.로카우다치/오프 이1 응1 드1) 트 (자바.치미.로카우다치/오프 이2 응2 드2)] (도제크 [드트 (타키-일리 #(노트 (.이자프테르 % 트)) (이테라치 #(.플루즈다이스 % 1) 스))] (레트 [이 (.제치에아르 드트) 응 (+ (- 이 흐) 이 드 응 (.제트다요피에아르 드트)) 도 (.제트다요프웨크 드트) 도스 (.제트지스플라이나미 도 자바.치미.포르마트.테스트스칠리/소르트 자바.우치우.로칼리/우스)] (프린트프 &quot;%스 %스(%드) %크%크%크\응&quot; 드트 도스 (.제트발루이 도) (크 응 흐흐) (크 응 흐) (크 응 1)))) (플루즈))</span>
+<span style="color:#323232;">(let [[y1 m1 d1] [2026 1 21] [y2 m2 d2] [2026 4 21] r 43 e 57400 n 19 D (mod r n) b (+ r D) M (quot r n) rr (* r r) A (vec (mapcat range [b 65 97] [(+ b (* M D)) (+ b r) (+ 97 D M)])) c (fn [N p] (char (nth A (mod (quot N p) r)))) s (java.time.LocalDate/of y1 m1 d1) t (java.time.LocalDate/of y2 m2 d2)] (doseq [dt (take-while #(not (.isAfter % t)) (iterate #(.plusDays % 1) s))] (let [y (.getYear dt) N (+ (- y r) e D M (.getDayOfYear dt)) dow (.getDayOfWeek dt) dowS (.getDisplayName dow java.time.format.TextStyle/SHORT java.util.Locale/US)] (printf &quot;%s %s(%d) %c%c%c\n&quot; dt dowS (.getValue dow) (c N rr) (c N r) (c N 1)))) (flush))</span>
+
+<span style="color:#323232;"> 2026-01-21 웨드(3) 5스</span>
+<span style="color:#323232;">;; 2026-01-21 Wed(3) W5S</span>
+<span style="color:#323232;"> 2026-01-22 투(4) 5트</span>
+<span style="color:#323232;">;; 2026-01-22 Thu(4) W5T</span>
+<span style="color:#323232;"> 2026-01-23 프리(5) 5우</span>
+<span style="color:#323232;">;; 2026-01-23 Fri(5) W5U</span>
+<span style="color:#323232;"> 2026-01-24 사트(6) 5브</span>
+<span style="color:#323232;">;; 2026-01-24 Sat(6) W5V</span>
+<span style="color:#323232;"> 2026-01-25 숭(7) 5</span>
+<span style="color:#323232;">;; 2026-01-25 Sun(7) W5W</span>
+<span style="color:#323232;"> 2026-01-26 몽(1) 5스</span>
+<span style="color:#323232;">;; 2026-01-26 Mon(1) W5X</span>
+<span style="color:#323232;"> 2026-01-27 투이(2) 5이</span>
+<span style="color:#323232;">;; 2026-01-27 Tue(2) W5Y</span>
+<span style="color:#323232;"> 2026-01-28 웨드(3) 5스</span>
+<span style="color:#323232;">;; 2026-01-28 Wed(3) W5Z</span>
+<span style="color:#323232;"> 2026-01-29 투(4) 5아</span>
+<span style="color:#323232;">;; 2026-01-29 Thu(4) W5a</span>
+<span style="color:#323232;"> 2026-01-30 프리(5) 5브</span>
+<span style="color:#323232;">;; 2026-01-30 Fri(5) W5b</span>
+<span style="color:#323232;"> 2026-01-31 사트(6) 5크</span>
+<span style="color:#323232;">;; 2026-01-31 Sat(6) W5c</span>
+<span style="color:#323232;"> 2026-02-01 숭(7) 5드</span>
+<span style="color:#323232;">;; 2026-02-01 Sun(7) W5d</span>
+<span style="color:#323232;"> 2026-02-02 몽(1) 5이</span>
+<span style="color:#323232;">;; 2026-02-02 Mon(1) W5e</span>
+<span style="color:#323232;"> 2026-02-03 투이(2) 5프</span>
+<span style="color:#323232;">;; 2026-02-03 Tue(2) W5f</span>
+<span style="color:#323232;"> 2026-02-04 웨드(3) 5그</span>
+<span style="color:#323232;">;; 2026-02-04 Wed(3) W5g</span>
+<span style="color:#323232;"> 2026-02-05 투(4) 60</span>
+<span style="color:#323232;">;; 2026-02-05 Thu(4) W60</span>
+<span style="color:#323232;"> 2026-02-06 프리(5) 61</span>
+<span style="color:#323232;">;; 2026-02-06 Fri(5) W61</span>
+<span style="color:#323232;"> 2026-02-07 사트(6) 62</span>
+<span style="color:#323232;">;; 2026-02-07 Sat(6) W62</span>
+<span style="color:#323232;"> 2026-02-08 숭(7) 63</span>
+<span style="color:#323232;">;; 2026-02-08 Sun(7) W63</span>
+<span style="color:#323232;"> 2026-02-09 몽(1) 64</span>
+<span style="color:#323232;">;; 2026-02-09 Mon(1) W64</span>
+<span style="color:#323232;"> 2026-02-10 투이(2) 65</span>
+<span style="color:#323232;">;; 2026-02-10 Tue(2) W65</span>
+<span style="color:#323232;"> 2026-02-11 웨드(3) 66</span>
+<span style="color:#323232;">;; 2026-02-11 Wed(3) W66</span>
+<span style="color:#323232;"> 2026-02-12 투(4) 67</span>
+<span style="color:#323232;">;; 2026-02-12 Thu(4) W67</span>
+<span style="color:#323232;"> 2026-02-13 프리(5) 68</span>
+<span style="color:#323232;">;; 2026-02-13 Fri(5) W68</span>
+<span style="color:#323232;"> 2026-02-14 사트(6) 69</span>
+<span style="color:#323232;">;; 2026-02-14 Sat(6) W69</span>
+<span style="color:#323232;"> 2026-02-15 숭(7) 6아</span>
+<span style="color:#323232;">;; 2026-02-15 Sun(7) W6A</span>
+<span style="color:#323232;"> 2026-02-16 몽(1) 6브</span>
+<span style="color:#323232;">;; 2026-02-16 Mon(1) W6B</span>
+<span style="color:#323232;"> 2026-02-17 투이(2) 6크</span>
+<span style="color:#323232;">;; 2026-02-17 Tue(2) W6C</span>
+<span style="color:#323232;"> 2026-02-18 웨드(3) 6드</span>
+<span style="color:#323232;">;; 2026-02-18 Wed(3) W6D</span>
+<span style="color:#323232;"> 2026-02-19 투(4) 6이</span>
+<span style="color:#323232;">;; 2026-02-19 Thu(4) W6E</span>
+<span style="color:#323232;"> 2026-02-20 프리(5) 6프</span>
+<span style="color:#323232;">;; 2026-02-20 Fri(5) W6F</span>
+<span style="color:#323232;"> 2026-02-21 사트(6) 6그</span>
+<span style="color:#323232;">;; 2026-02-21 Sat(6) W6G</span>
+<span style="color:#323232;"> 2026-02-22 숭(7) 6</span>
+<span style="color:#323232;">;; 2026-02-22 Sun(7) W6H</span>
+<span style="color:#323232;"> 2026-02-23 몽(1) 6이</span>
+<span style="color:#323232;">;; 2026-02-23 Mon(1) W6I</span>
+<span style="color:#323232;"> 2026-02-24 투이(2) 6즈</span>
+<span style="color:#323232;">;; 2026-02-24 Tue(2) W6J</span>
+<span style="color:#323232;"> 2026-02-25 웨드(3) 6크</span>
+<span style="color:#323232;">;; 2026-02-25 Wed(3) W6K</span>
+<span style="color:#323232;"> 2026-02-26 투(4) 6르</span>
+<span style="color:#323232;">;; 2026-02-26 Thu(4) W6L</span>
+<span style="color:#323232;"> 2026-02-27 프리(5) 6응</span>
+<span style="color:#323232;">;; 2026-02-27 Fri(5) W6M</span>
+<span style="color:#323232;"> 2026-02-28 사트(6) 6응</span>
+<span style="color:#323232;">;; 2026-02-28 Sat(6) W6N</span>
+<span style="color:#323232;"> 2026-03-01 숭(7) 6우</span>
+<span style="color:#323232;">;; 2026-03-01 Sun(7) W6O</span>
+<span style="color:#323232;"> 2026-03-02 몽(1) 6프</span>
+<span style="color:#323232;">;; 2026-03-02 Mon(1) W6P</span>
+<span style="color:#323232;"> 2026-03-03 투이(2) 6크</span>
+<span style="color:#323232;">;; 2026-03-03 Tue(2) W6Q</span>
+<span style="color:#323232;"> 2026-03-04 웨드(3) 6흐</span>
+<span style="color:#323232;">;; 2026-03-04 Wed(3) W6R</span>
+<span style="color:#323232;"> 2026-03-05 투(4) 6스</span>
+<span style="color:#323232;">;; 2026-03-05 Thu(4) W6S</span>
+<span style="color:#323232;"> 2026-03-06 프리(5) 6트</span>
+<span style="color:#323232;">;; 2026-03-06 Fri(5) W6T</span>
+<span style="color:#323232;"> 2026-03-07</span>
+<span style="color:#323232;">;; 2026-03-07</span>
+<span style="color:#323232;"> ... 안드 1002 모리 샤르스</span>
+<span style="color:#323232;">;; ... and 1002 more chars</span>
 
 </pre><pre>
 <span style="color:#323232;">---</span>

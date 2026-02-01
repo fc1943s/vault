@@ -626,6 +626,59 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color:#323232;">frame: https://</span>
 <span style="color:#323232;">style: height:50vh</span>
 
+</pre><pre>
+
+<span style="color:#323232;">&#39;\n \na\n\n&#39; becomes &#39;\n \na\n&#39; instead of &#39;\n \na\n\n&#39;, \n\na\n\n becomes \na\n instead of \na\n\n, a\n\n becomes a\n instead of a\n\n</span>
+
+
+
+
+
+
+
+<span style="color:#323232;">inl main () =</span>
+<span style="color:#323232;">    inl x = (* test *) 1i32</span>
+<span style="color:#323232;">    inl x = &quot;&quot;&quot;a</span>
+<span style="color:#323232;">b</span>
+<span style="color:#323232;">c&quot;&quot;&quot;</span>
+
+
+<span style="color:#323232;">inl main () =</span>
+<span style="color:#323232;">    inl x = (* test *) 1i32</span>
+<span style="color:#323232;">    inl x = &quot;&quot;&quot;a</span>
+<span style="color:#323232;">b</span>
+<span style="color:#323232;">c&quot;&quot;&quot;</span>
+
+
+<span style="color:#323232;">inl main () =</span>
+<span style="color:#323232;">    inl x = (* test *) 1i32</span>
+<span style="color:#323232;">    inl x = &quot;&quot;&quot;a</span>
+<span style="color:#323232;">b</span>
+<span style="color:#323232;">c&quot;&quot;&quot;</span>
+
+
+
+</pre><pre><span style="color:#323232;">there&#39;s something in the parse pipeline hurting p99 making the algorithm take minutes for large files, it should be instantaneous like fparsec. rework what&#39;s needed outputting the changes in md diff form, no comments or explanations. prioritize changing the parsing lib than the dib_export functions (since they&#39;re already instant using fparsec). don&#39;t suggest removing the thunk from result though (from &#39;() -&gt; t&#39; to t), that was added as an improvement attempt (didn&#39;t help, but didn&#39;t make it slower, it will be removed later, but for now let&#39;s make it instant without changing this part)</span>
+
+<span style="color:#323232;">---</span>
+
+<span style="color:#323232;">## dib_export</span>
+
+<span style="color:#323232;">---</span>
+
+<span style="color:#323232;"># parsing.dib</span>
+
+<span style="color:#323232;">---</span>
+
+</pre><pre>
+
+
+
+
+
+
+
+
 </pre>
 </div>
 
