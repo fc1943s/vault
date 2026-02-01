@@ -21,9 +21,9 @@
 ```
 
 ```clojure
-(let[d[2026 2 5]r 43 e 57400 c(mapv char(mapcat range[48 65 97][58 91 104]))E #(.toEpochDay %)L #(apply java.time.LocalDate/of %)o(L d)y(first d)n(+ y e(-(E o)(E(L[y(quot r 19)(mod r 19)]))))f #(c(mod(quot n %)r))](str(f(* r r))(f r)(f 1)))
+(let[[y m d][2026 2 25]r 43 e 57400 n 19 D(mod r n)b(+ r D)M(quot r n)N(+(- y r)e D M(.getDayOfYear(java.time.LocalDate/of y m d)))f #(char(nth(mapcat range[b 65 97][(+ b(* M D))(+ b r)(+ 97 D M)])(mod(quot N %)r)))](str(f(* r r))(f r)(f 1)))
 
-;; "W60"
+;; "W6K"
 ```
 
 ```clojure
