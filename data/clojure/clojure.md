@@ -21,9 +21,9 @@
 ```
 
 ```clojure
-(let[[y m d][2026 2 25]r 43 e 57400 n 19 D(mod r n)b(+ r D)M(quot r n)N(+(- y r)e D M(.getDayOfYear(java.time.LocalDate/of y m d)))f #(char(nth(mapcat range[b 65 97][(+ b(* M D))(+ b r)(+ 97 D M)])(mod(quot N %)r)))](str(f(* r r))(f r)(f 1)))
+(let[[y m d][2026 6 14]r 43 e 57400 n 19 D(mod r n)b(+ r D)M(quot r n)N(+(- y r)e D M(.getDayOfYear(java.time.LocalDate/of y m d)))f #(char(nth(mapcat range[b 65 97][(+ b(* M D))(+ b r)(+ 97 D M)])(mod(quot N %)r)))](str(f(* r r))(f r)(f 1)))
 
-;; "W6K"
+;; "W90"
 ```
 
 ```clojure
@@ -80,55 +80,56 @@
 ```
 
 ```clojure
-(let [[y1 m1 d1] [2026 1 21] [y2 m2 d2] [2026 4 21] r 43 e 57400 n 19 D (mod r n) b (+ r D) M (quot r n) rr (* r r) A (vec (mapcat range [b 65 97] [(+ b (* M D)) (+ b r) (+ 97 D M)])) c (fn [N p] (char (nth A (mod (quot N p) r)))) s (java.time.LocalDate/of y1 m1 d1) t (java.time.LocalDate/of y2 m2 d2)] (doseq [dt (take-while #(not (.isAfter % t)) (iterate #(.plusDays % 1) s))] (let [y (.getYear dt) N (+ (- y r) e D M (.getDayOfYear dt)) dow (.getDayOfWeek dt) dowS (.getDisplayName dow java.time.format.TextStyle/SHORT java.util.Locale/US)] (printf "%s %s(%d) %c%c%c\n" dt dowS (.getValue dow) (c N rr) (c N r) (c N 1)))) (flush))
+(let [[y1 m1 d1] [2026 6 1] [y2 m2 d2] [2026 8 1] r 43 e 57400 n 19 D (mod r n) b (+ r D) M (quot r n) rr (* r r) A (vec (mapcat range [b 65 97] [(+ b (* M D)) (+ b r) (+ 97 D M)])) c (fn [N p] (char (nth A (mod (quot N p) r)))) s (java.time.LocalDate/of y1 m1 d1) t (java.time.LocalDate/of y2 m2 d2)] (doseq [dt (take-while #(not (.isAfter % t)) (iterate #(.plusDays % 1) s))] (let [y (.getYear dt) N (+ (- y r) e D M (.getDayOfYear dt)) dow (.getDayOfWeek dt) dowS (.getDisplayName dow java.time.format.TextStyle/SHORT java.util.Locale/US)] (printf "%s %s(%d) %c%c%c\n" dt dowS (.getValue dow) (c N rr) (c N r) (c N 1)))) (flush))
 
-;; 2026-01-21 Wed(3) W5S
-;; 2026-01-22 Thu(4) W5T
-;; 2026-01-23 Fri(5) W5U
-;; 2026-01-24 Sat(6) W5V
-;; 2026-01-25 Sun(7) W5W
-;; 2026-01-26 Mon(1) W5X
-;; 2026-01-27 Tue(2) W5Y
-;; 2026-01-28 Wed(3) W5Z
-;; 2026-01-29 Thu(4) W5a
-;; 2026-01-30 Fri(5) W5b
-;; 2026-01-31 Sat(6) W5c
-;; 2026-02-01 Sun(7) W5d
-;; 2026-02-02 Mon(1) W5e
-;; 2026-02-03 Tue(2) W5f
-;; 2026-02-04 Wed(3) W5g
-;; 2026-02-05 Thu(4) W60
-;; 2026-02-06 Fri(5) W61
-;; 2026-02-07 Sat(6) W62
-;; 2026-02-08 Sun(7) W63
-;; 2026-02-09 Mon(1) W64
-;; 2026-02-10 Tue(2) W65
-;; 2026-02-11 Wed(3) W66
-;; 2026-02-12 Thu(4) W67
-;; 2026-02-13 Fri(5) W68
-;; 2026-02-14 Sat(6) W69
-;; 2026-02-15 Sun(7) W6A
-;; 2026-02-16 Mon(1) W6B
-;; 2026-02-17 Tue(2) W6C
-;; 2026-02-18 Wed(3) W6D
-;; 2026-02-19 Thu(4) W6E
-;; 2026-02-20 Fri(5) W6F
-;; 2026-02-21 Sat(6) W6G
-;; 2026-02-22 Sun(7) W6H
-;; 2026-02-23 Mon(1) W6I
-;; 2026-02-24 Tue(2) W6J
-;; 2026-02-25 Wed(3) W6K
-;; 2026-02-26 Thu(4) W6L
-;; 2026-02-27 Fri(5) W6M
-;; 2026-02-28 Sat(6) W6N
-;; 2026-03-01 Sun(7) W6O
-;; 2026-03-02 Mon(1) W6P
-;; 2026-03-03 Tue(2) W6Q
-;; 2026-03-04 Wed(3) W6R
-;; 2026-03-05 Thu(4) W6S
-;; 2026-03-06 Fri(5) W6T
-;; 2026-03-07
-;; ... and 1002 more chars
+
+;; 2026-06-01 Mon(1) W8U
+;; 2026-06-02 Tue(2) W8V
+;; 2026-06-03 Wed(3) W8W
+;; 2026-06-04 Thu(4) W8X
+;; 2026-06-05 Fri(5) W8Y
+;; 2026-06-06 Sat(6) W8Z
+;; 2026-06-07 Sun(7) W8a
+;; 2026-06-08 Mon(1) W8b
+;; 2026-06-09 Tue(2) W8c
+;; 2026-06-10 Wed(3) W8d
+;; 2026-06-11 Thu(4) W8e
+;; 2026-06-12 Fri(5) W8f
+;; 2026-06-13 Sat(6) W8g
+;; 2026-06-14 Sun(7) W90
+;; 2026-06-15 Mon(1) W91
+;; 2026-06-16 Tue(2) W92
+;; 2026-06-17 Wed(3) W93
+;; 2026-06-18 Thu(4) W94
+;; 2026-06-19 Fri(5) W95
+;; 2026-06-20 Sat(6) W96
+;; 2026-06-21 Sun(7) W97
+;; 2026-06-22 Mon(1) W98
+;; 2026-06-23 Tue(2) W99
+;; 2026-06-24 Wed(3) W9A
+;; 2026-06-25 Thu(4) W9B
+;; 2026-06-26 Fri(5) W9C
+;; 2026-06-27 Sat(6) W9D
+;; 2026-06-28 Sun(7) W9E
+;; 2026-06-29 Mon(1) W9F
+;; 2026-06-30 Tue(2) W9G
+;; 2026-07-01 Wed(3) W9H
+;; 2026-07-02 Thu(4) W9I
+;; 2026-07-03 Fri(5) W9J
+;; 2026-07-04 Sat(6) W9K
+;; 2026-07-05 Sun(7) W9L
+;; 2026-07-06 Mon(1) W9M
+;; 2026-07-07 Tue(2) W9N
+;; 2026-07-08 Wed(3) W9O
+;; 2026-07-09 Thu(4) W9P
+;; 2026-07-10 Fri(5) W9Q
+;; 2026-07-11 Sat(6) W9R
+;; 2026-07-12 Sun(7) W9S
+;; 2026-07-13 Mon(1) W9T
+;; 2026-07-14 Tue(2) W9U
+;; 2026-07-15 Wed(3) W9V
+;; 2026-07-16
+;; ... and 364 more chars
 ```
 
 ---
